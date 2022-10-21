@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # SEN345 > 
 
 - ID: SENS-LG14-X-K345-01
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/SENS-LG14-X-K345-01](http://oom.lt/SENS-LG14-X-K345-01)
 - Short Link: [http://oom.lt/SEN345](http://oom.lt/SEN345)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image.jpg|oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_BOTTOM.jpg|oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_Re.jpg||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -28,3 +31,7 @@ NO IMAGES
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_450.jpg

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # C8U10 > 
 
 - ID: CAPC-0805-X-UF10-V25
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/CAPC-0805-X-UF10-V25](http://oom.lt/CAPC-0805-X-UF10-V25)
 - Short Link: [http://oom.lt/C8U10](http://oom.lt/C8U10)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/image.jpg|oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/image_Re.jpg|||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15850'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15850', 'partName': '25V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/image_450.jpg

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # C4U1063D > 
 
 - ID: CAPC-0402-X-UF10-V63D
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/CAPC-0402-X-UF10-V63D](http://oom.lt/CAPC-0402-X-UF10-V63D)
 - Short Link: [http://oom.lt/C4U1063D](http://oom.lt/C4U1063D)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/image.jpg||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15525'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15525', 'partName': '6.3V 10uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/image_450.jpg

@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # C8N100 > 
 
 - ID: CAPC-0805-X-NF100-V50
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/CAPC-0805-X-NF100-V50](http://oom.lt/CAPC-0805-X-NF100-V50)
 - Short Link: [http://oom.lt/C8N100](http://oom.lt/C8N100)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/image.jpg||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C49678'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C49678', 'partName': '50V 100nF X7R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/image_450.jpg

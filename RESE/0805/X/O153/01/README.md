@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESE-0805-X-O153-01](http://oom.lt/RESE-0805-X-O153-01)
 - Short Link: [http://oom.lt/R8O153](http://oom.lt/R8O153)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESE/0805/X/O153/01/image_BOTTOM.jpg|oomlout_OOMP_parts_V2/RESE/0805/X/O153/01/image_Re.jpg|||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

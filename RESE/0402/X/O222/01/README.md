@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # R4O222 > 
 
 - ID: RESE-0402-X-O222-01
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESE-0402-X-O222-01](http://oom.lt/RESE-0402-X-O222-01)
 - Short Link: [http://oom.lt/R4O222](http://oom.lt/R4O222)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/image.jpg|oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/image_BOTTOM.jpg|||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25879'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25879', 'partName': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 2.2k?? 0402  Chip Resistor - Surface Mount ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/image_450.jpg

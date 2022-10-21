@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # R6O221 > 
 
 - ID: RESE-0603-X-O221-01
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESE-0603-X-O221-01](http://oom.lt/RESE-0603-X-O221-01)
 - Short Link: [http://oom.lt/R6O221](http://oom.lt/R6O221)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/image.jpg|oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/image_BOTTOM.jpg|oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/image_Re.jpg||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22962'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22962', 'partName': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 220?? 0603  Chip Resistor - Surface Mount ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/image_450.jpg

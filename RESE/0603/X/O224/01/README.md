@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESE-0603-X-O224-01](http://oom.lt/RESE-0603-X-O224-01)
 - Short Link: [http://oom.lt/R6O224](http://oom.lt/R6O224)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESE/0603/X/O224/01/image_BOTTOM.jpg|oomlout_OOMP_parts_V2/RESE/0603/X/O224/01/image_Re.jpg|||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

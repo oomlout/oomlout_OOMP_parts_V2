@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # R8O391 > 
 
 - ID: RESE-0805-X-O391-01
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESE-0805-X-O391-01](http://oom.lt/RESE-0805-X-O391-01)
 - Short Link: [http://oom.lt/R8O391](http://oom.lt/R8O391)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESE/0805/X/O391/01/image.jpg|oomlout_OOMP_parts_V2/RESE/0805/X/O391/01/image_BOTTOM.jpg|oomlout_OOMP_parts_V2/RESE/0805/X/O391/01/image_Re.jpg||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17655'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17655', 'partName': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 390?? 0805  Chip Resistor - Surface Mount ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/RESE/0805/X/O391/01/image_450.jpg

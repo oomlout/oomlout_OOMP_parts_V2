@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # RA12472 > 
 
 - ID: RESA-12068-X-O472X4-01
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESA-12068-X-O472X4-01](http://oom.lt/RESA-12068-X-O472X4-01)
 - Short Link: [http://oom.lt/RA12472](http://oom.lt/RA12472)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESA/12068/X/O472X4/01/image.jpg||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -26,3 +29,7 @@ NO IMAGES
 |Full OOMP ID|oompID|RESA-12068-X-O472X4-01|
 |Hex ID (short code)|hexID|RA12472|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/RESA/12068/X/O472X4/01/image_450.jpg

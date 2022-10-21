@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # R12O101 > 
 
 - ID: RESE-1206-X-O101-01
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/RESE-1206-X-O101-01](http://oom.lt/RESE-1206-X-O101-01)
 - Short Link: [http://oom.lt/R12O101](http://oom.lt/R12O101)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/RESE/1206/X/O101/01/image.jpg|oomlout_OOMP_parts_V2/RESE/1206/X/O101/01/image_BOTTOM.jpg|||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17901'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17901', 'partName': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 100?? 1206  Chip Resistor - Surface Mount ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/RESE/1206/X/O101/01/image_450.jpg

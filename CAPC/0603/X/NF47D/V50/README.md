@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # C6N47D > 
 
 - ID: CAPC-0603-X-NF47D-V50
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/CAPC-0603-X-NF47D-V50](http://oom.lt/CAPC-0603-X-NF47D-V50)
 - Short Link: [http://oom.lt/C6N47D](http://oom.lt/C6N47D)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/CAPC/0603/X/NF47D/V50/image.jpg|oomlout_OOMP_parts_V2/CAPC/0603/X/NF47D/V50/image_Re.jpg|||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C53987'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C53987', 'partName': '50V 4.7nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/CAPC/0603/X/NF47D/V50/image_450.jpg

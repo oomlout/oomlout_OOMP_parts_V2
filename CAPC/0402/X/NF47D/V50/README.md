@@ -2,7 +2,7 @@
 
 
   
-NO IMAGE  
+![][im]
 # C4N47D > 
 
 - ID: CAPC-0402-X-NF47D-V50
@@ -12,7 +12,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/CAPC-0402-X-NF47D-V50](http://oom.lt/CAPC-0402-X-NF47D-V50)
 - Short Link: [http://oom.lt/C4N47D](http://oom.lt/C4N47D)
   
-NO IMAGES  
+
+|oomlout_OOMP_parts_V2/CAPC/0402/X/NF47D/V50/image.jpg||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -29,3 +32,7 @@ NO IMAGES
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1538'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1538', 'partName': '50V 4.7nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
 ||||
+
+
+
+[im]: oomlout_OOMP_parts_V2/CAPC/0402/X/NF47D/V50/image_450.jpg
