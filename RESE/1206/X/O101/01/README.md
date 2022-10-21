@@ -1,0 +1,31 @@
+
+
+
+  
+NO IMAGE  
+# R12O101 > 
+
+- ID: RESE-1206-X-O101-01
+- Hex ID: R12O101
+- Name: 
+- Description: 
+- Long Link: [http://oom.lt/RESE-1206-X-O101-01](http://oom.lt/RESE-1206-X-O101-01)
+- Short Link: [http://oom.lt/R12O101](http://oom.lt/R12O101)
+  
+NO IMAGES  
+## Tags
+  
+
+|Tag Name|Tag Code|Tag Value|
+| :--- | :--- | :--- |
+|OOMP Type|oompType|RESE|
+|OOMP Size|oompSize|1206|
+|OOMP Color|oompColor|X|
+|OOMP Description|oompDesc|O101|
+|OOMP Index|oompIndex|01|
+|Full OOMP ID|oompID|RESE-1206-X-O101-01|
+|Hex ID (short code)|hexID|R12O101|
+|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1000T5E', 'partName': '1206W4F1000T5E'}|
+|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17901'}|
+|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17901', 'partName': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 100?? 1206  Chip Resistor - Surface Mount ROHS'}|
+||||
