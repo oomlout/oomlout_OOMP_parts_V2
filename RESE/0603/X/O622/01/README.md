@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R6O622 > 
+# R6O622 > SMD (0603) 6.2k Ohm Resistor
 
 - ID: RESE-0603-X-O622-01
 - Hex ID: R6O622
-- Name: 
-- Description: 
+- Name: SMD (0603) 6.2k Ohm Resistor
+- Description: SMD (0603) 6.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O622-01](http://oom.lt/RESE-0603-X-O622-01)
 - Short Link: [http://oom.lt/R6O622](http://oom.lt/R6O622)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0603-X-O622-01|
 |Hex ID (short code)|hexID|R6O622|
+|name|name|SMD (0603) 6.2k Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF6201T5E', 'partName': '0603WAF6201T5E'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4260'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4260', 'partName': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 6.2k?? 0603  Chip Resistor - Surface Mount ROHS'}|

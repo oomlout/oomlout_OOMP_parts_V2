@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R8O513 > 
+# R8O513 > SMD (0805) 51k Ohm Resistor
 
 - ID: RESE-0805-X-O513-01
 - Hex ID: R8O513
-- Name: 
-- Description: 
+- Name: SMD (0805) 51k Ohm Resistor
+- Description: SMD (0805) 51k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O513-01](http://oom.lt/RESE-0805-X-O513-01)
 - Short Link: [http://oom.lt/R8O513](http://oom.lt/R8O513)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0805-X-O513-01|
 |Hex ID (short code)|hexID|R8O513|
+|name|name|SMD (0805) 51k Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F5102T5E', 'partName': '0805W8F5102T5E'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17737'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17737', 'partName': '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 51k?? 0805  Chip Resistor - Surface Mount ROHS'}|

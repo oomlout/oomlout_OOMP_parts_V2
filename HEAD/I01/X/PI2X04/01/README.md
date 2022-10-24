@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X4 > 
+# H2X4 > 2.54 mm 8 Pin (2x4) Header
 
 - ID: HEAD-I01-X-PI2X04-01
 - Hex ID: H2X4
-- Name: 
-- Description: 
+- Name: 2.54 mm 8 Pin (2x4) Header
+- Description: 2.54 mm 8 Pin (2x4) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X04-01](http://oom.lt/HEAD-I01-X-PI2X04-01)
 - Short Link: [http://oom.lt/H2X4](http://oom.lt/H2X4)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X04-01|
 |Hex ID (short code)|hexID|H2X4|
+|name|name|2.54 mm 8 Pin (2x4) Header|
 ||||

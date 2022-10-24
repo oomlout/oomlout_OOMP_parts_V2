@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R4O752 > 
+# R4O752 > SMD (0402) 7.5k Ohm Resistor
 
 - ID: RESE-0402-X-O752-01
 - Hex ID: R4O752
-- Name: 
-- Description: 
+- Name: SMD (0402) 7.5k Ohm Resistor
+- Description: SMD (0402) 7.5k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O752-01](http://oom.lt/RESE-0402-X-O752-01)
 - Short Link: [http://oom.lt/R4O752](http://oom.lt/R4O752)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0402-X-O752-01|
 |Hex ID (short code)|hexID|R4O752|
+|name|name|SMD (0402) 7.5k Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF7501TCE', 'partName': '0402WGF7501TCE'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25918'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25918', 'partName': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 7.5k?? 0402  Chip Resistor - Surface Mount ROHS'}|

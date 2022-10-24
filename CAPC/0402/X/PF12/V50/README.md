@@ -3,12 +3,12 @@
 
   
 ![][im]
-# C4P12 > 
+# C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF12-V50
 - Hex ID: C4P12
-- Name: 
-- Description: 
+- Name: SMD (0402) 12 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF12-V50](http://oom.lt/CAPC-0402-X-PF12-V50)
 - Short Link: [http://oom.lt/C4P12](http://oom.lt/C4P12)
   
@@ -28,6 +28,7 @@
 |OOMP Index|oompIndex|V50|
 |Full OOMP ID|oompID|CAPC-0402-X-PF12-V50|
 |Hex ID (short code)|hexID|C4P12|
+|name|name|SMD (0402) 12 pF Capacitor (Ceramic) 50v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'FH (Guangdong Fenghua Advanced Tech)', 'partID': '0402CG120J500NT', 'partName': '0402CG120J500NT'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1547'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1547', 'partName': '50V 12pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
@@ -35,4 +36,4 @@
 
 
 
-[im]: oomlout_OOMP_parts_V2/CAPC/0402/X/PF12/V50/image_450.jpg
+[im]: CAPC/0402/X/PF12/V50/image_450.jpg

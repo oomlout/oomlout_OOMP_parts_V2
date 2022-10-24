@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C12U710 > 
+# C12U710 > SMD (1206) 7 uF Capacitor (Ceramic) 10v
 
 - ID: CAPC-1206-X-UF7-V10
 - Hex ID: C12U710
-- Name: 
-- Description: 
+- Name: SMD (1206) 7 uF Capacitor (Ceramic) 10v
+- Description: SMD (1206) 7 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF7-V10](http://oom.lt/CAPC-1206-X-UF7-V10)
 - Short Link: [http://oom.lt/C12U710](http://oom.lt/C12U710)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V10|
 |Full OOMP ID|oompID|CAPC-1206-X-UF7-V10|
 |Hex ID (short code)|hexID|C12U710|
+|name|name|SMD (1206) 7 uF Capacitor (Ceramic) 10v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A476MPHNNNE', 'partName': 'CL31A476MPHNNNE'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C96123'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C96123', 'partName': '10V 47uF X5R ??20% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# T35L3 > 
+# T35L3 > 3.5 mm 3 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI03-01
 - Hex ID: T35L3
-- Name: 
-- Description: 
+- Name: 3.5 mm 3 Pin Blue Screw Terminal
+- Description: 3.5 mm 3 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI03-01](http://oom.lt/TERS-35D-L-PI03-01)
 - Short Link: [http://oom.lt/T35L3](http://oom.lt/T35L3)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|TERS-35D-L-PI03-01|
 |Hex ID (short code)|hexID|T35L3|
+|name|name|3.5 mm 3 Pin Blue Screw Terminal|
 ||||

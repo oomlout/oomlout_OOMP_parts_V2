@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X8 > 
+# H2X8 > 2.54 mm 16 Pin (2x8) Header
 
 - ID: HEAD-I01-X-PI2X08-01
 - Hex ID: H2X8
-- Name: 
-- Description: 
+- Name: 2.54 mm 16 Pin (2x8) Header
+- Description: 2.54 mm 16 Pin (2x8) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X08-01](http://oom.lt/HEAD-I01-X-PI2X08-01)
 - Short Link: [http://oom.lt/H2X8](http://oom.lt/H2X8)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X08-01|
 |Hex ID (short code)|hexID|H2X8|
+|name|name|2.54 mm 16 Pin (2x8) Header|
 ||||

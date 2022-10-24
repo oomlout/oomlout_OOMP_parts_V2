@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# HXH16 > 
+# HXH16 > JST XH (2.5 mm) 16 Pin Header
 
 - ID: HEAD-JSTXH-X-PI16-01
 - Hex ID: HXH16
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 16 Pin Header
+- Description: JST XH (2.5 mm) 16 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI16-01](http://oom.lt/HEAD-JSTXH-X-PI16-01)
 - Short Link: [http://oom.lt/HXH16](http://oom.lt/HXH16)
   
@@ -25,5 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI16-01|
 |Hex ID (short code)|hexID|HXH16|
+|name|name|JST XH (2.5 mm) 16 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=136'}|
 ||||

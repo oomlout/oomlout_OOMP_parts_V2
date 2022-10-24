@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# HSH11 > 
+# HSH11 > JST XH (1 mm) 11 Pin Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI11-SM
 - Hex ID: HSH11
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 11 Pin Header (SMD)
+- Description: JST XH (1 mm) 11 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI11-SM](http://oom.lt/HEAD-JSTSH-X-PI11-SM)
 - Short Link: [http://oom.lt/HSH11](http://oom.lt/HSH11)
   
@@ -25,5 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI11-SM|
 |Hex ID (short code)|hexID|HSH11|
+|name|name|JST XH (1 mm) 11 Pin Header (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=93'}|
 ||||

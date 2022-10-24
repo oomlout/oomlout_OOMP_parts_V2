@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# RF183 > 
+# RF183 > SMD (1812) 3 A Resetable Fuse 6v
 
 - ID: REFU-1812-X-A3-V6
 - Hex ID: RF183
-- Name: 
-- Description: 
+- Name: SMD (1812) 3 A Resetable Fuse 6v
+- Description: SMD (1812) 3 A Resetable Fuse 6v
 - Long Link: [http://oom.lt/REFU-1812-X-A3-V6](http://oom.lt/REFU-1812-X-A3-V6)
 - Short Link: [http://oom.lt/RF183](http://oom.lt/RF183)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|V6|
 |Full OOMP ID|oompID|REFU-1812-X-A3-V6|
 |Hex ID (short code)|hexID|RF183|
+|name|name|SMD (1812) 3 A Resetable Fuse 6v|
 ||||

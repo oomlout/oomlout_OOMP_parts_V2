@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# RF1835D > 
+# RF1835D > SMD (1812) 3.5 Amp Resetable Fuse 6v
 
 - ID: REFU-1812-X-A35D-V6
 - Hex ID: RF1835D
-- Name: 
-- Description: 
+- Name: SMD (1812) 3.5 Amp Resetable Fuse 6v
+- Description: SMD (1812) 3.5 Amp Resetable Fuse 6v
 - Long Link: [http://oom.lt/REFU-1812-X-A35D-V6](http://oom.lt/REFU-1812-X-A35D-V6)
 - Short Link: [http://oom.lt/RF1835D](http://oom.lt/RF1835D)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|V6|
 |Full OOMP ID|oompID|REFU-1812-X-A35D-V6|
 |Hex ID (short code)|hexID|RF1835D|
+|name|name|SMD (1812) 3.5 Amp Resetable Fuse 6v|
 ||||

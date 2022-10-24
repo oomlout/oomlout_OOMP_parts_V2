@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X3SM > 
+# H2X3SM > 2.54 mm 6 Pin (2x3) Header (SMD)
 
 - ID: HEAD-I01-X-PI2X03-SM
 - Hex ID: H2X3SM
-- Name: 
-- Description: 
+- Name: 2.54 mm 6 Pin (2x3) Header (SMD)
+- Description: 2.54 mm 6 Pin (2x3) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-SM](http://oom.lt/HEAD-I01-X-PI2X03-SM)
 - Short Link: [http://oom.lt/H2X3SM](http://oom.lt/H2X3SM)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X03-SM|
 |Hex ID (short code)|hexID|H2X3SM|
+|name|name|2.54 mm 6 Pin (2x3) Header (SMD)|
 ||||

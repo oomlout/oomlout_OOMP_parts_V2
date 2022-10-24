@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# HXH20 > 
+# HXH20 > JST XH (2.5 mm) 20 Pin Header
 
 - ID: HEAD-JSTXH-X-PI20-01
 - Hex ID: HXH20
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 20 Pin Header
+- Description: JST XH (2.5 mm) 20 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI20-01](http://oom.lt/HEAD-JSTXH-X-PI20-01)
 - Short Link: [http://oom.lt/HXH20](http://oom.lt/HXH20)
   
@@ -25,5 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI20-01|
 |Hex ID (short code)|hexID|HXH20|
+|name|name|JST XH (2.5 mm) 20 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=136'}|
 ||||

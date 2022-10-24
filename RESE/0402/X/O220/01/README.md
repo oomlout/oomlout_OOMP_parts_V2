@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R4O220 > 
+# R4O220 > SMD (0402) 22 Ohm Resistor
 
 - ID: RESE-0402-X-O220-01
 - Hex ID: R4O220
-- Name: 
-- Description: 
+- Name: SMD (0402) 22 Ohm Resistor
+- Description: SMD (0402) 22 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O220-01](http://oom.lt/RESE-0402-X-O220-01)
 - Short Link: [http://oom.lt/R4O220](http://oom.lt/R4O220)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0402-X-O220-01|
 |Hex ID (short code)|hexID|R4O220|
+|name|name|SMD (0402) 22 Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF220JTCE', 'partName': '0402WGF220JTCE'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25092'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25092', 'partName': '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 22?? 0402  Chip Resistor - Surface Mount ROHS'}|

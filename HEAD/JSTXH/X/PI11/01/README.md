@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# HXH11 > 
+# HXH11 > JST XH (2.5 mm) 11 Pin Header
 
 - ID: HEAD-JSTXH-X-PI11-01
 - Hex ID: HXH11
-- Name: 
-- Description: 
+- Name: JST XH (2.5 mm) 11 Pin Header
+- Description: JST XH (2.5 mm) 11 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI11-01](http://oom.lt/HEAD-JSTXH-X-PI11-01)
 - Short Link: [http://oom.lt/HXH11](http://oom.lt/HXH11)
   
@@ -25,5 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI11-01|
 |Hex ID (short code)|hexID|HXH11|
+|name|name|JST XH (2.5 mm) 11 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=136'}|
 ||||

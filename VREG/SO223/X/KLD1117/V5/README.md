@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# VR11172235 > 
+# VR11172235 > SMD (SOT-223) LD1117 Voltage Regulator 5v
 
 - ID: VREG-SO223-X-KLD1117-V5
 - Hex ID: VR11172235
-- Name: 
-- Description: 
+- Name: SMD (SOT-223) LD1117 Voltage Regulator 5v
+- Description: SMD (SOT-223) LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V5](http://oom.lt/VREG-SO223-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR11172235](http://oom.lt/VR11172235)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V5|
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-V5|
 |Hex ID (short code)|hexID|VR11172235|
+|name|name|SMD (SOT-223) LD1117 Voltage Regulator 5v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'name': 'Korean Hroparts Elec', 'code': 'C-KHRO', 'partID': 'TYPE-C-31-M-12', 'partName': '', 'partLink': ''}|
 |Part Number (Distributor)|distributorPartNumber|{'name': 'LCSC', 'code': 'C-LCSC', 'partID': 'C165948', 'partName': 'C165948', 'partLink': ''}|
 ||||

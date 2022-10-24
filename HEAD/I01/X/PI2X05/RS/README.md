@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X5RS > 
+# H2X5RS > 2.54 mm 10 Pin (2x5) Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI2X05-RS
 - Hex ID: H2X5RS
-- Name: 
-- Description: 
+- Name: 2.54 mm 10 Pin (2x5) Header Right Angle (SMD)
+- Description: 2.54 mm 10 Pin (2x5) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X05-RS](http://oom.lt/HEAD-I01-X-PI2X05-RS)
 - Short Link: [http://oom.lt/H2X5RS](http://oom.lt/H2X5RS)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|RS|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X05-RS|
 |Hex ID (short code)|hexID|H2X5RS|
+|name|name|2.54 mm 10 Pin (2x5) Header Right Angle (SMD)|
 ||||

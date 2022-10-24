@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X8SH > 
+# H2X8SH > 2.54 mm 16 Pin (2x8) Header Shrouded (IDC)
 
 - ID: HEAD-I01-X-PI2X08-SHRO
 - Hex ID: H2X8SH
-- Name: 
-- Description: 
+- Name: 2.54 mm 16 Pin (2x8) Header Shrouded (IDC)
+- Description: 2.54 mm 16 Pin (2x8) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X08-SHRO](http://oom.lt/HEAD-I01-X-PI2X08-SHRO)
 - Short Link: [http://oom.lt/H2X8SH](http://oom.lt/H2X8SH)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|SHRO|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X08-SHRO|
 |Hex ID (short code)|hexID|H2X8SH|
+|name|name|2.54 mm 16 Pin (2x8) Header Shrouded (IDC)|
 ||||

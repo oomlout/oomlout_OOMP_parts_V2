@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X10SM > 
+# H2X10SM > 2.54 mm 20 Pin (2x10) Header (SMD)
 
 - ID: HEAD-I01-X-PI2X10-SM
 - Hex ID: H2X10SM
-- Name: 
-- Description: 
+- Name: 2.54 mm 20 Pin (2x10) Header (SMD)
+- Description: 2.54 mm 20 Pin (2x10) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-SM](http://oom.lt/HEAD-I01-X-PI2X10-SM)
 - Short Link: [http://oom.lt/H2X10SM](http://oom.lt/H2X10SM)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X10-SM|
 |Hex ID (short code)|hexID|H2X10SM|
+|name|name|2.54 mm 20 Pin (2x10) Header (SMD)|
 ||||

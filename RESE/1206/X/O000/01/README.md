@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R12O000 > 
+# R12O000 > SMD (1206) 0 Ohm Resistor
 
 - ID: RESE-1206-X-O000-01
 - Hex ID: R12O000
-- Name: 
-- Description: 
+- Name: SMD (1206) 0 Ohm Resistor
+- Description: SMD (1206) 0 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O000-01](http://oom.lt/RESE-1206-X-O000-01)
 - Short Link: [http://oom.lt/R12O000](http://oom.lt/R12O000)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-1206-X-O000-01|
 |Hex ID (short code)|hexID|R12O000|
+|name|name|SMD (1206) 0 Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F0000T5E', 'partName': '1206W4F0000T5E'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17888'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17888', 'partName': '250mW Thick Film Resistors 200V ??800ppm/?? ??1% -55??~+155?? 0?? 1206  Chip Resistor - Surface Mount ROHS'}|

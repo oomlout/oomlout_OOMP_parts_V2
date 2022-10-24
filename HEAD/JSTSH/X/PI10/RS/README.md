@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# HSH10 > 
+# HSH10 > JST XH (1 mm) 10 Pin Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI10-RS
 - Hex ID: HSH10
-- Name: 
-- Description: 
+- Name: JST XH (1 mm) 10 Pin Header Right Angle (SMD)
+- Description: JST XH (1 mm) 10 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI10-RS](http://oom.lt/HEAD-JSTSH-X-PI10-RS)
 - Short Link: [http://oom.lt/HSH10](http://oom.lt/HSH10)
   
@@ -25,5 +25,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RS|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI10-RS|
 |Hex ID (short code)|hexID|HSH10|
+|name|name|JST XH (1 mm) 10 Pin Header Right Angle (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=93'}|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R12O205 > 
+# R12O205 > SMD (1206) 2M Ohm Resistor
 
 - ID: RESE-1206-X-O205-01
 - Hex ID: R12O205
-- Name: 
-- Description: 
+- Name: SMD (1206) 2M Ohm Resistor
+- Description: SMD (1206) 2M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O205-01](http://oom.lt/RESE-1206-X-O205-01)
 - Short Link: [http://oom.lt/R12O205](http://oom.lt/R12O205)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-1206-X-O205-01|
 |Hex ID (short code)|hexID|R12O205|
+|name|name|SMD (1206) 2M Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1204T5E', 'partName': '1206W4F1204T5E'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C22107'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C22107', 'partName': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 1.2M?? 1206  Chip Resistor - Surface Mount ROHS'}|

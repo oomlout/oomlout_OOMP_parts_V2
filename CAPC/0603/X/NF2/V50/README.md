@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C6N2 > 
+# C6N2 > SMD (0603) 2 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0603-X-NF2-V50
 - Hex ID: C6N2
-- Name: 
-- Description: 
+- Name: SMD (0603) 2 nF Capacitor (Ceramic) 50v
+- Description: SMD (0603) 2 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF2-V50](http://oom.lt/CAPC-0603-X-NF2-V50)
 - Short Link: [http://oom.lt/C6N2](http://oom.lt/C6N2)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V50|
 |Full OOMP ID|oompID|CAPC-0603-X-NF2-V50|
 |Hex ID (short code)|hexID|C6N2|
+|name|name|SMD (0603) 2 nF Capacitor (Ceramic) 50v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10B822KB8NNNC', 'partName': 'CL10B822KB8NNNC'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C27920'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C27920', 'partName': '50V 8.2nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

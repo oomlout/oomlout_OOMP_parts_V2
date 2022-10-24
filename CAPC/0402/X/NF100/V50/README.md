@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C4N100 > 
+# C4N100 > SMD (0402) 100 nF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-NF100-V50
 - Hex ID: C4N100
-- Name: 
-- Description: 
+- Name: SMD (0402) 100 nF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 100 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V50](http://oom.lt/CAPC-0402-X-NF100-V50)
 - Short Link: [http://oom.lt/C4N100](http://oom.lt/C4N100)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V50|
 |Full OOMP ID|oompID|CAPC-0402-X-NF100-V50|
 |Hex ID (short code)|hexID|C4N100|
+|name|name|SMD (0402) 100 nF Capacitor (Ceramic) 50v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B104KB54PNC', 'partName': 'CL05B104KB54PNC'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C307331'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C307331', 'partName': '50V 100nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

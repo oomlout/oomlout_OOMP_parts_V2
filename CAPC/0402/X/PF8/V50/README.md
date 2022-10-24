@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C4P8 > 
+# C4P8 > SMD (0402) 8 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0402-X-PF8-V50
 - Hex ID: C4P8
-- Name: 
-- Description: 
+- Name: SMD (0402) 8 pF Capacitor (Ceramic) 50v
+- Description: SMD (0402) 8 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF8-V50](http://oom.lt/CAPC-0402-X-PF8-V50)
 - Short Link: [http://oom.lt/C4P8](http://oom.lt/C4P8)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V50|
 |Full OOMP ID|oompID|CAPC-0402-X-PF8-V50|
 |Hex ID (short code)|hexID|C4P8|
+|name|name|SMD (0402) 8 pF Capacitor (Ceramic) 50v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05C680JB5NNNC', 'partName': 'CL05C680JB5NNNC'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C14441'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C14441', 'partName': '50V 68pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

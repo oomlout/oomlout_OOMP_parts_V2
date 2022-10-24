@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# H2X7SM > 
+# H2X7SM > 2.54 mm 14 Pin (2x7) Header (SMD)
 
 - ID: HEAD-I01-X-PI2X07-SM
 - Hex ID: H2X7SM
-- Name: 
-- Description: 
+- Name: 2.54 mm 14 Pin (2x7) Header (SMD)
+- Description: 2.54 mm 14 Pin (2x7) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X07-SM](http://oom.lt/HEAD-I01-X-PI2X07-SM)
 - Short Link: [http://oom.lt/H2X7SM](http://oom.lt/H2X7SM)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X07-SM|
 |Hex ID (short code)|hexID|H2X7SM|
+|name|name|2.54 mm 14 Pin (2x7) Header (SMD)|
 ||||

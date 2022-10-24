@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# RF181D > 
+# RF181D > SMD (1812) 100 mA Resetable Fuse 60 v
 
 - ID: REFU-1812-X-A1D-V60
 - Hex ID: RF181D
-- Name: 
-- Description: 
+- Name: SMD (1812) 100 mA Resetable Fuse 60 v
+- Description: SMD (1812) 100 mA Resetable Fuse 60 v
 - Long Link: [http://oom.lt/REFU-1812-X-A1D-V60](http://oom.lt/REFU-1812-X-A1D-V60)
 - Short Link: [http://oom.lt/RF181D](http://oom.lt/RF181D)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|V60|
 |Full OOMP ID|oompID|REFU-1812-X-A1D-V60|
 |Hex ID (short code)|hexID|RF181D|
+|name|name|SMD (1812) 100 mA Resetable Fuse 60 v|
 ||||

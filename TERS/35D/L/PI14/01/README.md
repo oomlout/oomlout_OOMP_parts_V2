@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# T35L14 > 
+# T35L14 > 3.5 mm 14 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI14-01
 - Hex ID: T35L14
-- Name: 
-- Description: 
+- Name: 3.5 mm 14 Pin Blue Screw Terminal
+- Description: 3.5 mm 14 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI14-01](http://oom.lt/TERS-35D-L-PI14-01)
 - Short Link: [http://oom.lt/T35L14](http://oom.lt/T35L14)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|TERS-35D-L-PI14-01|
 |Hex ID (short code)|hexID|T35L14|
+|name|name|3.5 mm 14 Pin Blue Screw Terminal|
 ||||

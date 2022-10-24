@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# TNS248050 > 
+# TNS248050 > SMD (SOT-23) S8050 NPN Transistor
 
 - ID: TRNN-SO23-X-KS8050-01
 - Hex ID: TNS248050
-- Name: 
-- Description: 
+- Name: SMD (SOT-23) S8050 NPN Transistor
+- Description: SMD (SOT-23) S8050 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KS8050-01](http://oom.lt/TRNN-SO23-X-KS8050-01)
 - Short Link: [http://oom.lt/TNS248050](http://oom.lt/TNS248050)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|TRNN-SO23-X-KS8050-01|
 |Hex ID (short code)|hexID|TNS248050|
+|name|name|SMD (SOT-23) S8050 NPN Transistor|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC|
 ||||

@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C12U2 > 
+# C12U2 > SMD (1206) 2 uF Capacitor (Ceramic) 25v
 
 - ID: CAPC-1206-X-UF2-V25
 - Hex ID: C12U2
-- Name: 
-- Description: 
+- Name: SMD (1206) 2 uF Capacitor (Ceramic) 25v
+- Description: SMD (1206) 2 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF2-V25](http://oom.lt/CAPC-1206-X-UF2-V25)
 - Short Link: [http://oom.lt/C12U2](http://oom.lt/C12U2)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V25|
 |Full OOMP ID|oompID|CAPC-1206-X-UF2-V25|
 |Hex ID (short code)|hexID|C12U2|
+|name|name|SMD (1206) 2 uF Capacitor (Ceramic) 25v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL31A226KAHNNNE', 'partName': 'CL31A226KAHNNNE'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C12891'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C12891', 'partName': '25V 22uF X5R ??10% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

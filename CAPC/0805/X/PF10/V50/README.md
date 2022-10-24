@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C8P10 > 
+# C8P10 > SMD (0805) 10 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-PF10-V50
 - Hex ID: C8P10
-- Name: 
-- Description: 
+- Name: SMD (0805) 10 pF Capacitor (Ceramic) 50v
+- Description: SMD (0805) 10 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-PF10-V50](http://oom.lt/CAPC-0805-X-PF10-V50)
 - Short Link: [http://oom.lt/C8P10](http://oom.lt/C8P10)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V50|
 |Full OOMP ID|oompID|CAPC-0805-X-PF10-V50|
 |Hex ID (short code)|hexID|C8P10|
+|name|name|SMD (0805) 10 pF Capacitor (Ceramic) 50v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21C100JBANNNC', 'partName': 'CL21C100JBANNNC'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1785'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1785', 'partName': '50V 10pF C0G ??5% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

@@ -3,12 +3,12 @@
 
   
 ![][im]
-# R4O514 > 
+# R4O514 > SMD (0402) 510k Ohm Resistor
 
 - ID: RESE-0402-X-O514-01
 - Hex ID: R4O514
-- Name: 
-- Description: 
+- Name: SMD (0402) 510k Ohm Resistor
+- Description: SMD (0402) 510k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O514-01](http://oom.lt/RESE-0402-X-O514-01)
 - Short Link: [http://oom.lt/R4O514](http://oom.lt/R4O514)
   
@@ -28,6 +28,7 @@
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0402-X-O514-01|
 |Hex ID (short code)|hexID|R4O514|
+|name|name|SMD (0402) 510k Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF5103TCE', 'partName': '0402WGF5103TCE'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C11616'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C11616', 'partName': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 510k?? 0402  Chip Resistor - Surface Mount ROHS'}|
@@ -35,4 +36,4 @@
 
 
 
-[im]: oomlout_OOMP_parts_V2/RESE/0402/X/O514/01/image_450.jpg
+[im]: RESE/0402/X/O514/01/image_450.jpg

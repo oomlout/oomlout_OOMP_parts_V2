@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# C8P22 > 
+# C8P22 > SMD (0805) 22 pF Capacitor (Ceramic) 50v
 
 - ID: CAPC-0805-X-PF22-V50
 - Hex ID: C8P22
-- Name: 
-- Description: 
+- Name: SMD (0805) 22 pF Capacitor (Ceramic) 50v
+- Description: SMD (0805) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-PF22-V50](http://oom.lt/CAPC-0805-X-PF22-V50)
 - Short Link: [http://oom.lt/C8P22](http://oom.lt/C8P22)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V50|
 |Full OOMP ID|oompID|CAPC-0805-X-PF22-V50|
 |Hex ID (short code)|hexID|C8P22|
+|name|name|SMD (0805) 22 pF Capacitor (Ceramic) 50v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21C220JBANNNC', 'partName': 'CL21C220JBANNNC'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1804'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1804', 'partName': '50V 22pF C0G ??5% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|

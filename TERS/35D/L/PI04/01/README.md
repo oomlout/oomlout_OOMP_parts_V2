@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# T35L4 > 
+# T35L4 > 3.5 mm 4 Pin Blue Screw Terminal
 
 - ID: TERS-35D-L-PI04-01
 - Hex ID: T35L4
-- Name: 
-- Description: 
+- Name: 3.5 mm 4 Pin Blue Screw Terminal
+- Description: 3.5 mm 4 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI04-01](http://oom.lt/TERS-35D-L-PI04-01)
 - Short Link: [http://oom.lt/T35L4](http://oom.lt/T35L4)
   
@@ -25,4 +25,5 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|TERS-35D-L-PI04-01|
 |Hex ID (short code)|hexID|T35L4|
+|name|name|3.5 mm 4 Pin Blue Screw Terminal|
 ||||

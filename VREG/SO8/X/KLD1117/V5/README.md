@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# VR111785 > 
+# VR111785 > SO-8 LD1117 Voltage Regulator 5v
 
 - ID: VREG-SO8-X-KLD1117-V5
 - Hex ID: VR111785
-- Name: 
-- Description: 
+- Name: SO-8 LD1117 Voltage Regulator 5v
+- Description: SO-8 LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V5](http://oom.lt/VREG-SO8-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR111785](http://oom.lt/VR111785)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|V5|
 |Full OOMP ID|oompID|VREG-SO8-X-KLD1117-V5|
 |Hex ID (short code)|hexID|VR111785|
+|name|name|SO-8 LD1117 Voltage Regulator 5v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'name': 'Korean Hroparts Elec', 'code': 'C-KHRO', 'partID': 'TYPE-C-31-M-12', 'partName': '', 'partLink': ''}|
 |Part Number (Distributor)|distributorPartNumber|{'name': 'LCSC', 'code': 'C-LCSC', 'partID': 'C165948', 'partName': 'C165948', 'partLink': ''}|
 ||||

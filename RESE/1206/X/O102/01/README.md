@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R12O102 > 
+# R12O102 > SMD (1206) 1k Ohm Resistor
 
 - ID: RESE-1206-X-O102-01
 - Hex ID: R12O102
-- Name: 
-- Description: 
+- Name: SMD (1206) 1k Ohm Resistor
+- Description: SMD (1206) 1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O102-01](http://oom.lt/RESE-1206-X-O102-01)
 - Short Link: [http://oom.lt/R12O102](http://oom.lt/R12O102)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-1206-X-O102-01|
 |Hex ID (short code)|hexID|R12O102|
+|name|name|SMD (1206) 1k Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1001T5', 'partName': '1206W4F1001T5'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C4410'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C4410', 'partName': '250mW Thick Film Resistors 200V ??1% -55??~+155?? 1k?? 1206  Chip Resistor - Surface Mount ROHS'}|

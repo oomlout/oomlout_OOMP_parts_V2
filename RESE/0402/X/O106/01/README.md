@@ -3,12 +3,12 @@
 
   
 NO IMAGE  
-# R4O106 > 
+# R4O106 > SMD (0402) 10M Ohm Resistor
 
 - ID: RESE-0402-X-O106-01
 - Hex ID: R4O106
-- Name: 
-- Description: 
+- Name: SMD (0402) 10M Ohm Resistor
+- Description: SMD (0402) 10M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O106-01](http://oom.lt/RESE-0402-X-O106-01)
 - Short Link: [http://oom.lt/R4O106](http://oom.lt/R4O106)
   
@@ -25,6 +25,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0402-X-O106-01|
 |Hex ID (short code)|hexID|R4O106|
+|name|name|SMD (0402) 10M Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF1005TCE', 'partName': '0402WGF1005TCE'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C26082'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C26082', 'partName': '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10M?? 0402  Chip Resistor - Surface Mount ROHS'}|

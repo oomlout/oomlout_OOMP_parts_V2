@@ -3,12 +3,12 @@
 
   
 ![][im]
-# C4N10016 > 
+# C4N10016 > SMD (0402) 100 nF Capacitor (Ceramic) 16v
 
 - ID: CAPC-0402-X-NF100-V16
 - Hex ID: C4N10016
-- Name: 
-- Description: 
+- Name: SMD (0402) 100 nF Capacitor (Ceramic) 16v
+- Description: SMD (0402) 100 nF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V16](http://oom.lt/CAPC-0402-X-NF100-V16)
 - Short Link: [http://oom.lt/C4N10016](http://oom.lt/C4N10016)
   
@@ -28,6 +28,7 @@
 |OOMP Index|oompIndex|V16|
 |Full OOMP ID|oompID|CAPC-0402-X-NF100-V16|
 |Hex ID (short code)|hexID|C4N10016|
+|name|name|SMD (0402) 100 nF Capacitor (Ceramic) 16v|
 |Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B104KO5NNNC', 'partName': 'CL05B104KO5NNNC'}|
 |Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1525'}|
 |Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1525', 'partName': '16V 100nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
@@ -35,4 +36,4 @@
 
 
 
-[im]: oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/image_450.jpg
+[im]: CAPC/0402/X/NF100/V16/image_450.jpg
