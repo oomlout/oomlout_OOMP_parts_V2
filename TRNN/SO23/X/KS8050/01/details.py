@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "TRNN"
     oSize = "SO23"
     oColor = "X"
@@ -18,16 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23')
-
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC')
-
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 

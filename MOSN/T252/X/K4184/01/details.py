@@ -1,7 +1,7 @@
 
 ######  Auto translated oomp file
 
-def load(newPart):
+def load(newPart,it):
     oType = "MOSN"
     oSize = "T252"
     oColor = "X"
@@ -18,16 +18,11 @@ def load(newPart):
     newPart['oompID'].append(oompID)
 
     newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2')
-
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS')
-
 
 
     ######  Common
     newPart['hexID'].append(hexID)
-
-    ######  Housekeeping
-    #OOMPtags.addTags(newPart,oompId)
 
     return newPart
 
