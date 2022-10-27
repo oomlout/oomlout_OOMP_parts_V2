@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|CAPC-0402-X-UF2-V63D|
 |Hex ID (short code)|hexID|C4U263D|
 |name|name|SMD (0402) 2 uF Capacitor (Ceramic) 6.3v|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05A225MQ5NSNC', 'partName': 'CL05A225MQ5NSNC'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C12530'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C12530', 'partName': '6.3V 2.2uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL05A225MQ5NSNC'</td><td> 'partName'</td></tr><tr><td> 'CL05A225MQ5NSNC'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C12530'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C12530'</td><td> 'partName'</td></tr><tr><td> '6.3V 2.2uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 ||||

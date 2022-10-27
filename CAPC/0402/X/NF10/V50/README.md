@@ -13,7 +13,7 @@
 - Short Link: [http://oom.lt/C4N10](http://oom.lt/C4N10)
   
 
-|oomlout_OOMP_parts_V2/CAPC/0402/X/NF10/V50/image.jpg||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/NF10/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF10/V50/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -29,9 +29,9 @@
 |Full OOMP ID|oompID|CAPC-0402-X-NF10-V50|
 |Hex ID (short code)|hexID|C4N10|
 |name|name|SMD (0402) 10 nF Capacitor (Ceramic) 50v|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL05B103KB5NNNC', 'partName': 'CL05B103KB5NNNC'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15195'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15195', 'partName': '50V 10nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL05B103KB5NNNC'</td><td> 'partName'</td></tr><tr><td> 'CL05B103KB5NNNC'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C15195'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C15195'</td><td> 'partName'</td></tr><tr><td> '50V 10nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 ||||
 
 

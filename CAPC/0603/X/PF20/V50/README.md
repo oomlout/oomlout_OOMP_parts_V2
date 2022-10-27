@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|CAPC-0603-X-PF20-V50|
 |Hex ID (short code)|hexID|C6P20|
 |name|name|SMD (0603) 20 pF Capacitor (Ceramic) 50v|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10C200JB8NNNC', 'partName': 'CL10C200JB8NNNC'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C1648'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C1648', 'partName': '50V 20pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL10C200JB8NNNC'</td><td> 'partName'</td></tr><tr><td> 'CL10C200JB8NNNC'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C1648'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C1648'</td><td> 'partName'</td></tr><tr><td> '50V 20pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 ||||

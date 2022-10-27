@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|CAPC-0603-X-UF2-V63D|
 |Hex ID (short code)|hexID|C6U263D|
 |name|name|SMD (0603) 2 uF Capacitor (Ceramic) 6.3v|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL10A226MQ8NRNC', 'partName': 'CL10A226MQ8NRNC'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C59461'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C59461', 'partName': '6.3V 22uF X5R ??20% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL10A226MQ8NRNC'</td><td> 'partName'</td></tr><tr><td> 'CL10A226MQ8NRNC'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C59461'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C59461'</td><td> 'partName'</td></tr><tr><td> '6.3V 22uF X5R ??20% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 ||||

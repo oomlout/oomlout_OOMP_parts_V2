@@ -13,7 +13,7 @@ NO IMAGE
 - Short Link: [http://oom.lt/R6O563](http://oom.lt/R6O563)
   
 
-|oomlout_OOMP_parts_V2/RESE/0603/X/O563/01/image_BOTTOM.jpg|oomlout_OOMP_parts_V2/RESE/0603/X/O563/01/image_RE.jpg|||
+|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O563/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O563/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O563/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O563/01/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -29,7 +29,7 @@ NO IMAGE
 |Full OOMP ID|oompID|RESE-0603-X-O563-01|
 |Hex ID (short code)|hexID|R6O563|
 |name|name|SMD (0603) 56k Ohm Resistor|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0603WAF5602T5E', 'partName': '0603WAF5602T5E'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C23206'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C23206', 'partName': '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 56k?? 0603  Chip Resistor - Surface Mount ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0603WAF5602T5E'</td><td> 'partName'</td></tr><tr><td> '0603WAF5602T5E'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C23206'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C23206'</td><td> 'partName'</td></tr><tr><td> '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 56k?? 0603  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 ||||

@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-0402-X-O330-01|
 |Hex ID (short code)|hexID|R4O330|
 |name|name|SMD (0402) 33 Ohm Resistor|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF330JTCE', 'partName': '0402WGF330JTCE'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25105'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25105', 'partName': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 33?? 0402  Chip Resistor - Surface Mount ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0402WGF330JTCE'</td><td> 'partName'</td></tr><tr><td> '0402WGF330JTCE'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C25105'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C25105'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 33?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 ||||

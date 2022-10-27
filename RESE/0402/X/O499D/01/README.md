@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-0402-X-O499D-01|
 |Hex ID (short code)|hexID|R4O499D|
 |name|name|SMD (0402) 49.9 Ohm Resistor|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF499JTCE', 'partName': '0402WGF499JTCE'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25120'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25120', 'partName': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 49.9?? 0402  Chip Resistor - Surface Mount ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0402WGF499JTCE'</td><td> 'partName'</td></tr><tr><td> '0402WGF499JTCE'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C25120'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C25120'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 49.9?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 ||||

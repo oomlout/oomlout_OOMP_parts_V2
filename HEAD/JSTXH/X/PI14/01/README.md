@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI14-01|
 |Hex ID (short code)|hexID|HXH14|
 |name|name|JST XH (2.5 mm) 14 Pin Header|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=136'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=136'</td></tr></table>|
 ||||

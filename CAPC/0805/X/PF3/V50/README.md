@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|CAPC-0805-X-PF3-V50|
 |Hex ID (short code)|hexID|C8P3|
 |name|name|SMD (0805) 3 pF Capacitor (Ceramic) 50v|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'YAGEO', 'partID': 'CC0805JRNPO9BN330', 'partName': 'CC0805JRNPO9BN330'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C107115'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C107115', 'partName': '50V 33pF NP0 ??5% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'YAGEO'</td><td> 'partID'</td></tr><tr><td> 'CC0805JRNPO9BN330'</td><td> 'partName'</td></tr><tr><td> 'CC0805JRNPO9BN330'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C107115'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C107115'</td><td> 'partName'</td></tr><tr><td> '50V 33pF NP0 ??5% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 ||||

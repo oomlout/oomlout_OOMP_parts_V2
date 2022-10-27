@@ -13,7 +13,7 @@
 - Short Link: [http://oom.lt/C8U10](http://oom.lt/C8U10)
   
 
-|oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/image.jpg|oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V25/image_RE.jpg|||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF10/V25/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF10/V25/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V25/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -29,9 +29,9 @@
 |Full OOMP ID|oompID|CAPC-0805-X-UF10-V25|
 |Hex ID (short code)|hexID|C8U10|
 |name|name|SMD (0805) 10 uF Capacitor (Ceramic) 25v|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'Samsung Electro-Mechanics', 'partID': 'CL21A106KAYNNNE', 'partName': 'CL21A106KAYNNNE'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C15850'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C15850', 'partName': '25V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL21A106KAYNNNE'</td><td> 'partName'</td></tr><tr><td> 'CL21A106KAYNNNE'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C15850'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C15850'</td><td> 'partName'</td></tr><tr><td> '25V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 ||||
 
 

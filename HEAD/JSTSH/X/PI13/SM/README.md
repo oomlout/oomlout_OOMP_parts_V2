@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI13-SM|
 |Hex ID (short code)|hexID|HSH13|
 |name|name|JST XH (1 mm) 13 Pin Header (SMD)|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'partLink': 'https://www.jst.co.uk/productSeries.php?pid=93'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
 ||||

@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-1206-X-O104-01|
 |Hex ID (short code)|hexID|R12O104|
 |name|name|SMD (1206) 100k Ohm Resistor|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '1206W4F1003T5E', 'partName': '1206W4F1003T5E'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17900'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17900', 'partName': '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 100k?? 1206  Chip Resistor - Surface Mount ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '1206W4F1003T5E'</td><td> 'partName'</td></tr><tr><td> '1206W4F1003T5E'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C17900'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C17900'</td><td> 'partName'</td></tr><tr><td> '250mW Thick Film Resistors 200V ??100ppm/?? ??1% -55??~+155?? 100k?? 1206  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 ||||

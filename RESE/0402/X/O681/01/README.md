@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-0402-X-O681-01|
 |Hex ID (short code)|hexID|R4O681|
 |name|name|SMD (0402) 680 Ohm Resistor|
-|Part Number (Manufacturer)|manufacturerPartNumber|{'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0402WGF6800TCE', 'partName': '0402WGF6800TCE'}|
-|Part Number (Distributor)|distributorPartNumber|{'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C25130'}|
-|Part Number (OPL)|oplPartNumber|{'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C25130', 'partName': '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 680?? 0402  Chip Resistor - Surface Mount ROHS'}|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0402WGF6800TCE'</td><td> 'partName'</td></tr><tr><td> '0402WGF6800TCE'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C25130'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C25130'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 680?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 ||||
