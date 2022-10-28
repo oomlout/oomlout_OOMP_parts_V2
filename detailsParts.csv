@@ -585,7 +585,7 @@ OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (
 "VREG";"SO235";"X";"KAP2112K";"V18D";"VREG-SO235-X-KAP2112K-V18D";"VR211223518";"SMD (SOT-23-5) AP2112K Voltage Regulator 1.8 v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KAP2112K";"V25D";"VREG-SO235-X-KAP2112K-V25D";"VR211223525";"SMD (SOT-23-5) AP2112K Voltage Regulator 2.5 v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KAP2112K";"V26D";"VREG-SO235-X-KAP2112K-V26D";"VR211223526";"SMD (SOT-23-5) AP2112K Voltage Regulator 2.6 v";;;;;;;;;;;;;;;;;;;;
-"VREG";"SO235";"X";"KAP2112K";"V33D";"VREG-SO235-X-KAP2112K-V33D";"VR211223533";"SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v";;;;;;;;;;;;;;;;;;;;
+"VREG";"SO235";"X";"KAP2112K";"V33D";"VREG-SO235-X-KAP2112K-V33D";"VR211223533";"SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v";;;;;;;;;;;;;;;;;;"{'PROJECT': 'PROJ-ADAF-1231-STAN-01', 'ID': 'U2'}";;
 "VREG";"SO235";"X";"KMIC5205";"V25D";"VREG-SO235-X-KMIC5205-V25D";"VR522523525";"SMD (SOT-23-5) MIC5205 Voltage Regulator 2.5 v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KMIC5205";"V27D";"VREG-SO235-X-KMIC5205-V27D";"VR522523527";"SMD (SOT-23-5) MIC5205 Voltage Regulator 2.7 v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KMIC5205";"V33D";"VREG-SO235-X-KMIC5205-V33D";"VR522523533";"SMD (SOT-23-5) MIC5205 Voltage Regulator 3.3v";;;;;;;;;;;;;;;;;;;;
@@ -596,7 +596,7 @@ OOMP Type;OOMP Size;OOMP Color;OOMP Description;OOMP Index;Full OOMP ID;Hex ID (
 "VREG";"SO235";"X";"KMIC5225";"V18D";"VREG-SO235-X-KMIC5225-V18D";"VR522523518";"SMD (SOT-23-5) MIC5225 Voltage Regulator 1.8 v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KMIC5225";"V25D";"VREG-SO235-X-KMIC5225-V25D";"VR522523525";"SMD (SOT-23-5) MIC5225 Voltage Regulator 2.5 v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KMIC5225";"V27D";"VREG-SO235-X-KMIC5225-V27D";"VR522523527";"SMD (SOT-23-5) MIC5225 Voltage Regulator 2.7 v";;;;;;;;;;;;;;;;;;;;
-"VREG";"SO235";"X";"KMIC5225";"V33D";"VREG-SO235-X-KMIC5225-V33D";"VR522523533";"SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v";;;;;;;;;;;;;;;;;;;;
+"VREG";"SO235";"X";"KMIC5225";"V33D";"VREG-SO235-X-KMIC5225-V33D";"VR522523533";"SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v";;;;;;;;;;;;;;;;;;"{'PROJECT': 'PROJ-ADAF-0512-STAN-01', 'ID': 'U4'}";;
 "VREG";"SO235";"X";"KMIC5225";"V3";"VREG-SO235-X-KMIC5225-V3";"VR52252353";"SMD (SOT-23-5) MIC5225 Voltage Regulator 3v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KMIC5225";"V5";"VREG-SO235-X-KMIC5225-V5";"VR52252355";"SMD (SOT-23-5) MIC5225 Voltage Regulator 5v";;;;;;;;;;;;;;;;;;;;
 "VREG";"SO235";"X";"KMIC5225";"VADJ";"VREG-SO235-X-KMIC5225-VADJ";"VR5225235AJ";"SMD (SOT-23-5) MIC5225 Voltage Regulator Adjustable Voltage";;;;;;;;;;;;;;;;;;;;

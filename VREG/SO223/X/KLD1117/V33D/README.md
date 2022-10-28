@@ -26,6 +26,4 @@ NO IMAGES
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-V33D|
 |Hex ID (short code)|hexID|VR111722333|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 3.3v|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'name'</td></tr><tr><td> 'Korean Hroparts Elec'</td><td> 'code'</td></tr><tr><td> 'C-KHRO'</td><td> 'partID'</td></tr><tr><td> 'TYPE-C-31-M-12'</td><td> 'partName'</td></tr><tr><td> ''</td><td> 'partLink'</td></tr><tr><td> ''</td></tr></table>|
-|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'name'</td></tr><tr><td> 'LCSC'</td><td> 'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'partID'</td></tr><tr><td> 'C165948'</td><td> 'partName'</td></tr><tr><td> 'C165948'</td><td> 'partLink'</td></tr><tr><td> ''</td></tr></table>|
 ||||
