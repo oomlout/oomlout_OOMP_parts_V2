@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|TERS-35D-L-PI08-01|
 |Hex ID (short code)|hexID|T35L8|
 |name|name|3.5 mm 8 Pin Blue Screw Terminal|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-9729-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table>|
 ||||

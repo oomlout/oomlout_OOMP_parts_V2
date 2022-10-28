@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|RESA-06038-X-O472X4-01|
 |Hex ID (short code)|hexID|RA6472|
 |name|name|SMD (0603-8) 4.7k Ohm (x4) Resistor Array|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4407-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table>|
 ||||

@@ -32,6 +32,7 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL10C220JB8NNNC'</td><td> 'partName'</td></tr><tr><td> 'CL10C220JB8NNNC'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C1653'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C1653'</td><td> 'partName'</td></tr><tr><td> '50V 22pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2772-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C2'</td></tr></table>|
 ||||
 
 

@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|TERS-35D-L-PI04-01|
 |Hex ID (short code)|hexID|T35L4|
 |name|name|3.5 mm 4 Pin Blue Screw Terminal|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10025-STAN-01'</td><td> 'ID'</td></tr><tr><td> '2MM1'</td></tr></table>|
 ||||

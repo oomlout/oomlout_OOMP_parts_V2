@@ -32,6 +32,7 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0402WGF100JTCE'</td><td> 'partName'</td></tr><tr><td> '0402WGF100JTCE'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C25077'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C25077'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10587-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R9'</td></tr></table>|
 ||||
 
 

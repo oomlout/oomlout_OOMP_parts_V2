@@ -32,6 +32,7 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL21A475KAQNNNE'</td><td> 'partName'</td></tr><tr><td> 'CL21A475KAQNNNE'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C1779'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C1779'</td><td> 'partName'</td></tr><tr><td> '25V 4.7uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0512-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C6'</td></tr></table>|
 ||||
 
 

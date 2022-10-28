@@ -32,6 +32,7 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'YAGEO'</td><td> 'partID'</td></tr><tr><td> 'CC0805KRX7R9BB104'</td><td> 'partName'</td></tr><tr><td> 'CC0805KRX7R9BB104'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C49678'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C49678'</td><td> 'partName'</td></tr><tr><td> '50V 100nF X7R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0091-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C1'</td></tr></table>|
 ||||
 
 

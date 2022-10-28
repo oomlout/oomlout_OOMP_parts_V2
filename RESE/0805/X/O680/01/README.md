@@ -32,6 +32,7 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0805W8F680JT5E'</td><td> 'partName'</td></tr><tr><td> '0805W8F680JT5E'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C17802'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C17802'</td><td> 'partName'</td></tr><tr><td> '125mW Thick Film Resistors 150V ??1% ??200ppm/?? -55??~+155?? 68?? 0805  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1651-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table>|
 ||||
 
 
