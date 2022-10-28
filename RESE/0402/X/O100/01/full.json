@@ -1,0 +1,114 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C25077"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R4O100"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0402WGF100JTCE",
+            "partName": "0402WGF100JTCE"
+        }
+    ],
+    "name": [
+        "SMD (0402) 10 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O100"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/image.jpg"
+        ],
+        "imageBottom": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/image_BOTTOM.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0402-X-O100-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-SPAR-10587-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-SPAR-10608-STAN-01"
+        },
+        {
+            "ID": "R12",
+            "PROJECT": "PROJ-SPAR-11013-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-SPAR-11684-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C25077",
+            "partName": "62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10?? 0402  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

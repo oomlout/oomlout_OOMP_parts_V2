@@ -1,0 +1,100 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C26010"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R8O332"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0805W8F3301T5E",
+            "partName": "0805W8F3301T5E"
+        }
+    ],
+    "name": [
+        "SMD (0805) 3.3k Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O332"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/image.jpg"
+        ],
+        "imageBottom": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/image_BOTTOM.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0805-X-O332-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C26010",
+            "partName": "125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 3.3k?? 0805  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

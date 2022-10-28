@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C440198"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C8U10"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Murata Electronics",
+            "partID": "GRM21BR61H106KE43L",
+            "partName": "GRM21BR61H106KE43L"
+        }
+    ],
+    "name": [
+        "SMD (0805) 10 uF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "UF10"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0805-X-UF10-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C440198",
+            "partName": "50V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

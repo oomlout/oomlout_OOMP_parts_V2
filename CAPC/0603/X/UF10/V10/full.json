@@ -1,0 +1,97 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C19702"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C6U1010"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL10A106KP8NNNC",
+            "partName": "CL10A106KP8NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0603) 10 uF Capacitor (Ceramic) 10v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "UF10"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/image.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0603-X-UF10-V10"
+    ],
+    "oompIndex": [
+        "V10"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C19702",
+            "partName": "10V 10uF X5R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

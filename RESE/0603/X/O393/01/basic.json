@@ -1,0 +1,98 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C23153"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R6O393"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0603WAF3902T5E",
+            "partName": "0603WAF3902T5E"
+        }
+    ],
+    "name": [
+        "SMD (0603) 39k Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O393"
+    ],
+    "oompID": [
+        "RESE-0603-X-O393-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-SPAR-13155-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-SPAR-13155-STAN-01"
+        },
+        {
+            "ID": "R12",
+            "PROJECT": "PROJ-SPAR-13155-STAN-01"
+        },
+        {
+            "ID": "R13",
+            "PROJECT": "PROJ-SPAR-13155-STAN-01"
+        },
+        {
+            "ID": "R21",
+            "PROJECT": "PROJ-SPAR-13155-STAN-01"
+        },
+        {
+            "ID": "R22",
+            "PROJECT": "PROJ-SPAR-13155-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-SPAR-16919-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-SPAR-16919-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C23153",
+            "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 39k?? 0603  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

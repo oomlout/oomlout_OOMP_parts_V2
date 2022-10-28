@@ -1,0 +1,128 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "H13"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "2.54 mm 13 Pin Header"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI13"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/README.md"
+        ]
+    },
+    "oompID": [
+        "HEAD-I01-X-PI13-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "JP3",
+            "PROJECT": "PROJ-ADAF-1602-STAN-01"
+        },
+        {
+            "ID": "JP4",
+            "PROJECT": "PROJ-ADAF-1602-STAN-01"
+        },
+        {
+            "ID": "JP2",
+            "PROJECT": "PROJ-ADAF-1754-STAN-01"
+        },
+        {
+            "ID": "JP3",
+            "PROJECT": "PROJ-ADAF-1754-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-1982-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-2946-STAN-01"
+        },
+        {
+            "ID": "JP4",
+            "PROJECT": "PROJ-ADAF-2946-STAN-01"
+        },
+        {
+            "ID": "JP2",
+            "PROJECT": "PROJ-ADAF-2999-STAN-01"
+        },
+        {
+            "ID": "JP2",
+            "PROJECT": "PROJ-ADAF-3201-STAN-01"
+        },
+        {
+            "ID": "JP3",
+            "PROJECT": "PROJ-ADAF-3357-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-5302-STAN-01"
+        },
+        {
+            "ID": "JP2",
+            "PROJECT": "PROJ-ADAF-5302-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-SPAR-12636-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-SPAR-13021-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "I01"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

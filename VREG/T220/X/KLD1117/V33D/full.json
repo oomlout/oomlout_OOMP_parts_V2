@@ -1,0 +1,87 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C165948",
+            "partLink": "",
+            "partName": "C165948"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "VR111722033"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-KHRO",
+            "name": "Korean Hroparts Elec",
+            "partID": "TYPE-C-31-M-12",
+            "partLink": "",
+            "partName": ""
+        }
+    ],
+    "name": [
+        "TO-220 LD1117 Voltage Regulator 3.3v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KLD1117"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/README.md"
+        ]
+    },
+    "oompID": [
+        "VREG-T220-X-KLD1117-V33D"
+    ],
+    "oompIndex": [
+        "V33D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "T220"
+    ],
+    "oompType": [
+        "VREG"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

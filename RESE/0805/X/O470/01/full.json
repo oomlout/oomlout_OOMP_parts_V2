@@ -1,0 +1,108 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C17714"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R8O470"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0805W8F470JT5E",
+            "partName": "0805W8F470JT5E"
+        }
+    ],
+    "name": [
+        "SMD (0805) 47 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O470"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O470/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0805-X-O470-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1770-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-1770-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-1770-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-1770-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C17714",
+            "partName": "125mW Thick Film Resistors 150V ??1% ??200ppm/?? -55??~+155?? 47?? 0805  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

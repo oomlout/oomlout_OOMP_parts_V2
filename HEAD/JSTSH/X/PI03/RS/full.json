@@ -1,0 +1,75 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "HSH3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
+        }
+    ],
+    "name": [
+        "JST SH (1 mm) 3 Pin Header Right Angle (SMD)"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI03"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RS/README.md"
+        ]
+    },
+    "oompID": [
+        "HEAD-JSTSH-X-PI03-RS"
+    ],
+    "oompIndex": [
+        "RS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "JSTSH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

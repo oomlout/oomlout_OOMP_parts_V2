@@ -1,0 +1,87 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C165948",
+            "partLink": "",
+            "partName": "C165948"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "USCK31"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-KHRO",
+            "name": "Korean Hroparts Elec",
+            "partID": "TYPE-C-31-M-12",
+            "partLink": "",
+            "partName": ""
+        }
+    ],
+    "name": [
+        "Type C TYPE-C-31-M-12 USB Socket"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "K31"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/README.md"
+        ]
+    },
+    "oompID": [
+        "USBS-TC-X-K31-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "TC"
+    ],
+    "oompType": [
+        "USBS"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C25969"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R6O434"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0603WAF4303T5E",
+            "partName": "0603WAF4303T5E"
+        }
+    ],
+    "name": [
+        "SMD (0603) 430k Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O434"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O434/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0603-X-O434-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C25969",
+            "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 430k?? 0603  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

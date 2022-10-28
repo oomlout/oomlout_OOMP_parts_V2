@@ -1,0 +1,76 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "H2X4"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "2.54 mm 8 Pin (2x4) Header"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI2X04"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/01/README.md"
+        ]
+    },
+    "oompID": [
+        "HEAD-I01-X-PI2X04-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-0987-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "I01"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,110 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C8218"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R6O201"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0603WAF2000T5E",
+            "partName": "0603WAF2000T5E"
+        }
+    ],
+    "name": [
+        "SMD (0603) 200 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O201"
+    ],
+    "oompID": [
+        "RESE-0603-X-O201-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-SPAR-12041-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-SPAR-13287-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-SPAR-13287-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-SPAR-13287-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-SPAR-13711-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-SPAR-13711-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-SPAR-13711-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-SPAR-13735-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-SPAR-13794-STAN-01"
+        },
+        {
+            "ID": "R8",
+            "PROJECT": "PROJ-SPAR-14891-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-SPAR-18567-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C8218",
+            "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 200?? 0603  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

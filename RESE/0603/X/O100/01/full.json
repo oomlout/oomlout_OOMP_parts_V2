@@ -1,0 +1,265 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C22859"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R6O100"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0603WAF100JT5E",
+            "partName": "0603WAF100JT5E"
+        }
+    ],
+    "name": [
+        "SMD (0603) 10 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O100"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/image.jpg"
+        ],
+        "imageBottom": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/image_BOTTOM.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0603-X-O100-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R12",
+            "PROJECT": "PROJ-ADAF-3201-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-3321-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-3787-STAN-01"
+        },
+        {
+            "ID": "R23",
+            "PROJECT": "PROJ-ADAF-4300-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4313-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
+            "ID": "R23",
+            "PROJECT": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4393-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4500-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-4500-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4506-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-4740-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-5206-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-5393-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-SPAR-12660-STAN-01"
+        },
+        {
+            "ID": "R37",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R38",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R39",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R40",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R41",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R42",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R43",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R44",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "R27",
+            "PROJECT": "PROJ-SPAR-14006-STAN-01"
+        },
+        {
+            "ID": "R27",
+            "PROJECT": "PROJ-SPAR-14554-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-SPAR-15005-STAN-01"
+        },
+        {
+            "ID": "R12",
+            "PROJECT": "PROJ-SPAR-15083-STAN-01"
+        },
+        {
+            "ID": "R13",
+            "PROJECT": "PROJ-SPAR-15083-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-SPAR-15083-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-SPAR-15093-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-SPAR-15193-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-SPAR-15435-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-SPAR-15663-STAN-01"
+        },
+        {
+            "ID": "R15",
+            "PROJECT": "PROJ-SPAR-16329-STAN-01"
+        },
+        {
+            "ID": "R24",
+            "PROJECT": "PROJ-SPAR-17272-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-SPAR-17369-STAN-01"
+        },
+        {
+            "ID": "R24",
+            "PROJECT": "PROJ-SPAR-18031-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-SPAR-18088-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-SPAR-18442-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-SPAR-18590-STAN-01"
+        },
+        {
+            "ID": "R21",
+            "PROJECT": "PROJ-SPAR-18708-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C22859",
+            "partName": "100mW Thick Film Resistors 75V ??1% ??400ppm/?? -55??~+155?? 10?? 0603  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

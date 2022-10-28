@@ -1,0 +1,75 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23"
+    ],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "TNS248050"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "SMD (SOT-23) S8050 NPN Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KS8050"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNN-SO23-X-KS8050-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNN"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC"
+    ],
+    "symbolKicadDetails": []
+}

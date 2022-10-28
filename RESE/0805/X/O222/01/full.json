@@ -1,0 +1,145 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C17520"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R8O222"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0805W8F2201T5E",
+            "partName": "0805W8F2201T5E"
+        }
+    ],
+    "name": [
+        "SMD (0805) 2.2k Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O222"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/image.jpg"
+        ],
+        "imageBottom": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/image_BOTTOM.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O222/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0805-X-O222-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-1535-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-1588-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-1628-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-1713-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-2090-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2661-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-2661-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-2661-STAN-01"
+        },
+        {
+            "ID": "R10",
+            "PROJECT": "PROJ-ADAF-2661-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-2900-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-2900-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C17520",
+            "partName": "125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 2.2k?? 0805  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

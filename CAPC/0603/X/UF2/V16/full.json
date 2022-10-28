@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C23630"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C6U216"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL10A225KO8NNNC",
+            "partName": "CL10A225KO8NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0603) 2 uF Capacitor (Ceramic) 16v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "UF2"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0603-X-UF2-V16"
+    ],
+    "oompIndex": [
+        "V16"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C23630",
+            "partName": "16V 2.2uF X5R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

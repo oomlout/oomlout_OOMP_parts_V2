@@ -1,0 +1,107 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C1779"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C8U47D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL21A475KAQNNNE",
+            "partName": "CL21A475KAQNNNE"
+        }
+    ],
+    "name": [
+        "SMD (0805) 4.7 uF Capacitor (Ceramic) 25v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "UF47D"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/image.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0805-X-UF47D-V25"
+    ],
+    "oompIndex": [
+        "V25"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C6",
+            "PROJECT": "PROJ-ADAF-0512-STAN-01"
+        },
+        {
+            "ID": "C6",
+            "PROJECT": "PROJ-SPAR-18000-STAN-01"
+        },
+        {
+            "ID": "C7",
+            "PROJECT": "PROJ-SPAR-18000-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C1779",
+            "partName": "25V 4.7uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

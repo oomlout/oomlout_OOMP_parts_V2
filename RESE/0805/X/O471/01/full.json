@@ -1,0 +1,204 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C17710"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R8O471"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0805W8F4700T5E",
+            "partName": "0805W8F4700T5E"
+        }
+    ],
+    "name": [
+        "SMD (0805) 470 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O471"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0805/X/O471/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0805-X-O471-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R11",
+            "PROJECT": "PROJ-ADAF-0280-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-0659-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-1362-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-1362-STAN-01"
+        },
+        {
+            "ID": "R8",
+            "PROJECT": "PROJ-ADAF-1362-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-ADAF-1362-STAN-01"
+        },
+        {
+            "ID": "R10",
+            "PROJECT": "PROJ-ADAF-1362-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-1411-STAN-01"
+        },
+        {
+            "ID": "R10",
+            "PROJECT": "PROJ-ADAF-1411-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-1455-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1510-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1580-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-1588-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1716-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-1944-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1963-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2078-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-2133-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-2133-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-2133-STAN-01"
+        },
+        {
+            "ID": "R8",
+            "PROJECT": "PROJ-ADAF-2133-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-2324-STAN-01"
+        },
+        {
+            "ID": "R13",
+            "PROJECT": "PROJ-ADAF-2453-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2468-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2542-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2636-STAN-01"
+        },
+        {
+            "ID": "R10",
+            "PROJECT": "PROJ-ADAF-2928-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-3147-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C17710",
+            "partName": "125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 470?? 0805  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

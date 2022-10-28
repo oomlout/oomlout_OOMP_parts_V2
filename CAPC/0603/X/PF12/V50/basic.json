@@ -1,0 +1,90 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C38523"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C6P12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL10C120JB8NNNC",
+            "partName": "CL10C120JB8NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0603) 12 pF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PF12"
+    ],
+    "oompID": [
+        "CAPC-0603-X-PF12-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C19",
+            "PROJECT": "PROJ-ADAF-5100-STAN-01"
+        },
+        {
+            "ID": "C20",
+            "PROJECT": "PROJ-ADAF-5100-STAN-01"
+        },
+        {
+            "ID": "C7",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "C9",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "C8",
+            "PROJECT": "PROJ-SPAR-16828-STAN-01"
+        },
+        {
+            "ID": "C9",
+            "PROJECT": "PROJ-SPAR-16828-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C38523",
+            "partName": "50V 12pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

@@ -1,0 +1,87 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C165948",
+            "partLink": "",
+            "partName": "C165948"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "VR111722312"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-KHRO",
+            "name": "Korean Hroparts Elec",
+            "partID": "TYPE-C-31-M-12",
+            "partLink": "",
+            "partName": ""
+        }
+    ],
+    "name": [
+        "SMD (SOT-223) LD1117 Voltage Regulator 1.2 v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KLD1117"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V12D/README.md"
+        ]
+    },
+    "oompID": [
+        "VREG-SO223-X-KLD1117-V12D"
+    ],
+    "oompIndex": [
+        "V12D"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "SO223"
+    ],
+    "oompType": [
+        "VREG"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

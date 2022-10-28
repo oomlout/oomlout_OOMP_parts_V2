@@ -1,0 +1,119 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C38523"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C6P12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL10C120JB8NNNC",
+            "partName": "CL10C120JB8NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0603) 12 pF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PF12"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/image.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF12/V50/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0603-X-PF12-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C19",
+            "PROJECT": "PROJ-ADAF-5100-STAN-01"
+        },
+        {
+            "ID": "C20",
+            "PROJECT": "PROJ-ADAF-5100-STAN-01"
+        },
+        {
+            "ID": "C7",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "C9",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "C8",
+            "PROJECT": "PROJ-SPAR-16828-STAN-01"
+        },
+        {
+            "ID": "C9",
+            "PROJECT": "PROJ-SPAR-16828-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C38523",
+            "partName": "50V 12pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

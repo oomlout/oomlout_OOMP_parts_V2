@@ -1,0 +1,172 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C25092"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R4O220"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0402WGF220JTCE",
+            "partName": "0402WGF220JTCE"
+        }
+    ],
+    "name": [
+        "SMD (0402) 22 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O220"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O220/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0402-X-O220-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4888-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-4888-STAN-01"
+        },
+        {
+            "ID": "R16",
+            "PROJECT": "PROJ-SPAR-13714-STAN-01"
+        },
+        {
+            "ID": "R17",
+            "PROJECT": "PROJ-SPAR-13714-STAN-01"
+        },
+        {
+            "ID": "R18",
+            "PROJECT": "PROJ-SPAR-13714-STAN-01"
+        },
+        {
+            "ID": "R19",
+            "PROJECT": "PROJ-SPAR-13714-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "R15",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "R16",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "R18",
+            "PROJECT": "PROJ-SPAR-14449-STAN-01"
+        },
+        {
+            "ID": "R19",
+            "PROJECT": "PROJ-SPAR-14449-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "R15",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "R16",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-SPAR-17713-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-SPAR-17713-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-SPAR-9034-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-SPAR-9034-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C25092",
+            "partName": "62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 22?? 0402  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

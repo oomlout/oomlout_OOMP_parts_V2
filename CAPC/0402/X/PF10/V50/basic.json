@@ -1,0 +1,74 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C32949"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C4P10"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL05C100JB5NNNC",
+            "partName": "CL05C100JB5NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0402) 10 pF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PF10"
+    ],
+    "oompID": [
+        "CAPC-0402-X-PF10-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C2",
+            "PROJECT": "PROJ-ADAF-1510-STAN-01"
+        },
+        {
+            "ID": "C2",
+            "PROJECT": "PROJ-ADAF-1534-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C32949",
+            "partName": "50V 10pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

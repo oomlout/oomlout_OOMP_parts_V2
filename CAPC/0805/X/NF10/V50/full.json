@@ -1,0 +1,102 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C1710"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C8N10"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL21B103KBANNNC",
+            "partName": "CL21B103KBANNNC"
+        }
+    ],
+    "name": [
+        "SMD (0805) 10 nF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "NF10"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/image.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF10/V50/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0805-X-NF10-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C1",
+            "PROJECT": "PROJ-ADAF-0512-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0805"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C1710",
+            "partName": "50V 10nF X7R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

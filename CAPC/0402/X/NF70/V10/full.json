@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C47339"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C4N7010"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL05A474KP5NNNC",
+            "partName": "CL05A474KP5NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0402) 70 nF Capacitor (Ceramic) 10v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "NF70"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0402-X-NF70-V10"
+    ],
+    "oompIndex": [
+        "V10"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C47339",
+            "partName": "10V 470nF X5R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

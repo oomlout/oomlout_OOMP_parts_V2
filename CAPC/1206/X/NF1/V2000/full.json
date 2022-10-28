@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C9196"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C12N12000"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "FH (Guangdong Fenghua Advanced Tech)",
+            "partID": "1206B102K202NT",
+            "partName": "1206B102K202NT"
+        }
+    ],
+    "name": [
+        "SMD (1206) 1 nF Capacitor (Ceramic) 2kV"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "NF1"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-1206-X-NF1-V2000"
+    ],
+    "oompIndex": [
+        "V2000"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "1206"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C9196",
+            "partName": "2kV 1nF X7R ??10% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

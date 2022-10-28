@@ -1,0 +1,90 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "H18"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "2.54 mm 18 Pin Header"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI18"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/image.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/README.md"
+        ]
+    },
+    "oompID": [
+        "HEAD-I01-X-PI18-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-0782-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-3147-STAN-01"
+        },
+        {
+            "ID": "JP4",
+            "PROJECT": "PROJ-SPAR-13632-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "I01"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

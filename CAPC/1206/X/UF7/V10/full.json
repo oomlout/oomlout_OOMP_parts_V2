@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C96123"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C12U710"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL31A476MPHNNNE",
+            "partName": "CL31A476MPHNNNE"
+        }
+    ],
+    "name": [
+        "SMD (1206) 7 uF Capacitor (Ceramic) 10v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "UF7"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-1206-X-UF7-V10"
+    ],
+    "oompIndex": [
+        "V10"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "1206"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C96123",
+            "partName": "10V 47uF X5R ??20% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

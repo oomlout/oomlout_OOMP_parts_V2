@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C21120"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C6N20"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL10B224KA8NNNC",
+            "partName": "CL10B224KA8NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0603) 20 nF Capacitor (Ceramic) 25v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "NF20"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF20/V25/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0603-X-NF20-V25"
+    ],
+    "oompIndex": [
+        "V25"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C21120",
+            "partName": "25V 220nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

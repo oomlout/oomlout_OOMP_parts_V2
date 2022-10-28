@@ -1,0 +1,84 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y"
+    ],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "SEN345"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "K345"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image.jpg"
+        ],
+        "imageBottom": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_BOTTOM.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/README.md"
+        ]
+    },
+    "oompID": [
+        "SENS-LG14-X-K345-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "LG14"
+    ],
+    "oompType": [
+        "SENS"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343"
+    ],
+    "symbolKicadDetails": []
+}

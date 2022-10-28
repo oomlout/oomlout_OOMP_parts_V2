@@ -1,0 +1,96 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C15008"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C12U10063D"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL31A107MQHNNNE",
+            "partName": "CL31A107MQHNNNE"
+        }
+    ],
+    "name": [
+        "SMD (1206) 100 uF Capacitor (Ceramic) 6.3v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "UF100"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-1206-X-UF100-V63D"
+    ],
+    "oompIndex": [
+        "V63D"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C12",
+            "PROJECT": "PROJ-SPAR-14997-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "1206"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C15008",
+            "partName": "6.3V 100uF X5R ??20% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

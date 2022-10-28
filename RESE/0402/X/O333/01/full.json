@@ -1,0 +1,152 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C25779"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "R4O333"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0402WGF3302TCE",
+            "partName": "0402WGF3302TCE"
+        }
+    ],
+    "name": [
+        "SMD (0402) 33k Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O333"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O333/01/README.md"
+        ]
+    },
+    "oompID": [
+        "RESE-0402-X-O333-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-SPAR-11058-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-SPAR-11341-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-SPAR-11341-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-SPAR-16781-STAN-01"
+        },
+        {
+            "ID": "R16",
+            "PROJECT": "PROJ-SPAR-17354-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-SPAR-17381-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-SPAR-17743-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R15",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R59",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R60",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R61",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R62",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R63",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "R64",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C25779",
+            "partName": "62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 33k?? 0402  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

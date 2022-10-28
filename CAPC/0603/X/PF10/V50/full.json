@@ -1,0 +1,190 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C1634"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C6P10"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Samsung Electro-Mechanics",
+            "partID": "CL10C100JB8NNNC",
+            "partName": "CL10C100JB8NNNC"
+        }
+    ],
+    "name": [
+        "SMD (0603) 10 pF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PF10"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/image.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/image_RE.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0603-X-PF10-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C6",
+            "PROJECT": "PROJ-SPAR-12071-STAN-01"
+        },
+        {
+            "ID": "C6",
+            "PROJECT": "PROJ-SPAR-12072-STAN-01"
+        },
+        {
+            "ID": "C4",
+            "PROJECT": "PROJ-SPAR-13287-STAN-01"
+        },
+        {
+            "ID": "C5",
+            "PROJECT": "PROJ-SPAR-13287-STAN-01"
+        },
+        {
+            "ID": "C3",
+            "PROJECT": "PROJ-SPAR-13711-STAN-01"
+        },
+        {
+            "ID": "C4",
+            "PROJECT": "PROJ-SPAR-13711-STAN-01"
+        },
+        {
+            "ID": "C3",
+            "PROJECT": "PROJ-SPAR-13794-STAN-01"
+        },
+        {
+            "ID": "C4",
+            "PROJECT": "PROJ-SPAR-13794-STAN-01"
+        },
+        {
+            "ID": "C20",
+            "PROJECT": "PROJ-SPAR-13810-STAN-01"
+        },
+        {
+            "ID": "C7",
+            "PROJECT": "PROJ-SPAR-13830-STAN-01"
+        },
+        {
+            "ID": "C8",
+            "PROJECT": "PROJ-SPAR-13830-STAN-01"
+        },
+        {
+            "ID": "C4",
+            "PROJECT": "PROJ-SPAR-14050-STAN-01"
+        },
+        {
+            "ID": "C5",
+            "PROJECT": "PROJ-SPAR-14050-STAN-01"
+        },
+        {
+            "ID": "C3",
+            "PROJECT": "PROJ-SPAR-16826-STAN-01"
+        },
+        {
+            "ID": "C4",
+            "PROJECT": "PROJ-SPAR-16826-STAN-01"
+        },
+        {
+            "ID": "C17",
+            "PROJECT": "PROJ-SPAR-17506-STAN-01"
+        },
+        {
+            "ID": "C7",
+            "PROJECT": "PROJ-SPAR-18158-STAN-01"
+        },
+        {
+            "ID": "C9",
+            "PROJECT": "PROJ-SPAR-18158-STAN-01"
+        },
+        {
+            "ID": "C20",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "C5",
+            "PROJECT": "PROJ-SPAR-18708-STAN-01"
+        },
+        {
+            "ID": "C6",
+            "PROJECT": "PROJ-SPAR-18708-STAN-01"
+        },
+        {
+            "ID": "C5",
+            "PROJECT": "PROJ-SPAR-19038-STAN-01"
+        },
+        {
+            "ID": "C6",
+            "PROJECT": "PROJ-SPAR-19038-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C1634",
+            "partName": "50V 10pF C0G ??5% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

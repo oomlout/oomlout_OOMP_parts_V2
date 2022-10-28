@@ -1,0 +1,91 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C1567"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C4P7"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "FH (Guangdong Fenghua Advanced Tech)",
+            "partID": "0402CG470J500NT",
+            "partName": "0402CG470J500NT"
+        }
+    ],
+    "name": [
+        "SMD (0402) 7 pF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PF7"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0402-X-PF7-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C1567",
+            "partName": "50V 47pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

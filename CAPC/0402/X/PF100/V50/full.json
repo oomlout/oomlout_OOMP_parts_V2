@@ -1,0 +1,139 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C1546"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "C4P100"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "FH (Guangdong Fenghua Advanced Tech)",
+            "partID": "0402CG101J500NT",
+            "partName": "0402CG101J500NT"
+        }
+    ],
+    "name": [
+        "SMD (0402) 100 pF Capacitor (Ceramic) 50v"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PF100"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/detailsInstancesOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/image.jpg"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/README.md"
+        ]
+    },
+    "oompID": [
+        "CAPC-0402-X-PF100-V50"
+    ],
+    "oompIndex": [
+        "V50"
+    ],
+    "oompInstances": [
+        {
+            "ID": "C16",
+            "PROJECT": "PROJ-ADAF-5325-STAN-01"
+        },
+        {
+            "ID": "C5",
+            "PROJECT": "PROJ-SPAR-13990-STAN-01"
+        },
+        {
+            "ID": "C18",
+            "PROJECT": "PROJ-SPAR-16781-STAN-01"
+        },
+        {
+            "ID": "C33",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "C61",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "C67",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "C68",
+            "PROJECT": "PROJ-SPAR-18159-STAN-01"
+        },
+        {
+            "ID": "C1",
+            "PROJECT": "PROJ-SPAR-8883-STAN-01"
+        },
+        {
+            "ID": "C1",
+            "PROJECT": "PROJ-SPAR-9816-STAN-01"
+        },
+        {
+            "ID": "C3",
+            "PROJECT": "PROJ-SPAR-9816-STAN-01"
+        },
+        {
+            "ID": "C3",
+            "PROJECT": "PROJ-SPAR-9964-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "0402"
+    ],
+    "oompType": [
+        "CAPC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C1546",
+            "partName": "50V 100pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

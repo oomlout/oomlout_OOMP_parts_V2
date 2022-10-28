@@ -1,0 +1,75 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "HSH9"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
+        }
+    ],
+    "name": [
+        "JST SH (1 mm) 9 Pin Header (SMD)"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI09"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/details.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/SM/README.md"
+        ]
+    },
+    "oompID": [
+        "HEAD-JSTSH-X-PI09-SM"
+    ],
+    "oompIndex": [
+        "SM"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "JSTSH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}
