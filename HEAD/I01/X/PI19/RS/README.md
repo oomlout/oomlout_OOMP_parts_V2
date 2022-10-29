@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI19-RS|
 |Hex ID (short code)|hexID|H19RS|
 |name|name|2.54 mm 19 Pin Header Right Angle (SMD)|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male|
 ||||

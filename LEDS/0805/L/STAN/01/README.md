@@ -26,5 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|LEDS-0805-L-STAN-01|
 |Hex ID (short code)|hexID|L0805LL|
 |name|name|SMD (0805) Blue LED|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1588-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table>|
 ||||

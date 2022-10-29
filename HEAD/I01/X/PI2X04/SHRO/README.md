@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X04-SHRO|
 |Hex ID (short code)|hexID|H2X4SH|
 |name|name|2.54 mm 8 Pin (2x4) Header Shrouded (IDC)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x04_P2.54mm_Vertical|
 ||||

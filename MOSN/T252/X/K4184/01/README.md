@@ -26,6 +26,4 @@ NO IMAGES
 |Full OOMP ID|oompID|MOSN-T252-X-K4184-01|
 |Hex ID (short code)|hexID|MN2524184A|
 |name|name|TO-252 MNAOD4184A N-Ch. MOSFET|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS|
 ||||

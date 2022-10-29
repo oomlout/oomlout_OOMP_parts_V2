@@ -5,7 +5,10 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM01B-SRSS-TB_1x01-1MP_P1.00mm_Vertical"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -44,6 +47,9 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01"
+    ],
     "symbolKicadDetails": []
 }

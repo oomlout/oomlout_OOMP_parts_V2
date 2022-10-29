@@ -5,6 +5,7 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -37,11 +38,20 @@
         "details": [
             "oomlout_OOMP_parts_V2/LEDS/10/L/STAN/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/10/L/STAN/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/LEDS/10/L/STAN/01/detailsInstancesOomp.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/LEDS/10/L/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/LEDS/10/L/STAN/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/LEDS/10/L/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -60,6 +70,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

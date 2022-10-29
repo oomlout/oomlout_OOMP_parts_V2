@@ -32,6 +32,8 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL05A106MQ5NUNC'</td><td> 'partName'</td></tr><tr><td> 'CL05A106MQ5NUNC'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C15525'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C15525'</td><td> 'partName'</td></tr><tr><td> '6.3V 10uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-C|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11801-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C3'</td></tr></table>|
 ||||
 

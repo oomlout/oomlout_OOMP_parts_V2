@@ -11,12 +11,16 @@
     ],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "C6U47D16"
+        "C063U47D16"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
@@ -49,6 +53,9 @@
         ],
         "details": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF47D/V16/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF47D/V16/detailsFootprintsOomp.py"
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF47D/V16/detailsInstancesOomp.py"
@@ -86,6 +93,8 @@
         }
     ],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-C"
+    ],
     "symbolKicadDetails": []
 }

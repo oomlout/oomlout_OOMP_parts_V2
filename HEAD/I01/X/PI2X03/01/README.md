@@ -26,5 +26,6 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X03-01|
 |Hex ID (short code)|hexID|H2X3|
 |name|name|2.54 mm 6 Pin (2x3) Header|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x03_P2.54mm_Vertical|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0091-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table>|
 ||||

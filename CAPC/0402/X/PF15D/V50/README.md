@@ -32,6 +32,8 @@
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'FH (Guangdong Fenghua Advanced Tech)'</td><td> 'partID'</td></tr><tr><td> '0402CG1R5C500NT'</td><td> 'partName'</td></tr><tr><td> '0402CG1R5C500NT'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C1552'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C1552'</td><td> 'partName'</td></tr><tr><td> '50V 1.5pF C0G ??0.25pF 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-C|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1697-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C15'</td></tr></table>|
 ||||
 

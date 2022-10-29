@@ -11,12 +11,24 @@
     ],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR",
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
+    ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "C8P12"
+        "C085P12"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
@@ -49,6 +61,9 @@
         ],
         "details": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF12/V50/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/PF12/V50/detailsFootprintsOomp.py"
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF12/V50/detailsInstancesOomp.py"
@@ -86,6 +101,8 @@
         }
     ],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-C"
+    ],
     "symbolKicadDetails": []
 }

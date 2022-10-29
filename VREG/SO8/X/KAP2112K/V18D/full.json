@@ -5,6 +5,7 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -36,6 +37,9 @@
         ],
         "details": [
             "oomlout_OOMP_parts_V2/VREG/SO8/X/KAP2112K/V18D/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/VREG/SO8/X/KAP2112K/V18D/detailsFootprintsOomp.py"
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/VREG/SO8/X/KAP2112K/V18D/detailsInstancesOomp.py"

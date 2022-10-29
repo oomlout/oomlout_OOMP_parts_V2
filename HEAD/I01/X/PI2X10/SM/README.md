@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X10-SM|
 |Hex ID (short code)|hexID|H2X10SM|
 |name|name|2.54 mm 20 Pin (2x10) Header (SMD)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical_SMD|
 ||||

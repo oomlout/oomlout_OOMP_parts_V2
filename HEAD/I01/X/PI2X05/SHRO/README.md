@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X05-SHRO|
 |Hex ID (short code)|hexID|H2X5SH|
 |name|name|2.54 mm 10 Pin (2x5) Header Shrouded (IDC)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x05_P2.54mm_Vertical|
 ||||

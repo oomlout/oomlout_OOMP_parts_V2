@@ -27,4 +27,5 @@ NO IMAGES
 |Hex ID (short code)|hexID|HSH19|
 |name|name|JST SH (1 mm) 19 Pin Header Right Angle (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male|
 ||||

@@ -11,7 +11,11 @@
     ],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -50,6 +54,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/RESE/0402/X/O502/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0402/X/O502/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/RESE/0402/X/O502/01/detailsInstancesOomp.py"
         ],
@@ -86,6 +93,8 @@
         }
     ],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-R"
+    ],
     "symbolKicadDetails": []
 }

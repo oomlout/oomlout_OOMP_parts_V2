@@ -3,14 +3,14 @@
 
   
 NO IMAGE  
-# C6U47D16 > SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
+# C063U47D16 > SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
 
 - ID: CAPC-0603-X-UF47D-V16
-- Hex ID: C6U47D16
+- Hex ID: C063U47D16
 - Name: SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
 - Description: SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF47D-V16](http://oom.lt/CAPC-0603-X-UF47D-V16)
-- Short Link: [http://oom.lt/C6U47D16](http://oom.lt/C6U47D16)
+- Short Link: [http://oom.lt/C063U47D16](http://oom.lt/C063U47D16)
   
 NO IMAGES  
 ## Tags
@@ -24,9 +24,11 @@ NO IMAGES
 |OOMP Description|oompDesc|UF47D|
 |OOMP Index|oompIndex|V16|
 |Full OOMP ID|oompID|CAPC-0603-X-UF47D-V16|
-|Hex ID (short code)|hexID|C6U47D16|
+|Hex ID (short code)|hexID|C063U47D16|
 |name|name|SMD (0603) 4.7 uF Capacitor (Ceramic) 16v|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'partID'</td></tr><tr><td> 'CL10A475KO8NNNC'</td><td> 'partName'</td></tr><tr><td> 'CL10A475KO8NNNC'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C19666'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C19666'</td><td> 'partName'</td></tr><tr><td> '16V 4.7uF X5R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-C|
 ||||

@@ -5,7 +5,13 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -40,6 +46,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

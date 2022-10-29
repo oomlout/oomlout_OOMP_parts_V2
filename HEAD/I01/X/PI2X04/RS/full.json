@@ -5,6 +5,7 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -36,6 +37,9 @@
         ],
         "details": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/RS/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/RS/detailsFootprintsOomp.py"
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/RS/detailsInstancesOomp.py"

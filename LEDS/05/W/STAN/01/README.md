@@ -29,6 +29,8 @@
 |Full OOMP ID|oompID|LEDS-05-W-STAN-01|
 |Hex ID (short code)|hexID|L05WW|
 |name|name|5 mm White LED|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||
 
 

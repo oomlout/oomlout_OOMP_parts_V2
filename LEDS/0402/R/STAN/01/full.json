@@ -5,7 +5,13 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -37,11 +43,20 @@
         "details": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/detailsInstancesOomp.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -50,7 +65,20 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-19764-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-19921-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-20170-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "0402"
@@ -60,6 +88,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

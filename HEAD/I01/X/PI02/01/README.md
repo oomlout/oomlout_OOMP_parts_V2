@@ -29,6 +29,8 @@
 |Full OOMP ID|oompID|HEAD-I01-X-PI02-01|
 |Hex ID (short code)|hexID|H2|
 |name|name|2.54 mm 2 Pin Header|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x02_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0259-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table>|
 ||||
 

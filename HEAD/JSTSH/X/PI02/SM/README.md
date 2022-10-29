@@ -27,4 +27,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|HSH2|
 |name|name|JST SH (1 mm) 2 Pin Header (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM02B-SRSS-TB_1x02-1MP_P1.00mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male|
 ||||

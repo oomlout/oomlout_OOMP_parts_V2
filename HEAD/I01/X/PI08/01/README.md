@@ -29,6 +29,8 @@
 |Full OOMP ID|oompID|HEAD-I01-X-PI08-01|
 |Hex ID (short code)|hexID|H8|
 |name|name|2.54 mm 8 Pin Header|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x08_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0091-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JD1'</td></tr></table>|
 ||||
 

@@ -26,6 +26,4 @@ NO IMAGES
 |Full OOMP ID|oompID|MCUU-QFN14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84QF14|
 |name|name|14 Pin SMD (QFN) ATTiny 84 MCU|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M|
 ||||

@@ -26,6 +26,4 @@ NO IMAGES
 |Full OOMP ID|oompID|MCUU-DI14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84DI14|
 |name|name|14 Pin DIP ATTiny 84 MCU|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P|
 ||||

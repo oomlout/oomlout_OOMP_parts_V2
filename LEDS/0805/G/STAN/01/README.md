@@ -29,6 +29,8 @@
 |Full OOMP ID|oompID|LEDS-0805-G-STAN-01|
 |Hex ID (short code)|hexID|L0805GG|
 |name|name|SMD (0805) Green LED|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0091-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D1'</td></tr></table>|
 ||||
 

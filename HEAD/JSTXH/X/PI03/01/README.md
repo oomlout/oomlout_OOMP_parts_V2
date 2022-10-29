@@ -27,4 +27,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|HXH3|
 |name|name|JST XH (2.5 mm) 3 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=136'</td></tr></table>|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B3B-XH-AM_1x03_P2.50mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male|
 ||||

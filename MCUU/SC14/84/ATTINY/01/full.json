@@ -5,9 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [
-        "FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm"
-    ],
+    "footprintEagle": [],
+    "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -39,6 +38,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/MCUU/SC14/84/ATTINY/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/MCUU/SC14/84/ATTINY/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/MCUU/SC14/84/ATTINY/01/detailsInstancesOomp.py"
         ],
@@ -68,8 +70,6 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS"
-    ],
+    "symbolKicad": [],
     "symbolKicadDetails": []
 }

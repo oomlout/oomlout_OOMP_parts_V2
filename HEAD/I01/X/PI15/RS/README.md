@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI15-RS|
 |Hex ID (short code)|hexID|H15RS|
 |name|name|2.54 mm 15 Pin Header Right Angle (SMD)|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male|
 ||||

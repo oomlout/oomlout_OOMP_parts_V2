@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI13-RS|
 |Hex ID (short code)|hexID|H13RS|
 |name|name|2.54 mm 13 Pin Header Right Angle (SMD)|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male|
 ||||

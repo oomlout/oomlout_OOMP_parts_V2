@@ -5,9 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [
-        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
-    ],
+    "footprintEagle": [],
+    "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -39,6 +38,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/MCUU/QFN14/84/ATTINY/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/MCUU/QFN14/84/ATTINY/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/MCUU/QFN14/84/ATTINY/01/detailsInstancesOomp.py"
         ],
@@ -68,8 +70,6 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M"
-    ],
+    "symbolKicad": [],
     "symbolKicadDetails": []
 }

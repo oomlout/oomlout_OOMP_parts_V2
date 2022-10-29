@@ -5,6 +5,7 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -40,6 +41,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

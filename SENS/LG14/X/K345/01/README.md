@@ -29,8 +29,6 @@
 |Full OOMP ID|oompID|SENS-LG14-X-K345-01|
 |Hex ID (short code)|hexID|SEN345|
 |name|name|14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343|
 ||||
 
 

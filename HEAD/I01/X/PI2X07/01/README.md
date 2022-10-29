@@ -26,5 +26,6 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X07-01|
 |Hex ID (short code)|hexID|H2X7|
 |name|name|2.54 mm 14 Pin (2x7) Header|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x07_P2.54mm_Vertical|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1788-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'MP3GPIO'</td></tr></table>|
 ||||

@@ -26,6 +26,4 @@ NO IMAGES
 |Full OOMP ID|oompID|TRNN-SO23-X-KS8050-01|
 |Hex ID (short code)|hexID|TNS248050|
 |name|name|SMD (SOT-23) S8050 NPN Transistor|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC|
 ||||

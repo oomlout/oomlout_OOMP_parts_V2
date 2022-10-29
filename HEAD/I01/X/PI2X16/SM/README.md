@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X16-SM|
 |Hex ID (short code)|hexID|H2X16SM|
 |name|name|2.54 mm 32 Pin (2x16) Header (SMD)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x16_P2.54mm_Vertical_SMD|
 ||||

@@ -26,6 +26,4 @@ NO IMAGES
 |Full OOMP ID|oompID|MCUU-SC14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84SC14|
 |name|name|14 Pin SMD (SOIC) ATTiny 84 MCU|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS|
 ||||

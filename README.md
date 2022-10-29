@@ -25,6 +25,7 @@ Contents
 	* [LEDS>0402  (LED>SMD (0402))](#leds0402--ledsmd-0402)
 	* [LEDS>0603  (LED>SMD (0603))](#leds0603--ledsmd-0603)
 	* [LEDS>0805  (LED>SMD (0805))](#leds0805--ledsmd-0805)
+	* [LEDS>1206  (LED>SMD (1206))](#leds1206--ledsmd-1206)
 	* [LEDS>03  (LED>3 mm)](#leds03--led3-mm)
 	* [LEDS>05  (LED>5 mm)](#leds05--led5-mm)
 	* [LEDS>10  (LED>10 mm)](#leds10--led10-mm)
@@ -213,6 +214,13 @@ Contents
   
 
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/G/STAN/01/image_140.jpg)<br>LEDS-0805-G-STAN-01<br>SMD (0805) Green LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/G/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/L/STAN/01/image_140.jpg)<br>LEDS-0805-L-STAN-01<br>SMD (0805) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/L/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/R/STAN/01/image_140.jpg)<br>LEDS-0805-R-STAN-01<br>SMD (0805) Red LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/R/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/W/STAN/01/image_140.jpg)<br>LEDS-0805-W-STAN-01<br>SMD (0805) White LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/W/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/Y/STAN/01/image_140.jpg)<br>LEDS-0805-Y-STAN-01<br>SMD (0805) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/Y/STAN/01/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>1206  (LED>SMD (1206))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/G/STAN/01/image_140.jpg)<br>LEDS-1206-G-STAN-01<br>SMD (1206) Green LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/G/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/L/STAN/01/image_140.jpg)<br>LEDS-1206-L-STAN-01<br>SMD (1206) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/L/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/R/STAN/01/image_140.jpg)<br>LEDS-1206-R-STAN-01<br>SMD (1206) Red LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/R/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/W/STAN/01/image_140.jpg)<br>LEDS-1206-W-STAN-01<br>SMD (1206) White LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/W/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/Y/STAN/01/image_140.jpg)<br>LEDS-1206-Y-STAN-01<br>SMD (1206) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/Y/STAN/01/)|
 | :---: | :---: | :---: | :---: | :---: |
 ||||||
 

@@ -26,5 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|TERS-35D-L-PI08-01|
 |Hex ID (short code)|hexID|T35L8|
 |name|name|3.5 mm 8 Pin Blue Screw Terminal|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x08|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-9729-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table>|
 ||||

@@ -26,4 +26,6 @@ NO IMAGES
 |Full OOMP ID|oompID|TERS-35D-L-PI15-01|
 |Hex ID (short code)|hexID|T35L15|
 |name|name|3.5 mm 15 Pin Blue Screw Terminal|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x15_P3.50mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x15|
 ||||

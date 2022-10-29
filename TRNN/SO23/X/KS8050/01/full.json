@@ -5,9 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [
-        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23"
-    ],
+    "footprintEagle": [],
+    "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -39,6 +38,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/detailsInstancesOomp.py"
         ],
@@ -68,8 +70,6 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC"
-    ],
+    "symbolKicad": [],
     "symbolKicadDetails": []
 }

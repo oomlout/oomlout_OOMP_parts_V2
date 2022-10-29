@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|LEDS-XHP70-W-CREE-01|
 |Hex ID (short code)|hexID|LXHP70|
 |name|name|XHP 70 Cree White LED|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||

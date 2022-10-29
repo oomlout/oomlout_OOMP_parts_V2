@@ -29,6 +29,8 @@
 |Full OOMP ID|oompID|HEAD-I01-X-PI05-01|
 |Hex ID (short code)|hexID|H5|
 |name|name|2.54 mm 5 Pin Header|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x05_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0466-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table>|
 ||||
 

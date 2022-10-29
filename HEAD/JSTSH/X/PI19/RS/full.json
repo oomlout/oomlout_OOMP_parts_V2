@@ -5,6 +5,7 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
+    "footprintEagle": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -41,6 +42,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/RS/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/RS/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/RS/detailsInstancesOomp.py"
         ],
@@ -70,6 +74,9 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19"
+    ],
     "symbolKicadDetails": []
 }

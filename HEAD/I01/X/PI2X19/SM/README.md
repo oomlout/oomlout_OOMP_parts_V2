@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X19-SM|
 |Hex ID (short code)|hexID|H2X19SM|
 |name|name|2.54 mm 38 Pin (2x19) Header (SMD)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x19_P2.54mm_Vertical_SMD|
 ||||

@@ -26,4 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X08-SM|
 |Hex ID (short code)|hexID|H2X8SM|
 |name|name|2.54 mm 16 Pin (2x8) Header (SMD)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x08_P2.54mm_Vertical_SMD|
 ||||

@@ -5,7 +5,20 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
+    ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -30,7 +43,96 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-ADAF-1588-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-ADAF-1588-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-ADAF-1628-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-ADAF-1628-STAN-01"
+        },
+        {
+            "ID": "PWR",
+            "PROJECT": "PROJ-ADAF-1944-STAN-01"
+        },
+        {
+            "ID": "NETSTAT",
+            "PROJECT": "PROJ-ADAF-1963-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-ADAF-2078-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-ADAF-2218-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-ADAF-2260-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-ADAF-2267-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-ADAF-2406-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-ADAF-2465-STAN-01"
+        },
+        {
+            "ID": "NETSTAT",
+            "PROJECT": "PROJ-ADAF-2468-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-2487-STAN-01"
+        },
+        {
+            "ID": "PWRSTAT",
+            "PROJECT": "PROJ-ADAF-2542-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-2633-STAN-01"
+        },
+        {
+            "ID": "NETSTAT",
+            "PROJECT": "PROJ-ADAF-2636-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-2661-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-2746-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-2829-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-ADAF-2995-STAN-01"
+        },
+        {
+            "ID": "NETSTAT",
+            "PROJECT": "PROJ-ADAF-3027-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "0805"
@@ -40,6 +142,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

@@ -29,6 +29,8 @@
 |Full OOMP ID|oompID|LEDS-0603-Y-STAN-01|
 |Hex ID (short code)|hexID|L6YY|
 |name|name|SMD (0603) Yellow LED|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3589-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D2'</td></tr></table>|
 ||||
 

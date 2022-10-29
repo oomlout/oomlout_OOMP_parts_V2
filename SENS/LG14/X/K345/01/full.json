@@ -5,9 +5,8 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [
-        "FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y"
-    ],
+    "footprintEagle": [],
+    "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -38,6 +37,9 @@
         ],
         "details": [
             "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/detailsFootprintsOomp.py"
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/detailsInstancesOomp.py"
@@ -77,8 +79,6 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343"
-    ],
+    "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -2,19 +2,38 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C72043"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L6GG"
+        "L063G"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Everlight Elec",
+            "partID": "19-217/GHC-YR1S2/3T",
+            "partName": "19-217/GHC-YR1S2/3T"
+        }
+    ],
     "name": [
         "SMD (0603) Green LED"
     ],
@@ -37,6 +56,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/detailsInstancesOomp.py"
         ],
@@ -45,6 +67,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -53,7 +81,1040 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-0935-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-1231-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-1231-STAN-0C"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-1982-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-2809-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-2857-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-3251-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-3387-STAN-01"
+        },
+        {
+            "ID": "PWR",
+            "PROJECT": "PROJ-ADAF-3500-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-ADAF-3589-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-3660-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-3886-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-3966-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-3967-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4161-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4201-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4286-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4314-STAN-01"
+        },
+        {
+            "ID": "L4",
+            "PROJECT": "PROJ-ADAF-4319-STAN-01"
+        },
+        {
+            "ID": "PWR",
+            "PROJECT": "PROJ-ADAF-4319-STAN-01"
+        },
+        {
+            "ID": "PWR",
+            "PROJECT": "PROJ-ADAF-4333-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4344-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4366-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4369-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4407-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4413-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4415-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4438-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4464-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4470-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ADAF-4471-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4479-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4480-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4485-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4488-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4494-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4517-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4530-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4535-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4538-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4566-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4570-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4632-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4636-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4681-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4698-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4701-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4712-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4716-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4741-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4754-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4756-STAN-01"
+        },
+        {
+            "ID": "ON",
+            "PROJECT": "PROJ-ADAF-4775-STAN-01"
+        },
+        {
+            "ID": "ON",
+            "PROJECT": "PROJ-ADAF-4800-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4808-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4821-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4829-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4831-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4832-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4836-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4867-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4885-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4886-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4903-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-4903-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4920-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-4980-STAN-01"
+        },
+        {
+            "ID": "ON",
+            "PROJECT": "PROJ-ADAF-4985-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-4991-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5027-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5146-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5159-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5165-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5188-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5190-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-ADAF-5233-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5295-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5296-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5297-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5302-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5309-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5335-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5374-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5396-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-5423-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-5425-STAN-01"
+        },
+        {
+            "ID": "PWR",
+            "PROJECT": "PROJ-SPAR-10025-STAN-01"
+        },
+        {
+            "ID": "USB",
+            "PROJECT": "PROJ-SPAR-10025-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-10050-STAN-01"
+        },
+        {
+            "ID": "STAT",
+            "PROJECT": "PROJ-SPAR-10101-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-10116-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-10124-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10182-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-10182-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-10182-STAN-01"
+        },
+        {
+            "ID": "LED5",
+            "PROJECT": "PROJ-SPAR-10182-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-10274-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10311-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10406-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-10507-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10507-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-10507-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-10507-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-10587-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-10608-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-10661-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-10701-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10740-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10743-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10864-STAN-01"
+        },
+        {
+            "ID": "LED5",
+            "PROJECT": "PROJ-SPAR-10864-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-10878-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-10889-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-10889-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-10914-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-10920-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-10941-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11007-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11044-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-11088-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-11113-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11117-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11168-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-11168-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-11197-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-11197-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-11201-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-11262-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11323-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-11323-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-11373-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-11373-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-11509-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-11520-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-11622-STAN-01"
+        },
+        {
+            "ID": "D4",
+            "PROJECT": "PROJ-SPAR-11622-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-11622-STAN-01"
+        },
+        {
+            "ID": "D6",
+            "PROJECT": "PROJ-SPAR-11622-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11684-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-11697-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-11697-STAN-01"
+        },
+        {
+            "ID": "STAT2",
+            "PROJECT": "PROJ-SPAR-11703-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-11812-STAN-01"
+        },
+        {
+            "ID": "D4",
+            "PROJECT": "PROJ-SPAR-11812-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-11924-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-11927-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-12000-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-12071-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-12072-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-12081-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-12582-STAN-01"
+        },
+        {
+            "ID": "LED7",
+            "PROJECT": "PROJ-SPAR-12651-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-12660-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-12731-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-12772-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-12772-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-12773-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-12847-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-12847-STAN-01"
+        },
+        {
+            "ID": "LED5",
+            "PROJECT": "PROJ-SPAR-12847-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-12849-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-12887-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-12898-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-12935-STAN-01"
+        },
+        {
+            "ID": "D4",
+            "PROJECT": "PROJ-SPAR-12935-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-13058-STAN-01"
+        },
+        {
+            "ID": "D4",
+            "PROJECT": "PROJ-SPAR-13058-STAN-01"
+        },
+        {
+            "ID": "STAT",
+            "PROJECT": "PROJ-SPAR-13183-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-13262-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-13262-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-13311-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-13311-STAN-01"
+        },
+        {
+            "ID": "LED5",
+            "PROJECT": "PROJ-SPAR-13311-STAN-01"
+        },
+        {
+            "ID": "D4",
+            "PROJECT": "PROJ-SPAR-13614-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-13664-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-13672-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-13688-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-13711-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-13712-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-13741-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-13746-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-13830-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-13956-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-14050-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-14051-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-14285-STAN-01"
+        },
+        {
+            "ID": "D8",
+            "PROJECT": "PROJ-SPAR-14285-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED5",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED6",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED7",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED8",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED9",
+            "PROJECT": "PROJ-SPAR-14346-STAN-01"
+        },
+        {
+            "ID": "LED8",
+            "PROJECT": "PROJ-SPAR-14478-STAN-01"
+        },
+        {
+            "ID": "LED9",
+            "PROJECT": "PROJ-SPAR-14478-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-14554-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "LED5",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "LED6",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "LED7",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "LED8",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "LED9",
+            "PROJECT": "PROJ-SPAR-14631-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-14812-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-14916-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-15005-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-15031-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-15050-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-15096-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-15164-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-15217-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-15270-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-15316-STAN-01"
+        },
+        {
+            "ID": "D7",
+            "PROJECT": "PROJ-SPAR-15443-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-15574-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-15801-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-16481-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-16828-STAN-01"
+        },
+        {
+            "ID": "D12",
+            "PROJECT": "PROJ-SPAR-16832-STAN-01"
+        },
+        {
+            "ID": "D12",
+            "PROJECT": "PROJ-SPAR-17272-STAN-01"
+        },
+        {
+            "ID": "D14",
+            "PROJECT": "PROJ-SPAR-17272-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-SPAR-17369-STAN-01"
+        },
+        {
+            "ID": "D8",
+            "PROJECT": "PROJ-SPAR-17369-STAN-01"
+        },
+        {
+            "ID": "D10",
+            "PROJECT": "PROJ-SPAR-17369-STAN-01"
+        },
+        {
+            "ID": "D11",
+            "PROJECT": "PROJ-SPAR-17369-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-17506-STAN-01"
+        },
+        {
+            "ID": "D7",
+            "PROJECT": "PROJ-SPAR-18031-STAN-01"
+        },
+        {
+            "ID": "D12",
+            "PROJECT": "PROJ-SPAR-18031-STAN-01"
+        },
+        {
+            "ID": "D14",
+            "PROJECT": "PROJ-SPAR-18031-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-18088-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-18712-STAN-01"
+        },
+        {
+            "ID": "D6",
+            "PROJECT": "PROJ-SPAR-18712-STAN-01"
+        },
+        {
+            "ID": "D7",
+            "PROJECT": "PROJ-SPAR-18712-STAN-01"
+        },
+        {
+            "ID": "D4",
+            "PROJECT": "PROJ-SPAR-18774-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-SPAR-18774-STAN-01"
+        },
+        {
+            "ID": "D8",
+            "PROJECT": "PROJ-SPAR-18774-STAN-01"
+        },
+        {
+            "ID": "LED_0",
+            "PROJECT": "PROJ-SPAR-19038-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-8245-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-8480-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-8480-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-8661-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-8661-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-8937-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-8937-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-9147-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-SPAR-9266-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-SPAR-9358-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-9713-STAN-01"
+        },
+        {
+            "ID": "USB",
+            "PROJECT": "PROJ-SPAR-9713-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-9716-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-9814-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-9814-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-9814-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-9822-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-9822-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-9873-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-SPAR-9954-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "0603"
@@ -61,8 +1122,17 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C72043",
+            "partName": "20mA 285mcd 3.3V 518nm Colorless transparence -40??~+85?? 520nm~535nm Emerald 120?? 110mW 0603  Light Emitting Diodes (LED) ROHS"
+        }
+    ],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

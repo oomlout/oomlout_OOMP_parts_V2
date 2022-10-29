@@ -2,19 +2,45 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C34499"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
+    ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L0805WW"
+        "L085W"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Hubei KENTO Elec",
+            "partID": "C34499",
+            "partName": "C34499"
+        }
+    ],
     "name": [
         "SMD (0805) White LED"
     ],
@@ -37,11 +63,20 @@
         "details": [
             "oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/detailsInstancesOomp.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/README.md"
         ]
     },
     "oompID": [
@@ -58,8 +93,17 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C34499",
+            "partName": "0805  Light Emitting Diodes (LED) ROHS"
+        }
+    ],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }

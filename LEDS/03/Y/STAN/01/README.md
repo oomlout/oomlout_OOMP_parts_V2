@@ -26,4 +26,6 @@ NO IMAGES
 |Full OOMP ID|oompID|LEDS-03-Y-STAN-01|
 |Hex ID (short code)|hexID|L03YY|
 |name|name|3 mm Yellow LED|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||

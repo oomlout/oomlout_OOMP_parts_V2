@@ -5,7 +5,10 @@
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x11_P3.50mm_Vertical"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -37,6 +40,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/TERS/35D/L/PI11/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/TERS/35D/L/PI11/01/detailsFootprintsOomp.py"
+        ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/TERS/35D/L/PI11/01/detailsInstancesOomp.py"
         ],
@@ -66,6 +72,8 @@
     ],
     "oplPartNumber": [],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x11"
+    ],
     "symbolKicadDetails": []
 }

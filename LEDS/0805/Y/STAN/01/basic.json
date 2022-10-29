@@ -2,19 +2,45 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C2296"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
-    "footprintKicad": [],
+    "footprintEagle": [
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
+    ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
+        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L0805YY"
+        "L085Y"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Hubei KENTO Elec",
+            "partID": "17-21SUYC/TR8",
+            "partName": "17-21SUYC/TR8"
+        }
+    ],
     "name": [
         "SMD (0805) Yellow LED"
     ],
@@ -30,7 +56,84 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "RXLED",
+            "PROJECT": "PROJ-ADAF-0659-STAN-01"
+        },
+        {
+            "ID": "TXLED",
+            "PROJECT": "PROJ-ADAF-0659-STAN-01"
+        },
+        {
+            "ID": "LED4",
+            "PROJECT": "PROJ-ADAF-1272-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ADAF-2078-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ADAF-2267-STAN-01"
+        },
+        {
+            "ID": "RXLED",
+            "PROJECT": "PROJ-ADAF-2466-STAN-01"
+        },
+        {
+            "ID": "TXLED",
+            "PROJECT": "PROJ-ADAF-2466-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-2999-STAN-01"
+        },
+        {
+            "ID": "RXLED",
+            "PROJECT": "PROJ-ADAF-3382-STAN-01"
+        },
+        {
+            "ID": "TXLED",
+            "PROJECT": "PROJ-ADAF-3382-STAN-01"
+        },
+        {
+            "ID": "D1",
+            "PROJECT": "PROJ-ADAF-3458-STAN-01"
+        },
+        {
+            "ID": "D5",
+            "PROJECT": "PROJ-ADAF-3458-STAN-01"
+        },
+        {
+            "ID": "RXLED",
+            "PROJECT": "PROJ-ADAF-3505-STAN-01"
+        },
+        {
+            "ID": "TXLED",
+            "PROJECT": "PROJ-ADAF-3505-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-3654-STAN-01"
+        },
+        {
+            "ID": "RXLED",
+            "PROJECT": "PROJ-ADAF-4000-STAN-01"
+        },
+        {
+            "ID": "TXLED",
+            "PROJECT": "PROJ-ADAF-4000-STAN-01"
+        },
+        {
+            "ID": "RXLED",
+            "PROJECT": "PROJ-ADAF-4064-STAN-01"
+        },
+        {
+            "ID": "TXLED",
+            "PROJECT": "PROJ-ADAF-4064-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "0805"
@@ -38,8 +141,17 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2296",
+            "partName": "Yellow 592~594nm 0805 Light Emitting Diodes (LED) RoHS"
+        }
+    ],
     "rawParts": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ],
     "symbolKicadDetails": []
 }
