@@ -22,6 +22,13 @@ Contents
 	* [MCUU>SC14  (MCU>14 Pin SMD (SOIC))](#mcuusc14--mcu14-pin-smd-soic)
 	* [MCUU>DI14  (MCU>14 Pin DIP)](#mcuudi14--mcu14-pin-dip)
 	* [MCUU>QFN14  (MCU>14 Pin SMD (QFN))](#mcuuqfn14--mcu14-pin-smd-qfn)
+	* [LEDS>0402  (LED>SMD (0402))](#leds0402--ledsmd-0402)
+	* [LEDS>0603  (LED>SMD (0603))](#leds0603--ledsmd-0603)
+	* [LEDS>0805  (LED>SMD (0805))](#leds0805--ledsmd-0805)
+	* [LEDS>03  (LED>3 mm)](#leds03--led3-mm)
+	* [LEDS>05  (LED>5 mm)](#leds05--led5-mm)
+	* [LEDS>10  (LED>10 mm)](#leds10--led10-mm)
+	* [LEDS>XHP70  (LED>XHP 70)](#ledsxhp70--ledxhp-70)
 	* [MOSN>T252  (N-Ch. MOSFET>TO-252)](#mosnt252--n-ch-mosfetto-252)
 	* [REFU>1812  (Resetable Fuse>SMD (1812))](#refu1812--resetable-fusesmd-1812)
 	* [RESA>06038  (Resistor Array>SMD (0603-8))](#resa06038--resistor-arraysmd-0603-8)
@@ -186,6 +193,54 @@ Contents
   
 
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/QFN14/84/ATTINY/01/image_140.jpg)<br>MCUU-QFN14-84-ATTINY-01<br>14 Pin SMD (QFN) ATTiny 84 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/QFN14/84/ATTINY/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## LEDS>0402  (LED>SMD (0402))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/X/STAN/G/image_140.jpg)<br>LEDS-0402-X-STAN-G<br>SMD (0402) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/X/STAN/G/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/X/STAN/L/image_140.jpg)<br>LEDS-0402-X-STAN-L<br>SMD (0402) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/X/STAN/L/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/X/STAN/R/image_140.jpg)<br>LEDS-0402-X-STAN-R<br>SMD (0402) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/X/STAN/R/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/X/STAN/W/image_140.jpg)<br>LEDS-0402-X-STAN-W<br>SMD (0402) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/X/STAN/W/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/X/STAN/Y/image_140.jpg)<br>LEDS-0402-X-STAN-Y<br>SMD (0402) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/X/STAN/Y/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>0603  (LED>SMD (0603))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0603/X/STAN/G/image_140.jpg)<br>LEDS-0603-X-STAN-G<br>SMD (0603) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0603/X/STAN/G/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0603/X/STAN/L/image_140.jpg)<br>LEDS-0603-X-STAN-L<br>SMD (0603) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0603/X/STAN/L/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0603/X/STAN/R/image_140.jpg)<br>LEDS-0603-X-STAN-R<br>SMD (0603) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0603/X/STAN/R/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0603/X/STAN/W/image_140.jpg)<br>LEDS-0603-X-STAN-W<br>SMD (0603) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0603/X/STAN/W/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0603/X/STAN/Y/image_140.jpg)<br>LEDS-0603-X-STAN-Y<br>SMD (0603) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0603/X/STAN/Y/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>0805  (LED>SMD (0805))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/X/STAN/G/image_140.jpg)<br>LEDS-0805-X-STAN-G<br>SMD (0805) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/X/STAN/G/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/X/STAN/L/image_140.jpg)<br>LEDS-0805-X-STAN-L<br>SMD (0805) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/X/STAN/L/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/X/STAN/R/image_140.jpg)<br>LEDS-0805-X-STAN-R<br>SMD (0805) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/X/STAN/R/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/X/STAN/W/image_140.jpg)<br>LEDS-0805-X-STAN-W<br>SMD (0805) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/X/STAN/W/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0805/X/STAN/Y/image_140.jpg)<br>LEDS-0805-X-STAN-Y<br>SMD (0805) LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0805/X/STAN/Y/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>03  (LED>3 mm)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/X/STAN/G/image_140.jpg)<br>LEDS-03-X-STAN-G<br>3 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/X/STAN/G/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/X/STAN/L/image_140.jpg)<br>LEDS-03-X-STAN-L<br>3 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/X/STAN/L/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/X/STAN/R/image_140.jpg)<br>LEDS-03-X-STAN-R<br>3 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/X/STAN/R/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/X/STAN/W/image_140.jpg)<br>LEDS-03-X-STAN-W<br>3 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/X/STAN/W/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/03/X/STAN/Y/image_140.jpg)<br>LEDS-03-X-STAN-Y<br>3 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/03/X/STAN/Y/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>05  (LED>5 mm)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/X/STAN/G/image_140.jpg)<br>LEDS-05-X-STAN-G<br>5 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/X/STAN/G/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/X/STAN/L/image_140.jpg)<br>LEDS-05-X-STAN-L<br>5 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/X/STAN/L/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/X/STAN/R/image_140.jpg)<br>LEDS-05-X-STAN-R<br>5 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/X/STAN/R/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/X/STAN/W/image_140.jpg)<br>LEDS-05-X-STAN-W<br>5 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/X/STAN/W/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/X/STAN/Y/image_140.jpg)<br>LEDS-05-X-STAN-Y<br>5 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/X/STAN/Y/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>10  (LED>10 mm)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/10/X/STAN/G/image_140.jpg)<br>LEDS-10-X-STAN-G<br>10 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/10/X/STAN/G/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/10/X/STAN/L/image_140.jpg)<br>LEDS-10-X-STAN-L<br>10 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/10/X/STAN/L/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/10/X/STAN/R/image_140.jpg)<br>LEDS-10-X-STAN-R<br>10 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/10/X/STAN/R/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/10/X/STAN/W/image_140.jpg)<br>LEDS-10-X-STAN-W<br>10 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/10/X/STAN/W/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/10/X/STAN/Y/image_140.jpg)<br>LEDS-10-X-STAN-Y<br>10 mm LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/10/X/STAN/Y/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## LEDS>XHP70  (LED>XHP 70)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/XHP70/W/CREE/01/image_140.jpg)<br>LEDS-XHP70-W-CREE-01<br>XHP 70 Cree White LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/XHP70/W/CREE/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## MOSN>T252  (N-Ch. MOSFET>TO-252)
