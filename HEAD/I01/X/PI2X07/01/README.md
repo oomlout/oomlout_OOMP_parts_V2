@@ -24,7 +24,7 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x07_P2.54mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x07_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x07_P2.54mm_Vertical/tree/main/)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x07_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x07_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x07_P2.54mm_Vertical/)||||
 | :--- | :--- | :--- | :--- |
 
 ## Symbols
@@ -36,7 +36,7 @@ NO IMAGE
 ## OOMP Instances
   
 
-|[Adafruit Music Maker MP3 Shield PCB<br>PROJ-ADAF-1788-STAN-01<br>MP3GPIO](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1788/STAN/01/tree/main/)||||
+|[Adafruit Music Maker MP3 Shield PCB<br>PROJ-ADAF-1788-STAN-01<br>MP3GPIO](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1788/STAN/01/)||||
 | :--- | :--- | :--- | :--- |
   
 NO IMAGES  

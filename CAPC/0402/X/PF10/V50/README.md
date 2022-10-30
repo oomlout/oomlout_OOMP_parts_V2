@@ -24,7 +24,7 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)|||
 | :--- | :--- | :--- | :--- |
 
 ## Symbols
@@ -36,11 +36,11 @@ Contents
 ## OOMP Instances
   
 
-|[Adafruit CC3000 Breakout PCB<br>PROJ-ADAF-1510-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1510/STAN/01/tree/main/)|[Adafruit CC3000 Shield PCB<br>PROJ-ADAF-1534-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1534/STAN/01/tree/main/)|||
+|[Adafruit CC3000 Breakout PCB<br>PROJ-ADAF-1510-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1510/STAN/01/)|[Adafruit CC3000 Shield PCB<br>PROJ-ADAF-1534-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1534/STAN/01/)|||
 | :--- | :--- | :--- | :--- |
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF10/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF10/V50/tree/main/image.jpg)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF10/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF10/V50/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

@@ -1,0 +1,124 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "H2X20"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "2.54 mm 40 Pin (2x20) Header"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI2X20"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/detailsFootprintsOomp.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X20/01/full.json"
+        ]
+    },
+    "oompID": [
+        "HEAD-I01-X-PI2X20-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ADAF-1325-STAN-01"
+        },
+        {
+            "ID": "JP3",
+            "PROJECT": "PROJ-ADAF-2298-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-3211-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-3346-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-3467-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-3531-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-4037-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-4074-STAN-01"
+        },
+        {
+            "ID": "RPI1",
+            "PROJECT": "PROJ-ADAF-4757-STAN-01"
+        },
+        {
+            "ID": "JP2",
+            "PROJECT": "PROJ-SPAR-13717-STAN-01"
+        },
+        {
+            "ID": "J1",
+            "PROJECT": "PROJ-SPAR-15316-STAN-01"
+        },
+        {
+            "ID": "J2",
+            "PROJECT": "PROJ-SPAR-17512-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "I01"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

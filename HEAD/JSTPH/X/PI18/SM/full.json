@@ -6,6 +6,7 @@
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -50,6 +51,12 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI18/SM/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI18/SM/full.json"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI18/SM/README.md"
         ]
     },
     "oompID": [

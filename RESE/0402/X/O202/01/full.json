@@ -12,6 +12,7 @@
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
+    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder"
@@ -120,6 +121,14 @@
         {
             "ID": "R12",
             "PROJECT": "PROJ-SPAR-17354-STAN-01"
+        },
+        {
+            "ID": "R13",
+            "PROJECT": "PROJ-SPAR-18712-STAN-01"
+        },
+        {
+            "ID": "R28",
+            "PROJECT": "PROJ-SPAR-18712-STAN-01"
         }
     ],
     "oompParts": [],

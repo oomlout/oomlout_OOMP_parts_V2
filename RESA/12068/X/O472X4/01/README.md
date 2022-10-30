@@ -40,7 +40,7 @@ Contents
 | :--- | :--- | :--- | :--- |
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESA/12068/X/O472X4/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESA/12068/X/O472X4/01/tree/main/image.jpg)||||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESA/12068/X/O472X4/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESA/12068/X/O472X4/01/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
