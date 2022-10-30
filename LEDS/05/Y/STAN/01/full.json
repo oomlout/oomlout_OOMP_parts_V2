@@ -77,7 +77,20 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10570-STAN-01"
+        },
+        {
+            "ID": "LED3",
+            "PROJECT": "PROJ-SPAR-10570-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10618-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "05"

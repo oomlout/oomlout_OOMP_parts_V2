@@ -1,0 +1,148 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "HPH3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
+        }
+    ],
+    "name": [
+        "3 Pin Header"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI03"
+    ],
+    "oompID": [
+        "HEAD-JSTPH-X-PI03-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "SENSE",
+            "PROJECT": "PROJ-ADAF-3885-STAN-01"
+        },
+        {
+            "ID": "NEOPIXEL",
+            "PROJECT": "PROJ-ADAF-3900-STAN-01"
+        },
+        {
+            "ID": "PIR",
+            "PROJECT": "PROJ-ADAF-3900-STAN-01"
+        },
+        {
+            "ID": "NEO",
+            "PROJECT": "PROJ-ADAF-3988-STAN-01"
+        },
+        {
+            "ID": "NEOPIX1",
+            "PROJECT": "PROJ-ADAF-4300-STAN-01"
+        },
+        {
+            "ID": "SENSE1",
+            "PROJECT": "PROJ-ADAF-4300-STAN-01"
+        },
+        {
+            "ID": "NEOPIX",
+            "PROJECT": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
+            "ID": "SENSE",
+            "PROJECT": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
+            "ID": "LEFT",
+            "PROJECT": "PROJ-ADAF-4367-STAN-01"
+        },
+        {
+            "ID": "RIGHT",
+            "PROJECT": "PROJ-ADAF-4367-STAN-01"
+        },
+        {
+            "ID": "X4",
+            "PROJECT": "PROJ-ADAF-4409-STAN-01"
+        },
+        {
+            "ID": "LEFT",
+            "PROJECT": "PROJ-ADAF-4428-STAN-01"
+        },
+        {
+            "ID": "RIGHT",
+            "PROJECT": "PROJ-ADAF-4428-STAN-01"
+        },
+        {
+            "ID": "X4",
+            "PROJECT": "PROJ-ADAF-4686-STAN-01"
+        },
+        {
+            "ID": "SENSE",
+            "PROJECT": "PROJ-ADAF-4745-STAN-01"
+        },
+        {
+            "ID": "NEOPIX",
+            "PROJECT": "PROJ-ADAF-4757-STAN-01"
+        },
+        {
+            "ID": "SENSE",
+            "PROJECT": "PROJ-ADAF-4800-STAN-01"
+        },
+        {
+            "ID": "SENSE1",
+            "PROJECT": "PROJ-ADAF-4800-STAN-01"
+        },
+        {
+            "ID": "NEOPIX",
+            "PROJECT": "PROJ-ADAF-4863-STAN-01"
+        },
+        {
+            "ID": "SENSE",
+            "PROJECT": "PROJ-ADAF-4863-STAN-01"
+        },
+        {
+            "ID": "SENSE",
+            "PROJECT": "PROJ-ADAF-4985-STAN-01"
+        },
+        {
+            "ID": "SENSE1",
+            "PROJECT": "PROJ-ADAF-4985-STAN-01"
+        },
+        {
+            "ID": "SENSE3",
+            "PROJECT": "PROJ-ADAF-4985-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "JSTPH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03"
+    ],
+    "symbolKicadDetails": []
+}

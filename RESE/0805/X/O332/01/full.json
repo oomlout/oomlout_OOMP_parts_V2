@@ -95,7 +95,16 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1429-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-1918-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "0805"

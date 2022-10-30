@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "HPH11"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
+        }
+    ],
+    "name": [
+        "11 Pin Header (SMD)"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI11"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/detailsFootprintsOomp.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/basic.json"
+        ]
+    },
+    "oompID": [
+        "HEAD-JSTPH-X-PI11-SM"
+    ],
+    "oompIndex": [
+        "SM"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "JSTPH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11"
+    ],
+    "symbolKicadDetails": []
+}

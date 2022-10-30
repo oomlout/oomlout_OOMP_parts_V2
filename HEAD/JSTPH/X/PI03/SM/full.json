@@ -1,0 +1,78 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "HPH3"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
+        }
+    ],
+    "name": [
+        "3 Pin Header (SMD)"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI03"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/"
+        ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/details.csv"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/details.csv"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/detailsFootprintsOomp.py"
+        ],
+        "detailsInstancesOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/detailsInstancesOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/SM/basic.json"
+        ]
+    },
+    "oompID": [
+        "HEAD-JSTPH-X-PI03-SM"
+    ],
+    "oompIndex": [
+        "SM"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "JSTPH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03"
+    ],
+    "symbolKicadDetails": []
+}
