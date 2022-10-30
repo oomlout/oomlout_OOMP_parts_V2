@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x19_P2.54mm_Vertical|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
@@ -53,4 +53,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X19-SHRO|
 |Hex ID (short code)|hexID|H2X19SH|
 |name|name|2.54 mm 38 Pin (2x19) Header Shrouded (IDC)|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x19_P2.54mm_Vertical|
 ||||

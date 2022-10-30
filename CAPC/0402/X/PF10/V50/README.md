@@ -24,20 +24,20 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit CC3000 Breakout PCB<br>PROJ-ADAF-1510-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1510/STAN/01/)|[Adafruit CC3000 Shield PCB<br>PROJ-ADAF-1534-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1534/STAN/01/)|||
-| :--- | :--- | :--- | :--- |
+|[Adafruit CC3000 Breakout PCB<br>PROJ-ADAF-1510-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1510/STAN/01/)|[Adafruit CC3000 Shield PCB<br>PROJ-ADAF-1534-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1534/STAN/01/)||
+| :--- | :--- | :--- |
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF10/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF10/V50/image.jpg)||||

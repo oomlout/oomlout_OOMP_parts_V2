@@ -24,22 +24,22 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit MPR121 PCB<br>PROJ-ADAF-1982-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1982/STAN/01/)|[Adafruit MPM3610 PCB<br>PROJ-ADAF-4683-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4683/STAN/01/)|[Adafruit MPM3610 PCB<br>PROJ-ADAF-4683-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4683/STAN/01/)|[Touch Shield<br>PROJ-SPAR-12013-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12013/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[MPR121 Capacitive Touch Keypad<br>PROJ-SPAR-12017-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12017/STAN/01/)|[LTC4150 Coulomb Counter BOB<br>PROJ-SPAR-12052-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12052/STAN/01/)|[LTC4150 Coulomb Counter BOB<br>PROJ-SPAR-12052-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12052/STAN/01/)|[MPR121 Capacitive Touch Breakout<br>PROJ-SPAR-9695-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9695/STAN/01/)|
-|||||
+|[Adafruit MPR121 PCB<br>PROJ-ADAF-1982-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1982/STAN/01/)|[Adafruit MPM3610 PCB<br>PROJ-ADAF-4683-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4683/STAN/01/)|[Adafruit MPM3610 PCB<br>PROJ-ADAF-4683-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4683/STAN/01/)|
+| :--- | :--- | :--- |
+|[Touch Shield<br>PROJ-SPAR-12013-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12013/STAN/01/)|[MPR121 Capacitive Touch Keypad<br>PROJ-SPAR-12017-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12017/STAN/01/)|[LTC4150 Coulomb Counter BOB<br>PROJ-SPAR-12052-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12052/STAN/01/)|
+|[LTC4150 Coulomb Counter BOB<br>PROJ-SPAR-12052-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12052/STAN/01/)|[MPR121 Capacitive Touch Breakout<br>PROJ-SPAR-9695-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9695/STAN/01/)||
   
 NO IMAGES  
 ## Tags

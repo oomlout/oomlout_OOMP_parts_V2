@@ -24,25 +24,27 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|![]()<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R|
-| :--- | :--- | :--- | :--- |
-|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV|
-|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|![]()<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W|
+| :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|
+|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|
+|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit AR1100 Resistive Touch Controller PCB<br>PROJ-ADAF-1580-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1580/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|
-|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|[Adafruit DPI Kippah PCB<br>PROJ-ADAF-2453-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2453/STAN/01/)|[Adafruit DPI Kippah PCB<br>PROJ-ADAF-2453-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2453/STAN/01/)|
-|[Adafruit DPI Kippah PCB<br>PROJ-ADAF-2453-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2453/STAN/01/)|[Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB<br>PROJ-ADAF-3305-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3305/STAN/01/)|||
+|[Adafruit AR1100 Resistive Touch Controller PCB<br>PROJ-ADAF-1580-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1580/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|
+| :--- | :--- | :--- |
+|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|
+|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|
+|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1752/STAN/01/)|[Adafruit DPI Kippah PCB<br>PROJ-ADAF-2453-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2453/STAN/01/)|[Adafruit DPI Kippah PCB<br>PROJ-ADAF-2453-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2453/STAN/01/)|
+|[Adafruit DPI Kippah PCB<br>PROJ-ADAF-2453-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/2453/STAN/01/)|[Adafruit 50pin to 40pin TFT with AR1100 Adapter PCB<br>PROJ-ADAF-3305-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/3305/STAN/01/)||
   
 NO IMAGES  
 ## Tags

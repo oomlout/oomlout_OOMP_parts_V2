@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM19B-SRSS-TB_1x19-1MP_P1.00mm_Vertical||||
-| :--- | :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM19B-SRSS-TB_1x19-1MP_P1.00mm_Vertical|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x19_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x19_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x19/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x19/)||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

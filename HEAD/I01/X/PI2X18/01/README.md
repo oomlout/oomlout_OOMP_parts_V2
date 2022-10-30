@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x18_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x18_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x18_P2.54mm_Vertical/)|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit Grand Central PCB<br>PROJ-ADAF-4064-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4064/STAN/01/)||||
-| :--- | :--- | :--- | :--- |
+|[Adafruit Grand Central PCB<br>PROJ-ADAF-4064-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4064/STAN/01/)|||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
@@ -53,5 +53,6 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X18-01|
 |Hex ID (short code)|hexID|H2X18|
 |name|name|2.54 mm 36 Pin (2x18) Header|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x18_P2.54mm_Vertical|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4064-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP2'</td></tr></table>|
 ||||

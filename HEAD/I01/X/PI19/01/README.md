@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x19_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x19_P2.54mm_Vertical/)||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x19_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x19_P2.54mm_Vertical/)|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x19_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x19_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x19/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x19/)||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[IOIO OTG<br>PROJ-SPAR-11343-STAN-01<br>JP20](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11343/STAN/01/)||||
-| :--- | :--- | :--- | :--- |
+|[IOIO OTG<br>PROJ-SPAR-11343-STAN-01<br>JP20](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11343/STAN/01/)|||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

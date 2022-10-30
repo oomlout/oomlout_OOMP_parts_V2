@@ -24,20 +24,21 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[INA169 Breakout<br>PROJ-SPAR-12040-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12040/STAN/01/)|[MicroMod Input and Display Carrier<br>PROJ-SPAR-16985-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9034/STAN/01/)||
-| :--- | :--- | :--- | :--- |
+|[INA169 Breakout<br>PROJ-SPAR-12040-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12040/STAN/01/)|[MicroMod Input and Display Carrier<br>PROJ-SPAR-16985-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9034/STAN/01/)|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

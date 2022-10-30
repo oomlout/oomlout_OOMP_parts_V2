@@ -24,23 +24,24 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10116/STAN/01/)|[Lipo Charger Basic miniUSB<br>PROJ-SPAR-10401-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10401/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|
-|[EL Sequencer<br>PROJ-SPAR-11323-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11323/STAN/01/)|[EL Sequencer<br>PROJ-SPAR-11323-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11323/STAN/01/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17354/STAN/01/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18712/STAN/01/)|
-|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R28](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18712/STAN/01/)||||
+|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10116/STAN/01/)|[Lipo Charger Basic miniUSB<br>PROJ-SPAR-10401-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10401/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|
+| :--- | :--- | :--- |
+|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|
+|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11129/STAN/01/)|[EL Sequencer<br>PROJ-SPAR-11323-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11323/STAN/01/)|
+|[EL Sequencer<br>PROJ-SPAR-11323-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11323/STAN/01/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17354/STAN/01/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18712/STAN/01/)|
+|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R28](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18712/STAN/01/)|||
   
 NO IMAGES  
 ## Tags

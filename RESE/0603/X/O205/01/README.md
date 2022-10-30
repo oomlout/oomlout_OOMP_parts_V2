@@ -24,21 +24,21 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit PyRuler PCB<br>PROJ-ADAF-4319-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4319/STAN/01/)|[Adafruit MCP9601 PCB<br>PROJ-ADAF-5165-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5165/STAN/01/)|[LiPower Boost Converter<br>PROJ-SPAR-10255-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10255/STAN/01/)|[LiPower Boost Converter<br>PROJ-SPAR-10255-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10255/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[LiPower Shield<br>PROJ-SPAR-13158-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13158/STAN/01/)||||
+|[Adafruit PyRuler PCB<br>PROJ-ADAF-4319-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4319/STAN/01/)|[Adafruit MCP9601 PCB<br>PROJ-ADAF-5165-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5165/STAN/01/)|[LiPower Boost Converter<br>PROJ-SPAR-10255-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10255/STAN/01/)|
+| :--- | :--- | :--- |
+|[LiPower Boost Converter<br>PROJ-SPAR-10255-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10255/STAN/01/)|[LiPower Shield<br>PROJ-SPAR-13158-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13158/STAN/01/)||
   
 NO IMAGES  
 ## Tags

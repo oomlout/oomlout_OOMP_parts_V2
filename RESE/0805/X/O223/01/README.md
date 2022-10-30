@@ -24,22 +24,23 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|![]()<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R|
-| :--- | :--- | :--- | :--- |
-|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV|
-|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|![]()<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W|
+| :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|
+|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV|![]()<br>FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805|
+|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit MAX4466 Electret Mic Amplifier PCBs<br>PROJ-ADAF-1063-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1063/STAN/01/)|[Adafruit Bluefruit LE nRF8001 PCB<br>PROJ-ADAF-1697-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1697/STAN/01/)|||
-| :--- | :--- | :--- | :--- |
+|[Adafruit MAX4466 Electret Mic Amplifier PCBs<br>PROJ-ADAF-1063-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1063/STAN/01/)|[Adafruit Bluefruit LE nRF8001 PCB<br>PROJ-ADAF-1697-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1697/STAN/01/)||
+| :--- | :--- | :--- |
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O223/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O223/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O223/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O223/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O223/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O223/01/image_RE.jpg)||

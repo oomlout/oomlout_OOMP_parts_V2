@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Vertical/)||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x07_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x07_P2.54mm_Vertical/)|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

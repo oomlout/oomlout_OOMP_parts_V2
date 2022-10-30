@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x01_P2.54mm_Vertical||||
-| :--- | :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x01_P2.54mm_Vertical|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -24,20 +24,21 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Color Light Sensor Evaluation Board<br>PROJ-SPAR-10701-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10701/STAN/01/)|[Color Light Sensor Evaluation Board<br>PROJ-SPAR-10701-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10701/STAN/01/)|[PoEthernet Shield<br>PROJ-SPAR-10864-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10864/STAN/01/)||
-| :--- | :--- | :--- | :--- |
+|[Color Light Sensor Evaluation Board<br>PROJ-SPAR-10701-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10701/STAN/01/)|[Color Light Sensor Evaluation Board<br>PROJ-SPAR-10701-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10701/STAN/01/)|[PoEthernet Shield<br>PROJ-SPAR-10864-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10864/STAN/01/)|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

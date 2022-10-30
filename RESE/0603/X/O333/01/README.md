@@ -24,21 +24,21 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Venus GPS Logger SMA<br>PROJ-SPAR-10920-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10920/STAN/01/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12958/STAN/01/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12958/STAN/01/)|[L6470 AutoDriver<br>PROJ-SPAR-13752-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13752/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[SparkFun WiFi Function Board ESP32<br>PROJ-SPAR-18430-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18430/STAN/01/)||||
+|[Venus GPS Logger SMA<br>PROJ-SPAR-10920-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10920/STAN/01/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12958/STAN/01/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/12958/STAN/01/)|
+| :--- | :--- | :--- |
+|[L6470 AutoDriver<br>PROJ-SPAR-13752-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13752/STAN/01/)|[SparkFun WiFi Function Board ESP32<br>PROJ-SPAR-18430-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18430/STAN/01/)||
   
 NO IMAGES  
 ## Tags

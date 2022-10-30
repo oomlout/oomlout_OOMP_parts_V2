@@ -24,22 +24,23 @@ Contents
 ## Footprints
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit ADXL345 PCB<br>PROJ-ADAF-1231-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1231/STAN/01/)|[ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev A<br>PROJ-ADAF-1231-STAN-0A<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1231/STAN/0A/)|[ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev C<br>PROJ-ADAF-1231-STAN-0C<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1231/STAN/0C/)|[Adafruit ADXL343 PCB<br>PROJ-ADAF-4097-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4097/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[Adafruit ADXL375 PCB<br>PROJ-ADAF-5374-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5374/STAN/01/)|[IMU Digital Combo Board<br>PROJ-SPAR-10121-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10121/STAN/01/)|[IMU Fusion Board<br>PROJ-SPAR-10252-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10252/STAN/01/)|[ADXL345 Eval<br>PROJ-SPAR-9814-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9814/STAN/01/)|
-|[ADXL345 Breakout<br>PROJ-SPAR-9836-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9836/STAN/01/)||||
+|[Adafruit ADXL345 PCB<br>PROJ-ADAF-1231-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1231/STAN/01/)|[ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev A<br>PROJ-ADAF-1231-STAN-0A<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1231/STAN/0A/)|[ADXL345 - Triple-Axis Accelerometer (+-2g/4g/8g/16g) Rev C<br>PROJ-ADAF-1231-STAN-0C<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1231/STAN/0C/)|
+| :--- | :--- | :--- |
+|[Adafruit ADXL343 PCB<br>PROJ-ADAF-4097-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/4097/STAN/01/)|[Adafruit ADXL375 PCB<br>PROJ-ADAF-5374-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5374/STAN/01/)|[IMU Digital Combo Board<br>PROJ-SPAR-10121-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10121/STAN/01/)|
+|[IMU Fusion Board<br>PROJ-SPAR-10252-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10252/STAN/01/)|[ADXL345 Eval<br>PROJ-SPAR-9814-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9814/STAN/01/)|[ADXL345 Breakout<br>PROJ-SPAR-9836-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9836/STAN/01/)|
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_RE.jpg)||

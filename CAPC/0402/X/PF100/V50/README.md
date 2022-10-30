@@ -24,22 +24,23 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit QT Py ESP32 S2 PCB<br>PROJ-ADAF-5325-STAN-01<br>C16](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5325/STAN/01/)|[nRF52832 Breakout<br>PROJ-SPAR-13990-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13990/STAN/01/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>C18](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C33](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C61](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C67](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C68](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[Low Current Sensor Breakout ACS712<br>PROJ-SPAR-8883-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8883/STAN/01/)|
-|[OpAmp Breakout LMV358<br>PROJ-SPAR-9816-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9816/STAN/01/)|[OpAmp Breakout LMV358<br>PROJ-SPAR-9816-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9816/STAN/01/)|[Electret Microphone Breakout<br>PROJ-SPAR-9964-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9964/STAN/01/)||
+|[Adafruit QT Py ESP32 S2 PCB<br>PROJ-ADAF-5325-STAN-01<br>C16](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5325/STAN/01/)|[nRF52832 Breakout<br>PROJ-SPAR-13990-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13990/STAN/01/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>C18](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|
+| :--- | :--- | :--- |
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C33](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C61](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C67](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C68](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[Low Current Sensor Breakout ACS712<br>PROJ-SPAR-8883-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8883/STAN/01/)|[OpAmp Breakout LMV358<br>PROJ-SPAR-9816-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9816/STAN/01/)|
+|[OpAmp Breakout LMV358<br>PROJ-SPAR-9816-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9816/STAN/01/)|[Electret Microphone Breakout<br>PROJ-SPAR-9964-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9964/STAN/01/)||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF100/V50/image.jpg)||||

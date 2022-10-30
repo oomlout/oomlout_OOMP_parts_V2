@@ -24,22 +24,23 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18712/STAN/01/)|[SparkFun GNSS Timing ZED F9T<br>PROJ-SPAR-18774-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18774/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|
-|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)||
+|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|
+| :--- | :--- | :--- |
+|[Papilio Audio Wing<br>PROJ-SPAR-11568-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11568/STAN/01/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18712/STAN/01/)|[SparkFun GNSS Timing ZED F9T<br>PROJ-SPAR-18774-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18774/STAN/01/)|
+|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|
+|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O332/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O332/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O332/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O332/01/image_BOTTOM.jpg)|||

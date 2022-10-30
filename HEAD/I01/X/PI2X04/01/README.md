@@ -24,20 +24,20 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x04_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x04_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x04_P2.54mm_Vertical/)||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x04_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x04_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x04_P2.54mm_Vertical/)|||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit MAX98306 Class D Amp PCB<br>PROJ-ADAF-0987-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0987/STAN/01/)||||
-| :--- | :--- | :--- | :--- |
+|[Adafruit MAX98306 Class D Amp PCB<br>PROJ-ADAF-0987-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0987/STAN/01/)|||
+| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

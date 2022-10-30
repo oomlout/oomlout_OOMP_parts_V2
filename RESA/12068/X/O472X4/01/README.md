@@ -24,20 +24,20 @@ Contents
 ## Footprints
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESA/12068/X/O472X4/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESA/12068/X/O472X4/01/image.jpg)||||

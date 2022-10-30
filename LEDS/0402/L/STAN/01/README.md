@@ -24,20 +24,20 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|||||
-| :--- | :--- | :--- | :--- |
+||||
+| :--- | :--- | :--- |
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/L/STAN/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/L/STAN/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/0402/L/STAN/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/0402/L/STAN/01/image_BOTTOM.jpg)|||

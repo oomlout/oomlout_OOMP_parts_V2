@@ -24,23 +24,25 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0152/STAN/01/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0691/STAN/01/)|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0705/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C30](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C31](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C32](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C33](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[SparkFun GPS Dead Reckoning ZED F9R<br>PROJ-SPAR-16344-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16344/STAN/01/)|
-|[SparkFun GPS Dead Reckoning ZED F9R<br>PROJ-SPAR-16344-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16344/STAN/01/)|[SparkFun GPS Dead Reckoning PHat ZED F9R<br>PROJ-SPAR-16475-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|[SparkFun GPS Dead Reckoning PHat ZED F9R<br>PROJ-SPAR-16475-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|[SparkFun GNSS Dead Reckoning ZED F9K<br>PROJ-SPAR-18719-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18719/STAN/01/)|
-|[SparkFun GNSS Dead Reckoning ZED F9K<br>PROJ-SPAR-18719-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18719/STAN/01/)|[Low Current Sensor Breakout ACS712<br>PROJ-SPAR-8883-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8883/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)||
+|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0152/STAN/01/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0691/STAN/01/)|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0705/STAN/01/)|
+| :--- | :--- | :--- |
+|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C30](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C31](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C32](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|
+|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C33](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|[SparkFun GPS Dead Reckoning ZED F9R<br>PROJ-SPAR-16344-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16344/STAN/01/)|[SparkFun GPS Dead Reckoning ZED F9R<br>PROJ-SPAR-16344-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16344/STAN/01/)|
+|[SparkFun GPS Dead Reckoning PHat ZED F9R<br>PROJ-SPAR-16475-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|[SparkFun GPS Dead Reckoning PHat ZED F9R<br>PROJ-SPAR-16475-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|[SparkFun GNSS Dead Reckoning ZED F9K<br>PROJ-SPAR-18719-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18719/STAN/01/)|
+|[SparkFun GNSS Dead Reckoning ZED F9K<br>PROJ-SPAR-18719-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18719/STAN/01/)|[Low Current Sensor Breakout ACS712<br>PROJ-SPAR-8883-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8883/STAN/01/)|[ColorLCDShield<br>PROJ-SPAR-9363-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9363/STAN/01/)|
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/NF1/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF1/V50/image.jpg)||||

@@ -24,22 +24,23 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit QT Py ESP32 Pico PCB<br>PROJ-ADAF-5395-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5395/STAN/01/)|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0152/STAN/01/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0691/STAN/01/)|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0705/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17354/STAN/01/)|[ESP32 Thing Plus U.FL<br>PROJ-SPAR-17381-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17381/STAN/01/)|[ESP32 S2 Thing Plus<br>PROJ-SPAR-17743-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17743/STAN/01/)|
-|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9034/STAN/01/)|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9954/STAN/01/)|||
+|[Adafruit QT Py ESP32 Pico PCB<br>PROJ-ADAF-5395-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5395/STAN/01/)|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0152/STAN/01/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0691/STAN/01/)|
+| :--- | :--- | :--- |
+|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/0705/STAN/01/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17354/STAN/01/)|
+|[ESP32 Thing Plus U.FL<br>PROJ-SPAR-17381-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17381/STAN/01/)|[ESP32 S2 Thing Plus<br>PROJ-SPAR-17743-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17743/STAN/01/)|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9034/STAN/01/)|
+|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9954/STAN/01/)|||
   
 NO IMAGES  
 ## Tags

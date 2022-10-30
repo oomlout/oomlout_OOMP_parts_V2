@@ -24,21 +24,22 @@ Contents
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5100/STAN/01/)|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5100/STAN/01/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[ArtemisDevKit<br>PROJ-SPAR-16828-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16828/STAN/01/)|[ArtemisDevKit<br>PROJ-SPAR-16828-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16828/STAN/01/)|||
+|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5100/STAN/01/)|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/5100/STAN/01/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|
+| :--- | :--- | :--- |
+|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|[ArtemisDevKit<br>PROJ-SPAR-16828-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16828/STAN/01/)|[ArtemisDevKit<br>PROJ-SPAR-16828-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16828/STAN/01/)|
+||||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF12/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF12/V50/image.jpg)||||

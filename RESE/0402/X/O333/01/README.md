@@ -24,23 +24,25 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)||
+| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
-| :--- | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+| :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Venus GPS SMA Connector<br>PROJ-SPAR-11058-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11058/STAN/01/)|[Gyro Breakout LPY503AL<br>PROJ-SPAR-11341-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11341/STAN/01/)|[Gyro Breakout LPY503AL<br>PROJ-SPAR-11341-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11341/STAN/01/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|
-| :--- | :--- | :--- | :--- |
-|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17354/STAN/01/)|[ESP32 Thing Plus U.FL<br>PROJ-SPAR-17381-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17381/STAN/01/)|[ESP32 S2 Thing Plus<br>PROJ-SPAR-17743-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17743/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
-|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R59](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R60](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R61](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
-|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R62](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R63](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R64](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)||
+|[Venus GPS SMA Connector<br>PROJ-SPAR-11058-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11058/STAN/01/)|[Gyro Breakout LPY503AL<br>PROJ-SPAR-11341-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11341/STAN/01/)|[Gyro Breakout LPY503AL<br>PROJ-SPAR-11341-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11341/STAN/01/)|
+| :--- | :--- | :--- |
+|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17354/STAN/01/)|[ESP32 Thing Plus U.FL<br>PROJ-SPAR-17381-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17381/STAN/01/)|
+|[ESP32 S2 Thing Plus<br>PROJ-SPAR-17743-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17743/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R59](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R60](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R61](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R62](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R63](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R64](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
+||||
   
 NO IMAGES  
 ## Tags
