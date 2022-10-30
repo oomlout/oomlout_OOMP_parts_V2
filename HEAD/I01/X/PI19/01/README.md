@@ -27,6 +27,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|H19|
 |name|name|2.54 mm 19 Pin Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11343-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP20'</td></tr></table>|
 ||||

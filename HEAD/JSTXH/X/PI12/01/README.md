@@ -27,6 +27,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|HXH12|
 |name|name|JST XH (2.5 mm) 12 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=136'</td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B12B-XH-AM_1x12_P2.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B12B-XH-AM_1x12_P2.50mm_Vertical', 'FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B12B-XH-A_1x12_P2.50mm_Vertical'|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12'|
 ||||

@@ -3,14 +3,14 @@
 
   
 NO IMAGE  
-# R085O1501 > SMD (0805) 1M Ohm Resistor
+# R8O1501 > SMD (0805) 1M Ohm Resistor
 
 - ID: RESE-0805-X-O105-01
-- Hex ID: R085O1501
+- Hex ID: R8O1501
 - Name: SMD (0805) 1M Ohm Resistor
 - Description: SMD (0805) 1M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O105-01](http://oom.lt/RESE-0805-X-O105-01)
-- Short Link: [http://oom.lt/R085O1501](http://oom.lt/R085O1501)
+- Short Link: [http://oom.lt/R8O1501](http://oom.lt/R8O1501)
   
 NO IMAGES  
 ## Tags
@@ -24,12 +24,12 @@ NO IMAGES
 |OOMP Description|oompDesc|O105|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0805-X-O105-01|
-|Hex ID (short code)|hexID|R085O1501|
+|Hex ID (short code)|hexID|R8O1501|
 |name|name|SMD (0805) 1M Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0805W8F1004T5E'</td><td> 'partName'</td></tr><tr><td> '0805W8F1004T5E'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C17514'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C17514'</td><td> 'partName'</td></tr><tr><td> '125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 1M?? 0805  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1063-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1063-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1063-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1381-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1590-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1778-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1788-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1918-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2133-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2190-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2190-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2200-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2200-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3006-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3435-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3573-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R1'</td></tr></table>|
 ||||

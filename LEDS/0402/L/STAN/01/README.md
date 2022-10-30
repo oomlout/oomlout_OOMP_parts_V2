@@ -29,7 +29,7 @@
 |Full OOMP ID|oompID|LEDS-0402-L-STAN-01|
 |Hex ID (short code)|hexID|L4LL|
 |name|name|SMD (0402) Blue LED|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||
 

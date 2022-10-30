@@ -29,6 +29,6 @@ NO IMAGES
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0402WGF3003TCE'</td><td> 'partName'</td></tr><tr><td> '0402WGF3003TCE'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C25774'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C25774'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??100ppm/?? ??1% -55??~+155?? 300k?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||

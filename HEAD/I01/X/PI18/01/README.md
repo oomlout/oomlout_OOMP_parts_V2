@@ -30,8 +30,8 @@
 |Hex ID (short code)|hexID|H18|
 |name|name|2.54 mm 18 Pin Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x18_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0782-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table>|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18'|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0782-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3147-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13632-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP4'</td></tr></table>|
 ||||
 
 

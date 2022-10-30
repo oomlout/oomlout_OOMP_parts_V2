@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI02-RS|
 |Hex ID (short code)|hexID|H2RS|
 |name|name|2.54 mm 2 Pin Header Right Angle (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02'|
 ||||

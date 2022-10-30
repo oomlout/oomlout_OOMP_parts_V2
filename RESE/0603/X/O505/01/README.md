@@ -3,14 +3,14 @@
 
   
 NO IMAGE  
-# R063O5501 > SMD (0603) 5M Ohm Resistor
+# R6O5501 > SMD (0603) 5M Ohm Resistor
 
 - ID: RESE-0603-X-O505-01
-- Hex ID: R063O5501
+- Hex ID: R6O5501
 - Name: SMD (0603) 5M Ohm Resistor
 - Description: SMD (0603) 5M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O505-01](http://oom.lt/RESE-0603-X-O505-01)
-- Short Link: [http://oom.lt/R063O5501](http://oom.lt/R063O5501)
+- Short Link: [http://oom.lt/R6O5501](http://oom.lt/R6O5501)
   
 NO IMAGES  
 ## Tags
@@ -24,11 +24,11 @@ NO IMAGES
 |OOMP Description|oompDesc|O505|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|RESE-0603-X-O505-01|
-|Hex ID (short code)|hexID|R063O5501|
+|Hex ID (short code)|hexID|R6O5501|
 |name|name|SMD (0603) 5M Ohm Resistor|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'UNI-ROYAL(Uniroyal Elec)'</td><td> 'partID'</td></tr><tr><td> '0603WAF1504T5E'</td><td> 'partName'</td></tr><tr><td> '0603WAF1504T5E'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C4172'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C4172'</td><td> 'partName'</td></tr><tr><td> '100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 1.5M?? 0603  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric', 'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||

@@ -26,5 +26,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI11-RS|
 |Hex ID (short code)|hexID|H11RS|
 |name|name|2.54 mm 11 Pin Header Right Angle (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11'|
 ||||

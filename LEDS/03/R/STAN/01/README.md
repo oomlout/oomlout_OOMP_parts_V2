@@ -29,7 +29,7 @@
 |Full OOMP ID|oompID|LEDS-03-R-STAN-01|
 |Hex ID (short code)|hexID|L03RR|
 |name|name|3 mm Red LED|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||
 

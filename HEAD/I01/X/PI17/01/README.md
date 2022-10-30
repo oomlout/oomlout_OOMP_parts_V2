@@ -27,6 +27,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|H17|
 |name|name|2.54 mm 17 Pin Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x17_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13717-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table>|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x17'|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13717-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13717-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13990-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13990-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J4'</td></tr></table>|
 ||||

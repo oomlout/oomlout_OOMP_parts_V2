@@ -26,7 +26,7 @@ NO IMAGES
 |Full OOMP ID|oompID|LEDS-0402-R-STAN-01|
 |Hex ID (short code)|hexID|L4RR|
 |name|name|SMD (0402) Red LED|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-19764-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D1'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-19764-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-19921-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-20170-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D1'</td></tr></table>|
 ||||
