@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C4N10016 > SMD (0402) 100 nF Capacitor (Ceramic) 16v](#c4n10016--smd-0402-100-nf-capacitor-ceramic-16v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C4N10016 > SMD (0402) 100 nF Capacitor (Ceramic) 16v
@@ -11,9 +20,27 @@
 - Description: SMD (0402) 100 nF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V16](http://oom.lt/CAPC-0402-X-NF100-V16)
 - Short Link: [http://oom.lt/C4N10016](http://oom.lt/C4N10016)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/NF100/V16/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/NF100/V16/image.jpg)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/tree/main/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -38,4 +65,4 @@
 
 
 
-[im]: CAPC/0402/X/NF100/V16/image_450.jpg
+[im]: image_450.jpg

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH13 > JST SH (1 mm) 13 Pin Header Right Angle (SMD)](#hsh13--jst-sh-1-mm-13-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH13 > JST SH (1 mm) 13 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 13 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI13-RS](http://oom.lt/HEAD-JSTSH-X-PI13-RS)
 - Short Link: [http://oom.lt/HSH13](http://oom.lt/HSH13)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

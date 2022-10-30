@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C4U263D > SMD (0402) 2 uF Capacitor (Ceramic) 6.3v](#c4u263d--smd-0402-2-uf-capacitor-ceramic-63v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # C4U263D > SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF2-V63D](http://oom.lt/CAPC-0402-X-UF2-V63D)
 - Short Link: [http://oom.lt/C4U263D](http://oom.lt/C4U263D)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

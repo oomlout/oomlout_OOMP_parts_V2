@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O153 > SMD (0603) 15k Ohm Resistor](#r6o153--smd-0603-15k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R6O153 > SMD (0603) 15k Ohm Resistor
@@ -11,9 +20,28 @@
 - Description: SMD (0603) 15k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O153-01](http://oom.lt/RESE-0603-X-O153-01)
 - Short Link: [http://oom.lt/R6O153](http://oom.lt/R6O153)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O153/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O153/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O153/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O153/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O153/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O153/01/image_RE.jpg)||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Purpletooth Jamboree<br>PROJ-SPAR-11924-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11924/STAN/01/tree/main/)|[Purpletooth Jamboree<br>PROJ-SPAR-11924-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11924/STAN/01/tree/main/)|[Purpletooth Jamboree<br>PROJ-SPAR-11924-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11924/STAN/01/tree/main/)|[Purpletooth Jamboree<br>PROJ-SPAR-11924-STAN-01<br>R22](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11924/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O153/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O153/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O153/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O153/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O153/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O153/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +67,4 @@
 
 
 
-[im]: RESE/0603/X/O153/01/image_450.jpg
+[im]: image_450.jpg

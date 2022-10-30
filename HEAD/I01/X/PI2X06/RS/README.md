@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X6RS > 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)](#h2x6rs--254-mm-12-pin-2x6-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X6RS > 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 12 Pin (2x6) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-RS](http://oom.lt/HEAD-I01-X-PI2X06-RS)
 - Short Link: [http://oom.lt/H2X6RS](http://oom.lt/H2X6RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

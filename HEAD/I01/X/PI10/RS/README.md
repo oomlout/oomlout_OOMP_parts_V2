@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H10RS > 2.54 mm 10 Pin Header Right Angle (SMD)](#h10rs--254-mm-10-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H10RS > 2.54 mm 10 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 10 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI10-RS](http://oom.lt/HEAD-I01-X-PI10-RS)
 - Short Link: [http://oom.lt/H10RS](http://oom.lt/H10RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x10|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

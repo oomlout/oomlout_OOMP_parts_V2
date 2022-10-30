@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C6N5 > SMD (0603) 5 nF Capacitor (Ceramic) 50v](#c6n5--smd-0603-5-nf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # C6N5 > SMD (0603) 5 nF Capacitor (Ceramic) 50v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (0603) 5 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF5-V50](http://oom.lt/CAPC-0603-X-NF5-V50)
 - Short Link: [http://oom.lt/C6N5](http://oom.lt/C6N5)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

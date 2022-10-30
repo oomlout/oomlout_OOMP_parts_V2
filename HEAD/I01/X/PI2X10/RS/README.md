@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X10RS > 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)](#h2x10rs--254-mm-20-pin-2x10-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X10RS > 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 20 Pin (2x10) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-RS](http://oom.lt/HEAD-I01-X-PI2X10-RS)
 - Short Link: [http://oom.lt/H2X10RS](http://oom.lt/H2X10RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

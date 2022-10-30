@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH8 > JST SH (1 mm) 8 Pin Header (SMD)](#hsh8--jst-sh-1-mm-8-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH8 > JST SH (1 mm) 8 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 8 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI08-SM](http://oom.lt/HEAD-JSTSH-X-PI08-SM)
 - Short Link: [http://oom.lt/HSH8](http://oom.lt/HSH8)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM08B-SRSS-TB_1x08-1MP_P1.00mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

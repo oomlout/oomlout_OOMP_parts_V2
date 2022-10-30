@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [SEN345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor](#sen345--14-pin-smd-lga-digital-accelerometer-adxl345-sensor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # SEN345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
@@ -11,9 +20,27 @@
 - Description: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
 - Long Link: [http://oom.lt/SENS-LG14-X-K345-01](http://oom.lt/SENS-LG14-X-K345-01)
 - Short Link: [http://oom.lt/SEN345](http://oom.lt/SEN345)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_RE.jpg)||
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -33,4 +60,4 @@
 
 
 
-[im]: SENS/LG14/X/K345/01/image_450.jpg
+[im]: image_450.jpg

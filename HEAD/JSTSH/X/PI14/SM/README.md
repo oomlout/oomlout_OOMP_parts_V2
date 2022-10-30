@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH14 > JST SH (1 mm) 14 Pin Header (SMD)](#hsh14--jst-sh-1-mm-14-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH14 > JST SH (1 mm) 14 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 14 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI14-SM](http://oom.lt/HEAD-JSTSH-X-PI14-SM)
 - Short Link: [http://oom.lt/HSH14](http://oom.lt/HSH14)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM14B-SRSS-TB_1x14-1MP_P1.00mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM14B-SRSS-TB_1x14-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM14B-SRSS-TB_1x14-1MP_P1.00mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

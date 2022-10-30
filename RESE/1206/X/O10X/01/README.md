@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R12O10X > SMD (1206) 1 Ohm Resistor](#r12o10x--smd-1206-1-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R12O10X > SMD (1206) 1 Ohm Resistor
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (1206) 1 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O10X-01](http://oom.lt/RESE-1206-X-O10X-01)
 - Short Link: [http://oom.lt/R12O10X](http://oom.lt/R12O10X)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

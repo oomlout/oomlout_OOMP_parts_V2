@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C6U10 > SMD (0603) 10 uF Capacitor (Ceramic) 25v](#c6u10--smd-0603-10-uf-capacitor-ceramic-25v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # C6U10 > SMD (0603) 10 uF Capacitor (Ceramic) 25v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (0603) 10 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF10-V25](http://oom.lt/CAPC-0603-X-UF10-V25)
 - Short Link: [http://oom.lt/C6U10](http://oom.lt/C6U10)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

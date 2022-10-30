@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O301 > SMD (0603) 300 Ohm Resistor](#r6o301--smd-0603-300-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O301 > SMD (0603) 300 Ohm Resistor
@@ -11,9 +20,33 @@ NO IMAGE
 - Description: SMD (0603) 300 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O301-01](http://oom.lt/RESE-0603-X-O301-01)
 - Short Link: [http://oom.lt/R6O301](http://oom.lt/R6O301)
+
+## Footprints
   
 
-|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O301/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O301/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O301/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O301/01/image_RE.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|
+|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|
+|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|
+|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[Digital Sandbox<br>PROJ-SPAR-12651-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12651/STAN/01/tree/main/)|[Digital Sandbox<br>PROJ-SPAR-12651-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12651/STAN/01/tree/main/)|[Digital Sandbox<br>PROJ-SPAR-12651-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12651/STAN/01/tree/main/)|
+|[Digital Sandbox<br>PROJ-SPAR-12651-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12651/STAN/01/tree/main/)|[Digital Sandbox<br>PROJ-SPAR-12651-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12651/STAN/01/tree/main/)|[Digital Sandbox<br>PROJ-SPAR-12651-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12651/STAN/01/tree/main/)|[Photon RedBoard<br>PROJ-SPAR-13321-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13321/STAN/01/tree/main/)|
+|[Photon RedBoard<br>PROJ-SPAR-13321-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13321/STAN/01/tree/main/)||||
+  
+
+|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O301/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O301/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O301/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O301/01/tree/main/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

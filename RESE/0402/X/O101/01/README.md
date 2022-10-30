@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O101 > SMD (0402) 100 Ohm Resistor](#r4o101--smd-0402-100-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R4O101 > SMD (0402) 100 Ohm Resistor
@@ -11,9 +20,30 @@
 - Description: SMD (0402) 100 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O101-01](http://oom.lt/RESE-0402-X-O101-01)
 - Short Link: [http://oom.lt/R4O101](http://oom.lt/R4O101)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O101/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O101/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O101/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O101/01/image_BOTTOM.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10116/STAN/01/tree/main/)|[Color Light Sensor Evaluation Board<br>PROJ-SPAR-10701-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10701/STAN/01/tree/main/)|[OBD II UART<br>PROJ-SPAR-10769-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10769/STAN/01/tree/main/)|[OBD II UART<br>PROJ-SPAR-10769-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10769/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[ProtoSnap Pro Mini<br>PROJ-SPAR-10889-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/)|[ProtoSnap Pro Mini<br>PROJ-SPAR-10889-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/)|[AVR ISP Shield<br>PROJ-SPAR-11168-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11168/STAN/01/tree/main/)|[ProtoSnap LilyPad Development Board<br>PROJ-SPAR-11262-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11262/STAN/01/tree/main/)|
+|[ProtoSnap LilyPad Development Board<br>PROJ-SPAR-11262-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11262/STAN/01/tree/main/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18712/STAN/01/tree/main/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18712/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>R26](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|
+|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>R27](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>R28](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[QRE1113 Line Sensor Breakout Digital<br>PROJ-SPAR-9454-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9454/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O101/01/tree/main/image_BOTTOM.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +69,4 @@
 
 
 
-[im]: RESE/0402/X/O101/01/image_450.jpg
+[im]: image_450.jpg

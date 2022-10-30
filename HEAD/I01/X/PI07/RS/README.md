@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H7RS > 2.54 mm 7 Pin Header Right Angle (SMD)](#h7rs--254-mm-7-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H7RS > 2.54 mm 7 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 7 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI07-RS](http://oom.lt/HEAD-I01-X-PI07-RS)
 - Short Link: [http://oom.lt/H7RS](http://oom.lt/H7RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

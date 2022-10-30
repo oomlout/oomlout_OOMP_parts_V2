@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH16 > JST SH (1 mm) 16 Pin Header (SMD)](#hsh16--jst-sh-1-mm-16-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH16 > JST SH (1 mm) 16 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 16 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI16-SM](http://oom.lt/HEAD-JSTSH-X-PI16-SM)
 - Short Link: [http://oom.lt/HSH16](http://oom.lt/HSH16)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM16B-SRSS-TB_1x16-1MP_P1.00mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

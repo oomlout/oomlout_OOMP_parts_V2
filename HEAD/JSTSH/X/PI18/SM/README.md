@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH18 > JST SH (1 mm) 18 Pin Header (SMD)](#hsh18--jst-sh-1-mm-18-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH18 > JST SH (1 mm) 18 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 18 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI18-SM](http://oom.lt/HEAD-JSTSH-X-PI18-SM)
 - Short Link: [http://oom.lt/HSH18](http://oom.lt/HSH18)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM18B-SRSS-TB_1x18-1MP_P1.00mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

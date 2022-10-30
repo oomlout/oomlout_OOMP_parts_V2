@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H12RS > 2.54 mm 12 Pin Header Right Angle (SMD)](#h12rs--254-mm-12-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H12RS > 2.54 mm 12 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 12 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI12-RS](http://oom.lt/HEAD-I01-X-PI12-RS)
 - Short Link: [http://oom.lt/H12RS](http://oom.lt/H12RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

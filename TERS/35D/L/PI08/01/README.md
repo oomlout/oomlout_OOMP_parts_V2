@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L8 > 3.5 mm 8 Pin Blue Screw Terminal](#t35l8--35-mm-8-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L8 > 3.5 mm 8 Pin Blue Screw Terminal
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 3.5 mm 8 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI08-01](http://oom.lt/TERS-35D-L-PI08-01)
 - Short Link: [http://oom.lt/T35L8](http://oom.lt/T35L8)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x08_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x08||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[ProtoScrewShield<br>PROJ-SPAR-9729-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9729/STAN/01/tree/main/)|[ProtoScrewShield<br>PROJ-SPAR-9729-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9729/STAN/01/tree/main/)|[ProtoScrewShield<br>PROJ-SPAR-9729-STAN-01<br>JP5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9729/STAN/01/tree/main/)||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

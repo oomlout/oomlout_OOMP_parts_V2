@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [L10LL > 10 mm Blue LED](#l10ll--10-mm-blue-led)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # L10LL > 10 mm Blue LED
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 10 mm Blue LED
 - Long Link: [http://oom.lt/LEDS-10-L-STAN-01](http://oom.lt/LEDS-10-L-STAN-01)
 - Short Link: [http://oom.lt/L10LL](http://oom.lt/L10LL)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

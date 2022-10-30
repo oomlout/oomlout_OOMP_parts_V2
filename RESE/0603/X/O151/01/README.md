@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O151 > SMD (0603) 150 Ohm Resistor](#r6o151--smd-0603-150-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O151 > SMD (0603) 150 Ohm Resistor
@@ -11,6 +20,30 @@ NO IMAGE
 - Description: SMD (0603) 150 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O151-01](http://oom.lt/RESE-0603-X-O151-01)
 - Short Link: [http://oom.lt/R6O151](http://oom.lt/R6O151)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|[LilyPad LED Rainbow<br>PROJ-SPAR-13903-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13903/STAN/01/tree/main/)|[LilyPad LED 5pcs<br>PROJ-SPAR-14010-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14010/STAN/01/tree/main/)|
+|[LilyPad LED 5pcs<br>PROJ-SPAR-14010-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14010/STAN/01/tree/main/)|[LilyPad LED 5pcs<br>PROJ-SPAR-14010-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14010/STAN/01/tree/main/)|[LilyPad LED 5pcs<br>PROJ-SPAR-14010-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14010/STAN/01/tree/main/)|[LilyPad LED 5pcs<br>PROJ-SPAR-14010-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14010/STAN/01/tree/main/)|
+|[LilyPad LilyMini ProtoSnap<br>PROJ-SPAR-14063-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14063/STAN/01/tree/main/)|[LilyPad LilyMini ProtoSnap<br>PROJ-SPAR-14063-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14063/STAN/01/tree/main/)|[LilyPad LilyMini ProtoSnap<br>PROJ-SPAR-14063-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14063/STAN/01/tree/main/)|[LilyPad LilyMini ProtoSnap<br>PROJ-SPAR-14063-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14063/STAN/01/tree/main/)|
+|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R27](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R28](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R31](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R32](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|
+|[LilyPad E Sewing Kit<br>PROJ-SPAR-14546-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/tree/main/)|[LilyPad E Sewing Kit<br>PROJ-SPAR-14546-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/tree/main/)|[LilyPad E Sewing Kit<br>PROJ-SPAR-14546-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14546/STAN/01/tree/main/)|[gator color<br>PROJ-SPAR-14890-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14890/STAN/01/tree/main/)|
+|[gator color<br>PROJ-SPAR-14890-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14890/STAN/01/tree/main/)||||
   
 NO IMAGES  
 ## Tags

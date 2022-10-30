@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C4P22 > SMD (0402) 22 pF Capacitor (Ceramic) 50v](#c4p22--smd-0402-22-pf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C4P22 > SMD (0402) 22 pF Capacitor (Ceramic) 50v
@@ -11,9 +20,35 @@
 - Description: SMD (0402) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF22-V50](http://oom.lt/CAPC-0402-X-PF22-V50)
 - Short Link: [http://oom.lt/C4P22](http://oom.lt/C4P22)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF22/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF22/V50/image.jpg)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit ItsyBitsy RP2040 PCB<br>PROJ-ADAF-4888-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4888/STAN/01/tree/main/)|[Adafruit ItsyBitsy RP2040 PCB<br>PROJ-ADAF-4888-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4888/STAN/01/tree/main/)|[Adafruit QT Py RP2040 PCB<br>PROJ-ADAF-4900-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4900/STAN/01/tree/main/)|[Adafruit QT Py RP2040 PCB<br>PROJ-ADAF-4900-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4900/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit KB2040 PCB<br>PROJ-ADAF-5302-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5302/STAN/01/tree/main/)|[Adafruit KB2040 PCB<br>PROJ-ADAF-5302-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5302/STAN/01/tree/main/)|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0152/STAN/01/tree/main/)|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0152/STAN/01/tree/main/)|
+|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0152/STAN/01/tree/main/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0691/STAN/01/tree/main/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0691/STAN/01/tree/main/)|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0705/STAN/01/tree/main/)|
+|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0705/STAN/01/tree/main/)|[USB Bit Whacker 18F2553<br>PROJ-SPAR-0762-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0762/STAN/01/tree/main/)|[USB Bit Whacker 18F2553<br>PROJ-SPAR-0762-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0762/STAN/01/tree/main/)|[DeadOn RTC<br>PROJ-SPAR-10160-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10160/STAN/01/tree/main/)|
+|[RFID Evaluation Shield<br>PROJ-SPAR-10406-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/tree/main/)|[RFID Evaluation Shield<br>PROJ-SPAR-10406-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10406/STAN/01/tree/main/)|[Music Instrument Shield<br>PROJ-SPAR-10587-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10587/STAN/01/tree/main/)|[Music Instrument Shield<br>PROJ-SPAR-10587-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10587/STAN/01/tree/main/)|
+|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11013/STAN/01/tree/main/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>C12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11013/STAN/01/tree/main/)|[Venus GPS SMA Connector<br>PROJ-SPAR-11058-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11058/STAN/01/tree/main/)|[FM Tuner Basic Breakout Si4703<br>PROJ-SPAR-11083-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11083/STAN/01/tree/main/)|
+|[FM Tuner Basic Breakout Si4703<br>PROJ-SPAR-11083-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11083/STAN/01/tree/main/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11129/STAN/01/tree/main/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11129/STAN/01/tree/main/)|[ATmega128RFA1 Dev<br>PROJ-SPAR-11197-STAN-01<br>C11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11197/STAN/01/tree/main/)|
+|[STM32 Thing Plus<br>PROJ-SPAR-17712-STAN-01<br>C18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17712/STAN/01/tree/main/)|[STM32 Thing Plus<br>PROJ-SPAR-17712-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17712/STAN/01/tree/main/)|[MicroMod STM32 Processor<br>PROJ-SPAR-17713-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17713/STAN/01/tree/main/)|[MicroMod STM32 Processor<br>PROJ-SPAR-17713-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17713/STAN/01/tree/main/)|
+|[On Screen Display Breakout MAX7456<br>PROJ-SPAR-9168-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9168/STAN/01/tree/main/)|[On Screen Display Breakout MAX7456<br>PROJ-SPAR-9168-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9168/STAN/01/tree/main/)|||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF22/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF22/V50/tree/main/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +74,4 @@
 
 
 
-[im]: CAPC/0402/X/PF22/V50/image_450.jpg
+[im]: image_450.jpg

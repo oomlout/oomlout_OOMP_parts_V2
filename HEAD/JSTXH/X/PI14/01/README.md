@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HXH14 > JST XH (2.5 mm) 14 Pin Header](#hxh14--jst-xh-25-mm-14-pin-header)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HXH14 > JST XH (2.5 mm) 14 Pin Header
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST XH (2.5 mm) 14 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI14-01](http://oom.lt/HEAD-JSTXH-X-PI14-01)
 - Short Link: [http://oom.lt/HXH14](http://oom.lt/HXH14)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-AM_1x14_P2.50mm_Vertical|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B14B-XH-A_1x14_P2.50mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B14B-XH-A_1x14_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B14B-XH-A_1x14_P2.50mm_Vertical/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

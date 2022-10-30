@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HXH6 > JST XH (2.5 mm) 6 Pin Header](#hxh6--jst-xh-25-mm-6-pin-header)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HXH6 > JST XH (2.5 mm) 6 Pin Header
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST XH (2.5 mm) 6 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI06-01](http://oom.lt/HEAD-JSTXH-X-PI06-01)
 - Short Link: [http://oom.lt/HXH6](http://oom.lt/HXH6)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B6B-XH-AM_1x06_P2.50mm_Vertical/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B6B-XH-A_1x06_P2.50mm_Vertical/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

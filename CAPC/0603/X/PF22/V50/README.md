@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C6P22 > SMD (0603) 22 pF Capacitor (Ceramic) 50v](#c6p22--smd-0603-22-pf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C6P22 > SMD (0603) 22 pF Capacitor (Ceramic) 50v
@@ -11,9 +20,41 @@
 - Description: SMD (0603) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF22-V50](http://oom.lt/CAPC-0603-X-PF22-V50)
 - Short Link: [http://oom.lt/C6P22](http://oom.lt/C6P22)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF22/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF22/V50/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF22/V50/image_RE.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit Feather M0 Basic Proto PCB<br>PROJ-ADAF-2772-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2772/STAN/01/tree/main/)|[Adafruit Feather M0 Basic Proto PCB<br>PROJ-ADAF-2772-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2772/STAN/01/tree/main/)|[Adafruit Feather M0 Adalogger PCB<br>PROJ-ADAF-2796-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2796/STAN/01/tree/main/)|[Adafruit Feather M0 Adalogger PCB<br>PROJ-ADAF-2796-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2796/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit Feather M0 Bluefruit LE PCB<br>PROJ-ADAF-2995-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2995/STAN/01/tree/main/)|[Adafruit Feather M0 Bluefruit LE PCB<br>PROJ-ADAF-2995-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2995/STAN/01/tree/main/)|[Adafruit Feather M0 RFM LoRa PCB<br>PROJ-ADAF-3178-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3178/STAN/01/tree/main/)|[Adafruit Feather M0 RFM LoRa PCB<br>PROJ-ADAF-3178-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3178/STAN/01/tree/main/)|
+|[Adafruit Ethernet FeatherWing PCB<br>PROJ-ADAF-3201-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3201/STAN/01/tree/main/)|[Adafruit Ethernet FeatherWing PCB<br>PROJ-ADAF-3201-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3201/STAN/01/tree/main/)|[Adafruit Music Maker FeatherWing PCB<br>PROJ-ADAF-3357-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3357/STAN/01/tree/main/)|[Adafruit Music Maker FeatherWing PCB<br>PROJ-ADAF-3357-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3357/STAN/01/tree/main/)|
+|[Adafruit Metro M4 Express PCB<br>PROJ-ADAF-3382-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3382/STAN/01/tree/main/)|[Adafruit Metro M4 Express PCB<br>PROJ-ADAF-3382-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3382/STAN/01/tree/main/)|[Adafruit Feather M0 Express PCB<br>PROJ-ADAF-3403-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3403/STAN/01/tree/main/)|[Adafruit Feather M0 Express PCB<br>PROJ-ADAF-3403-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3403/STAN/01/tree/main/)|
+|[Adafruit Feather M4 Express PCB<br>PROJ-ADAF-3857-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3857/STAN/01/tree/main/)|[Adafruit Feather M4 Express PCB<br>PROJ-ADAF-3857-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3857/STAN/01/tree/main/)|[Adafruit Metro M4 Express AirLift PCB<br>PROJ-ADAF-4000-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4000/STAN/01/tree/main/)|[Adafruit Metro M4 Express AirLift PCB<br>PROJ-ADAF-4000-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4000/STAN/01/tree/main/)|
+|[Adafruit Grand Central PCB<br>PROJ-ADAF-4064-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4064/STAN/01/tree/main/)|[Adafruit Grand Central PCB<br>PROJ-ADAF-4064-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4064/STAN/01/tree/main/)|[Adafruit ItsyBitsy nRF52840 Express PCB<br>PROJ-ADAF-4481-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4481/STAN/01/tree/main/)|[Adafruit ItsyBitsy nRF52840 Express PCB<br>PROJ-ADAF-4481-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4481/STAN/01/tree/main/)|
+|[Adafruit BNO08x PCB<br>PROJ-ADAF-4754-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4754/STAN/01/tree/main/)|[Adafruit BNO08x PCB<br>PROJ-ADAF-4754-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4754/STAN/01/tree/main/)|[Adafruit Feather M4 CAN PCB<br>PROJ-ADAF-4759-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4759/STAN/01/tree/main/)|[Adafruit Feather M4 CAN PCB<br>PROJ-ADAF-4759-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4759/STAN/01/tree/main/)|
+|[Adafruit Trinkey QT2040 PCB<br>PROJ-ADAF-5056-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5056/STAN/01/tree/main/)|[Adafruit Trinkey QT2040 PCB<br>PROJ-ADAF-5056-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5056/STAN/01/tree/main/)|[Venus GPS Logger SMA<br>PROJ-SPAR-10920-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10920/STAN/01/tree/main/)|[Fio v3<br>PROJ-SPAR-11520-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11520/STAN/01/tree/main/)|
+|[Fio v3<br>PROJ-SPAR-11520-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11520/STAN/01/tree/main/)|[Copernicus II DIP Module<br>PROJ-SPAR-11858-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11858/STAN/01/tree/main/)|[MP3 Player Shield<br>PROJ-SPAR-12660-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12660/STAN/01/tree/main/)|[MP3 Player Shield<br>PROJ-SPAR-12660-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12660/STAN/01/tree/main/)|
+|[Logomatic<br>PROJ-SPAR-12772-STAN-01<br>C13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12772/STAN/01/tree/main/)|[Logomatic<br>PROJ-SPAR-12772-STAN-01<br>C14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12772/STAN/01/tree/main/)|[Logomatic<br>PROJ-SPAR-12772-STAN-01<br>C15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12772/STAN/01/tree/main/)|[Logomatic<br>PROJ-SPAR-12772-STAN-01<br>C16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12772/STAN/01/tree/main/)|
+|[Si4703 FM Tuner Evaluation Board<br>PROJ-SPAR-12938-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12938/STAN/01/tree/main/)|[Si4703 FM Tuner Evaluation Board<br>PROJ-SPAR-12938-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12938/STAN/01/tree/main/)|[CAN Bus Shield<br>PROJ-SPAR-13262-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13262/STAN/01/tree/main/)|[CAN Bus Shield<br>PROJ-SPAR-13262-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13262/STAN/01/tree/main/)|
+|[MP3 Trigger<br>PROJ-SPAR-13720-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13720/STAN/01/tree/main/)|[MP3 Trigger<br>PROJ-SPAR-13720-STAN-01<br>C10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13720/STAN/01/tree/main/)|[Lil Soundie Audio Player<br>PROJ-SPAR-14006-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14006/STAN/01/tree/main/)|[Lil Soundie Audio Player<br>PROJ-SPAR-14006-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14006/STAN/01/tree/main/)|
+|[MaKeyMaKey<br>PROJ-SPAR-14478-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14478/STAN/01/tree/main/)|[MaKeyMaKey<br>PROJ-SPAR-14478-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14478/STAN/01/tree/main/)|[Pioneer IoT Kit Shield<br>PROJ-SPAR-14531-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14531/STAN/01/tree/main/)|[Papa Soundie Audio Player<br>PROJ-SPAR-14554-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14554/STAN/01/tree/main/)|
+|[Papa Soundie Audio Player<br>PROJ-SPAR-14554-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14554/STAN/01/tree/main/)|[https://github.com/sparkfunX/Qwiic IMU BNO080<br>PROJ-SPAR-14686-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14686/STAN/01/tree/main/)|[https://github.com/sparkfunX/Qwiic IMU BNO080<br>PROJ-SPAR-14686-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14686/STAN/01/tree/main/)|[Pocket AVR Programmer<br>PROJ-SPAR-9825-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9825/STAN/01/tree/main/)|
+|[Pocket AVR Programmer<br>PROJ-SPAR-9825-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9825/STAN/01/tree/main/)||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF22/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF22/V50/tree/main/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF22/V50/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF22/V50/tree/main/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +80,4 @@
 
 
 
-[im]: CAPC/0603/X/PF22/V50/image_450.jpg
+[im]: image_450.jpg

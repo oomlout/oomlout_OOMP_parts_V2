@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH18 > JST SH (1 mm) 18 Pin Header Right Angle (SMD)](#hsh18--jst-sh-1-mm-18-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH18 > JST SH (1 mm) 18 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 18 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI18-RS](http://oom.lt/HEAD-JSTSH-X-PI18-RS)
 - Short Link: [http://oom.lt/HSH18](http://oom.lt/HSH18)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

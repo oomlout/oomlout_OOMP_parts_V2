@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O510 > SMD (0603) 51 Ohm Resistor](#r6o510--smd-0603-51-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O510 > SMD (0603) 51 Ohm Resistor
@@ -11,9 +20,37 @@ NO IMAGE
 - Description: SMD (0603) 51 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O510-01](http://oom.lt/RESE-0603-X-O510-01)
 - Short Link: [http://oom.lt/R6O510](http://oom.lt/R6O510)
+
+## Footprints
   
 
-|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O510/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O510/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O510/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O510/01/image_RE.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit NAU7802 PCB<br>PROJ-ADAF-4538-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4538/STAN/01/tree/main/)|[Adafruit NAU7802 PCB<br>PROJ-ADAF-4538-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4538/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|
+|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|
+|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R22](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R23](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R26](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R28](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R29](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R31](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R32](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R34](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R35](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R37](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R38](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R40](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)|
+|[Adafruit EyeLights LED Glasses and Driver PCB<br>PROJ-ADAF-5217-STAN-01<br>R41](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5217/STAN/01/tree/main/)||||
+  
+
+|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O510/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O510/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O510/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O510/01/tree/main/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

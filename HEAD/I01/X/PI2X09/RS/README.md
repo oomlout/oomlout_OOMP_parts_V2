@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X9RS > 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)](#h2x9rs--254-mm-18-pin-2x9-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X9RS > 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X09-RS](http://oom.lt/HEAD-I01-X-PI2X09-RS)
 - Short Link: [http://oom.lt/H2X9RS](http://oom.lt/H2X9RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

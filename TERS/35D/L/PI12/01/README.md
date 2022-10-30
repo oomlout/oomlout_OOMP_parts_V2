@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L12 > 3.5 mm 12 Pin Blue Screw Terminal](#t35l12--35-mm-12-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L12 > 3.5 mm 12 Pin Blue Screw Terminal
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 3.5 mm 12 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI12-01](http://oom.lt/TERS-35D-L-PI12-01)
 - Short Link: [http://oom.lt/T35L12](http://oom.lt/T35L12)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x12_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x12||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

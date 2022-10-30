@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H4RS > 2.54 mm 4 Pin Header Right Angle (SMD)](#h4rs--254-mm-4-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H4RS > 2.54 mm 4 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 4 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI04-RS](http://oom.lt/HEAD-I01-X-PI04-RS)
 - Short Link: [http://oom.lt/H4RS](http://oom.lt/H4RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

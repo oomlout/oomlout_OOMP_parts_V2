@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R12O100 > SMD (1206) 10 Ohm Resistor](#r12o100--smd-1206-10-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R12O100 > SMD (1206) 10 Ohm Resistor
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (1206) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O100-01](http://oom.lt/RESE-1206-X-O100-01)
 - Short Link: [http://oom.lt/R12O100](http://oom.lt/R12O100)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_1206_3216Metric_Pad1.30x1.75mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[INA169 Breakout<br>PROJ-SPAR-12040-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12040/STAN/01/tree/main/)|[MicroMod Input and Display Carrier<br>PROJ-SPAR-16985-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16985/STAN/01/tree/main/)|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9034/STAN/01/tree/main/)||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

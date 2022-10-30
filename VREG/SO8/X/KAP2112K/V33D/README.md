@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [VR2112833 > SO-8 AP2112K Voltage Regulator 3.3v](#vr2112833--so-8-ap2112k-voltage-regulator-33v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # VR2112833 > SO-8 AP2112K Voltage Regulator 3.3v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SO-8 AP2112K Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V33D](http://oom.lt/VREG-SO8-X-KAP2112K-V33D)
 - Short Link: [http://oom.lt/VR2112833](http://oom.lt/VR2112833)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

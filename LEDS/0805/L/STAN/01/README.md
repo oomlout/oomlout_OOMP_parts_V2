@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [L0805LL > SMD (0805) Blue LED](#l0805ll--smd-0805-blue-led)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # L0805LL > SMD (0805) Blue LED
@@ -11,6 +20,31 @@ NO IMAGE
 - Description: SMD (0805) Blue LED
 - Long Link: [http://oom.lt/LEDS-0805-L-STAN-01](http://oom.lt/LEDS-0805-L-STAN-01)
 - Short Link: [http://oom.lt/L0805LL](http://oom.lt/L0805LL)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder/tree/main/)|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R|
+| :--- | :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805|
+|||||
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit Bluefruit Classic PCBs<br>PROJ-ADAF-1588-STAN-01<br>LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1588/STAN/01/tree/main/)|[Adafruit Bluefruit Classic PCBs<br>PROJ-ADAF-1588-STAN-01<br>LED4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1588/STAN/01/tree/main/)|[Adafruit Bluefruit EZ Link Shield PCB<br>PROJ-ADAF-1628-STAN-01<br>LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1628/STAN/01/tree/main/)|[Adafruit Bluefruit EZ Link Shield PCB<br>PROJ-ADAF-1628-STAN-01<br>LED4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1628/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit PowerBoost 500 Charger PCB<br>PROJ-ADAF-1944-STAN-01<br>PWR](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1944/STAN/01/tree/main/)|[Adafruit FONA 800 GSM Breakout PCB<br>PROJ-ADAF-1963-STAN-01<br>NETSTAT](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1963/STAN/01/tree/main/)|[Adafruit PowerBoost 500 Shield PCB<br>PROJ-ADAF-2078-STAN-01<br>LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2078/STAN/01/tree/main/)|[Adafruit TFP401 HDMI To 40Pin TFT PCB<br>PROJ-ADAF-2218-STAN-01<br>LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2218/STAN/01/tree/main/)|
+|[Adafruit 5 HDMI Backpack PCB<br>PROJ-ADAF-2260-STAN-01<br>LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2260/STAN/01/tree/main/)|[Adafruit Bluefruit LE USB Friend and Sniffer PCB<br>PROJ-ADAF-2267-STAN-01<br>LED4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2267/STAN/01/tree/main/)|[Adafruit 7 HDMI Backpack PCB<br>PROJ-ADAF-2406-STAN-01<br>LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2406/STAN/01/tree/main/)|[Adafruit PowerBoost 1000C<br>PROJ-ADAF-2465-STAN-01<br>LED2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2465/STAN/01/tree/main/)|
+|[Adafruit FONA 800 Shield PCB<br>PROJ-ADAF-2468-STAN-01<br>NETSTAT](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2468/STAN/01/tree/main/)|[Adafruit Flora Bluefruit LE PCB<br>PROJ-ADAF-2487-STAN-01<br>D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2487/STAN/01/tree/main/)|[Adafruit FONA 808 Breakout PCB<br>PROJ-ADAF-2542-STAN-01<br>PWRSTAT](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2542/STAN/01/tree/main/)|[Adafruit Bluefruit LE SPI Friend PCB<br>PROJ-ADAF-2633-STAN-01<br>D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2633/STAN/01/tree/main/)|
+|[Adafruit FONA808 Shield PCB<br>PROJ-ADAF-2636-STAN-01<br>NETSTAT](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2636/STAN/01/tree/main/)|[Adafruit Bluefruit LE Micro PCB<br>PROJ-ADAF-2661-STAN-01<br>D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2661/STAN/01/tree/main/)|[Adafruit Bluefruit LE Shield PCB<br>PROJ-ADAF-2746-STAN-01<br>D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2746/STAN/01/tree/main/)|[Adafruit Feather 32u4 Bluefruit LE PCB<br>PROJ-ADAF-2829-STAN-01<br>D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2829/STAN/01/tree/main/)|
+|[Adafruit Feather M0 Bluefruit LE PCB<br>PROJ-ADAF-2995-STAN-01<br>D3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2995/STAN/01/tree/main/)|[Adafruit Feather 32u4 FONA PCB<br>PROJ-ADAF-3027-STAN-01<br>NETSTAT](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3027/STAN/01/tree/main/)|||
   
 NO IMAGES  
 ## Tags
@@ -26,7 +60,7 @@ NO IMAGES
 |Full OOMP ID|oompID|LEDS-0805-L-STAN-01|
 |Hex ID (short code)|hexID|L0805LL|
 |name|name|SMD (0805) Blue LED|
-|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1588-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1588-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1628-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1628-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1944-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'PWR'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1963-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'NETSTAT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2078-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2218-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2260-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2267-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2406-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2465-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2468-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'NETSTAT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2487-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2542-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'PWRSTAT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2633-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2636-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'NETSTAT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2661-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2746-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2829-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2995-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'D3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3027-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'NETSTAT'</td></tr></table>|
 ||||

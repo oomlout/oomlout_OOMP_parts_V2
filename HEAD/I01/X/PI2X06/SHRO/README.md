@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X6SH > 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)](#h2x6sh--254-mm-12-pin-2x6-header-shrouded-idc)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X6SH > 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-SHRO](http://oom.lt/HEAD-I01-X-PI2X06-SHRO)
 - Short Link: [http://oom.lt/H2X6SH](http://oom.lt/H2X6SH)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x06_P2.54mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x06_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x06_P2.54mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

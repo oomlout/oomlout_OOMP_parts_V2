@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH7 > JST SH (1 mm) 7 Pin Header Right Angle (SMD)](#hsh7--jst-sh-1-mm-7-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH7 > JST SH (1 mm) 7 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 7 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI07-RS](http://oom.lt/HEAD-JSTSH-X-PI07-RS)
 - Short Link: [http://oom.lt/HSH7](http://oom.lt/HSH7)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

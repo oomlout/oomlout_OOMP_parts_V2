@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH17 > JST SH (1 mm) 17 Pin Header Right Angle (SMD)](#hsh17--jst-sh-1-mm-17-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH17 > JST SH (1 mm) 17 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 17 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI17-RS](http://oom.lt/HEAD-JSTSH-X-PI17-RS)
 - Short Link: [http://oom.lt/HSH17](http://oom.lt/HSH17)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x17|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O100 > SMD (0402) 10 Ohm Resistor](#r4o100--smd-0402-10-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R4O100 > SMD (0402) 10 Ohm Resistor
@@ -11,9 +20,28 @@
 - Description: SMD (0402) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O100-01](http://oom.lt/RESE-0402-X-O100-01)
 - Short Link: [http://oom.lt/R4O100](http://oom.lt/R4O100)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O100/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O100/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O100/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O100/01/image_BOTTOM.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Music Instrument Shield<br>PROJ-SPAR-10587-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10587/STAN/01/tree/main/)|[MP3 Breakout VS1033D<br>PROJ-SPAR-10608-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10608/STAN/01/tree/main/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11013/STAN/01/tree/main/)|[MP3 Breakout VS1063<br>PROJ-SPAR-11684-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11684/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O100/01/tree/main/image_BOTTOM.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +67,4 @@
 
 
 
-[im]: RESE/0402/X/O100/01/image_450.jpg
+[im]: image_450.jpg

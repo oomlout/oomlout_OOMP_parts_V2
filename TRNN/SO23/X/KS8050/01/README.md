@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [TNS248050 > SMD (SOT-23) S8050 NPN Transistor](#tns248050--smd-sot-23-s8050-npn-transistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # TNS248050 > SMD (SOT-23) S8050 NPN Transistor
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (SOT-23) S8050 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KS8050-01](http://oom.lt/TRNN-SO23-X-KS8050-01)
 - Short Link: [http://oom.lt/TNS248050](http://oom.lt/TNS248050)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

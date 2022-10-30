@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C6P100 > SMD (0603) 100 pF Capacitor (Ceramic) 50v](#c6p100--smd-0603-100-pf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C6P100 > SMD (0603) 100 pF Capacitor (Ceramic) 50v
@@ -11,9 +20,31 @@
 - Description: SMD (0603) 100 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF100-V50](http://oom.lt/CAPC-0603-X-PF100-V50)
 - Short Link: [http://oom.lt/C6P100](http://oom.lt/C6P100)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF100/V50/image.jpg)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit Voice Bonnet PCB<br>PROJ-ADAF-4757-STAN-01<br>C28](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4757/STAN/01/tree/main/)|[Adafruit Voice Bonnet PCB<br>PROJ-ADAF-4757-STAN-01<br>C29](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4757/STAN/01/tree/main/)|[Adafruit Voice Bonnet PCB<br>PROJ-ADAF-4757-STAN-01<br>C30](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4757/STAN/01/tree/main/)|[Adafruit Voice Bonnet PCB<br>PROJ-ADAF-4757-STAN-01<br>C31](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4757/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[VoiceBox Shield<br>PROJ-SPAR-10661-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10661/STAN/01/tree/main/)|[VoiceBox Shield<br>PROJ-SPAR-10661-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10661/STAN/01/tree/main/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12958/STAN/01/tree/main/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12958/STAN/01/tree/main/)|
+|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12958/STAN/01/tree/main/)|[THAT 1206 Breakout<br>PROJ-SPAR-14002-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14002/STAN/01/tree/main/)|[THAT 1646 Breakout<br>PROJ-SPAR-14003-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14003/STAN/01/tree/main/)|[THAT 1646 Breakout<br>PROJ-SPAR-14003-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14003/STAN/01/tree/main/)|
+|[Current Sensor Breakout ACS723 Low Current<br>PROJ-SPAR-14544-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14544/STAN/01/tree/main/)|[PCA9306 Level Translator Breakout<br>PROJ-SPAR-15439-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15439/STAN/01/tree/main/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>C14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18712/STAN/01/tree/main/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>C15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18712/STAN/01/tree/main/)|
+|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>C16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18712/STAN/01/tree/main/)||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF100/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF100/V50/tree/main/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +70,4 @@
 
 
 
-[im]: CAPC/0603/X/PF100/V50/image_450.jpg
+[im]: image_450.jpg

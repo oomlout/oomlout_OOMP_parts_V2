@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v](#c4p12--smd-0402-12-pf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C4P12 > SMD (0402) 12 pF Capacitor (Ceramic) 50v
@@ -11,9 +20,31 @@
 - Description: SMD (0402) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF12-V50](http://oom.lt/CAPC-0402-X-PF12-V50)
 - Short Link: [http://oom.lt/C4P12](http://oom.lt/C4P12)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF12/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF12/V50/image.jpg)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit Circuit Playground Bluefruit PCB<br>PROJ-ADAF-4333-STAN-01<br>C12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4333/STAN/01/tree/main/)|[Adafruit Circuit Playground Bluefruit PCB<br>PROJ-ADAF-4333-STAN-01<br>C13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4333/STAN/01/tree/main/)|[ATmega128RFA1 Dev<br>PROJ-SPAR-11197-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11197/STAN/01/tree/main/)|[ATmega128RFA1 Dev<br>PROJ-SPAR-11197-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11197/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[ATmega128RFA1 Dev<br>PROJ-SPAR-11197-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11197/STAN/01/tree/main/)|[ATmega128RFA1 Dev<br>PROJ-SPAR-11197-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11197/STAN/01/tree/main/)|[SparkFun Clock Generator 5P49V60<br>PROJ-SPAR-15734-STAN-01<br>C10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15734/STAN/01/tree/main/)|[SparkFun Clock Generator 5P49V60<br>PROJ-SPAR-15734-STAN-01<br>C12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15734/STAN/01/tree/main/)|
+|[MicroMod Teensy Processor<br>PROJ-SPAR-16402-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16402/STAN/01/tree/main/)|[MicroMod Teensy Processor<br>PROJ-SPAR-16402-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16402/STAN/01/tree/main/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16781/STAN/01/tree/main/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16781/STAN/01/tree/main/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|
+|||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF12/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF12/V50/tree/main/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +70,4 @@
 
 
 
-[im]: CAPC/0402/X/PF12/V50/image_450.jpg
+[im]: image_450.jpg

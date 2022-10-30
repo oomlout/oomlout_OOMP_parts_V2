@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [VR522523525 > SMD (SOT-23-5) MIC5225 Voltage Regulator 2.5 v](#vr522523525--smd-sot-23-5-mic5225-voltage-regulator-25-v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # VR522523525 > SMD (SOT-23-5) MIC5225 Voltage Regulator 2.5 v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (SOT-23-5) MIC5225 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5225-V25D](http://oom.lt/VREG-SO235-X-KMIC5225-V25D)
 - Short Link: [http://oom.lt/VR522523525](http://oom.lt/VR522523525)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

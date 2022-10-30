@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O473 > SMD (0603) 47k Ohm Resistor](#r6o473--smd-0603-47k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R6O473 > SMD (0603) 47k Ohm Resistor
@@ -11,9 +20,40 @@
 - Description: SMD (0603) 47k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O473-01](http://oom.lt/RESE-0603-X-O473-01)
 - Short Link: [http://oom.lt/R6O473](http://oom.lt/R6O473)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O473/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O473/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O473/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O473/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O473/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O473/01/image_RE.jpg)||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Pixie 3W Smart LED PCB<br>PROJ-ADAF-2741-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2741/STAN/01/tree/main/)|[Pixie 3W Smart LED PCB<br>PROJ-ADAF-2741-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2741/STAN/01/tree/main/)|[Pixie 3W Smart LED PCB<br>PROJ-ADAF-2741-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2741/STAN/01/tree/main/)|[Adafruit Circuit Playground Express PCB<br>PROJ-ADAF-3333-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3333/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit Hallowing M4 PCB<br>PROJ-ADAF-4300-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4300/STAN/01/tree/main/)|[Adafruit Circuit Playground Bluefruit PCB<br>PROJ-ADAF-4333-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4333/STAN/01/tree/main/)|[Adafruit MONSTER M4SK PCB<br>PROJ-ADAF-4343-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/tree/main/)|[Adafruit MONSTER M4SK PCB<br>PROJ-ADAF-4343-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/tree/main/)|
+|[Adafruit MagTag PCBs<br>PROJ-ADAF-4800-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4800/STAN/01/tree/main/)|[Adafruit MagTag PCBs<br>PROJ-ADAF-4800-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4800/STAN/01/tree/main/)|[Adafruit FunHouse PCB<br>PROJ-ADAF-4985-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4985/STAN/01/tree/main/)|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5100/STAN/01/tree/main/)|
+|[Adafruit MCP9601 PCB<br>PROJ-ADAF-5165-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5165/STAN/01/tree/main/)|[Adafruit CP2102N Friend PCB<br>PROJ-ADAF-5335-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5335/STAN/01/tree/main/)|[EiBotBoard<br>PROJ-SPAR-10025-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10025/STAN/01/tree/main/)|[EiBotBoard<br>PROJ-SPAR-10025-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10025/STAN/01/tree/main/)|
+|[EiBotBoard<br>PROJ-SPAR-10025-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10025/STAN/01/tree/main/)|[WAV Trigger<br>PROJ-SPAR-12000-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12000/STAN/01/tree/main/)|[WAV Trigger<br>PROJ-SPAR-12000-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12000/STAN/01/tree/main/)|[WAV Trigger<br>PROJ-SPAR-12000-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12000/STAN/01/tree/main/)|
+|[WAV Trigger<br>PROJ-SPAR-12000-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12000/STAN/01/tree/main/)|[WAV Trigger<br>PROJ-SPAR-12000-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12000/STAN/01/tree/main/)|[LTC4150 Coulomb Counter BOB<br>PROJ-SPAR-12052-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12052/STAN/01/tree/main/)|[LTC4150 Coulomb Counter BOB<br>PROJ-SPAR-12052-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12052/STAN/01/tree/main/)|
+|[Magician Encoder<br>PROJ-SPAR-12617-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12617/STAN/01/tree/main/)|[Magician Encoder<br>PROJ-SPAR-12617-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12617/STAN/01/tree/main/)|[ToF Range Finder Breakout VL6180<br>PROJ-SPAR-12784-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12784/STAN/01/tree/main/)|[ToF Range Finder Breakout VL6180<br>PROJ-SPAR-12784-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12784/STAN/01/tree/main/)|
+|[SunnyBuddy<br>PROJ-SPAR-12885-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12885/STAN/01/tree/main/)|[SAMD21 Mini Breakout<br>PROJ-SPAR-13664-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13664/STAN/01/tree/main/)|[SAMD21 Dev Breakout<br>PROJ-SPAR-13672-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13672/STAN/01/tree/main/)|[MP3 Trigger<br>PROJ-SPAR-13720-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13720/STAN/01/tree/main/)|
+|[Wireless Joystick<br>PROJ-SPAR-14051-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14051/STAN/01/tree/main/)|[Variable Load<br>PROJ-SPAR-14449-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14449/STAN/01/tree/main/)|[Variable Load<br>PROJ-SPAR-14449-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14449/STAN/01/tree/main/)|[https://github.com/sparkfunX/Flexible Grayscale OLED<br>PROJ-SPAR-14606-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14606/STAN/01/tree/main/)|
+|[Qwiic Transparent OLED HUD<br>PROJ-SPAR-14691-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14691/STAN/01/tree/main/)|[RedBoard Turbo<br>PROJ-SPAR-14812-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14812/STAN/01/tree/main/)|[TSH82 Configurable Op Amp Board<br>PROJ-SPAR-14874-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14874/STAN/01/tree/main/)|[TSH82 Configurable Op Amp Board<br>PROJ-SPAR-14874-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14874/STAN/01/tree/main/)|
+|[TSH82 Configurable Op Amp Board<br>PROJ-SPAR-14874-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14874/STAN/01/tree/main/)|[TSH82 Configurable Op Amp Board<br>PROJ-SPAR-14874-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14874/STAN/01/tree/main/)|[LTE Cat M1 Shield<br>PROJ-SPAR-14997-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14997/STAN/01/tree/main/)|[Qwiic Transparent Graphical OLED<br>PROJ-SPAR-15173-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15173/STAN/01/tree/main/)|
+|[Pi Servo Hat<br>PROJ-SPAR-15316-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15316/STAN/01/tree/main/)|[Pi Servo Hat<br>PROJ-SPAR-15316-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15316/STAN/01/tree/main/)|[Pi Servo Hat<br>PROJ-SPAR-15316-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15316/STAN/01/tree/main/)|[Pi Servo Hat<br>PROJ-SPAR-15316-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15316/STAN/01/tree/main/)|
+|[SparkFun ProDriver TC78H670FTG<br>PROJ-SPAR-16836-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16836/STAN/01/tree/main/)|[SparkFun PIR Breakout<br>PROJ-SPAR-17372-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17372/STAN/01/tree/main/)|[Qwiic PIR<br>PROJ-SPAR-17375-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17375/STAN/01/tree/main/)|[SparkFun Qwiic ToF Imager VL53L5CX<br>PROJ-SPAR-18642-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18642/STAN/01/tree/main/)|
+|[SparkFun Qwiic ToF Imager VL53L5CX<br>PROJ-SPAR-18642-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18642/STAN/01/tree/main/)|[SparkFun Qwiic ToF Imager VL53L5CX<br>PROJ-SPAR-18642-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18642/STAN/01/tree/main/)|[SparkFun Qwiic ToF Imager VL53L5CX<br>PROJ-SPAR-18642-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18642/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O473/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O473/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O473/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O473/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O473/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O473/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +79,4 @@
 
 
 
-[im]: RESE/0603/X/O473/01/image_450.jpg
+[im]: image_450.jpg

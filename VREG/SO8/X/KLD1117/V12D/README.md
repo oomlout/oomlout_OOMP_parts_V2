@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v](#vr1117812--so-8-ld1117-voltage-regulator-12-v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SO-8 LD1117 Voltage Regulator 1.2 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V12D](http://oom.lt/VREG-SO8-X-KLD1117-V12D)
 - Short Link: [http://oom.lt/VR1117812](http://oom.lt/VR1117812)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

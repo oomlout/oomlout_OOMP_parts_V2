@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L9 > 3.5 mm 9 Pin Blue Screw Terminal](#t35l9--35-mm-9-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L9 > 3.5 mm 9 Pin Blue Screw Terminal
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 3.5 mm 9 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI09-01](http://oom.lt/TERS-35D-L-PI09-01)
 - Short Link: [http://oom.lt/T35L9](http://oom.lt/T35L9)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x09_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x09||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

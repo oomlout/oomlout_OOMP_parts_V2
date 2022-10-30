@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O330 > SMD (0402) 33 Ohm Resistor](#r4o330--smd-0402-33-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R4O330 > SMD (0402) 33 Ohm Resistor
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (0402) 33 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O330-01](http://oom.lt/RESE-0402-X-O330-01)
 - Short Link: [http://oom.lt/R4O330](http://oom.lt/R4O330)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[ProtoSnap LilyPad Development Board<br>PROJ-SPAR-11262-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11262/STAN/01/tree/main/)|[USB Host Shield<br>PROJ-SPAR-9947-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9947/STAN/01/tree/main/)|[USB Host Shield<br>PROJ-SPAR-9947-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9947/STAN/01/tree/main/)||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

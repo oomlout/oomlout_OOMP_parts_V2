@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O181 > SMD (0603) 180 Ohm Resistor](#r6o181--smd-0603-180-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O181 > SMD (0603) 180 Ohm Resistor
@@ -11,6 +20,25 @@ NO IMAGE
 - Description: SMD (0603) 180 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O181-01](http://oom.lt/RESE-0603-X-O181-01)
 - Short Link: [http://oom.lt/R6O181](http://oom.lt/R6O181)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[LED RingCoder Breakout<br>PROJ-SPAR-11040-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11040/STAN/01/tree/main/)|[Battery Babysitter<br>PROJ-SPAR-13777-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13777/STAN/01/tree/main/)|[Lil Soundie Audio Player<br>PROJ-SPAR-14006-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14006/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Wireless Joystick<br>PROJ-SPAR-14051-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14051/STAN/01/tree/main/)|[RFID USB Reader<br>PROJ-SPAR-9963-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9963/STAN/01/tree/main/)|||
   
 NO IMAGES  
 ## Tags

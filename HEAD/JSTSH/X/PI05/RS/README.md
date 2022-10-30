@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH5 > JST SH (1 mm) 5 Pin Header Right Angle (SMD)](#hsh5--jst-sh-1-mm-5-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH5 > JST SH (1 mm) 5 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 5 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI05-RS](http://oom.lt/HEAD-JSTSH-X-PI05-RS)
 - Short Link: [http://oom.lt/HSH5](http://oom.lt/HSH5)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

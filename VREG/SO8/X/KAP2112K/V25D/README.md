@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [VR2112825 > SO-8 AP2112K Voltage Regulator 2.5 v](#vr2112825--so-8-ap2112k-voltage-regulator-25-v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # VR2112825 > SO-8 AP2112K Voltage Regulator 2.5 v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SO-8 AP2112K Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V25D](http://oom.lt/VREG-SO8-X-KAP2112K-V25D)
 - Short Link: [http://oom.lt/VR2112825](http://oom.lt/VR2112825)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

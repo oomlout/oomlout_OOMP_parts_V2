@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH15 > JST SH (1 mm) 15 Pin Header Right Angle (SMD)](#hsh15--jst-sh-1-mm-15-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH15 > JST SH (1 mm) 15 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 15 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI15-RS](http://oom.lt/HEAD-JSTSH-X-PI15-RS)
 - Short Link: [http://oom.lt/HSH15](http://oom.lt/HSH15)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

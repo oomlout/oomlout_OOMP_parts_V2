@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH20 > JST SH (1 mm) 20 Pin Header Right Angle (SMD)](#hsh20--jst-sh-1-mm-20-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH20 > JST SH (1 mm) 20 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 20 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI20-RS](http://oom.lt/HEAD-JSTSH-X-PI20-RS)
 - Short Link: [http://oom.lt/HSH20](http://oom.lt/HSH20)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

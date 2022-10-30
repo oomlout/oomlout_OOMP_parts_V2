@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O223 > SMD (0402) 22k Ohm Resistor](#r4o223--smd-0402-22k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R4O223 > SMD (0402) 22k Ohm Resistor
@@ -11,6 +20,26 @@ NO IMAGE
 - Description: SMD (0402) 22k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O223-01](http://oom.lt/RESE-0402-X-O223-01)
 - Short Link: [http://oom.lt/R4O223](http://oom.lt/R4O223)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit QT Py ESP32 Pico PCB<br>PROJ-ADAF-5395-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5395/STAN/01/tree/main/)|[nRF2401A Transceiver Chip Antenna<br>PROJ-SPAR-0152-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0152/STAN/01/tree/main/)|[Transceiver Breakout nRF24L01<br>PROJ-SPAR-0691-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0691/STAN/01/tree/main/)|[Transceiver Breakout nRF24L01 RP SMA<br>PROJ-SPAR-0705-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0705/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16781/STAN/01/tree/main/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17354/STAN/01/tree/main/)|[ESP32 Thing Plus U.FL<br>PROJ-SPAR-17381-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17381/STAN/01/tree/main/)|[ESP32 S2 Thing Plus<br>PROJ-SPAR-17743-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17743/STAN/01/tree/main/)|
+|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9034/STAN/01/tree/main/)|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9954/STAN/01/tree/main/)|||
   
 NO IMAGES  
 ## Tags

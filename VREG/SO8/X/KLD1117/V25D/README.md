@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v](#vr1117825--so-8-ld1117-voltage-regulator-25-v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SO-8 LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V25D](http://oom.lt/VREG-SO8-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR1117825](http://oom.lt/VR1117825)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

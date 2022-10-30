@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C12U10063D > SMD (1206) 100 uF Capacitor (Ceramic) 6.3v](#c12u10063d--smd-1206-100-uf-capacitor-ceramic-63v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # C12U10063D > SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF100-V63D](http://oom.lt/CAPC-1206-X-UF100-V63D)
 - Short Link: [http://oom.lt/C12U10063D](http://oom.lt/C12U10063D)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric_Pad1.33x1.80mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_1206_3216Metric_Pad1.33x1.80mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[LTE Cat M1 Shield<br>PROJ-SPAR-14997-STAN-01<br>C12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14997/STAN/01/tree/main/)||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

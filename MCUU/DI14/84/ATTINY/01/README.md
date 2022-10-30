@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [MCAT84DI14 > 14 Pin DIP ATTiny 84 MCU](#mcat84di14--14-pin-dip-attiny-84-mcu)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # MCAT84DI14 > 14 Pin DIP ATTiny 84 MCU
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 14 Pin DIP ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-DI14-84-ATTINY-01](http://oom.lt/MCUU-DI14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84DI14](http://oom.lt/MCAT84DI14)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

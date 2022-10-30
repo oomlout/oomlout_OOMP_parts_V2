@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C4U1063D > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v](#c4u1063d--smd-0402-10-uf-capacitor-ceramic-63v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C4U1063D > SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
@@ -11,9 +20,33 @@
 - Description: SMD (0402) 10 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF10-V63D](http://oom.lt/CAPC-0402-X-UF10-V63D)
 - Short Link: [http://oom.lt/C4U1063D](http://oom.lt/C4U1063D)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/UF10/V63D/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/UF10/V63D/image.jpg)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Tiny AVR Programmer<br>PROJ-SPAR-11801-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11801/STAN/01/tree/main/)|[MicroMod Teensy Processor<br>PROJ-SPAR-16402-STAN-01<br>C10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16402/STAN/01/tree/main/)|[MicroMod Teensy Processor<br>PROJ-SPAR-16402-STAN-01<br>C19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16402/STAN/01/tree/main/)|[MicroMod Teensy Processor<br>PROJ-SPAR-16402-STAN-01<br>C21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16402/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>C22](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16781/STAN/01/tree/main/)|[MicroMod Processor Board SAMD51<br>PROJ-SPAR-16791-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16791/STAN/01/tree/main/)|[MicroMod Processor Board SAMD51<br>PROJ-SPAR-16791-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16791/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>C32](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|
+|[MicroMod Processor Board nRF52840<br>PROJ-SPAR-16984-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16984/STAN/01/tree/main/)|[MicroMod Processor Board nRF52840<br>PROJ-SPAR-16984-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16984/STAN/01/tree/main/)|[SparkFun Pro Micro RP2040<br>PROJ-SPAR-17717-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17717/STAN/01/tree/main/)|[SparkFun Pro Micro RP2040<br>PROJ-SPAR-17717-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17717/STAN/01/tree/main/)|
+|[ESP32 S2 Thing Plus<br>PROJ-SPAR-17743-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17743/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C27](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|
+|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C22](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C23](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>C24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[SparkFun Qwiic Magnetometer MMC5983MA<br>PROJ-SPAR-19921-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19921/STAN/01/tree/main/)|
+|||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/tree/main/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +72,4 @@
 
 
 
-[im]: CAPC/0402/X/UF10/V63D/image_450.jpg
+[im]: image_450.jpg

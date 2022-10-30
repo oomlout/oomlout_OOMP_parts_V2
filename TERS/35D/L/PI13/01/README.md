@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L13 > 3.5 mm 13 Pin Blue Screw Terminal](#t35l13--35-mm-13-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L13 > 3.5 mm 13 Pin Blue Screw Terminal
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 3.5 mm 13 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI13-01](http://oom.lt/TERS-35D-L-PI13-01)
 - Short Link: [http://oom.lt/T35L13](http://oom.lt/T35L13)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x13_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x13||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

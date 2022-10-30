@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L11 > 3.5 mm 11 Pin Blue Screw Terminal](#t35l11--35-mm-11-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L11 > 3.5 mm 11 Pin Blue Screw Terminal
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 3.5 mm 11 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI11-01](http://oom.lt/TERS-35D-L-PI11-01)
 - Short Link: [http://oom.lt/T35L11](http://oom.lt/T35L11)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x11_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x11||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

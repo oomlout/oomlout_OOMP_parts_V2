@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH10 > JST SH (1 mm) 10 Pin Header Right Angle (SMD)](#hsh10--jst-sh-1-mm-10-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH10 > JST SH (1 mm) 10 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 10 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI10-RS](http://oom.lt/HEAD-JSTSH-X-PI10-RS)
 - Short Link: [http://oom.lt/HSH10](http://oom.lt/HSH10)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x10|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

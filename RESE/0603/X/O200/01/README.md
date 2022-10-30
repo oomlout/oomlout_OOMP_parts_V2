@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O200 > SMD (0603) 20 Ohm Resistor](#r6o200--smd-0603-20-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O200 > SMD (0603) 20 Ohm Resistor
@@ -11,9 +20,30 @@ NO IMAGE
 - Description: SMD (0603) 20 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O200-01](http://oom.lt/RESE-0603-X-O200-01)
 - Short Link: [http://oom.lt/R6O200](http://oom.lt/R6O200)
+
+## Footprints
   
 
-|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O200/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O200/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O200/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O200/01/image_RE.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[MP3 Player Shield<br>PROJ-SPAR-12660-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12660/STAN/01/tree/main/)|[MP3 Player Shield<br>PROJ-SPAR-12660-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12660/STAN/01/tree/main/)|[MP3 Trigger<br>PROJ-SPAR-13720-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13720/STAN/01/tree/main/)|[MP3 Trigger<br>PROJ-SPAR-13720-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13720/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[MP3 Trigger<br>PROJ-SPAR-13720-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13720/STAN/01/tree/main/)|[Lil Soundie Audio Player<br>PROJ-SPAR-14006-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14006/STAN/01/tree/main/)|[Lil Soundie Audio Player<br>PROJ-SPAR-14006-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14006/STAN/01/tree/main/)|[Papa Soundie Audio Player<br>PROJ-SPAR-14554-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14554/STAN/01/tree/main/)|
+|[Papa Soundie Audio Player<br>PROJ-SPAR-14554-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14554/STAN/01/tree/main/)|[https://github.com/sparkfunX/Qwiic GridEye<br>PROJ-SPAR-14607-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14607/STAN/01/tree/main/)|[https://github.com/sparkfunX/ESP8266 WiFi IR Blaster<br>PROJ-SPAR-15031-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15031/STAN/01/tree/main/)|[SparkFun RTK Surveyor<br>PROJ-SPAR-17369-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17369/STAN/01/tree/main/)|
+|[SparkFun RTK Surveyor<br>PROJ-SPAR-17369-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17369/STAN/01/tree/main/)|[SparkFun RTK Surveyor<br>PROJ-SPAR-17369-STAN-01<br>R25](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17369/STAN/01/tree/main/)|[SparkFun RTK Surveyor<br>PROJ-SPAR-17369-STAN-01<br>R26](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17369/STAN/01/tree/main/)||
+  
+
+|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O200/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O200/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O200/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O200/01/tree/main/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags

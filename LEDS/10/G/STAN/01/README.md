@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [L10GG > 10 mm Green LED](#l10gg--10-mm-green-led)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # L10GG > 10 mm Green LED
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 10 mm Green LED
 - Long Link: [http://oom.lt/LEDS-10-G-STAN-01](http://oom.lt/LEDS-10-G-STAN-01)
 - Short Link: [http://oom.lt/L10GG](http://oom.lt/L10GG)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

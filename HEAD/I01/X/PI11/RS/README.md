@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H11RS > 2.54 mm 11 Pin Header Right Angle (SMD)](#h11rs--254-mm-11-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H11RS > 2.54 mm 11 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 11 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI11-RS](http://oom.lt/HEAD-I01-X-PI11-RS)
 - Short Link: [http://oom.lt/H11RS](http://oom.lt/H11RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

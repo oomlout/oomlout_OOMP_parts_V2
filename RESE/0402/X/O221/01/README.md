@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O221 > SMD (0402) 220 Ohm Resistor](#r4o221--smd-0402-220-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R4O221 > SMD (0402) 220 Ohm Resistor
@@ -11,6 +20,28 @@ NO IMAGE
 - Description: SMD (0402) 220 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O221-01](http://oom.lt/RESE-0402-X-O221-01)
 - Short Link: [http://oom.lt/R4O221](http://oom.lt/R4O221)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[WiFly GSX Breakout<br>PROJ-SPAR-10050-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10050/STAN/01/tree/main/)|[WiFly GSX Breakout<br>PROJ-SPAR-10050-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10050/STAN/01/tree/main/)|[Papilio Button LED Wing<br>PROJ-SPAR-11509-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11509/STAN/01/tree/main/)|[Papilio Button LED Wing<br>PROJ-SPAR-11509-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11509/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Papilio Button LED Wing<br>PROJ-SPAR-11509-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11509/STAN/01/tree/main/)|[Papilio Button LED Wing<br>PROJ-SPAR-11509-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11509/STAN/01/tree/main/)|[QRE1113 Line Sensor Breakout Digital<br>PROJ-SPAR-9454-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9454/STAN/01/tree/main/)|[MIDI Breakout<br>PROJ-SPAR-9598-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/tree/main/)|
+|[MIDI Breakout<br>PROJ-SPAR-9598-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/tree/main/)|[MIDI Breakout<br>PROJ-SPAR-9598-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/tree/main/)|[MIDI Breakout<br>PROJ-SPAR-9598-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/tree/main/)|[MIDI Breakout<br>PROJ-SPAR-9598-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/tree/main/)|
+|[MIDI Breakout<br>PROJ-SPAR-9598-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9598/STAN/01/tree/main/)|[USB RS 485 Converter<br>PROJ-SPAR-9822-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9822/STAN/01/tree/main/)|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9954/STAN/01/tree/main/)|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9954/STAN/01/tree/main/)|
+|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9954/STAN/01/tree/main/)|[WiFly Shield<br>PROJ-SPAR-9954-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9954/STAN/01/tree/main/)|||
   
 NO IMAGES  
 ## Tags

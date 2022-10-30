@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C6P10 > SMD (0603) 10 pF Capacitor (Ceramic) 50v](#c6p10--smd-0603-10-pf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C6P10 > SMD (0603) 10 pF Capacitor (Ceramic) 50v
@@ -11,9 +20,32 @@
 - Description: SMD (0603) 10 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF10-V50](http://oom.lt/CAPC-0603-X-PF10-V50)
 - Short Link: [http://oom.lt/C6P10](http://oom.lt/C6P10)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF10/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF10/V50/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF10/V50/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF10/V50/image_RE.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0603_1608Metric_Pad1.08x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[CC3000 WiFi Shield<br>PROJ-SPAR-12071-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12071/STAN/01/tree/main/)|[CC3000 WiFi Breakout<br>PROJ-SPAR-12072-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12072/STAN/01/tree/main/)|[ESP8266 WiFi Shield<br>PROJ-SPAR-13287-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13287/STAN/01/tree/main/)|[ESP8266 WiFi Shield<br>PROJ-SPAR-13287-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13287/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[ESP8266 Thing Dev 4H<br>PROJ-SPAR-13711-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13711/STAN/01/tree/main/)|[ESP8266 Thing Dev 4H<br>PROJ-SPAR-13711-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13711/STAN/01/tree/main/)|[Blynk Board ESP8266<br>PROJ-SPAR-13794-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13794/STAN/01/tree/main/)|[Blynk Board ESP8266<br>PROJ-SPAR-13794-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13794/STAN/01/tree/main/)|
+|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[USB UART Serial Breakout CY7C65213<br>PROJ-SPAR-13830-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13830/STAN/01/tree/main/)|[USB UART Serial Breakout CY7C65213<br>PROJ-SPAR-13830-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13830/STAN/01/tree/main/)|[Serial Basic Breakout CH340G<br>PROJ-SPAR-14050-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14050/STAN/01/tree/main/)|
+|[Serial Basic Breakout CH340G<br>PROJ-SPAR-14050-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14050/STAN/01/tree/main/)|[SparkFun Pulsed Radar Breakout A111<br>PROJ-SPAR-16826-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16826/STAN/01/tree/main/)|[SparkFun Pulsed Radar Breakout A111<br>PROJ-SPAR-16826-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16826/STAN/01/tree/main/)|[SparkFun LoRa Thing Plus expLoRaBLE<br>PROJ-SPAR-17506-STAN-01<br>C17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17506/STAN/01/tree/main/)|
+|[RedBoard Plus<br>PROJ-SPAR-18158-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18158/STAN/01/tree/main/)|[RedBoard Plus<br>PROJ-SPAR-18158-STAN-01<br>C9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18158/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[MicroMod Function Ethernet W5500<br>PROJ-SPAR-18708-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18708/STAN/01/tree/main/)|
+|[MicroMod Function Ethernet W5500<br>PROJ-SPAR-18708-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18708/STAN/01/tree/main/)|[SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110<br>PROJ-SPAR-19038-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19038/STAN/01/tree/main/)|[SparkFun MicroMod Single Pair Ethernet Function Board ADIN1110<br>PROJ-SPAR-19038-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19038/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/tree/main/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0603/X/PF10/V50/tree/main/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +71,4 @@
 
 
 
-[im]: CAPC/0603/X/PF10/V50/image_450.jpg
+[im]: image_450.jpg

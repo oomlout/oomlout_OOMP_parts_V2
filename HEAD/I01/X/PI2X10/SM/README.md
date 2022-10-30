@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X10SM > 2.54 mm 20 Pin (2x10) Header (SMD)](#h2x10sm--254-mm-20-pin-2x10-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X10SM > 2.54 mm 20 Pin (2x10) Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 20 Pin (2x10) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-SM](http://oom.lt/HEAD-I01-X-PI2X10-SM)
 - Short Link: [http://oom.lt/H2X10SM](http://oom.lt/H2X10SM)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical_SMD/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical_SMD/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

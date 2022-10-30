@@ -21,8 +21,6 @@
     ],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
-        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",
-        "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
     ],
     "footprintKicadDetails": [],
@@ -185,6 +183,8 @@
         }
     ],
     "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"
     ],

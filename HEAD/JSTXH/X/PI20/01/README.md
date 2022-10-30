@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HXH20 > JST XH (2.5 mm) 20 Pin Header](#hxh20--jst-xh-25-mm-20-pin-header)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HXH20 > JST XH (2.5 mm) 20 Pin Header
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST XH (2.5 mm) 20 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI20-01](http://oom.lt/HEAD-JSTXH-X-PI20-01)
 - Short Link: [http://oom.lt/HXH20](http://oom.lt/HXH20)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B20B-XH-AM_1x20_P2.50mm_Vertical|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B20B-XH-A_1x20_P2.50mm_Vertical/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

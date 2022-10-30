@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O471 > SMD (0402) 470 Ohm Resistor](#r4o471--smd-0402-470-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R4O471 > SMD (0402) 470 Ohm Resistor
@@ -11,9 +20,32 @@
 - Description: SMD (0402) 470 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O471-01](http://oom.lt/RESE-0402-X-O471-01)
 - Short Link: [http://oom.lt/R4O471](http://oom.lt/R4O471)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O471/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O471/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O471/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O471/01/image_BOTTOM.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10116/STAN/01/tree/main/)|[MP3 Breakout VS1033D<br>PROJ-SPAR-10608-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10608/STAN/01/tree/main/)|[MP3 Breakout VS1033D<br>PROJ-SPAR-10608-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10608/STAN/01/tree/main/)|[Mega Pro<br>PROJ-SPAR-11007-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11007/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Mega Pro<br>PROJ-SPAR-11007-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11007/STAN/01/tree/main/)|[MP3 Breakout VS1063<br>PROJ-SPAR-11684-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11684/STAN/01/tree/main/)|[MP3 Breakout VS1063<br>PROJ-SPAR-11684-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11684/STAN/01/tree/main/)|[UDB5<br>PROJ-SPAR-11703-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11703/STAN/01/tree/main/)|
+|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|
+|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|
+|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|
+|[AVR Stick<br>PROJ-SPAR-9147-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9147/STAN/01/tree/main/)|[AVR Stick<br>PROJ-SPAR-9147-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9147/STAN/01/tree/main/)|||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O471/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O471/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O471/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O471/01/tree/main/image_BOTTOM.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +71,4 @@
 
 
 
-[im]: RESE/0402/X/O471/01/image_450.jpg
+[im]: image_450.jpg

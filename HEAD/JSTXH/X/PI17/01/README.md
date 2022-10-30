@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HXH17 > JST XH (2.5 mm) 17 Pin Header](#hxh17--jst-xh-25-mm-17-pin-header)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HXH17 > JST XH (2.5 mm) 17 Pin Header
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST XH (2.5 mm) 17 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI17-01](http://oom.lt/HEAD-JSTXH-X-PI17-01)
 - Short Link: [http://oom.lt/HXH17](http://oom.lt/HXH17)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B17B-XH-AM_1x17_P2.50mm_Vertical|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B17B-XH-A_1x17_P2.50mm_Vertical|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x17_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x17|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

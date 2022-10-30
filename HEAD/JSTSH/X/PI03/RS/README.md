@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH3 > JST SH (1 mm) 3 Pin Header Right Angle (SMD)](#hsh3--jst-sh-1-mm-3-pin-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH3 > JST SH (1 mm) 3 Pin Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 3 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI03-RS](http://oom.lt/HEAD-JSTSH-X-PI03-RS)
 - Short Link: [http://oom.lt/HSH3](http://oom.lt/HSH3)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

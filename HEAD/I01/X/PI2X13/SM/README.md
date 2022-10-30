@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X13SM > 2.54 mm 26 Pin (2x13) Header (SMD)](#h2x13sm--254-mm-26-pin-2x13-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X13SM > 2.54 mm 26 Pin (2x13) Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 26 Pin (2x13) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X13-SM](http://oom.lt/HEAD-I01-X-PI2X13-SM)
 - Short Link: [http://oom.lt/H2X13SM](http://oom.lt/H2X13SM)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x13_P2.54mm_Vertical_SMD/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x13_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x13_P2.54mm_Vertical_SMD/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

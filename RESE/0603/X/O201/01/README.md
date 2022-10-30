@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O201 > SMD (0603) 200 Ohm Resistor](#r6o201--smd-0603-200-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R6O201 > SMD (0603) 200 Ohm Resistor
@@ -11,9 +20,29 @@
 - Description: SMD (0603) 200 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O201-01](http://oom.lt/RESE-0603-X-O201-01)
 - Short Link: [http://oom.lt/R6O201](http://oom.lt/R6O201)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O201/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O201/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O201/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O201/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O201/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O201/01/image_RE.jpg)||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[AT42QT1010 Capacitive Touch Breakout<br>PROJ-SPAR-12041-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12041/STAN/01/tree/main/)|[ESP8266 WiFi Shield<br>PROJ-SPAR-13287-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13287/STAN/01/tree/main/)|[ESP8266 WiFi Shield<br>PROJ-SPAR-13287-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13287/STAN/01/tree/main/)|[ESP8266 WiFi Shield<br>PROJ-SPAR-13287-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13287/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[ESP8266 Thing Dev 4H<br>PROJ-SPAR-13711-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13711/STAN/01/tree/main/)|[ESP8266 Thing Dev 4H<br>PROJ-SPAR-13711-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13711/STAN/01/tree/main/)|[ESP8266 Thing Dev 4H<br>PROJ-SPAR-13711-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13711/STAN/01/tree/main/)|[LilyPad Tri Color LED<br>PROJ-SPAR-13735-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13735/STAN/01/tree/main/)|
+|[Blynk Board ESP8266<br>PROJ-SPAR-13794-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13794/STAN/01/tree/main/)|[gator starter<br>PROJ-SPAR-14891-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14891/STAN/01/tree/main/)|[WiFi Shield DA16200<br>PROJ-SPAR-18567-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18567/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O201/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O201/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O201/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O201/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O201/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O201/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +68,4 @@
 
 
 
-[im]: RESE/0603/X/O201/01/image_450.jpg
+[im]: image_450.jpg

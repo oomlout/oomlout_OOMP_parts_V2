@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X3SH > 2.54 mm 6 Pin (2x3) Header Shrouded (IDC)](#h2x3sh--254-mm-6-pin-2x3-header-shrouded-idc)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X3SH > 2.54 mm 6 Pin (2x3) Header Shrouded (IDC)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 6 Pin (2x3) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-SHRO](http://oom.lt/HEAD-I01-X-PI2X03-SHRO)
 - Short Link: [http://oom.lt/H2X3SH](http://oom.lt/H2X3SH)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x03_P2.54mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x03_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x03_P2.54mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

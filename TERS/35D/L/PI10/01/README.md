@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L10 > 3.5 mm 10 Pin Blue Screw Terminal](#t35l10--35-mm-10-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L10 > 3.5 mm 10 Pin Blue Screw Terminal
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 3.5 mm 10 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI10-01](http://oom.lt/TERS-35D-L-PI10-01)
 - Short Link: [http://oom.lt/T35L10](http://oom.lt/T35L10)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x10_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x10||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O220 > SMD (0402) 22 Ohm Resistor](#r4o220--smd-0402-22-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R4O220 > SMD (0402) 22 Ohm Resistor
@@ -11,6 +20,29 @@ NO IMAGE
 - Description: SMD (0402) 22 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O220-01](http://oom.lt/RESE-0402-X-O220-01)
 - Short Link: [http://oom.lt/R4O220](http://oom.lt/R4O220)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit ItsyBitsy RP2040 PCB<br>PROJ-ADAF-4888-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4888/STAN/01/tree/main/)|[Adafruit ItsyBitsy RP2040 PCB<br>PROJ-ADAF-4888-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4888/STAN/01/tree/main/)|[FreeSoc2<br>PROJ-SPAR-13714-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13714/STAN/01/tree/main/)|[FreeSoc2<br>PROJ-SPAR-13714-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13714/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[FreeSoc2<br>PROJ-SPAR-13714-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13714/STAN/01/tree/main/)|[FreeSoc2<br>PROJ-SPAR-13714-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13714/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|
+|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[LilyPad ProtoSnap Plus<br>PROJ-SPAR-14346-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14346/STAN/01/tree/main/)|[Variable Load<br>PROJ-SPAR-14449-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14449/STAN/01/tree/main/)|[Variable Load<br>PROJ-SPAR-14449-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14449/STAN/01/tree/main/)|
+|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|[LilyPad USB Plus Standalone<br>PROJ-SPAR-14631-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14631/STAN/01/tree/main/)|
+|[MicroMod STM32 Processor<br>PROJ-SPAR-17713-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17713/STAN/01/tree/main/)|[MicroMod STM32 Processor<br>PROJ-SPAR-17713-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17713/STAN/01/tree/main/)|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9034/STAN/01/tree/main/)|[Transceiver Breakout nRF24LU1 RP SMA<br>PROJ-SPAR-9034-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9034/STAN/01/tree/main/)|
+|||||
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O221 > SMD (0603) 220 Ohm Resistor](#r6o221--smd-0603-220-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R6O221 > SMD (0603) 220 Ohm Resistor
@@ -11,9 +20,33 @@
 - Description: SMD (0603) 220 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O221-01](http://oom.lt/RESE-0603-X-O221-01)
 - Short Link: [http://oom.lt/R6O221](http://oom.lt/R6O221)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O221/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O221/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O221/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O221/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O221/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O221/01/image_RE.jpg)||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit AHT20 PCB<br>PROJ-ADAF-4566-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4566/STAN/01/tree/main/)|[Adafruit MIDI FeatherWing PCB<br>PROJ-ADAF-4740-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4740/STAN/01/tree/main/)|[Adafruit HTU31 PCB<br>PROJ-ADAF-4832-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4832/STAN/01/tree/main/)|[RS 485 Breakout<br>PROJ-SPAR-10124-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10124/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[MIDI Shield<br>PROJ-SPAR-12898-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12898/STAN/01/tree/main/)|[MIDI Shield<br>PROJ-SPAR-12898-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12898/STAN/01/tree/main/)|[MIDI Shield<br>PROJ-SPAR-12898-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12898/STAN/01/tree/main/)|[MIDI Shield<br>PROJ-SPAR-12898-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12898/STAN/01/tree/main/)|
+|[Edison Pi Block<br>PROJ-SPAR-13044-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13044/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R45](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R46](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R47](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|
+|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R48](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[ESP32 Power Control Shield<br>PROJ-SPAR-14155-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14155/STAN/01/tree/main/)|[ESP32 Power Control Shield<br>PROJ-SPAR-14155-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14155/STAN/01/tree/main/)|[ESP32 Power Control Shield<br>PROJ-SPAR-14155-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14155/STAN/01/tree/main/)|
+|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R45](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R46](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R47](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R48](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R55](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[Opto Isolator Breakout<br>PROJ-SPAR-9118-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9118/STAN/01/tree/main/)|[Opto Isolator Breakout<br>PROJ-SPAR-9118-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9118/STAN/01/tree/main/)|
+|||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O221/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +72,4 @@
 
 
 
-[im]: RESE/0603/X/O221/01/image_450.jpg
+[im]: image_450.jpg

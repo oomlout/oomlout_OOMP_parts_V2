@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HXH13 > JST XH (2.5 mm) 13 Pin Header](#hxh13--jst-xh-25-mm-13-pin-header)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HXH13 > JST XH (2.5 mm) 13 Pin Header
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST XH (2.5 mm) 13 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI13-01](http://oom.lt/HEAD-JSTXH-X-PI13-01)
 - Short Link: [http://oom.lt/HXH13](http://oom.lt/HXH13)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-AM_1x13_P2.50mm_Vertical|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

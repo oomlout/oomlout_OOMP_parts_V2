@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X17SM > 2.54 mm 34 Pin (2x17) Header (SMD)](#h2x17sm--254-mm-34-pin-2x17-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X17SM > 2.54 mm 34 Pin (2x17) Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 34 Pin (2x17) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X17-SM](http://oom.lt/HEAD-I01-X-PI2X17-SM)
 - Short Link: [http://oom.lt/H2X17SM](http://oom.lt/H2X17SM)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x17_P2.54mm_Vertical_SMD/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x17_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x17_P2.54mm_Vertical_SMD/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

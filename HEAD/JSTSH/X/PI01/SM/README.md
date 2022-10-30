@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH1 > JST SH (1 mm) 1 Pin Header (SMD)](#hsh1--jst-sh-1-mm-1-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH1 > JST SH (1 mm) 1 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 1 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI01-SM](http://oom.lt/HEAD-JSTSH-X-PI01-SM)
 - Short Link: [http://oom.lt/HSH1](http://oom.lt/HSH1)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM01B-SRSS-TB_1x01-1MP_P1.00mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

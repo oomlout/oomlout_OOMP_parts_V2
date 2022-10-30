@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)](#h2x2rs--254-mm-4-pin-2x2-header-right-angle-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X02-RS](http://oom.lt/HEAD-I01-X-PI2X02-RS)
 - Short Link: [http://oom.lt/H2X2RS](http://oom.lt/H2X2RS)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH11 > JST SH (1 mm) 11 Pin Header (SMD)](#hsh11--jst-sh-1-mm-11-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH11 > JST SH (1 mm) 11 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 11 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI11-SM](http://oom.lt/HEAD-JSTSH-X-PI11-SM)
 - Short Link: [http://oom.lt/HSH11](http://oom.lt/HSH11)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM11B-SRSS-TB_1x11-1MP_P1.00mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM11B-SRSS-TB_1x11-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM11B-SRSS-TB_1x11-1MP_P1.00mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O2301 > SMD (0603) 20k Ohm Resistor](#r6o2301--smd-0603-20k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R6O2301 > SMD (0603) 20k Ohm Resistor
@@ -11,9 +20,38 @@
 - Description: SMD (0603) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O203-01](http://oom.lt/RESE-0603-X-O203-01)
 - Short Link: [http://oom.lt/R6O2301](http://oom.lt/R6O2301)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O203/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O203/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O203/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O203/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O203/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O203/01/image_RE.jpg)||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit Circuit Playground PCB<br>PROJ-ADAF-3000-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3000/STAN/01/tree/main/)|[Adafruit CP2102N Friend PCB<br>PROJ-ADAF-5335-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5335/STAN/01/tree/main/)|[Adafruit CP2102N Friend PCB<br>PROJ-ADAF-5335-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5335/STAN/01/tree/main/)|[Adafruit CP2102N Friend PCB<br>PROJ-ADAF-5335-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5335/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[EiBotBoard<br>PROJ-SPAR-10025-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10025/STAN/01/tree/main/)|[EiBotBoard<br>PROJ-SPAR-10025-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10025/STAN/01/tree/main/)|[Window Comparator<br>PROJ-SPAR-10101-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10101/STAN/01/tree/main/)|[Logic Level Converter<br>PROJ-SPAR-12009-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12009/STAN/01/tree/main/)|
+|[Logic Level Converter<br>PROJ-SPAR-12009-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12009/STAN/01/tree/main/)|[Easy Driver<br>PROJ-SPAR-12779-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12779/STAN/01/tree/main/)|[Easy Driver<br>PROJ-SPAR-12779-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12779/STAN/01/tree/main/)|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|
+|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|
+|[Vernier Interface Shield<br>PROJ-SPAR-12858-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12858/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|
+|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|
+|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Big Easy Driver<br>PROJ-SPAR-12859-STAN-01<br>R20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12859/STAN/01/tree/main/)|[Si4703 FM Tuner Evaluation Board<br>PROJ-SPAR-12938-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12938/STAN/01/tree/main/)|[Si4703 FM Tuner Evaluation Board<br>PROJ-SPAR-12938-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12938/STAN/01/tree/main/)|
+|[Si4703 FM Tuner Evaluation Board<br>PROJ-SPAR-12938-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12938/STAN/01/tree/main/)|[Si4703 FM Tuner Evaluation Board<br>PROJ-SPAR-12938-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12938/STAN/01/tree/main/)|[HX711 Load Cell Amplifier<br>PROJ-SPAR-13230-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13230/STAN/01/tree/main/)|[OpenScale<br>PROJ-SPAR-13261-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13261/STAN/01/tree/main/)|
+|[FreeSoc2<br>PROJ-SPAR-13714-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13714/STAN/01/tree/main/)|[FreeSoc2<br>PROJ-SPAR-13714-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13714/STAN/01/tree/main/)|[Qwiic FM Transceiver Si4721<br>PROJ-SPAR-15853-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15853/STAN/01/tree/main/)|[Qwiic FM Transceiver Si4721<br>PROJ-SPAR-15853-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15853/STAN/01/tree/main/)|
+|[Qwiic FM Transceiver Si4721<br>PROJ-SPAR-15853-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15853/STAN/01/tree/main/)|[Qwiic FM Transceiver Si4721<br>PROJ-SPAR-15853-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15853/STAN/01/tree/main/)|[MicroMod Machine Learning Carrier<br>PROJ-SPAR-16400-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16400/STAN/01/tree/main/)|[MicroMod Weather Carrier Board<br>PROJ-SPAR-16794-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16794/STAN/01/tree/main/)|
+|[MicroMod Data Logging Carrier<br>PROJ-SPAR-16829-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16829/STAN/01/tree/main/)|[MicroMod ATP Carrier Board<br>PROJ-SPAR-16885-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16885/STAN/01/tree/main/)|[MicroMod Asset Tracker<br>PROJ-SPAR-17272-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17272/STAN/01/tree/main/)|[MicroMod GNSS F9P Carrier Board<br>PROJ-SPAR-17722-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17722/STAN/01/tree/main/)|
+|[SparkFun MicroMod Main Board Single<br>PROJ-SPAR-18575-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18575/STAN/01/tree/main/)|[SparkFun MicroMod Main Board Double<br>PROJ-SPAR-18576-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18576/STAN/01/tree/main/)|[SparkFun Artemis Global Tracker<br>PROJ-SPAR-18712-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18712/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +77,4 @@
 
 
 
-[im]: RESE/0603/X/O203/01/image_450.jpg
+[im]: image_450.jpg

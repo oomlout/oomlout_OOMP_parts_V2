@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [USCK31 > Type C TYPE-C-31-M-12 USB Socket](#usck31--type-c-type-c-31-m-12-usb-socket)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # USCK31 > Type C TYPE-C-31-M-12 USB Socket
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: Type C TYPE-C-31-M-12 USB Socket
 - Long Link: [http://oom.lt/USBS-TC-X-K31-01](http://oom.lt/USBS-TC-X-K31-01)
 - Short Link: [http://oom.lt/USCK31](http://oom.lt/USCK31)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

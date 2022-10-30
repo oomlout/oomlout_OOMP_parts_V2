@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [HSH7 > JST SH (1 mm) 7 Pin Header (SMD)](#hsh7--jst-sh-1-mm-7-pin-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # HSH7 > JST SH (1 mm) 7 Pin Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: JST SH (1 mm) 7 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI07-SM](http://oom.lt/HEAD-JSTSH-X-PI07-SM)
 - Short Link: [http://oom.lt/HSH7](http://oom.lt/HSH7)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM07B-SRSS-TB_1x07-1MP_P1.00mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM07B-SRSS-TB_1x07-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM07B-SRSS-TB_1x07-1MP_P1.00mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

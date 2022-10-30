@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [L8W > SMD (0805) White LED](#l8w--smd-0805-white-led)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # L8W > SMD (0805) White LED
@@ -11,6 +20,26 @@ NO IMAGE
 - Description: SMD (0805) White LED
 - Long Link: [http://oom.lt/LEDS-0805-W-STAN-01](http://oom.lt/LEDS-0805-W-STAN-01)
 - Short Link: [http://oom.lt/L8W](http://oom.lt/L8W)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder/tree/main/)|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R|
+| :--- | :--- | :--- | :--- |
+|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW|![]()<br>FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE|![]()<br>FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805|
+|||||
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
@@ -29,6 +58,6 @@ NO IMAGES
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Hubei KENTO Elec'</td><td> 'partID'</td></tr><tr><td> 'C34499'</td><td> 'partName'</td></tr><tr><td> 'C34499'</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C34499'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C34499'</td><td> 'partName'</td></tr><tr><td> '0805  Light Emitting Diodes (LED) ROHS'</td></tr></table>|
-|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder'|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||

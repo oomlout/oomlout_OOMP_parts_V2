@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X14SM > 2.54 mm 28 Pin (2x14) Header (SMD)](#h2x14sm--254-mm-28-pin-2x14-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X14SM > 2.54 mm 28 Pin (2x14) Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 28 Pin (2x14) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X14-SM](http://oom.lt/HEAD-I01-X-PI2X14-SM)
 - Short Link: [http://oom.lt/H2X14SM](http://oom.lt/H2X14SM)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x14_P2.54mm_Vertical_SMD/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x14_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x14_P2.54mm_Vertical_SMD/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

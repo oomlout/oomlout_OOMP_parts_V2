@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X10SH > 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)](#h2x10sh--254-mm-20-pin-2x10-header-shrouded-idc)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X10SH > 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 20 Pin (2x10) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-SHRO](http://oom.lt/HEAD-I01-X-PI2X10-SHRO)
 - Short Link: [http://oom.lt/H2X10SH](http://oom.lt/H2X10SH)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x10_P2.54mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

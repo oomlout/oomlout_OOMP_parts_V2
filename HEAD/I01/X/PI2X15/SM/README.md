@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X15SM > 2.54 mm 30 Pin (2x15) Header (SMD)](#h2x15sm--254-mm-30-pin-2x15-header-smd)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X15SM > 2.54 mm 30 Pin (2x15) Header (SMD)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 30 Pin (2x15) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X15-SM](http://oom.lt/HEAD-I01-X-PI2X15-SM)
 - Short Link: [http://oom.lt/H2X15SM](http://oom.lt/H2X15SM)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x15_P2.54mm_Vertical_SMD/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x15_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x15_P2.54mm_Vertical_SMD/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

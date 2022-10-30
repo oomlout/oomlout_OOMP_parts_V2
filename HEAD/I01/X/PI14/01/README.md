@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H14 > 2.54 mm 14 Pin Header](#h14--254-mm-14-pin-header)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # H14 > 2.54 mm 14 Pin Header
@@ -11,9 +20,32 @@
 - Description: 2.54 mm 14 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI14-01](http://oom.lt/HEAD-I01-X-PI14-01)
 - Short Link: [http://oom.lt/H14](http://oom.lt/H14)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI14/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI14/01/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI14/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI14/01/image_RE.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_1x14_P2.54mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1752/STAN/01/tree/main/)|[Adafruit Audio FX Sound Board PCBs<br>PROJ-ADAF-2133-STAN-01<br>CONTROL](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2133/STAN/01/tree/main/)|[Adafruit Audio FX Sound Board PCBs<br>PROJ-ADAF-2133-STAN-01<br>GPIO1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2133/STAN/01/tree/main/)|[Adafruit ItsyBitsy 32u4 PCB<br>PROJ-ADAF-3677-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3677/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit ItsyBitsy 32u4 PCB<br>PROJ-ADAF-3677-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3677/STAN/01/tree/main/)|[Adafruit ItsyBitsy M0 PCB<br>PROJ-ADAF-3727-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3727/STAN/01/tree/main/)|[Adafruit ItsyBitsy M0 PCB<br>PROJ-ADAF-3727-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3727/STAN/01/tree/main/)|[Adafruit ItsyBitsy M4 Express PCB<br>PROJ-ADAF-3800-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3800/STAN/01/tree/main/)|
+|[Adafruit ItsyBitsy M4 Express PCB<br>PROJ-ADAF-3800-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3800/STAN/01/tree/main/)|[Adafruit Airlift Bitsy Add On PCB<br>PROJ-ADAF-4363-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4363/STAN/01/tree/main/)|[Adafruit Airlift Bitsy Add On PCB<br>PROJ-ADAF-4363-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4363/STAN/01/tree/main/)|[Adafruit ItsyBitsy nRF52840 Express PCB<br>PROJ-ADAF-4481-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4481/STAN/01/tree/main/)|
+|[Adafruit ItsyBitsy nRF52840 Express PCB<br>PROJ-ADAF-4481-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4481/STAN/01/tree/main/)|[Adafruit ItsyBitsy RP2040 PCB<br>PROJ-ADAF-4888-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4888/STAN/01/tree/main/)|[Adafruit ItsyBitsy RP2040 PCB<br>PROJ-ADAF-4888-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4888/STAN/01/tree/main/)|[SOIC28 DIP Adapter<br>PROJ-SPAR-0496-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0496/STAN/01/tree/main/)|
+|[SOIC28 DIP Adapter<br>PROJ-SPAR-0496-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0496/STAN/01/tree/main/)|[SSOP DIP Adapter 28 Pin<br>PROJ-SPAR-0500-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0500/STAN/01/tree/main/)|[SSOP DIP Adapter 28 Pin<br>PROJ-SPAR-0500-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0500/STAN/01/tree/main/)|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10116/STAN/01/tree/main/)|
+|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>JP5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10116/STAN/01/tree/main/)|[Fio v3<br>PROJ-SPAR-11520-STAN-01<br>JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11520/STAN/01/tree/main/)|[Fio v3<br>PROJ-SPAR-11520-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11520/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI14/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI14/01/tree/main/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI14/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/HEAD/I01/X/PI14/01/tree/main/image_RE.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -36,4 +68,4 @@
 
 
 
-[im]: HEAD/I01/X/PI14/01/image_450.jpg
+[im]: image_450.jpg

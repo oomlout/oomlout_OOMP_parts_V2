@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O333 > SMD (0603) 33k Ohm Resistor](#r6o333--smd-0603-33k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O333 > SMD (0603) 33k Ohm Resistor
@@ -11,6 +20,25 @@ NO IMAGE
 - Description: SMD (0603) 33k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O333-01](http://oom.lt/RESE-0603-X-O333-01)
 - Short Link: [http://oom.lt/R6O333](http://oom.lt/R6O333)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Venus GPS Logger SMA<br>PROJ-SPAR-10920-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10920/STAN/01/tree/main/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12958/STAN/01/tree/main/)|[Electric Imp imp002 Breakout<br>PROJ-SPAR-12958-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12958/STAN/01/tree/main/)|[L6470 AutoDriver<br>PROJ-SPAR-13752-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13752/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[SparkFun WiFi Function Board ESP32<br>PROJ-SPAR-18430-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18430/STAN/01/tree/main/)||||
   
 NO IMAGES  
 ## Tags

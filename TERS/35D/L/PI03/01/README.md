@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [T35L3 > 3.5 mm 3 Pin Blue Screw Terminal](#t35l3--35-mm-3-pin-blue-screw-terminal)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # T35L3 > 3.5 mm 3 Pin Blue Screw Terminal
@@ -11,6 +20,29 @@ NO IMAGE
 - Description: 3.5 mm 3 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI03-01](http://oom.lt/TERS-35D-L-PI03-01)
 - Short Link: [http://oom.lt/T35L3](http://oom.lt/T35L3)
+
+## Footprints
+  
+
+|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x03_P3.50mm_Vertical||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x03||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>X1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1752/STAN/01/tree/main/)|[Adafruit Relay FeatherWing PCBs<br>PROJ-ADAF-2923-STAN-01<br>X2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2923/STAN/01/tree/main/)|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|
+|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|[Adafruit Terminal Block FeatherWing PCB<br>PROJ-ADAF-2926-STAN-01<br>X12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2926/STAN/01/tree/main/)|[Adafruit STEMMA Non Latching Mini Relay PCB<br>PROJ-ADAF-4409-STAN-01<br>X3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4409/STAN/01/tree/main/)|[Adafruit Feather M4 CAN PCB<br>PROJ-ADAF-4759-STAN-01<br>X4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4759/STAN/01/tree/main/)|
+|[Serial Enabled LCD Backpack<br>PROJ-SPAR-0258-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/0258/STAN/01/tree/main/)|[RS 485 Breakout<br>PROJ-SPAR-10124-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10124/STAN/01/tree/main/)|[MOSFET Power Control Kit<br>PROJ-SPAR-12959-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12959/STAN/01/tree/main/)|[OpenScale<br>PROJ-SPAR-13261-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13261/STAN/01/tree/main/)|
+|[Soil Moisture Sensor<br>PROJ-SPAR-13322-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13322/STAN/01/tree/main/)|[Beefcake Relay Control Kit<br>PROJ-SPAR-13815-STAN-01<br>J2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13815/STAN/01/tree/main/)|[ESP32 Environment Sensor Shield<br>PROJ-SPAR-14153-STAN-01<br>J7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14153/STAN/01/tree/main/)|[ESP32 Power Control Shield<br>PROJ-SPAR-14155-STAN-01<br>J3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14155/STAN/01/tree/main/)|
+|[USB RS 485 Converter<br>PROJ-SPAR-9822-STAN-01<br>JP2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9822/STAN/01/tree/main/)||||
   
 NO IMAGES  
 ## Tags

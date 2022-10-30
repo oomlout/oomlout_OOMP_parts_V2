@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O820 > SMD (0603) 82 Ohm Resistor](#r6o820--smd-0603-82-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R6O820 > SMD (0603) 82 Ohm Resistor
@@ -11,6 +20,26 @@ NO IMAGE
 - Description: SMD (0603) 82 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O820-01](http://oom.lt/RESE-0603-X-O820-01)
 - Short Link: [http://oom.lt/R6O820](http://oom.lt/R6O820)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|[LED Array 8x7<br>PROJ-SPAR-13795-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13795/STAN/01/tree/main/)|
+|||||
   
 NO IMAGES  
 ## Tags

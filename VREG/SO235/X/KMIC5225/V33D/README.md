@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [VR522523533 > SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v](#vr522523533--smd-sot-23-5-mic5225-voltage-regulator-33v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # VR522523533 > SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v
@@ -11,6 +20,37 @@ NO IMAGE
 - Description: SMD (SOT-23-5) MIC5225 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5225-V33D](http://oom.lt/VREG-SO235-X-KMIC5225-V33D)
 - Short Link: [http://oom.lt/VR522523533](http://oom.lt/VR522523533)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit 9 DOF and 10 DOF PCBs<br>PROJ-ADAF-0512-STAN-01<br>U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/0512/STAN/01/tree/main/)|[Adafruit L3GD20 Breakout PCB<br>PROJ-ADAF-1032-STAN-01<br>IC1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1032/STAN/01/tree/main/)|[Adafruit Gemma PCB<br>PROJ-ADAF-1222-STAN-01<br>IC2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1222/STAN/01/tree/main/)|[Adafruit GPS Logger Shield PCB<br>PROJ-ADAF-1272-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1272/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit Trinket PCB<br>PROJ-ADAF-1500-STAN-01<br>IC2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1500/STAN/01/tree/main/)|[Adafruit Bluefruit EZ Key PCB<br>PROJ-ADAF-1535-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1535/STAN/01/tree/main/)|[Adafruit STMPE610 Breakout PCB<br>PROJ-ADAF-1571-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1571/STAN/01/tree/main/)|[Adafruit Bluefruit Classic PCBs<br>PROJ-ADAF-1588-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1588/STAN/01/tree/main/)|
+|[Adafruit RA8875 Breakout Board PCB<br>PROJ-ADAF-1590-STAN-01<br>U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1590/STAN/01/tree/main/)|[Adafruit PiTFT 2.8 inch Display PCB<br>PROJ-ADAF-1601-STAN-01<br>IC4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1601/STAN/01/tree/main/)|[Adafruit CAP1188 PCB<br>PROJ-ADAF-1602-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1602/STAN/01/tree/main/)|[Adafruit BMP180 PCB<br>PROJ-ADAF-1603-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1603/STAN/01/tree/main/)|
+|[Adafruit Bluefruit EZ Link Shield PCB<br>PROJ-ADAF-1628-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1628/STAN/01/tree/main/)|[Adafruit 2.8 TFT Shield v2 PCB<br>PROJ-ADAF-1651-STAN-01<br>IC4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1651/STAN/01/tree/main/)|[Adafruit 1.27inch Color OLED Breakout PCB<br>PROJ-ADAF-1673-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1673/STAN/01/tree/main/)|[Adafruit Bluefruit LE nRF8001 PCB<br>PROJ-ADAF-1697-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1697/STAN/01/tree/main/)|
+|[Adafruit MAX31850 thermocouple breakout board<br>PROJ-ADAF-1727-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1727/STAN/01/tree/main/)|[Adafruit HMC5883 Mag Compass Sensor PCB<br>PROJ-ADAF-1746-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1746/STAN/01/tree/main/)|[Adafruit MAX9744 Amplifier PCB<br>PROJ-ADAF-1752-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1752/STAN/01/tree/main/)|[Adafruit Si1145 Light Sensor PCB<br>PROJ-ADAF-1777-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1777/STAN/01/tree/main/)|
+|[Adafruit MPL3115A2 PCB<br>PROJ-ADAF-1893-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1893/STAN/01/tree/main/)|[Adafruit HTU21D Breakout PCB<br>PROJ-ADAF-1899-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1899/STAN/01/tree/main/)|[Adafruit BMP183 Breakout PCB<br>PROJ-ADAF-1900-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1900/STAN/01/tree/main/)|[Adafruit Si4713 PCB<br>PROJ-ADAF-1958-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/1958/STAN/01/tree/main/)|
+|[Adafruit Pro Trinket PCBs<br>PROJ-ADAF-2000-STAN-01<br>IC2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2000/STAN/01/tree/main/)|[Adafruit MMA8451 Breakout PCB<br>PROJ-ADAF-2019-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2019/STAN/01/tree/main/)|[Adafruit LSM9DS0 PCB<br>PROJ-ADAF-2021-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2021/STAN/01/tree/main/)|[Adafruit MPR121 Capacitive Touch Shield PCB<br>PROJ-ADAF-2024-STAN-01<br>U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2024/STAN/01/tree/main/)|
+|[3.5inch TFT Breakout PCB<br>PROJ-ADAF-2050-STAN-01<br>IC1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2050/STAN/01/tree/main/)|[Adafruit 1.44 TFT Breakout PCB<br>PROJ-ADAF-2088-STAN-01<br>IC2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2088/STAN/01/tree/main/)|[Adafruit 2.8 TFT with Capacitive Touch PCB<br>PROJ-ADAF-2090-STAN-01<br>IC1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2090/STAN/01/tree/main/)|[Adafruit BNO055 Breakout PCB<br>PROJ-ADAF-2472-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2472/STAN/01/tree/main/)|
+|[Adafruit 2.4 TFT Breakout PCB<br>PROJ-ADAF-2478-STAN-01<br>IC1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2478/STAN/01/tree/main/)|[Adafruit Bluefruit LE UART Friend PCB<br>PROJ-ADAF-2479-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2479/STAN/01/tree/main/)|[Adafruit Bluefruit LE SPI Friend PCB<br>PROJ-ADAF-2633-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2633/STAN/01/tree/main/)|[Adafruit BMP280 Breakout PCB<br>PROJ-ADAF-2651-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2651/STAN/01/tree/main/)|
+|[Adafruit BME280 Breakout PCB<br>PROJ-ADAF-2652-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2652/STAN/01/tree/main/)|[Adafruit Bluefruit LE Micro PCB<br>PROJ-ADAF-2661-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2661/STAN/01/tree/main/)|[Adafruit SPW2430 PCB<br>PROJ-ADAF-2716-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2716/STAN/01/tree/main/)|[Adafruit Bluefruit LE Shield PCB<br>PROJ-ADAF-2746-STAN-01<br>IC4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/2746/STAN/01/tree/main/)|
+|[Adafruit VL6180X ToF Distance Sensor PCB<br>PROJ-ADAF-3316-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3316/STAN/01/tree/main/)|[Adafruit VL53L0X ToF Distance Sensor PCB<br>PROJ-ADAF-3317-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3317/STAN/01/tree/main/)|[Adafruit MAX31865 PCB<br>PROJ-ADAF-3328-STAN-01<br>U3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3328/STAN/01/tree/main/)|[Adafruit FXOS8700 FXAS21002 9 DoF Breakout PCB<br>PROJ-ADAF-3463-STAN-01<br>U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3463/STAN/01/tree/main/)|
+|[Adafruit 0.96 160x80 TFT Display Breakout PCB<br>PROJ-ADAF-3533-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3533/STAN/01/tree/main/)|[Adafruit CCS811 Breakout PCB<br>PROJ-ADAF-3566-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3566/STAN/01/tree/main/)|[Adafruit ItsyBitsy 32u4 PCB<br>PROJ-ADAF-3677-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3677/STAN/01/tree/main/)|[Adafruit UDA1334A I2S Stereo DAC PCB<br>PROJ-ADAF-3678-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3678/STAN/01/tree/main/)|
+|[Adafruit AS7262 Breakout PCB<br>PROJ-ADAF-3779-STAN-01<br>U3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3779/STAN/01/tree/main/)|[Adafruit VEML6075 UV Sensor PCB<br>PROJ-ADAF-3964-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3964/STAN/01/tree/main/)|[Adafruit MPRLS Pressure Sensor Breakout PCB<br>PROJ-ADAF-3965-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3965/STAN/01/tree/main/)|[Adafruit STEMMA Soil Sensor PCB<br>PROJ-ADAF-4026-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4026/STAN/01/tree/main/)|
+|[Adafruit Ultimate GPS<br>PROJ-ADAF-4279-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4279/STAN/01/tree/main/)|[Adafruit 1.14 inch 240x135 TFT PCB<br>PROJ-ADAF-4383-STAN-01<br>U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4383/STAN/01/tree/main/)|||
   
 NO IMAGES  
 ## Tags

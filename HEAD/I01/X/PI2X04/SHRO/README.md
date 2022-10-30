@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [H2X4SH > 2.54 mm 8 Pin (2x4) Header Shrouded (IDC)](#h2x4sh--254-mm-8-pin-2x4-header-shrouded-idc)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # H2X4SH > 2.54 mm 8 Pin (2x4) Header Shrouded (IDC)
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: 2.54 mm 8 Pin (2x4) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X04-SHRO](http://oom.lt/HEAD-I01-X-PI2X04-SHRO)
 - Short Link: [http://oom.lt/H2X4SH](http://oom.lt/H2X4SH)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x04_P2.54mm_Vertical/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x04_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Connector_IDC/IDC-Header_2x04_P2.54mm_Vertical/tree/main/)||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

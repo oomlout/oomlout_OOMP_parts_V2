@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O201 > SMD (0402) 200 Ohm Resistor](#r4o201--smd-0402-200-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R4O201 > SMD (0402) 200 Ohm Resistor
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (0402) 200 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O201-01](http://oom.lt/RESE-0402-X-O201-01)
 - Short Link: [http://oom.lt/R4O201](http://oom.lt/R4O201)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[ProtoSnap Pro Mini<br>PROJ-SPAR-10889-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10889/STAN/01/tree/main/)|[ProtoSnap LilyPad Development Board<br>PROJ-SPAR-11262-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11262/STAN/01/tree/main/)|[SparkFun Pro Micro RP2040<br>PROJ-SPAR-17717-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17717/STAN/01/tree/main/)||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [RA6472 > SMD (0603-8) 4.7k Ohm (x4) Resistor Array](#ra6472--smd-0603-8-47k-ohm-x4-resistor-array)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # RA6472 > SMD (0603-8) 4.7k Ohm (x4) Resistor Array
@@ -11,6 +20,26 @@ NO IMAGE
 - Description: SMD (0603-8) 4.7k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-06038-X-O472X4-01](http://oom.lt/RESA-06038-X-O472X4-01)
 - Short Link: [http://oom.lt/RA6472](http://oom.lt/RA6472)
+
+## Footprints
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit MLX90640 PCB<br>PROJ-ADAF-4407-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4407/STAN/01/tree/main/)|[Adafruit MCP4728 PCB<br>PROJ-ADAF-4470-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4470/STAN/01/tree/main/)|[Adafruit MCP2221 PCB<br>PROJ-ADAF-4471-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4471/STAN/01/tree/main/)|[Adafruit Feather nRF52840 Sense PCB<br>PROJ-ADAF-4516-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4516/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit MatrixPortal M4 PCB<br>PROJ-ADAF-4745-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4745/STAN/01/tree/main/)|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5100/STAN/01/tree/main/)|[Adafruit MacroPad RP2040 PCB<br>PROJ-ADAF-5100-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5100/STAN/01/tree/main/)|[Adafruit IS31FL3741 PCB<br>PROJ-ADAF-5201-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5201/STAN/01/tree/main/)|
+|||||
   
 NO IMAGES  
 ## Tags

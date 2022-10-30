@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O202 > SMD (0402) 2k Ohm Resistor](#r4o202--smd-0402-2k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # R4O202 > SMD (0402) 2k Ohm Resistor
@@ -11,6 +20,26 @@ NO IMAGE
 - Description: SMD (0402) 2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O202-01](http://oom.lt/RESE-0402-X-O202-01)
 - Short Link: [http://oom.lt/R4O202](http://oom.lt/R4O202)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Arduino Fio<br>PROJ-SPAR-10116-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10116/STAN/01/tree/main/)|[Lipo Charger Basic miniUSB<br>PROJ-SPAR-10401-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10401/STAN/01/tree/main/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11013/STAN/01/tree/main/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11013/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11129/STAN/01/tree/main/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11129/STAN/01/tree/main/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11129/STAN/01/tree/main/)|[Si4707 Breakout<br>PROJ-SPAR-11129-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11129/STAN/01/tree/main/)|
+|[EL Sequencer<br>PROJ-SPAR-11323-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11323/STAN/01/tree/main/)|[EL Sequencer<br>PROJ-SPAR-11323-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/11323/STAN/01/tree/main/)|[nRF9160 Thing Plus<br>PROJ-SPAR-17354-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17354/STAN/01/tree/main/)||
   
 NO IMAGES  
 ## Tags

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [L4GG > SMD (0402) Green LED](#l4gg--smd-0402-green-led)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 NO IMAGE  
 # L4GG > SMD (0402) Green LED
@@ -11,6 +20,24 @@ NO IMAGE
 - Description: SMD (0402) Green LED
 - Long Link: [http://oom.lt/LEDS-0402-G-STAN-01](http://oom.lt/LEDS-0402-G-STAN-01)
 - Short Link: [http://oom.lt/L4GG](http://oom.lt/L4GG)
+
+## Footprints
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|||||
+| :--- | :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
@@ -26,6 +53,6 @@ NO IMAGES
 |Full OOMP ID|oompID|LEDS-0402-G-STAN-01|
 |Hex ID (short code)|hexID|L4GG|
 |name|name|SMD (0402) Green LED|
-|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder'|
+|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||

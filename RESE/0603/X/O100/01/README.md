@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R6O100 > SMD (0603) 10 Ohm Resistor](#r6o100--smd-0603-10-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R6O100 > SMD (0603) 10 Ohm Resistor
@@ -11,9 +20,37 @@
 - Description: SMD (0603) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O100-01](http://oom.lt/RESE-0603-X-O100-01)
 - Short Link: [http://oom.lt/R6O100](http://oom.lt/R6O100)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O100/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O100/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O100/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O100/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O100/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O100/01/image_RE.jpg)||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0603_1608Metric_Pad0.98x0.95mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit Ethernet FeatherWing PCB<br>PROJ-ADAF-3201-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3201/STAN/01/tree/main/)|[Adafruit Mini TFT with Joystick Featherwing PCB<br>PROJ-ADAF-3321-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3321/STAN/01/tree/main/)|[Adafruit 1.54 inch 240x240 TFT PCB<br>PROJ-ADAF-3787-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/3787/STAN/01/tree/main/)|[Adafruit Hallowing M4 PCB<br>PROJ-ADAF-4300-STAN-01<br>R23](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4300/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[Adafruit 1.3 inch 240x240 TFT PCB<br>PROJ-ADAF-4313-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4313/STAN/01/tree/main/)|[Adafruit MONSTER M4SK PCB<br>PROJ-ADAF-4343-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/tree/main/)|[Adafruit MONSTER M4SK PCB<br>PROJ-ADAF-4343-STAN-01<br>R23](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4343/STAN/01/tree/main/)|[Adafruit Mini PiTFT 240x135 TFT PCB<br>PROJ-ADAF-4393-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4393/STAN/01/tree/main/)|
+|[Adafruit CLUE PCB<br>PROJ-ADAF-4500-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4500/STAN/01/tree/main/)|[Adafruit CLUE PCB<br>PROJ-ADAF-4500-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4500/STAN/01/tree/main/)|[Adafruit 1.3in Color TFT Bonnet PCB<br>PROJ-ADAF-4506-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4506/STAN/01/tree/main/)|[Adafruit MIDI FeatherWing PCB<br>PROJ-ADAF-4740-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/4740/STAN/01/tree/main/)|
+|[Adafruit 1.69in 280x240 Round Rectangle TFT PCB<br>PROJ-ADAF-5206-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5206/STAN/01/tree/main/)|[Adafruit 1.47in 320x172 Round Rectangle TFT PCB<br>PROJ-ADAF-5393-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5393/STAN/01/tree/main/)|[MP3 Player Shield<br>PROJ-SPAR-12660-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12660/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R37](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|
+|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R38](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R39](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R40](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R41](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|
+|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R42](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R43](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>R44](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13810/STAN/01/tree/main/)|[Lil Soundie Audio Player<br>PROJ-SPAR-14006-STAN-01<br>R27](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14006/STAN/01/tree/main/)|
+|[Papa Soundie Audio Player<br>PROJ-SPAR-14554-STAN-01<br>R27](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/14554/STAN/01/tree/main/)|[Qwiic GPS RTK<br>PROJ-SPAR-15005-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15005/STAN/01/tree/main/)|[Qwiic Twist<br>PROJ-SPAR-15083-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15083/STAN/01/tree/main/)|[Qwiic Twist<br>PROJ-SPAR-15083-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15083/STAN/01/tree/main/)|
+|[Qwiic Twist<br>PROJ-SPAR-15083-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15083/STAN/01/tree/main/)|[https://github.com/sparkfunX/Qwiic Relay<br>PROJ-SPAR-15093-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15093/STAN/01/tree/main/)|[SparkFun u blox ZOE M8Q<br>PROJ-SPAR-15193-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15193/STAN/01/tree/main/)|[XBee3 Thing Plus<br>PROJ-SPAR-15435-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15435/STAN/01/tree/main/)|
+|[ESP32 Thing Plus<br>PROJ-SPAR-15663-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15663/STAN/01/tree/main/)|[SparkFun u blox NEO M8U<br>PROJ-SPAR-16329-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16329/STAN/01/tree/main/)|[MicroMod Asset Tracker<br>PROJ-SPAR-17272-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17272/STAN/01/tree/main/)|[SparkFun RTK Surveyor<br>PROJ-SPAR-17369-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17369/STAN/01/tree/main/)|
+|[SparkFun LTE GNSS Breakout SARA R510M8S<br>PROJ-SPAR-18031-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18031/STAN/01/tree/main/)|[2D Barcode Scanner Breakout<br>PROJ-SPAR-18088-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18088/STAN/01/tree/main/)|[SparkFun RTK Express<br>PROJ-SPAR-18442-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18442/STAN/01/tree/main/)|[SparkFun RTK Express Plus<br>PROJ-SPAR-18590-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18590/STAN/01/tree/main/)|
+|[MicroMod Function Ethernet W5500<br>PROJ-SPAR-18708-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18708/STAN/01/tree/main/)||||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/tree/main/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/main/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/tree/main/image_RE.jpg)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +76,4 @@
 
 
 
-[im]: RESE/0603/X/O100/01/image_450.jpg
+[im]: image_450.jpg

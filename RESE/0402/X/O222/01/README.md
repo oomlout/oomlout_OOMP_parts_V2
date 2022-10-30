@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [R4O222 > SMD (0402) 2.2k Ohm Resistor](#r4o222--smd-0402-22k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # R4O222 > SMD (0402) 2.2k Ohm Resistor
@@ -11,9 +20,45 @@
 - Description: SMD (0402) 2.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O222-01](http://oom.lt/RESE-0402-X-O222-01)
 - Short Link: [http://oom.lt/R4O222](http://oom.lt/R4O222)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O222/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O222/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O222/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O222/01/image_BOTTOM.jpg)|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R6](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|
+|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|
+|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|
+|[PWM Shield<br>PROJ-SPAR-10615-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/10615/STAN/01/tree/main/)|[USB Weather Board<br>PROJ-SPAR-12081-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12081/STAN/01/tree/main/)|[USB Weather Board<br>PROJ-SPAR-12081-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/12081/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|
+|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R11](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R13](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R14](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|
+|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|
+|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R21](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R22](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|
+|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R23](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R24](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Qwiic 9DoF IMU Breakout<br>PROJ-SPAR-15335-STAN-01<br>R25](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/15335/STAN/01/tree/main/)|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|
+|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R45](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R47](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R53](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R54](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|
+|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R55](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|[SparkFun Auto pHAT<br>PROJ-SPAR-16328-STAN-01<br>R56](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16328/STAN/01/tree/main/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16781/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|
+|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R40](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R41](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R44](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|
+|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R45](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R46](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R47](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|[OpenLog Artemis<br>PROJ-SPAR-16832-STAN-01<br>R48](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16832/STAN/01/tree/main/)|
+|[SparkFun Pro Micro RP2040<br>PROJ-SPAR-17717-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17717/STAN/01/tree/main/)|[SparkFun Pro Micro RP2040<br>PROJ-SPAR-17717-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17717/STAN/01/tree/main/)|[SparkFun Thing Plus RP2040<br>PROJ-SPAR-17745-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17745/STAN/01/tree/main/)|[SparkFun Thing Plus RP2040<br>PROJ-SPAR-17745-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/17745/STAN/01/tree/main/)|
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R51](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>R52](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[RP2040 mikroBUS Dev Board<br>PROJ-SPAR-18721-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18721/STAN/01/tree/main/)|[RP2040 mikroBUS Dev Board<br>PROJ-SPAR-18721-STAN-01<br>R17](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18721/STAN/01/tree/main/)|
+|[SparkFun GNSS Timing ZED F9T<br>PROJ-SPAR-18774-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18774/STAN/01/tree/main/)|[SparkFun GNSS Timing ZED F9T<br>PROJ-SPAR-18774-STAN-01<br>R20](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18774/STAN/01/tree/main/)|[SparkFun Qwiic ToF Imager VL53L5CX Mini<br>PROJ-SPAR-19013-STAN-01<br>R4](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19013/STAN/01/tree/main/)|[SparkFun Qwiic ToF Imager VL53L5CX Mini<br>PROJ-SPAR-19013-STAN-01<br>R5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19013/STAN/01/tree/main/)|
+|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>R18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[Thing Plus Dual Port Logging Shield<br>PROJ-SPAR-19217-STAN-01<br>R19](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19217/STAN/01/tree/main/)|[SparkFun Qwiic 6DoF ISM330DHCX<br>PROJ-SPAR-19764-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19764/STAN/01/tree/main/)|[SparkFun Qwiic 6DoF ISM330DHCX<br>PROJ-SPAR-19764-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19764/STAN/01/tree/main/)|
+|[SparkFun Qwiic Magnetometer MMC5983MA<br>PROJ-SPAR-19921-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19921/STAN/01/tree/main/)|[SparkFun Qwiic Magnetometer MMC5983MA<br>PROJ-SPAR-19921-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/19921/STAN/01/tree/main/)|[SparkFun Qwiic Pressure Sensor BMP581<br>PROJ-SPAR-20170-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/20170/STAN/01/tree/main/)|[SparkFun Qwiic Pressure Sensor BMP581<br>PROJ-SPAR-20170-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/20170/STAN/01/tree/main/)|
+|[USB Host Shield<br>PROJ-SPAR-9947-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9947/STAN/01/tree/main/)|[Electret Microphone Breakout<br>PROJ-SPAR-9964-STAN-01<br>R1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9964/STAN/01/tree/main/)|||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/tree/main/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/main/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/RESE/0402/X/O222/01/tree/main/image_BOTTOM.jpg)|||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +84,4 @@
 
 
 
-[im]: RESE/0402/X/O222/01/image_450.jpg
+[im]: image_450.jpg

@@ -1,6 +1,15 @@
 
 
 
+
+Contents
+========
+
+* [C4P100 > SMD (0402) 100 pF Capacitor (Ceramic) 50v](#c4p100--smd-0402-100-pf-capacitor-ceramic-50v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
+	* [OOMP Instances](#oomp-instances)
+	* [Tags](#tags)
   
 ![][im]
 # C4P100 > SMD (0402) 100 pF Capacitor (Ceramic) 50v
@@ -11,9 +20,29 @@
 - Description: SMD (0402) 100 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF100-V50](http://oom.lt/CAPC-0402-X-PF100-V50)
 - Short Link: [http://oom.lt/C4P100](http://oom.lt/C4P100)
+
+## Footprints
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF100/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF100/V50/image.jpg)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric/tree/main/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/main/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/FOOTPRINT/kicad/kicad-footprints/Capacitor_SMD/C_0402_1005Metric_Pad0.74x0.62mm_HandSolder/tree/main/)|||
+| :--- | :--- | :--- | :--- |
+
+## Symbols
+  
+
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C||||
+| :--- | :--- | :--- | :--- |
+
+## OOMP Instances
+  
+
+|[Adafruit QT Py ESP32 S2 PCB<br>PROJ-ADAF-5325-STAN-01<br>C16](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/ADAF/5325/STAN/01/tree/main/)|[nRF52832 Breakout<br>PROJ-SPAR-13990-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/13990/STAN/01/tree/main/)|[MicroMod ESP32 Processor<br>PROJ-SPAR-16781-STAN-01<br>C18](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/16781/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C33](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|
+| :--- | :--- | :--- | :--- |
+|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C61](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C67](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>C68](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/18159/STAN/01/tree/main/)|[Low Current Sensor Breakout ACS712<br>PROJ-SPAR-8883-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/8883/STAN/01/tree/main/)|
+|[OpAmp Breakout LMV358<br>PROJ-SPAR-9816-STAN-01<br>C1](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9816/STAN/01/tree/main/)|[OpAmp Breakout LMV358<br>PROJ-SPAR-9816-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9816/STAN/01/tree/main/)|[Electret Microphone Breakout<br>PROJ-SPAR-9964-STAN-01<br>C3](https://github.com/oomlout/oomlout_OOMP_projects_V2/PROJ/SPAR/9964/STAN/01/tree/main/)||
+  
+
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/main/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/CAPC/0402/X/PF100/V50/tree/main/image.jpg)||||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -39,4 +68,4 @@
 
 
 
-[im]: CAPC/0402/X/PF100/V50/image_450.jpg
+[im]: image_450.jpg
