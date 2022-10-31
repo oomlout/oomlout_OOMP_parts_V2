@@ -34,7 +34,28 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "J3",
+            "PROJECT": "PROJ-ADAF-0801-STAN-01"
+        },
+        {
+            "ID": "J1",
+            "PROJECT": "PROJ-ADAF-1438-STAN-01"
+        },
+        {
+            "ID": "J2",
+            "PROJECT": "PROJ-ADAF-1438-STAN-01"
+        },
+        {
+            "ID": "J1",
+            "PROJECT": "PROJ-ADAF-2348-STAN-01"
+        },
+        {
+            "ID": "J3",
+            "PROJECT": "PROJ-ADAF-2348-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "35D"

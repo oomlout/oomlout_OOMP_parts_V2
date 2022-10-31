@@ -30,8 +30,10 @@ NO IMAGE
 ## Symbols
   
 
-||||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_Last|
 | :--- | :--- | :--- |
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male|
+||||
 
 ## OOMP Instances
   
@@ -54,4 +56,5 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X8SM|
 |name|name|2.54 mm 16 Pin (2x8) Header (SMD)|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x08_P2.54mm_Vertical_SMD|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male'|
 ||||

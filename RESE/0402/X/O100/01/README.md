@@ -30,7 +30,7 @@ Contents
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R|||
 | :--- | :--- | :--- |
 
 ## OOMP Instances
@@ -38,7 +38,9 @@ Contents
 
 |[Music Instrument Shield<br>PROJ-SPAR-10587-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10587/STAN/01/)|[MP3 Breakout VS1033D<br>PROJ-SPAR-10608-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10608/STAN/01/)|[LilyPad MP3 Player<br>PROJ-SPAR-11013-STAN-01<br>R12](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11013/STAN/01/)|
 | :--- | :--- | :--- |
-|[MP3 Breakout VS1063<br>PROJ-SPAR-11684-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11684/STAN/01/)|||
+|[MP3 Breakout VS1063<br>PROJ-SPAR-11684-STAN-01<br>R7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11684/STAN/01/)|[MicroMod Processor Board nRF52840<br>PROJ-SPAR-16984-STAN-01<br>R2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16984/STAN/01/)|[MicroMod Processor Board nRF52840<br>PROJ-SPAR-16984-STAN-01<br>R3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16984/STAN/01/)|
+|[MicroMod GNSS F9P Carrier Board<br>PROJ-SPAR-17722-STAN-01<br>R15](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17722/STAN/01/)|[MicroMod GNSS F9P Carrier Board<br>PROJ-SPAR-17722-STAN-01<br>R16](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17722/STAN/01/)|[SparkFun GNSS Timing ZED F9T<br>PROJ-SPAR-18774-STAN-01<br>R27](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18774/STAN/01/)|
+|[SparkFun GNSS Timing ZED F9T<br>PROJ-SPAR-18774-STAN-01<br>R28](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18774/STAN/01/)|||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O100/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O100/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O100/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O100/01/image_BOTTOM.jpg)|||
@@ -62,7 +64,7 @@ Contents
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C25077'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??1% ??200ppm/?? -55??~+155?? 10?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10587-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R9'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10608-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R7'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11013-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R12'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11684-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R7'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10587-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R9'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10608-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R7'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11013-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R12'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11684-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R7'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16984-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16984-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-17722-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R15'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-17722-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R16'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18774-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R27'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18774-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R28'</td></tr></table>|
 ||||
 
 

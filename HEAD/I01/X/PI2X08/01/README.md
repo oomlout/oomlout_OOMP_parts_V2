@@ -30,8 +30,10 @@ NO IMAGE
 ## Symbols
   
 
-||||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_Last|
 | :--- | :--- | :--- |
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male|
+||||
 
 ## OOMP Instances
   
@@ -56,5 +58,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X8|
 |name|name|2.54 mm 16 Pin (2x8) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x08_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1932-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP15'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2601-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP15'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3211-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP15'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3249-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'NEO_OUT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4132-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4132-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP7'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4702-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP15'</td></tr></table>|
 ||||

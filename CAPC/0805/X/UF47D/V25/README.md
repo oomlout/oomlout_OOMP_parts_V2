@@ -33,14 +33,16 @@ Contents
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)|||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C|||
 | :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-|[Adafruit 9 DOF and 10 DOF PCBs<br>PROJ-ADAF-0512-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0512/STAN/01/)|[Adafruit HMC5883 Mag Compass Sensor PCB<br>PROJ-ADAF-1746-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1746/STAN/01/)|[QwiicBus MidPoint<br>PROJ-SPAR-18000-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18000/STAN/01/)|
+|[Adafruit 9 DOF and 10 DOF PCBs<br>PROJ-ADAF-0512-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0512/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|
 | :--- | :--- | :--- |
+|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|
+|[Adafruit Qualia Driver PCB<br>PROJ-ADAF-1716-STAN-01<br>C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1716/STAN/01/)|[Adafruit HMC5883 Mag Compass Sensor PCB<br>PROJ-ADAF-1746-STAN-01<br>C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1746/STAN/01/)|[QwiicBus MidPoint<br>PROJ-SPAR-18000-STAN-01<br>C6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18000/STAN/01/)|
 |[QwiicBus MidPoint<br>PROJ-SPAR-18000-STAN-01<br>C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18000/STAN/01/)|||
   
 
@@ -66,7 +68,7 @@ Contents
 |Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR', 'FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805'|
 |Footprint Eagle|footprintEagle|'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR', 'FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-C|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0512-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C6'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1746-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18000-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C6'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18000-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C7'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-0512-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C6'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1716-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1716-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1716-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C5'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1716-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C6'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1716-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C7'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1716-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C8'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1746-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18000-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C6'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18000-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'C7'</td></tr></table>|
 ||||
 
 

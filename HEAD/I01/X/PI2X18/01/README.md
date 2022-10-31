@@ -30,8 +30,10 @@ NO IMAGE
 ## Symbols
   
 
-||||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_Last|
 | :--- | :--- | :--- |
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male|
+||||
 
 ## OOMP Instances
   
@@ -54,5 +56,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X18|
 |name|name|2.54 mm 36 Pin (2x18) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x18_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4064-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP2'</td></tr></table>|
 ||||

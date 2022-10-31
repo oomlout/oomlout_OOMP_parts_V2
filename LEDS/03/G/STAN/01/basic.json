@@ -43,7 +43,52 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "LED",
+            "PROJECT": "PROJ-ADAF-0196-STAN-01"
+        },
+        {
+            "ID": "POWER",
+            "PROJECT": "PROJ-ADAF-0196-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ADAF-0795-STAN-01"
+        },
+        {
+            "ID": "D3",
+            "PROJECT": "PROJ-ADAF-0795-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ADAF-1611-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ADAF-2077-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-ADAF-2077-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-10412-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-11561-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-SPAR-9612-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-SPAR-9612-STAN-01"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "03"

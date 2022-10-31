@@ -30,8 +30,10 @@ NO IMAGE
 ## Symbols
   
 
-||||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Row_Letter_Last|
 | :--- | :--- | :--- |
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male|
+||||
 
 ## OOMP Instances
   
@@ -58,5 +60,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X20|
 |name|name|2.54 mm 40 Pin (2x20) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x20_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1325-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2298-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3211-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3346-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3467-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3531-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4037-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4074-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4757-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'RPI1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13717-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-15316-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-17512-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J2'</td></tr></table>|
 ||||

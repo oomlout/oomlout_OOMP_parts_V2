@@ -30,14 +30,15 @@ Contents
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Device-R|||
 | :--- | :--- | :--- |
 
 ## OOMP Instances
   
 
-||||
+|[RFID Evaluation Shield<br>PROJ-SPAR-10406-STAN-01<br>R8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10406/STAN/01/)|[RFID Evaluation Shield<br>PROJ-SPAR-10406-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10406/STAN/01/)|[Gyro Breakout LPY503AL<br>PROJ-SPAR-11341-STAN-01<br>R9](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11341/STAN/01/)|
 | :--- | :--- | :--- |
+|[Gyro Breakout LPY503AL<br>PROJ-SPAR-11341-STAN-01<br>R10](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11341/STAN/01/)|||
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O000/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O000/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O000/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O000/01/image_BOTTOM.jpg)|||
@@ -61,6 +62,7 @@ Contents
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C17168'</td><td> 'partName'</td></tr><tr><td> '62.5mW Thick Film Resistors 50V ??800ppm/?? ??1% -55??~+155?? 0?? 0402  Chip Resistor - Surface Mount ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric', 'FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
+|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10406-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R8'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10406-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R9'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11341-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R9'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11341-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'R10'</td></tr></table>|
 ||||
 
 

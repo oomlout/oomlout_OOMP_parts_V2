@@ -30,8 +30,10 @@ NO IMAGE
 ## Symbols
   
 
-||||
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last|
 | :--- | :--- | :--- |
+|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male|
+||||
 
 ## OOMP Instances
   
@@ -53,4 +55,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X03-RS|
 |Hex ID (short code)|hexID|H2X3RS|
 |name|name|2.54 mm 6 Pin (2x3) Header Right Angle (SMD)|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male'|
 ||||
