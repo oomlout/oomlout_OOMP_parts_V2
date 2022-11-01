@@ -18,11 +18,7 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [
-        {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
-        }
-    ],
+    "manufacturerPartNumber": [],
     "name": [
         "JST SH (1 mm) 19 Pin Header (SMD)"
     ],
@@ -39,6 +35,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/details.csv"
         ],
@@ -51,11 +50,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/README.md"

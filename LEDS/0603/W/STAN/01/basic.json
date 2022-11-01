@@ -4,9 +4,16 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C2290"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2290",
+            "DPNKEY": "DPN-C-LCSC-C2290",
+            "LINK": "https://www.lcsc.com/product-detail/C2290",
+            "MPN": "MPN-C-HUBEIK-C2290",
+            "OOMPID": "LEDS-0603-W-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
         }
     ],
     "eagleBoard": [],
@@ -27,10 +34,16 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "Hubei KENTO Elec",
-            "partID": "C2290",
-            "partName": "C2290"
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "C2290",
+            "MPNKEY": "MPN-C-HUBEIK-C2290",
+            "OOMPID": "LEDS-0603-W-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0603-W-STAN-01",
+            "tags": [
+                "STOCK:100K"
+            ]
         }
     ],
     "name": [

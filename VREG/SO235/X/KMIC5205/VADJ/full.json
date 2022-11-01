@@ -33,6 +33,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/details.csv"
         ],
@@ -45,11 +48,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/VADJ/README.md"

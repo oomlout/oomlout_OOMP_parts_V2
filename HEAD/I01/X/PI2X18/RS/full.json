@@ -33,6 +33,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/details.csv"
         ],
@@ -45,11 +48,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/RS/README.md"
@@ -73,13 +82,6 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Odd_Even",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_First",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_Last",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Counter_Clockwise",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Top_Bottom",
-        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male"
-    ],
+    "symbolKicad": [],
     "symbolKicadDetails": []
 }

@@ -19,11 +19,7 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [
-        {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=136"
-        }
-    ],
+    "manufacturerPartNumber": [],
     "name": [
         "JST XH (2.5 mm) 10 Pin Header"
     ],
@@ -40,6 +36,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/details.csv"
         ],
@@ -52,11 +51,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/README.md"

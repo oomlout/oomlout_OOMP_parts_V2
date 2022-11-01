@@ -4,9 +4,746 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C23151"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C23151",
+            "DPNKEY": "DPN-C-LCSC-C23151",
+            "LINK": "https://www.lcsc.com/product-detail/C23151",
+            "MPN": "MPN-C-UNIROY-0603WAF3900T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C25235",
+            "DPNKEY": "DPN-C-LCSC-C25235",
+            "LINK": "https://www.lcsc.com/product-detail/C25235",
+            "MPN": "MPN-C-UNIROY-0603WAJ0391T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C101011",
+            "DPNKEY": "DPN-C-LCSC-C101011",
+            "LINK": "https://www.lcsc.com/product-detail/C101011",
+            "MPN": "MPN-C-LIZELE-CR0603FA3900G",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C101340",
+            "DPNKEY": "DPN-C-LCSC-C101340",
+            "LINK": "https://www.lcsc.com/product-detail/C101340",
+            "MPN": "MPN-C-LIZELE-CR0603JA0391G",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C103594",
+            "DPNKEY": "DPN-C-LCSC-C103594",
+            "LINK": "https://www.lcsc.com/product-detail/C103594",
+            "MPN": "MPN-C-RALEC-RTT033900FTP",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C103600",
+            "DPNKEY": "DPN-C-LCSC-C103600",
+            "LINK": "https://www.lcsc.com/product-detail/C103600",
+            "MPN": "MPN-C-RALEC-RTT03391JTP",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C114620",
+            "DPNKEY": "DPN-C-LCSC-C114620",
+            "LINK": "https://www.lcsc.com/product-detail/C114620",
+            "MPN": "MPN-C-YAGEO-RC0603FR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C137632",
+            "DPNKEY": "DPN-C-LCSC-C137632",
+            "LINK": "https://www.lcsc.com/product-detail/C137632",
+            "MPN": "MPN-C-YAGEO-RC0603JR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C144663",
+            "DPNKEY": "DPN-C-LCSC-C144663",
+            "LINK": "https://www.lcsc.com/product-detail/C144663",
+            "MPN": "MPN-C-YAGEO-AC0603FR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C160042",
+            "DPNKEY": "DPN-C-LCSC-C160042",
+            "LINK": "https://www.lcsc.com/product-detail/C160042",
+            "MPN": "MPN-C-KOASPE-RK73H1JTTD3900F",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C177389",
+            "DPNKEY": "DPN-C-LCSC-C177389",
+            "LINK": "https://www.lcsc.com/product-detail/C177389",
+            "MPN": "MPN-C-HKRHON-RCT03390RJLF",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C177668",
+            "DPNKEY": "DPN-C-LCSC-C177668",
+            "LINK": "https://www.lcsc.com/product-detail/C177668",
+            "MPN": "MPN-C-HKRHON-RCT03390RFLF",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C186176",
+            "DPNKEY": "DPN-C-LCSC-C186176",
+            "LINK": "https://www.lcsc.com/product-detail/C186176",
+            "MPN": "MPN-C-KOASPE-RN73H1JTTD3900B25",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C186385",
+            "DPNKEY": "DPN-C-LCSC-C186385",
+            "LINK": "https://www.lcsc.com/product-detail/C186385",
+            "MPN": "MPN-C-KOASPE-RN731JTTD3900B25",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C217996",
+            "DPNKEY": "DPN-C-LCSC-C217996",
+            "LINK": "https://www.lcsc.com/product-detail/C217996",
+            "MPN": "MPN-C-VIKING-ARG03FTC3900",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C192537",
+            "DPNKEY": "DPN-C-LCSC-C192537",
+            "LINK": "https://www.lcsc.com/product-detail/C192537",
+            "MPN": "MPN-C-KOASPE-RK73B1JTTD391J",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C228185",
+            "DPNKEY": "DPN-C-LCSC-C228185",
+            "LINK": "https://www.lcsc.com/product-detail/C228185",
+            "MPN": "MPN-C-YAGEO-AC0603JR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C267280",
+            "DPNKEY": "DPN-C-LCSC-C267280",
+            "LINK": "https://www.lcsc.com/product-detail/C267280",
+            "MPN": "MPN-C-EYANGS-R0603RXX391XJ10LTS",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C278623",
+            "DPNKEY": "DPN-C-LCSC-C278623",
+            "LINK": "https://www.lcsc.com/product-detail/C278623",
+            "MPN": "MPN-C-PANASO-ERJ3EKF3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C294661",
+            "DPNKEY": "DPN-C-LCSC-C294661",
+            "LINK": "https://www.lcsc.com/product-detail/C294661",
+            "MPN": "MPN-C-FHGUAN-RS-03K3900FT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C325616",
+            "DPNKEY": "DPN-C-LCSC-C325616",
+            "LINK": "https://www.lcsc.com/product-detail/C325616",
+            "MPN": "MPN-C-TYOHM-RMC06033901%N",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C325728",
+            "DPNKEY": "DPN-C-LCSC-C325728",
+            "LINK": "https://www.lcsc.com/product-detail/C325728",
+            "MPN": "MPN-C-TYOHM-RMC06033905%N",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C351650",
+            "DPNKEY": "DPN-C-LCSC-C351650",
+            "LINK": "https://www.lcsc.com/product-detail/C351650",
+            "MPN": "MPN-C-RESIST-PTFR0603B390RP9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C352323",
+            "DPNKEY": "DPN-C-LCSC-C352323",
+            "LINK": "https://www.lcsc.com/product-detail/C352323",
+            "MPN": "MPN-C-RESIST-AECR0603F390RK9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C365155",
+            "DPNKEY": "DPN-C-LCSC-C365155",
+            "LINK": "https://www.lcsc.com/product-detail/C365155",
+            "MPN": "MPN-C-RESIST-HPCR0603F390RK9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C365423",
+            "DPNKEY": "DPN-C-LCSC-C365423",
+            "LINK": "https://www.lcsc.com/product-detail/C365423",
+            "MPN": "MPN-C-RESIST-ETCR0603F390RK9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C384233",
+            "DPNKEY": "DPN-C-LCSC-C384233",
+            "LINK": "https://www.lcsc.com/product-detail/C384233",
+            "MPN": "MPN-C-WALSIN-WR06X391JTL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C384234",
+            "DPNKEY": "DPN-C-LCSC-C384234",
+            "LINK": "https://www.lcsc.com/product-detail/C384234",
+            "MPN": "MPN-C-WALSIN-WR06X3900FTL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C384468",
+            "DPNKEY": "DPN-C-LCSC-C384468",
+            "LINK": "https://www.lcsc.com/product-detail/C384468",
+            "MPN": "MPN-C-WALSIN-WF06H3900BTL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C403490",
+            "DPNKEY": "DPN-C-LCSC-C403490",
+            "LINK": "https://www.lcsc.com/product-detail/C403490",
+            "MPN": "MPN-C-PANASO-ERJ3GEYJ391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C407587",
+            "DPNKEY": "DPN-C-LCSC-C407587",
+            "LINK": "https://www.lcsc.com/product-detail/C407587",
+            "MPN": "MPN-C-UNIROY-0603WAD3900T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C429363",
+            "DPNKEY": "DPN-C-LCSC-C429363",
+            "LINK": "https://www.lcsc.com/product-detail/C429363",
+            "MPN": "MPN-C-EVEROH-CR0603J390RP05",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C445816",
+            "DPNKEY": "DPN-C-LCSC-C445816",
+            "LINK": "https://www.lcsc.com/product-detail/C445816",
+            "MPN": "MPN-C-PANASO-ERJPA3J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C453978",
+            "DPNKEY": "DPN-C-LCSC-C453978",
+            "LINK": "https://www.lcsc.com/product-detail/C453978",
+            "MPN": "MPN-C-FHGUAN-RC-03K3900FT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C507432",
+            "DPNKEY": "DPN-C-LCSC-C507432",
+            "LINK": "https://www.lcsc.com/product-detail/C507432",
+            "MPN": "MPN-C-ROHMSE-MCR03EZPJ391",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543143",
+            "DPNKEY": "DPN-C-LCSC-C543143",
+            "LINK": "https://www.lcsc.com/product-detail/C543143",
+            "MPN": "MPN-C-PANASO-ERJP03J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543233",
+            "DPNKEY": "DPN-C-LCSC-C543233",
+            "LINK": "https://www.lcsc.com/product-detail/C543233",
+            "MPN": "MPN-C-PANASO-ERJP03F3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543347",
+            "DPNKEY": "DPN-C-LCSC-C543347",
+            "LINK": "https://www.lcsc.com/product-detail/C543347",
+            "MPN": "MPN-C-PANASO-ERJPA3F3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543633",
+            "DPNKEY": "DPN-C-LCSC-C543633",
+            "LINK": "https://www.lcsc.com/product-detail/C543633",
+            "MPN": "MPN-C-PANASO-ERA3AEB391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543687",
+            "DPNKEY": "DPN-C-LCSC-C543687",
+            "LINK": "https://www.lcsc.com/product-detail/C543687",
+            "MPN": "MPN-C-PANASO-ERA3VEB3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543836",
+            "DPNKEY": "DPN-C-LCSC-C543836",
+            "LINK": "https://www.lcsc.com/product-detail/C543836",
+            "MPN": "MPN-C-PANASO-ERJU3RD3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543962",
+            "DPNKEY": "DPN-C-LCSC-C543962",
+            "LINK": "https://www.lcsc.com/product-detail/C543962",
+            "MPN": "MPN-C-PANASO-ERJUP3J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C544056",
+            "DPNKEY": "DPN-C-LCSC-C544056",
+            "LINK": "https://www.lcsc.com/product-detail/C544056",
+            "MPN": "MPN-C-PANASO-ERJUP3F3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C544146",
+            "DPNKEY": "DPN-C-LCSC-C544146",
+            "LINK": "https://www.lcsc.com/product-detail/C544146",
+            "MPN": "MPN-C-PANASO-ERJUP3D3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C666873",
+            "DPNKEY": "DPN-C-LCSC-C666873",
+            "LINK": "https://www.lcsc.com/product-detail/C666873",
+            "MPN": "MPN-C-FHGUAN-TD03G3900BT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C667480",
+            "DPNKEY": "DPN-C-LCSC-C667480",
+            "LINK": "https://www.lcsc.com/product-detail/C667480",
+            "MPN": "MPN-C-FHGUAN-TD03G3900FT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C723655",
+            "DPNKEY": "DPN-C-LCSC-C723655",
+            "LINK": "https://www.lcsc.com/product-detail/C723655",
+            "MPN": "MPN-C-YAGEO-RT0603CRB07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C844555",
+            "DPNKEY": "DPN-C-LCSC-C844555",
+            "LINK": "https://www.lcsc.com/product-detail/C844555",
+            "MPN": "MPN-C-VISHAY-CRCW0603390RFKEA",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C881087",
+            "DPNKEY": "DPN-C-LCSC-C881087",
+            "LINK": "https://www.lcsc.com/product-detail/C881087",
+            "MPN": "MPN-C-EVEROH-CR0603J390RP05Z",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C966174",
+            "DPNKEY": "DPN-C-LCSC-C966174",
+            "LINK": "https://www.lcsc.com/product-detail/C966174",
+            "MPN": "MPN-C-UNIROY-AS03W4J0391T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1720453",
+            "DPNKEY": "DPN-C-LCSC-C1720453",
+            "LINK": "https://www.lcsc.com/product-detail/C1720453",
+            "MPN": "MPN-C-SUSUMU-RG1608P-391-P-T1",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1721162",
+            "DPNKEY": "DPN-C-LCSC-C1721162",
+            "LINK": "https://www.lcsc.com/product-detail/C1721162",
+            "MPN": "MPN-C-SUSUMU-RG1608N-391-W-T5",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1725871",
+            "DPNKEY": "DPN-C-LCSC-C1725871",
+            "LINK": "https://www.lcsc.com/product-detail/C1725871",
+            "MPN": "MPN-C-VISHAY-TNPW0603390RBEEN",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2073673",
+            "DPNKEY": "DPN-C-LCSC-C2073673",
+            "LINK": "https://www.lcsc.com/product-detail/C2073673",
+            "MPN": "MPN-C-TECONN-CRGCQ0603F390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2074585",
+            "DPNKEY": "DPN-C-LCSC-C2074585",
+            "LINK": "https://www.lcsc.com/product-detail/C2074585",
+            "MPN": "MPN-C-PANASO-ERJ-PB3B3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2075981",
+            "DPNKEY": "DPN-C-LCSC-C2075981",
+            "LINK": "https://www.lcsc.com/product-detail/C2075981",
+            "MPN": "MPN-C-SUSUMU-RG1608N-391-W-T1",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2080257",
+            "DPNKEY": "DPN-C-LCSC-C2080257",
+            "LINK": "https://www.lcsc.com/product-detail/C2080257",
+            "MPN": "MPN-C-BOURNS-CR0603-JW-391ELF",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2082243",
+            "DPNKEY": "DPN-C-LCSC-C2082243",
+            "LINK": "https://www.lcsc.com/product-detail/C2082243",
+            "MPN": "MPN-C-TECONN-CRGP0603F390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2085598",
+            "DPNKEY": "DPN-C-LCSC-C2085598",
+            "LINK": "https://www.lcsc.com/product-detail/C2085598",
+            "MPN": "MPN-C-VISHAY-CRCW0603390RJNEA",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2093215",
+            "DPNKEY": "DPN-C-LCSC-C2093215",
+            "LINK": "https://www.lcsc.com/product-detail/C2093215",
+            "MPN": "MPN-C-VISHAY-MCT06030C3900FP500",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2096921",
+            "DPNKEY": "DPN-C-LCSC-C2096921",
+            "LINK": "https://www.lcsc.com/product-detail/C2096921",
+            "MPN": "MPN-C-TECONN-CRGH0603J390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099039",
+            "DPNKEY": "DPN-C-LCSC-C2099039",
+            "LINK": "https://www.lcsc.com/product-detail/C2099039",
+            "MPN": "MPN-C-TECONN-CRGH0603F390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099508",
+            "DPNKEY": "DPN-C-LCSC-C2099508",
+            "LINK": "https://www.lcsc.com/product-detail/C2099508",
+            "MPN": "MPN-C-PANASO-ERA-3AED391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2100825",
+            "DPNKEY": "DPN-C-LCSC-C2100825",
+            "LINK": "https://www.lcsc.com/product-detail/C2100825",
+            "MPN": "MPN-C-YAGEO-AA0603JR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2101486",
+            "DPNKEY": "DPN-C-LCSC-C2101486",
+            "LINK": "https://www.lcsc.com/product-detail/C2101486",
+            "MPN": "MPN-C-YAGEO-AA0603FR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2102636",
+            "DPNKEY": "DPN-C-LCSC-C2102636",
+            "LINK": "https://www.lcsc.com/product-detail/C2102636",
+            "MPN": "MPN-C-ROHMSE-KTR03EZPJ391",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2103443",
+            "DPNKEY": "DPN-C-LCSC-C2103443",
+            "LINK": "https://www.lcsc.com/product-detail/C2103443",
+            "MPN": "MPN-C-ROHMSE-ESR03EZPF3900",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2105666",
+            "DPNKEY": "DPN-C-LCSC-C2105666",
+            "LINK": "https://www.lcsc.com/product-detail/C2105666",
+            "MPN": "MPN-C-VISHAY-RCS0603390RFKEA",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2106698",
+            "DPNKEY": "DPN-C-LCSC-C2106698",
+            "LINK": "https://www.lcsc.com/product-detail/C2106698",
+            "MPN": "MPN-C-PANASO-ERJ-S03J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2106757",
+            "DPNKEY": "DPN-C-LCSC-C2106757",
+            "LINK": "https://www.lcsc.com/product-detail/C2106757",
+            "MPN": "MPN-C-YAGEO-AT0603DRE07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "TAGS": []
         }
     ],
     "eagleBoard": [],
@@ -27,10 +764,746 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "UNI-ROYAL(Uniroyal Elec)",
-            "partID": "0603WAF3900T5E",
-            "partName": "0603WAF3900T5E"
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0603WAF3900T5E",
+            "MPNKEY": "MPN-C-UNIROY-0603WAF3900T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0603WAJ0391T5E",
+            "MPNKEY": "MPN-C-UNIROY-0603WAJ0391T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-LIZELE",
+            "MANUFACTURER": "LIZ Elec",
+            "MPN": "CR0603FA3900G",
+            "MPNKEY": "MPN-C-LIZELE-CR0603FA3900G",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-LIZELE",
+            "MANUFACTURER": "LIZ Elec",
+            "MPN": "CR0603JA0391G",
+            "MPNKEY": "MPN-C-LIZELE-CR0603JA0391G",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT033900FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT033900FTP",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT03391JTP",
+            "MPNKEY": "MPN-C-RALEC-RTT03391JTP",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0603FR-07390RL",
+            "MPNKEY": "MPN-C-YAGEO-RC0603FR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0603JR-07390RL",
+            "MPNKEY": "MPN-C-YAGEO-RC0603JR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0603FR-07390RL",
+            "MPNKEY": "MPN-C-YAGEO-AC0603FR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73H1JTTD3900F",
+            "MPNKEY": "MPN-C-KOASPE-RK73H1JTTD3900F",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR06X391JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR06X391JTL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-HKRHON",
+            "MANUFACTURER": "HKR(Hong Kong Resistors)",
+            "MPN": "RCT03390RJLF",
+            "MPNKEY": "MPN-C-HKRHON-RCT03390RJLF",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-HKRHON",
+            "MANUFACTURER": "HKR(Hong Kong Resistors)",
+            "MPN": "RCT03390RFLF",
+            "MPNKEY": "MPN-C-HKRHON-RCT03390RFLF",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RN73H1JTTD3900B25",
+            "MPNKEY": "MPN-C-KOASPE-RN73H1JTTD3900B25",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RN731JTTD3900B25",
+            "MPNKEY": "MPN-C-KOASPE-RN731JTTD3900B25",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VIKING",
+            "MANUFACTURER": "Viking Tech",
+            "MPN": "ARG03FTC3900",
+            "MPNKEY": "MPN-C-VIKING-ARG03FTC3900",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B1JTTD391J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B1JTTD391J",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0603JR-07390RL",
+            "MPNKEY": "MPN-C-YAGEO-AC0603JR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "R0603RXX391XJ10LTS",
+            "MPNKEY": "MPN-C-EYANGS-R0603RXX391XJ10LTS",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ3EKF3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJ3EKF3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-03K3900FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-03K3900FT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TYOHM",
+            "MANUFACTURER": "TyoHM",
+            "MPN": "RMC06033901%N",
+            "MPNKEY": "MPN-C-TYOHM-RMC06033901%N",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TYOHM",
+            "MANUFACTURER": "TyoHM",
+            "MPN": "RMC06033905%N",
+            "MPNKEY": "MPN-C-TYOHM-RMC06033905%N",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-RESIST",
+            "MANUFACTURER": "Resistor.Today",
+            "MPN": "PTFR0603B390RP9",
+            "MPNKEY": "MPN-C-RESIST-PTFR0603B390RP9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-RESIST",
+            "MANUFACTURER": "Resistor.Today",
+            "MPN": "AECR0603F390RK9",
+            "MPNKEY": "MPN-C-RESIST-AECR0603F390RK9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-RESIST",
+            "MANUFACTURER": "Resistor.Today",
+            "MPN": "HPCR0603F390RK9",
+            "MPNKEY": "MPN-C-RESIST-HPCR0603F390RK9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-RESIST",
+            "MANUFACTURER": "Resistor.Today",
+            "MPN": "ETCR0603F390RK9",
+            "MPNKEY": "MPN-C-RESIST-ETCR0603F390RK9",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR06X3900FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR06X3900FTL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WF06H3900BTL",
+            "MPNKEY": "MPN-C-WALSIN-WF06H3900BTL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ3GEYJ391V",
+            "MPNKEY": "MPN-C-PANASO-ERJ3GEYJ391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0603WAD3900T5E",
+            "MPNKEY": "MPN-C-UNIROY-0603WAD3900T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-EVEROH",
+            "MANUFACTURER": "Ever Ohms Tech",
+            "MPN": "CR0603J390RP05",
+            "MPNKEY": "MPN-C-EVEROH-CR0603J390RP05",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJPA3J391V",
+            "MPNKEY": "MPN-C-PANASO-ERJPA3J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RC-03K3900FT",
+            "MPNKEY": "MPN-C-FHGUAN-RC-03K3900FT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "MCR03EZPJ391",
+            "MPNKEY": "MPN-C-ROHMSE-MCR03EZPJ391",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJP03J391V",
+            "MPNKEY": "MPN-C-PANASO-ERJP03J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJP03F3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJP03F3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJPA3F3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJPA3F3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERA3AEB391V",
+            "MPNKEY": "MPN-C-PANASO-ERA3AEB391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERA3VEB3900V",
+            "MPNKEY": "MPN-C-PANASO-ERA3VEB3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJU3RD3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJU3RD3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJUP3J391V",
+            "MPNKEY": "MPN-C-PANASO-ERJUP3J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJUP3F3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJUP3F3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJUP3D3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJUP3D3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "TD03G3900BT",
+            "MPNKEY": "MPN-C-FHGUAN-TD03G3900BT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "TD03G3900FT",
+            "MPNKEY": "MPN-C-FHGUAN-TD03G3900FT",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RT0603CRB07390RL",
+            "MPNKEY": "MPN-C-YAGEO-RT0603CRB07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW0603390RFKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW0603390RFKEA",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-EVEROH",
+            "MANUFACTURER": "Ever Ohms Tech",
+            "MPN": "CR0603J390RP05Z",
+            "MPNKEY": "MPN-C-EVEROH-CR0603J390RP05Z",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "AS03W4J0391T5E",
+            "MPNKEY": "MPN-C-UNIROY-AS03W4J0391T5E",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SUSUMU",
+            "MANUFACTURER": "SUSUMU",
+            "MPN": "RG1608P-391-P-T1",
+            "MPNKEY": "MPN-C-SUSUMU-RG1608P-391-P-T1",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SUSUMU",
+            "MANUFACTURER": "SUSUMU",
+            "MPN": "RG1608N-391-W-T5",
+            "MPNKEY": "MPN-C-SUSUMU-RG1608N-391-W-T5",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "TNPW0603390RBEEN",
+            "MPNKEY": "MPN-C-VISHAY-TNPW0603390RBEEN",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGCQ0603F390R",
+            "MPNKEY": "MPN-C-TECONN-CRGCQ0603F390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-PB3B3900V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-PB3B3900V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SUSUMU",
+            "MANUFACTURER": "SUSUMU",
+            "MPN": "RG1608N-391-W-T1",
+            "MPNKEY": "MPN-C-SUSUMU-RG1608N-391-W-T1",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-BOURNS",
+            "MANUFACTURER": "BOURNS",
+            "MPN": "CR0603-JW-391ELF",
+            "MPNKEY": "MPN-C-BOURNS-CR0603-JW-391ELF",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGP0603F390R",
+            "MPNKEY": "MPN-C-TECONN-CRGP0603F390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW0603390RJNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW0603390RJNEA",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "MCT06030C3900FP500",
+            "MPNKEY": "MPN-C-VISHAY-MCT06030C3900FP500",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGH0603J390R",
+            "MPNKEY": "MPN-C-TECONN-CRGH0603J390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGH0603F390R",
+            "MPNKEY": "MPN-C-TECONN-CRGH0603F390R",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERA-3AED391V",
+            "MPNKEY": "MPN-C-PANASO-ERA-3AED391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0603JR-07390RL",
+            "MPNKEY": "MPN-C-YAGEO-AA0603JR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0603FR-07390RL",
+            "MPNKEY": "MPN-C-YAGEO-AA0603FR-07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR03EZPJ391",
+            "MPNKEY": "MPN-C-ROHMSE-KTR03EZPJ391",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "ESR03EZPF3900",
+            "MPNKEY": "MPN-C-ROHMSE-ESR03EZPF3900",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "RCS0603390RFKEA",
+            "MPNKEY": "MPN-C-VISHAY-RCS0603390RFKEA",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-S03J391V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-S03J391V",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AT0603DRE07390RL",
+            "MPNKEY": "MPN-C-YAGEO-AT0603DRE07390RL",
+            "OOMPID": "RESE-0603-X-O391-01",
+            "OOMPIDPARTIAL": "RESE-0603-X-O391-01",
+            "tags": []
         }
     ],
     "name": [

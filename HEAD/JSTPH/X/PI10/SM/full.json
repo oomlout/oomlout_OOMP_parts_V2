@@ -16,13 +16,9 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [
-        {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
-        }
-    ],
+    "manufacturerPartNumber": [],
     "name": [
-        "10 Pin Header (SMD)"
+        "JST PH (2 mm) 10 Pin Header (SMD)"
     ],
     "oompColor": [
         "X"
@@ -37,6 +33,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/details.csv"
         ],
@@ -49,11 +48,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/SM/README.md"

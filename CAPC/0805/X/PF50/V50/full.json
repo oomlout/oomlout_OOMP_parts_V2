@@ -4,9 +4,646 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C1716"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1716",
+            "DPNKEY": "DPN-C-LCSC-C1716",
+            "LINK": "https://www.lcsc.com/product-detail/C1716",
+            "MPN": "MPN-C-FHGUAN-0805B151K500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1795",
+            "DPNKEY": "DPN-C-LCSC-C1795",
+            "LINK": "https://www.lcsc.com/product-detail/C1795",
+            "MPN": "MPN-C-FHGUAN-0805CG151J500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1823",
+            "DPNKEY": "DPN-C-LCSC-C1823",
+            "LINK": "https://www.lcsc.com/product-detail/C1823",
+            "MPN": "MPN-C-FHGUAN-0805CG500J500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C27244",
+            "DPNKEY": "DPN-C-LCSC-C27244",
+            "LINK": "https://www.lcsc.com/product-detail/C27244",
+            "MPN": "MPN-C-FHGUAN-0805B751K500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C107111",
+            "DPNKEY": "DPN-C-LCSC-C107111",
+            "LINK": "https://www.lcsc.com/product-detail/C107111",
+            "MPN": "MPN-C-YAGEO-CC0805JRNPO9BN151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C113855",
+            "DPNKEY": "DPN-C-LCSC-C113855",
+            "LINK": "https://www.lcsc.com/product-detail/C113855",
+            "MPN": "MPN-C-YAGEO-CC0805KRX7R9BB151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C152886",
+            "DPNKEY": "DPN-C-LCSC-C152886",
+            "LINK": "https://www.lcsc.com/product-detail/C152886",
+            "MPN": "MPN-C-WALSIN-0805B151K500CT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C159769",
+            "DPNKEY": "DPN-C-LCSC-C159769",
+            "LINK": "https://www.lcsc.com/product-detail/C159769",
+            "MPN": "MPN-C-SAMSUN-CL21C151JBANNNC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C159778",
+            "DPNKEY": "DPN-C-LCSC-C159778",
+            "LINK": "https://www.lcsc.com/product-detail/C159778",
+            "MPN": "MPN-C-SAMSUN-CL21B151KBANNNC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C282743",
+            "DPNKEY": "DPN-C-LCSC-C282743",
+            "LINK": "https://www.lcsc.com/product-detail/C282743",
+            "MPN": "MPN-C-CCTC-TCC0805X7R151K500BT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C376866",
+            "DPNKEY": "DPN-C-LCSC-C376866",
+            "LINK": "https://www.lcsc.com/product-detail/C376866",
+            "MPN": "MPN-C-CCTC-TCC0805COG151J500BT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C437468",
+            "DPNKEY": "DPN-C-LCSC-C437468",
+            "LINK": "https://www.lcsc.com/product-detail/C437468",
+            "MPN": "MPN-C-MURATA-GCM2165C1H151JA16D",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C520008",
+            "DPNKEY": "DPN-C-LCSC-C520008",
+            "LINK": "https://www.lcsc.com/product-detail/C520008",
+            "MPN": "MPN-C-YAGEO-CC0805JRNPO9BN751",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C520084",
+            "DPNKEY": "DPN-C-LCSC-C520084",
+            "LINK": "https://www.lcsc.com/product-detail/C520084",
+            "MPN": "MPN-C-YAGEO-CC0805GRNPO9BN151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C527078",
+            "DPNKEY": "DPN-C-LCSC-C527078",
+            "LINK": "https://www.lcsc.com/product-detail/C527078",
+            "MPN": "MPN-C-YAGEO-CC0805FRNPO9BN151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C527980",
+            "DPNKEY": "DPN-C-LCSC-C527980",
+            "LINK": "https://www.lcsc.com/product-detail/C527980",
+            "MPN": "MPN-C-MURATA-GRM2165C1H751JA01D",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599871",
+            "DPNKEY": "DPN-C-LCSC-C599871",
+            "LINK": "https://www.lcsc.com/product-detail/C599871",
+            "MPN": "MPN-C-KEMET-C0805C151J5GAC7800",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1514088",
+            "DPNKEY": "DPN-C-LCSC-C1514088",
+            "LINK": "https://www.lcsc.com/product-detail/C1514088",
+            "MPN": "MPN-C-VISHAY-VJ0805A151JLAAJ32",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1514100",
+            "DPNKEY": "DPN-C-LCSC-C1514100",
+            "LINK": "https://www.lcsc.com/product-detail/C1514100",
+            "MPN": "MPN-C-VISHAY-VJ0805A151KLAAJ32",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1636364",
+            "DPNKEY": "DPN-C-LCSC-C1636364",
+            "LINK": "https://www.lcsc.com/product-detail/C1636364",
+            "MPN": "MPN-C-KNOWLE-0805J0500151KFT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2211668",
+            "DPNKEY": "DPN-C-LCSC-C2211668",
+            "LINK": "https://www.lcsc.com/product-detail/C2211668",
+            "MPN": "MPN-C-KYOCER-08055A500JAT2A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2307987",
+            "DPNKEY": "DPN-C-LCSC-C2307987",
+            "LINK": "https://www.lcsc.com/product-detail/C2307987",
+            "MPN": "MPN-C-VISHAY-VJ0805D151MLAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2308049",
+            "DPNKEY": "DPN-C-LCSC-C2308049",
+            "LINK": "https://www.lcsc.com/product-detail/C2308049",
+            "MPN": "MPN-C-VISHAY-VJ0805D151MLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2308064",
+            "DPNKEY": "DPN-C-LCSC-C2308064",
+            "LINK": "https://www.lcsc.com/product-detail/C2308064",
+            "MPN": "MPN-C-VISHAY-VJ0805D151MLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2308857",
+            "DPNKEY": "DPN-C-LCSC-C2308857",
+            "LINK": "https://www.lcsc.com/product-detail/C2308857",
+            "MPN": "MPN-C-KNOWLE-0805Y0500151GCR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2309277",
+            "DPNKEY": "DPN-C-LCSC-C2309277",
+            "LINK": "https://www.lcsc.com/product-detail/C2309277",
+            "MPN": "MPN-C-KNOWLE-0805Y0500151GCT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2312777",
+            "DPNKEY": "DPN-C-LCSC-C2312777",
+            "LINK": "https://www.lcsc.com/product-detail/C2312777",
+            "MPN": "MPN-C-VISHAY-VJ0805A151GXAAP",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2312780",
+            "DPNKEY": "DPN-C-LCSC-C2312780",
+            "LINK": "https://www.lcsc.com/product-detail/C2312780",
+            "MPN": "MPN-C-VISHAY-VJ0805A151GXAAC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2312790",
+            "DPNKEY": "DPN-C-LCSC-C2312790",
+            "LINK": "https://www.lcsc.com/product-detail/C2312790",
+            "MPN": "MPN-C-VISHAY-VJ0805A151GXAMC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2312945",
+            "DPNKEY": "DPN-C-LCSC-C2312945",
+            "LINK": "https://www.lcsc.com/product-detail/C2312945",
+            "MPN": "MPN-C-VISHAY-VJ0805A151GXAMP",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313345",
+            "DPNKEY": "DPN-C-LCSC-C2313345",
+            "LINK": "https://www.lcsc.com/product-detail/C2313345",
+            "MPN": "MPN-C-VISHAY-VJ0805D151KXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313353",
+            "DPNKEY": "DPN-C-LCSC-C2313353",
+            "LINK": "https://www.lcsc.com/product-detail/C2313353",
+            "MPN": "MPN-C-VISHAY-VJ0805D151KXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313432",
+            "DPNKEY": "DPN-C-LCSC-C2313432",
+            "LINK": "https://www.lcsc.com/product-detail/C2313432",
+            "MPN": "MPN-C-VISHAY-VJ0805D151KXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313456",
+            "DPNKEY": "DPN-C-LCSC-C2313456",
+            "LINK": "https://www.lcsc.com/product-detail/C2313456",
+            "MPN": "MPN-C-VISHAY-VJ0805D151KLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313460",
+            "DPNKEY": "DPN-C-LCSC-C2313460",
+            "LINK": "https://www.lcsc.com/product-detail/C2313460",
+            "MPN": "MPN-C-VISHAY-VJ0805D151KLAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313476",
+            "DPNKEY": "DPN-C-LCSC-C2313476",
+            "LINK": "https://www.lcsc.com/product-detail/C2313476",
+            "MPN": "MPN-C-VISHAY-VJ0805D151KLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2313592",
+            "DPNKEY": "DPN-C-LCSC-C2313592",
+            "LINK": "https://www.lcsc.com/product-detail/C2313592",
+            "MPN": "MPN-C-VISHAY-VJ0805D151MXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2319998",
+            "DPNKEY": "DPN-C-LCSC-C2319998",
+            "LINK": "https://www.lcsc.com/product-detail/C2319998",
+            "MPN": "MPN-C-VISHAY-VJ0805D751MLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2320092",
+            "DPNKEY": "DPN-C-LCSC-C2320092",
+            "LINK": "https://www.lcsc.com/product-detail/C2320092",
+            "MPN": "MPN-C-VISHAY-VJ0805D751MLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2320802",
+            "DPNKEY": "DPN-C-LCSC-C2320802",
+            "LINK": "https://www.lcsc.com/product-detail/C2320802",
+            "MPN": "MPN-C-VISHAY-VJ0805D751MXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2320806",
+            "DPNKEY": "DPN-C-LCSC-C2320806",
+            "LINK": "https://www.lcsc.com/product-detail/C2320806",
+            "MPN": "MPN-C-VISHAY-VJ0805D751MXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2321102",
+            "DPNKEY": "DPN-C-LCSC-C2321102",
+            "LINK": "https://www.lcsc.com/product-detail/C2321102",
+            "MPN": "MPN-C-VISHAY-VJ0805D751GXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2323145",
+            "DPNKEY": "DPN-C-LCSC-C2323145",
+            "LINK": "https://www.lcsc.com/product-detail/C2323145",
+            "MPN": "MPN-C-VISHAY-VJ0805D151JLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2323177",
+            "DPNKEY": "DPN-C-LCSC-C2323177",
+            "LINK": "https://www.lcsc.com/product-detail/C2323177",
+            "MPN": "MPN-C-VISHAY-VJ0805D151JLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2323222",
+            "DPNKEY": "DPN-C-LCSC-C2323222",
+            "LINK": "https://www.lcsc.com/product-detail/C2323222",
+            "MPN": "MPN-C-VISHAY-VJ0805D151JXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2323283",
+            "DPNKEY": "DPN-C-LCSC-C2323283",
+            "LINK": "https://www.lcsc.com/product-detail/C2323283",
+            "MPN": "MPN-C-VISHAY-VJ0805D151JXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2325406",
+            "DPNKEY": "DPN-C-LCSC-C2325406",
+            "LINK": "https://www.lcsc.com/product-detail/C2325406",
+            "MPN": "MPN-C-VISHAY-VJ0805D751KLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2325415",
+            "DPNKEY": "DPN-C-LCSC-C2325415",
+            "LINK": "https://www.lcsc.com/product-detail/C2325415",
+            "MPN": "MPN-C-VISHAY-VJ0805D751KXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2325488",
+            "DPNKEY": "DPN-C-LCSC-C2325488",
+            "LINK": "https://www.lcsc.com/product-detail/C2325488",
+            "MPN": "MPN-C-VISHAY-VJ0805D151JXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2332665",
+            "DPNKEY": "DPN-C-LCSC-C2332665",
+            "LINK": "https://www.lcsc.com/product-detail/C2332665",
+            "MPN": "MPN-C-VISHAY-VJ0805D751JXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2332674",
+            "DPNKEY": "DPN-C-LCSC-C2332674",
+            "LINK": "https://www.lcsc.com/product-detail/C2332674",
+            "MPN": "MPN-C-VISHAY-VJ0805D751JLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2332680",
+            "DPNKEY": "DPN-C-LCSC-C2332680",
+            "LINK": "https://www.lcsc.com/product-detail/C2332680",
+            "MPN": "MPN-C-VISHAY-VJ0805D751JLAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2332822",
+            "DPNKEY": "DPN-C-LCSC-C2332822",
+            "LINK": "https://www.lcsc.com/product-detail/C2332822",
+            "MPN": "MPN-C-VISHAY-VJ0805D751JLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2333069",
+            "DPNKEY": "DPN-C-LCSC-C2333069",
+            "LINK": "https://www.lcsc.com/product-detail/C2333069",
+            "MPN": "MPN-C-VISHAY-VJ0805D751JXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2339287",
+            "DPNKEY": "DPN-C-LCSC-C2339287",
+            "LINK": "https://www.lcsc.com/product-detail/C2339287",
+            "MPN": "MPN-C-VISHAY-VJ0805A151FXAAC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2339503",
+            "DPNKEY": "DPN-C-LCSC-C2339503",
+            "LINK": "https://www.lcsc.com/product-detail/C2339503",
+            "MPN": "MPN-C-KNOWLE-0805Y0500151GAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2425539",
+            "DPNKEY": "DPN-C-LCSC-C2425539",
+            "LINK": "https://www.lcsc.com/product-detail/C2425539",
+            "MPN": "MPN-C-KNOWLE-0805Y0500151GQT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2431910",
+            "DPNKEY": "DPN-C-LCSC-C2431910",
+            "LINK": "https://www.lcsc.com/product-detail/C2431910",
+            "MPN": "MPN-C-KYOCER-08055A151GA12A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2431921",
+            "DPNKEY": "DPN-C-LCSC-C2431921",
+            "LINK": "https://www.lcsc.com/product-detail/C2431921",
+            "MPN": "MPN-C-KYOCER-08055A151FA12A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2432138",
+            "DPNKEY": "DPN-C-LCSC-C2432138",
+            "LINK": "https://www.lcsc.com/product-detail/C2432138",
+            "MPN": "MPN-C-KYOCER-08055A151JA12A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2436802",
+            "DPNKEY": "DPN-C-LCSC-C2436802",
+            "LINK": "https://www.lcsc.com/product-detail/C2436802",
+            "MPN": "MPN-C-VISHAY-VJ0805D151FXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2436809",
+            "DPNKEY": "DPN-C-LCSC-C2436809",
+            "LINK": "https://www.lcsc.com/product-detail/C2436809",
+            "MPN": "MPN-C-VISHAY-VJ0805D151FXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2436813",
+            "DPNKEY": "DPN-C-LCSC-C2436813",
+            "LINK": "https://www.lcsc.com/product-detail/C2436813",
+            "MPN": "MPN-C-VISHAY-VJ0805D151FXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "TAGS": []
         }
     ],
     "eagleBoard": [],
@@ -35,10 +672,646 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "FH (Guangdong Fenghua Advanced Tech)",
-            "partID": "0805B151K500NT",
-            "partName": "0805B151K500NT"
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0805B151K500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0805B151K500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0805CG151J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0805CG151J500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0805CG500J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0805CG500J500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0805B751K500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0805B751K500NT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0805JRNPO9BN151",
+            "MPNKEY": "MPN-C-YAGEO-CC0805JRNPO9BN151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0805KRX7R9BB151",
+            "MPNKEY": "MPN-C-YAGEO-CC0805KRX7R9BB151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0805B151K500CT",
+            "MPNKEY": "MPN-C-WALSIN-0805B151K500CT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21C151JBANNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL21C151JBANNNC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21B151KBANNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL21B151KBANNNC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0805X7R151K500BT",
+            "MPNKEY": "MPN-C-CCTC-TCC0805X7R151K500BT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0805COG151J500BT",
+            "MPNKEY": "MPN-C-CCTC-TCC0805COG151J500BT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM2165C1H151JA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM2165C1H151JA16D",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0805JRNPO9BN751",
+            "MPNKEY": "MPN-C-YAGEO-CC0805JRNPO9BN751",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0805GRNPO9BN151",
+            "MPNKEY": "MPN-C-YAGEO-CC0805GRNPO9BN151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0805FRNPO9BN151",
+            "MPNKEY": "MPN-C-YAGEO-CC0805FRNPO9BN151",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM2165C1H751JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM2165C1H751JA01D",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0805C151J5GAC7800",
+            "MPNKEY": "MPN-C-KEMET-C0805C151J5GAC7800",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151JLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151JLAAJ32",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151KLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151KLAAJ32",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KNOWLE",
+            "MANUFACTURER": "Knowles",
+            "MPN": "0805J0500151KFT",
+            "MPNKEY": "MPN-C-KNOWLE-0805J0500151KFT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "08055A500JAT2A",
+            "MPNKEY": "MPN-C-KYOCER-08055A500JAT2A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151MLAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151MLAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151MLAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151MLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151MLAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151MLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KNOWLE",
+            "MANUFACTURER": "Knowles",
+            "MPN": "0805Y0500151GCR",
+            "MPNKEY": "MPN-C-KNOWLE-0805Y0500151GCR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KNOWLE",
+            "MANUFACTURER": "Knowles",
+            "MPN": "0805Y0500151GCT",
+            "MPNKEY": "MPN-C-KNOWLE-0805Y0500151GCT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151GXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151GXAAP",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151GXAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151GXAAC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151GXAMC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151GXAMC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151GXAMP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151GXAMP",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151KXAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151KXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151KXAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151KXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151KXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151KXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151KLAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151KLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151KLAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151KLAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151KLAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151KLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151MXAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151MXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751MLAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751MLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751MLAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751MLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751MXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751MXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751MXAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751MXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751GXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751GXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151JLAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151JLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151JLAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151JLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151JXAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151JXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151JXAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151JXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751KLAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751KLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751KXAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751KXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151JXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151JXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751JXAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751JXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751JLAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751JLAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751JLAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751JLAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751JLAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751JLAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D751JXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D751JXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805A151FXAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805A151FXAAC",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KNOWLE",
+            "MANUFACTURER": "Knowles",
+            "MPN": "0805Y0500151GAR",
+            "MPNKEY": "MPN-C-KNOWLE-0805Y0500151GAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KNOWLE",
+            "MANUFACTURER": "Knowles",
+            "MPN": "0805Y0500151GQT",
+            "MPNKEY": "MPN-C-KNOWLE-0805Y0500151GQT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "08055A151GA12A",
+            "MPNKEY": "MPN-C-KYOCER-08055A151GA12A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "08055A151FA12A",
+            "MPNKEY": "MPN-C-KYOCER-08055A151FA12A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "08055A151JA12A",
+            "MPNKEY": "MPN-C-KYOCER-08055A151JA12A",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151FXAAT",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151FXAAT",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151FXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151FXAAJ",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0805D151FXAAR",
+            "MPNKEY": "MPN-C-VISHAY-VJ0805D151FXAAR",
+            "OOMPID": "CAPC-0805-X-PF50-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-PF50-V50",
+            "tags": []
         }
     ],
     "name": [
@@ -57,6 +1330,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/details.csv"
         ],
@@ -69,11 +1345,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF50/V50/README.md"

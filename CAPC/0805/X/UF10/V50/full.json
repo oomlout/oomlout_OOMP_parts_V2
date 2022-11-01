@@ -4,9 +4,48 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C440198"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C440198",
+            "DPNKEY": "DPN-C-LCSC-C440198",
+            "LINK": "https://www.lcsc.com/product-detail/C440198",
+            "MPN": "MPN-C-MURATA-GRM21BR61H106KE43L",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C962154",
+            "DPNKEY": "DPN-C-LCSC-C962154",
+            "LINK": "https://www.lcsc.com/product-detail/C962154",
+            "MPN": "MPN-C-SANYEA-C0805X5R106K500NT",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2190942",
+            "DPNKEY": "DPN-C-LCSC-C2190942",
+            "LINK": "https://www.lcsc.com/product-detail/C2190942",
+            "MPN": "MPN-C-MURATA-GRM21BR61H106ME43L",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2932476",
+            "DPNKEY": "DPN-C-LCSC-C2932476",
+            "LINK": "https://www.lcsc.com/product-detail/C2932476",
+            "MPN": "MPN-C-SAMSUN-CL21A106KBYQNNE",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
         }
     ],
     "eagleBoard": [],
@@ -35,10 +74,48 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "Murata Electronics",
-            "partID": "GRM21BR61H106KE43L",
-            "partName": "GRM21BR61H106KE43L"
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM21BR61H106KE43L",
+            "MPNKEY": "MPN-C-MURATA-GRM21BR61H106KE43L",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0805X5R106K500NT",
+            "MPNKEY": "MPN-C-SANYEA-C0805X5R106K500NT",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM21BR61H106ME43L",
+            "MPNKEY": "MPN-C-MURATA-GRM21BR61H106ME43L",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21A106KBYQNNE",
+            "MPNKEY": "MPN-C-SAMSUN-CL21A106KBYQNNE",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
         }
     ],
     "name": [
@@ -57,6 +134,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.csv"
         ],
@@ -69,11 +149,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/README.md"

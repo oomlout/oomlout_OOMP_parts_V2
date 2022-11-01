@@ -4,9 +4,1014 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C1588"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1587",
+            "DPNKEY": "DPN-C-LCSC-C1587",
+            "LINK": "https://www.lcsc.com/product-detail/C1587",
+            "MPN": "MPN-C-FHGUAN-0603B512K500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1588",
+            "DPNKEY": "DPN-C-LCSC-C1588",
+            "LINK": "https://www.lcsc.com/product-detail/C1588",
+            "MPN": "MPN-C-SAMSUN-CL10B102KB8NNNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1636",
+            "DPNKEY": "DPN-C-LCSC-C1636",
+            "LINK": "https://www.lcsc.com/product-detail/C1636",
+            "MPN": "MPN-C-FHGUAN-0603CG102J500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C8808",
+            "DPNKEY": "DPN-C-LCSC-C8808",
+            "LINK": "https://www.lcsc.com/product-detail/C8808",
+            "MPN": "MPN-C-FHGUAN-0603B102J500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C44369",
+            "DPNKEY": "DPN-C-LCSC-C44369",
+            "LINK": "https://www.lcsc.com/product-detail/C44369",
+            "MPN": "MPN-C-FHGUAN-0603B102K500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C51203",
+            "DPNKEY": "DPN-C-LCSC-C51203",
+            "LINK": "https://www.lcsc.com/product-detail/C51203",
+            "MPN": "MPN-C-SAMSUN-CL10B102JB8NNNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C71653",
+            "DPNKEY": "DPN-C-LCSC-C71653",
+            "LINK": "https://www.lcsc.com/product-detail/C71653",
+            "MPN": "MPN-C-MURATA-GRM188R71H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C77026",
+            "DPNKEY": "DPN-C-LCSC-C77026",
+            "LINK": "https://www.lcsc.com/product-detail/C77026",
+            "MPN": "MPN-C-MURATA-GRM1885C1H102JA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C85968",
+            "DPNKEY": "DPN-C-LCSC-C85968",
+            "LINK": "https://www.lcsc.com/product-detail/C85968",
+            "MPN": "MPN-C-MURATA-GRM1882C1H102JA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C85987",
+            "DPNKEY": "DPN-C-LCSC-C85987",
+            "LINK": "https://www.lcsc.com/product-detail/C85987",
+            "MPN": "MPN-C-MURATA-GRM188B11H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C86007",
+            "DPNKEY": "DPN-C-LCSC-C86007",
+            "LINK": "https://www.lcsc.com/product-detail/C86007",
+            "MPN": "MPN-C-MURATA-GRM188R11H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C99917",
+            "DPNKEY": "DPN-C-LCSC-C99917",
+            "LINK": "https://www.lcsc.com/product-detail/C99917",
+            "MPN": "MPN-C-WALSIN-0603B102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C100040",
+            "DPNKEY": "DPN-C-LCSC-C100040",
+            "LINK": "https://www.lcsc.com/product-detail/C100040",
+            "MPN": "MPN-C-YAGEO-CC0603KRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C106246",
+            "DPNKEY": "DPN-C-LCSC-C106246",
+            "LINK": "https://www.lcsc.com/product-detail/C106246",
+            "MPN": "MPN-C-YAGEO-CC0603JRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C126544",
+            "DPNKEY": "DPN-C-LCSC-C126544",
+            "LINK": "https://www.lcsc.com/product-detail/C126544",
+            "MPN": "MPN-C-MURATA-GCM1885C1H102JA16D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C131031",
+            "DPNKEY": "DPN-C-LCSC-C131031",
+            "LINK": "https://www.lcsc.com/product-detail/C131031",
+            "MPN": "MPN-C-YAGEO-CC0603JRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C141068",
+            "DPNKEY": "DPN-C-LCSC-C141068",
+            "LINK": "https://www.lcsc.com/product-detail/C141068",
+            "MPN": "MPN-C-KEMET-C0603C102K5RAC3083",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C141069",
+            "DPNKEY": "DPN-C-LCSC-C141069",
+            "LINK": "https://www.lcsc.com/product-detail/C141069",
+            "MPN": "MPN-C-KEMET-C0603C102K5RACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C149612",
+            "DPNKEY": "DPN-C-LCSC-C149612",
+            "LINK": "https://www.lcsc.com/product-detail/C149612",
+            "MPN": "MPN-C-YAGEO-AC0603JRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C153794",
+            "DPNKEY": "DPN-C-LCSC-C153794",
+            "LINK": "https://www.lcsc.com/product-detail/C153794",
+            "MPN": "MPN-C-VISHAY-VJ0603Y102KXACW1BC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C161106",
+            "DPNKEY": "DPN-C-LCSC-C161106",
+            "LINK": "https://www.lcsc.com/product-detail/C161106",
+            "MPN": "MPN-C-MURATA-GCD188R71H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C161114",
+            "DPNKEY": "DPN-C-LCSC-C161114",
+            "LINK": "https://www.lcsc.com/product-detail/C161114",
+            "MPN": "MPN-C-MURATA-GCJ188R71H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C161220",
+            "DPNKEY": "DPN-C-LCSC-C161220",
+            "LINK": "https://www.lcsc.com/product-detail/C161220",
+            "MPN": "MPN-C-MURATA-GCM188R71H102KA37D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C161235",
+            "DPNKEY": "DPN-C-LCSC-C161235",
+            "LINK": "https://www.lcsc.com/product-detail/C161235",
+            "MPN": "MPN-C-MURATA-GCM188R91H102KA37D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C162262",
+            "DPNKEY": "DPN-C-LCSC-C162262",
+            "LINK": "https://www.lcsc.com/product-detail/C162262",
+            "MPN": "MPN-C-MURATA-GRM1887U1H102JA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C163168",
+            "DPNKEY": "DPN-C-LCSC-C163168",
+            "LINK": "https://www.lcsc.com/product-detail/C163168",
+            "MPN": "MPN-C-WALSIN-0603B102M500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C163508",
+            "DPNKEY": "DPN-C-LCSC-C163508",
+            "LINK": "https://www.lcsc.com/product-detail/C163508",
+            "MPN": "MPN-C-SAMSUN-CL10C102JB8NNNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C167418",
+            "DPNKEY": "DPN-C-LCSC-C167418",
+            "LINK": "https://www.lcsc.com/product-detail/C167418",
+            "MPN": "MPN-C-KYOCER-06035C102KAT2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C173277",
+            "DPNKEY": "DPN-C-LCSC-C173277",
+            "LINK": "https://www.lcsc.com/product-detail/C173277",
+            "MPN": "MPN-C-JOHANS-500R14W102KV4T",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C277475",
+            "DPNKEY": "DPN-C-LCSC-C277475",
+            "LINK": "https://www.lcsc.com/product-detail/C277475",
+            "MPN": "MPN-C-YAGEO-AC0603KRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C282515",
+            "DPNKEY": "DPN-C-LCSC-C282515",
+            "LINK": "https://www.lcsc.com/product-detail/C282515",
+            "MPN": "MPN-C-CCTC-TCC0603X7R102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C286509",
+            "DPNKEY": "DPN-C-LCSC-C286509",
+            "LINK": "https://www.lcsc.com/product-detail/C286509",
+            "MPN": "MPN-C-FHGUAN-0603B102M500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C296013",
+            "DPNKEY": "DPN-C-LCSC-C296013",
+            "LINK": "https://www.lcsc.com/product-detail/C296013",
+            "MPN": "MPN-C-WALSIN-0603B102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C296048",
+            "DPNKEY": "DPN-C-LCSC-C296048",
+            "LINK": "https://www.lcsc.com/product-detail/C296048",
+            "MPN": "MPN-C-WALSIN-0603N102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C307344",
+            "DPNKEY": "DPN-C-LCSC-C307344",
+            "LINK": "https://www.lcsc.com/product-detail/C307344",
+            "MPN": "MPN-C-SAMSUN-CL10B102KB8WPNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C307358",
+            "DPNKEY": "DPN-C-LCSC-C307358",
+            "LINK": "https://www.lcsc.com/product-detail/C307358",
+            "MPN": "MPN-C-SAMSUN-CL10C102JB81PNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C307476",
+            "DPNKEY": "DPN-C-LCSC-C307476",
+            "LINK": "https://www.lcsc.com/product-detail/C307476",
+            "MPN": "MPN-C-SAMSUN-CL10B102KB8NFNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C309468",
+            "DPNKEY": "DPN-C-LCSC-C309468",
+            "LINK": "https://www.lcsc.com/product-detail/C309468",
+            "MPN": "MPN-C-YAGEO-CC0603FRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C323574",
+            "DPNKEY": "DPN-C-LCSC-C323574",
+            "LINK": "https://www.lcsc.com/product-detail/C323574",
+            "MPN": "MPN-C-WALSIN-MT18B102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C327428",
+            "DPNKEY": "DPN-C-LCSC-C327428",
+            "LINK": "https://www.lcsc.com/product-detail/C327428",
+            "MPN": "MPN-C-FHGUAN-0603B102K500AT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C338154",
+            "DPNKEY": "DPN-C-LCSC-C338154",
+            "LINK": "https://www.lcsc.com/product-detail/C338154",
+            "MPN": "MPN-C-WALSIN-0603N102G500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C340644",
+            "DPNKEY": "DPN-C-LCSC-C340644",
+            "LINK": "https://www.lcsc.com/product-detail/C340644",
+            "MPN": "MPN-C-WALSIN-0603N102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C342541",
+            "DPNKEY": "DPN-C-LCSC-C342541",
+            "LINK": "https://www.lcsc.com/product-detail/C342541",
+            "MPN": "MPN-C-TDK-C1608C0G1H102JT000N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C342900",
+            "DPNKEY": "DPN-C-LCSC-C342900",
+            "LINK": "https://www.lcsc.com/product-detail/C342900",
+            "MPN": "MPN-C-TDK-CGA3E2X7R1H102KT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C342910",
+            "DPNKEY": "DPN-C-LCSC-C342910",
+            "LINK": "https://www.lcsc.com/product-detail/C342910",
+            "MPN": "MPN-C-TDK-CGA3E2C0G1H102JT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C342972",
+            "DPNKEY": "DPN-C-LCSC-C342972",
+            "LINK": "https://www.lcsc.com/product-detail/C342972",
+            "MPN": "MPN-C-TDK-C1608NP01H102JT000N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C354355",
+            "DPNKEY": "DPN-C-LCSC-C354355",
+            "LINK": "https://www.lcsc.com/product-detail/C354355",
+            "MPN": "MPN-C-MURATA-GCM188R71H102JA37D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C374073",
+            "DPNKEY": "DPN-C-LCSC-C374073",
+            "LINK": "https://www.lcsc.com/product-detail/C374073",
+            "MPN": "MPN-C-CCTC-TCC0603X7R102M500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C376765",
+            "DPNKEY": "DPN-C-LCSC-C376765",
+            "LINK": "https://www.lcsc.com/product-detail/C376765",
+            "MPN": "MPN-C-CCTC-TCC0603COG102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C377757",
+            "DPNKEY": "DPN-C-LCSC-C377757",
+            "LINK": "https://www.lcsc.com/product-detail/C377757",
+            "MPN": "MPN-C-SAMSUN-CL10B102KB8NNNL",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C384777",
+            "DPNKEY": "DPN-C-LCSC-C384777",
+            "LINK": "https://www.lcsc.com/product-detail/C384777",
+            "MPN": "MPN-C-WALSIN-0603N102F500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C432919",
+            "DPNKEY": "DPN-C-LCSC-C432919",
+            "LINK": "https://www.lcsc.com/product-detail/C432919",
+            "MPN": "MPN-C-TDK-C1608X7R1H102KT000N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C432941",
+            "DPNKEY": "DPN-C-LCSC-C432941",
+            "LINK": "https://www.lcsc.com/product-detail/C432941",
+            "MPN": "MPN-C-TDK-CGA3E2X7R1H102KT0Y0S",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C440188",
+            "DPNKEY": "DPN-C-LCSC-C440188",
+            "LINK": "https://www.lcsc.com/product-detail/C440188",
+            "MPN": "MPN-C-MURATA-GRM188R61H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C458965",
+            "DPNKEY": "DPN-C-LCSC-C458965",
+            "LINK": "https://www.lcsc.com/product-detail/C458965",
+            "MPN": "MPN-C-WALSIN-MT18N102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C482471",
+            "DPNKEY": "DPN-C-LCSC-C482471",
+            "LINK": "https://www.lcsc.com/product-detail/C482471",
+            "MPN": "MPN-C-CHINOC-HGC0603R7102K500NTHJ",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C507408",
+            "DPNKEY": "DPN-C-LCSC-C507408",
+            "LINK": "https://www.lcsc.com/product-detail/C507408",
+            "MPN": "MPN-C-FHGUAN-0603CG102F500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C519481",
+            "DPNKEY": "DPN-C-LCSC-C519481",
+            "LINK": "https://www.lcsc.com/product-detail/C519481",
+            "MPN": "MPN-C-YAGEO-CC0603GRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C524965",
+            "DPNKEY": "DPN-C-LCSC-C524965",
+            "LINK": "https://www.lcsc.com/product-detail/C524965",
+            "MPN": "MPN-C-TAIYOY-UMK107SD102KA-T",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C525263",
+            "DPNKEY": "DPN-C-LCSC-C525263",
+            "LINK": "https://www.lcsc.com/product-detail/C525263",
+            "MPN": "MPN-C-PSAPRO-FN18X102K500PSG",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C561795",
+            "DPNKEY": "DPN-C-LCSC-C561795",
+            "LINK": "https://www.lcsc.com/product-detail/C561795",
+            "MPN": "MPN-C-KEMET-C0603C102J5RAC7867",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C597183",
+            "DPNKEY": "DPN-C-LCSC-C597183",
+            "LINK": "https://www.lcsc.com/product-detail/C597183",
+            "MPN": "MPN-C-KYOCER-06035C102JAT2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C597184",
+            "DPNKEY": "DPN-C-LCSC-C597184",
+            "LINK": "https://www.lcsc.com/product-detail/C597184",
+            "MPN": "MPN-C-KYOCER-06035C102K4T4A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C597185",
+            "DPNKEY": "DPN-C-LCSC-C597185",
+            "LINK": "https://www.lcsc.com/product-detail/C597185",
+            "MPN": "MPN-C-KYOCER-06035C102K4Z2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C597186",
+            "DPNKEY": "DPN-C-LCSC-C597186",
+            "LINK": "https://www.lcsc.com/product-detail/C597186",
+            "MPN": "MPN-C-KYOCER-06035C102KAT4A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C597228",
+            "DPNKEY": "DPN-C-LCSC-C597228",
+            "LINK": "https://www.lcsc.com/product-detail/C597228",
+            "MPN": "MPN-C-KYOCER-06035F102K4T2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599631",
+            "DPNKEY": "DPN-C-LCSC-C599631",
+            "LINK": "https://www.lcsc.com/product-detail/C599631",
+            "MPN": "MPN-C-KEMET-C0603C102J5GAC3121",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599632",
+            "DPNKEY": "DPN-C-LCSC-C599632",
+            "LINK": "https://www.lcsc.com/product-detail/C599632",
+            "MPN": "MPN-C-KEMET-C0603C102J5GACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599636",
+            "DPNKEY": "DPN-C-LCSC-C599636",
+            "LINK": "https://www.lcsc.com/product-detail/C599636",
+            "MPN": "MPN-C-KEMET-C0603C102K5RAC7867",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599637",
+            "DPNKEY": "DPN-C-LCSC-C599637",
+            "LINK": "https://www.lcsc.com/product-detail/C599637",
+            "MPN": "MPN-C-KEMET-C0603C102K5RAC7411",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599804",
+            "DPNKEY": "DPN-C-LCSC-C599804",
+            "LINK": "https://www.lcsc.com/product-detail/C599804",
+            "MPN": "MPN-C-KEMET-C0603X102K5RACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599805",
+            "DPNKEY": "DPN-C-LCSC-C599805",
+            "LINK": "https://www.lcsc.com/product-detail/C599805",
+            "MPN": "MPN-C-KEMET-C0603X102K5RACAUTO7411",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C599806",
+            "DPNKEY": "DPN-C-LCSC-C599806",
+            "LINK": "https://www.lcsc.com/product-detail/C599806",
+            "MPN": "MPN-C-KEMET-C0603X102K5RAC3121",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C605214",
+            "DPNKEY": "DPN-C-LCSC-C605214",
+            "LINK": "https://www.lcsc.com/product-detail/C605214",
+            "MPN": "MPN-C-YAGEO-AC0603JRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C650959",
+            "DPNKEY": "DPN-C-LCSC-C650959",
+            "LINK": "https://www.lcsc.com/product-detail/C650959",
+            "MPN": "MPN-C-TAIYOY-UMK107B7102KAHT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C694500",
+            "DPNKEY": "DPN-C-LCSC-C694500",
+            "LINK": "https://www.lcsc.com/product-detail/C694500",
+            "MPN": "MPN-C-TDK-CGA3E2NP01H102JT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C718541",
+            "DPNKEY": "DPN-C-LCSC-C718541",
+            "LINK": "https://www.lcsc.com/product-detail/C718541",
+            "MPN": "MPN-C-DARFON-C1608X7R102KGTS",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C779969",
+            "DPNKEY": "DPN-C-LCSC-C779969",
+            "LINK": "https://www.lcsc.com/product-detail/C779969",
+            "MPN": "MPN-C-KYOCER-06035C102K4T2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1513226",
+            "DPNKEY": "DPN-C-LCSC-C1513226",
+            "LINK": "https://www.lcsc.com/product-detail/C1513226",
+            "MPN": "MPN-C-KEMET-C0603X102K5GECAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1513231",
+            "DPNKEY": "DPN-C-LCSC-C1513231",
+            "LINK": "https://www.lcsc.com/product-detail/C1513231",
+            "MPN": "MPN-C-KEMET-C0603C102J5GECAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1513530",
+            "DPNKEY": "DPN-C-LCSC-C1513530",
+            "LINK": "https://www.lcsc.com/product-detail/C1513530",
+            "MPN": "MPN-C-VISHAY-VJ0603Y102KLAAJ32",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1513946",
+            "DPNKEY": "DPN-C-LCSC-C1513946",
+            "LINK": "https://www.lcsc.com/product-detail/C1513946",
+            "MPN": "MPN-C-VISHAY-VJ0603Y102MLAAJ32",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1515008",
+            "DPNKEY": "DPN-C-LCSC-C1515008",
+            "LINK": "https://www.lcsc.com/product-detail/C1515008",
+            "MPN": "MPN-C-VISHAY-VJ0603Y102JLAAJ32",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1630439",
+            "DPNKEY": "DPN-C-LCSC-C1630439",
+            "LINK": "https://www.lcsc.com/product-detail/C1630439",
+            "MPN": "MPN-C-KEMET-C0603X912J5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2167183",
+            "DPNKEY": "DPN-C-LCSC-C2167183",
+            "LINK": "https://www.lcsc.com/product-detail/C2167183",
+            "MPN": "MPN-C-KEMET-C0603C102J5RACTU",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2308025",
+            "DPNKEY": "DPN-C-LCSC-C2308025",
+            "LINK": "https://www.lcsc.com/product-detail/C2308025",
+            "MPN": "MPN-C-KEMET-C0603X102F5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2308075",
+            "DPNKEY": "DPN-C-LCSC-C2308075",
+            "LINK": "https://www.lcsc.com/product-detail/C2308075",
+            "MPN": "MPN-C-KNOWLE-0603Y0500102GCR",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2324524",
+            "DPNKEY": "DPN-C-LCSC-C2324524",
+            "LINK": "https://www.lcsc.com/product-detail/C2324524",
+            "MPN": "MPN-C-KEMET-C0603T102J5RALTU",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2327990",
+            "DPNKEY": "DPN-C-LCSC-C2327990",
+            "LINK": "https://www.lcsc.com/product-detail/C2327990",
+            "MPN": "MPN-C-KEMET-C0603T102J5GCLTU",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2336206",
+            "DPNKEY": "DPN-C-LCSC-C2336206",
+            "LINK": "https://www.lcsc.com/product-detail/C2336206",
+            "MPN": "MPN-C-KEMET-C0603C512F5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2336234",
+            "DPNKEY": "DPN-C-LCSC-C2336234",
+            "LINK": "https://www.lcsc.com/product-detail/C2336234",
+            "MPN": "MPN-C-KEMET-C0603C912F5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2338828",
+            "DPNKEY": "DPN-C-LCSC-C2338828",
+            "LINK": "https://www.lcsc.com/product-detail/C2338828",
+            "MPN": "MPN-C-KEMET-C0603C112F5JAC7867",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2839442",
+            "DPNKEY": "DPN-C-LCSC-C2839442",
+            "LINK": "https://www.lcsc.com/product-detail/C2839442",
+            "MPN": "MPN-C-SAMSUN-CL10B102JB8NFNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2991812",
+            "DPNKEY": "DPN-C-LCSC-C2991812",
+            "LINK": "https://www.lcsc.com/product-detail/C2991812",
+            "MPN": "MPN-C-SAMSUN-CL10C102JB8NFNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "TAGS": []
         }
     ],
     "eagleBoard": [],
@@ -27,10 +1032,1014 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "Samsung Electro-Mechanics",
-            "partID": "CL10B102KB8NNNC",
-            "partName": "CL10B102KB8NNNC"
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B512K500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B512K500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B102KB8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B102KB8NNNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603CG102J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603CG102J500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B102J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B102J500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B102K500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B102K500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B102JB8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B102JB8NNNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R71H102KA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R71H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1885C1H102JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1885C1H102JA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1882C1H102JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1882C1H102JA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188B11H102KA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM188B11H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R11H102KA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R11H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603B102K500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603B102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX7R9BB102",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603JRNPO9BN102",
+            "MPNKEY": "MPN-C-YAGEO-CC0603JRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1885C1H102JA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1885C1H102JA16D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603JRX7R9BB102",
+            "MPNKEY": "MPN-C-YAGEO-CC0603JRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102K5RAC3083",
+            "MPNKEY": "MPN-C-KEMET-C0603C102K5RAC3083",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102K5RACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603C102K5RACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0603JRNPO9BN102",
+            "MPNKEY": "MPN-C-YAGEO-AC0603JRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0603Y102KXACW1BC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0603Y102KXACW1BC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCD188R71H102KA01D",
+            "MPNKEY": "MPN-C-MURATA-GCD188R71H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCJ188R71H102KA01D",
+            "MPNKEY": "MPN-C-MURATA-GCJ188R71H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM188R71H102KA37D",
+            "MPNKEY": "MPN-C-MURATA-GCM188R71H102KA37D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM188R91H102KA37D",
+            "MPNKEY": "MPN-C-MURATA-GCM188R91H102KA37D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1887U1H102JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1887U1H102JA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603B102M500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603B102M500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10C102JB8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10C102JB8NNNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035C102KAT2A",
+            "MPNKEY": "MPN-C-KYOCER-06035C102KAT2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-JOHANS",
+            "MANUFACTURER": "Johanson Dielectrics",
+            "MPN": "500R14W102KV4T",
+            "MPNKEY": "MPN-C-JOHANS-500R14W102KV4T",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0603KRX7R9BB102",
+            "MPNKEY": "MPN-C-YAGEO-AC0603KRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603X7R102K500CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603X7R102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B102M500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B102M500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603B102J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603B102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603N102K500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603N102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B102KB8WPNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B102KB8WPNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10C102JB81PNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10C102JB81PNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B102KB8NFNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B102KB8NFNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603FRNPO9BN102",
+            "MPNKEY": "MPN-C-YAGEO-CC0603FRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT18B102K500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT18B102K500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B102K500AT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B102K500AT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603N102G500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603N102G500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603N102J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603N102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608C0G1H102JT000N",
+            "MPNKEY": "MPN-C-TDK-C1608C0G1H102JT000N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E2X7R1H102KT0Y0N",
+            "MPNKEY": "MPN-C-TDK-CGA3E2X7R1H102KT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E2C0G1H102JT0Y0N",
+            "MPNKEY": "MPN-C-TDK-CGA3E2C0G1H102JT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608NP01H102JT000N",
+            "MPNKEY": "MPN-C-TDK-C1608NP01H102JT000N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM188R71H102JA37D",
+            "MPNKEY": "MPN-C-MURATA-GCM188R71H102JA37D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603X7R102M500CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603X7R102M500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603COG102J500CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603COG102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B102KB8NNNL",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B102KB8NNNL",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603N102F500CT",
+            "MPNKEY": "MPN-C-WALSIN-0603N102F500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X7R1H102KT000N",
+            "MPNKEY": "MPN-C-TDK-C1608X7R1H102KT000N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E2X7R1H102KT0Y0S",
+            "MPNKEY": "MPN-C-TDK-CGA3E2X7R1H102KT0Y0S",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61H102KA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61H102KA01D",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT18N102J500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT18N102J500CT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-CHINOC",
+            "MANUFACTURER": "Chinocera",
+            "MPN": "HGC0603R7102K500NTHJ",
+            "MPNKEY": "MPN-C-CHINOC-HGC0603R7102K500NTHJ",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603CG102F500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603CG102F500NT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603GRNPO9BN102",
+            "MPNKEY": "MPN-C-YAGEO-CC0603GRNPO9BN102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK107SD102KA-T",
+            "MPNKEY": "MPN-C-TAIYOY-UMK107SD102KA-T",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN18X102K500PSG",
+            "MPNKEY": "MPN-C-PSAPRO-FN18X102K500PSG",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102J5RAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0603C102J5RAC7867",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035C102JAT2A",
+            "MPNKEY": "MPN-C-KYOCER-06035C102JAT2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035C102K4T4A",
+            "MPNKEY": "MPN-C-KYOCER-06035C102K4T4A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035C102K4Z2A",
+            "MPNKEY": "MPN-C-KYOCER-06035C102K4Z2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035C102KAT4A",
+            "MPNKEY": "MPN-C-KYOCER-06035C102KAT4A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035F102K4T2A",
+            "MPNKEY": "MPN-C-KYOCER-06035F102K4T2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102J5GAC3121",
+            "MPNKEY": "MPN-C-KEMET-C0603C102J5GAC3121",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102J5GACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603C102J5GACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102K5RAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0603C102K5RAC7867",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102K5RAC7411",
+            "MPNKEY": "MPN-C-KEMET-C0603C102K5RAC7411",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603X102K5RACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603X102K5RACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603X102K5RACAUTO7411",
+            "MPNKEY": "MPN-C-KEMET-C0603X102K5RACAUTO7411",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603X102K5RAC3121",
+            "MPNKEY": "MPN-C-KEMET-C0603X102K5RAC3121",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0603JRX7R9BB102",
+            "MPNKEY": "MPN-C-YAGEO-AC0603JRX7R9BB102",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK107B7102KAHT",
+            "MPNKEY": "MPN-C-TAIYOY-UMK107B7102KAHT",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E2NP01H102JT0Y0N",
+            "MPNKEY": "MPN-C-TDK-CGA3E2NP01H102JT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1608X7R102KGTS",
+            "MPNKEY": "MPN-C-DARFON-C1608X7R102KGTS",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06035C102K4T2A",
+            "MPNKEY": "MPN-C-KYOCER-06035C102K4T2A",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603X102K5GECAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603X102K5GECAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102J5GECAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603C102J5GECAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0603Y102KLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0603Y102KLAAJ32",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0603Y102MLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0603Y102MLAAJ32",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0603Y102JLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0603Y102JLAAJ32",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603X912J5JACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603X912J5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C102J5RACTU",
+            "MPNKEY": "MPN-C-KEMET-C0603C102J5RACTU",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603X102F5JACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603X102F5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KNOWLE",
+            "MANUFACTURER": "Knowles",
+            "MPN": "0603Y0500102GCR",
+            "MPNKEY": "MPN-C-KNOWLE-0603Y0500102GCR",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603T102J5RALTU",
+            "MPNKEY": "MPN-C-KEMET-C0603T102J5RALTU",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603T102J5GCLTU",
+            "MPNKEY": "MPN-C-KEMET-C0603T102J5GCLTU",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C512F5JACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603C512F5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C912F5JACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0603C912F5JACAUTO",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C112F5JAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0603C112F5JAC7867",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B102JB8NFNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B102JB8NFNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
+        },
+        {
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10C102JB8NFNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10C102JB8NFNC",
+            "OOMPID": "CAPC-0603-X-NF1-V50",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF1-V50",
+            "tags": []
         }
     ],
     "name": [

@@ -16,13 +16,9 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [
-        {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
-        }
-    ],
+    "manufacturerPartNumber": [],
     "name": [
-        "14 Pin Header"
+        "JST PH (2 mm) 14 Pin Header"
     ],
     "oompColor": [
         "X"
@@ -37,6 +33,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/details.csv"
         ],
@@ -49,11 +48,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI14/01/README.md"

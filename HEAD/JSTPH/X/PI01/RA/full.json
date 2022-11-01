@@ -16,13 +16,9 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [
-        {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
-        }
-    ],
+    "manufacturerPartNumber": [],
     "name": [
-        "1 Pin Header Right Angle"
+        "JST PH (2 mm) 1 Pin Header Right Angle"
     ],
     "oompColor": [
         "X"
@@ -37,6 +33,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/details.csv"
         ],
@@ -49,11 +48,17 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/README.md"

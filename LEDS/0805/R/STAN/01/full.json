@@ -4,9 +4,16 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C84256"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C84256",
+            "DPNKEY": "DPN-C-LCSC-C84256",
+            "LINK": "https://www.lcsc.com/product-detail/C84256",
+            "MPN": "MPN-C-FOSHAN-NCD0805R1",
+            "OOMPID": "LEDS-0805-R-STAN-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
         }
     ],
     "eagleBoard": [],
@@ -34,10 +41,16 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "Foshan NationStar Optoelectronics",
-            "partID": "NCD0805R1",
-            "partName": "NCD0805R1"
+            "LINK": "",
+            "MANUCODE": "C-FOSHAN",
+            "MANUFACTURER": "Foshan NationStar Optoelectronics",
+            "MPN": "NCD0805R1",
+            "MPNKEY": "MPN-C-FOSHAN-NCD0805R1",
+            "OOMPID": "LEDS-0805-R-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0805-R-STAN-01",
+            "tags": [
+                "STOCK:1000K"
+            ]
         }
     ],
     "name": [
@@ -56,6 +69,9 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01//labelInventory.pdf"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/details.csv"
         ],
@@ -68,6 +84,9 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/detailsPartNumbers.py"
+        ],
         "image": [
             "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/image.jpg"
         ],
@@ -79,6 +98,9 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/README.md"

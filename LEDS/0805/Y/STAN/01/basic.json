@@ -4,9 +4,16 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C2296"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2296",
+            "DPNKEY": "DPN-C-LCSC-C2296",
+            "LINK": "https://www.lcsc.com/product-detail/C2296",
+            "MPN": "MPN-C-HUBEIK-17-21SUYC/TR8",
+            "OOMPID": "LEDS-0805-Y-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
         }
     ],
     "eagleBoard": [],
@@ -34,10 +41,16 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "Hubei KENTO Elec",
-            "partID": "17-21SUYC/TR8",
-            "partName": "17-21SUYC/TR8"
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "17-21SUYC/TR8",
+            "MPNKEY": "MPN-C-HUBEIK-17-21SUYC/TR8",
+            "OOMPID": "LEDS-0805-Y-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0805-Y-STAN-01",
+            "tags": [
+                "STOCK:100K"
+            ]
         }
     ],
     "name": [

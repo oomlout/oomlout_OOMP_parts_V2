@@ -4,9 +4,16 @@
     "description": [],
     "distributorPartNumber": [
         {
-            "code": "C-LCSC",
-            "name": "LCSC",
-            "partID": "C34499"
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C34499",
+            "DPNKEY": "DPN-C-LCSC-C34499",
+            "LINK": "https://www.lcsc.com/product-detail/C34499",
+            "MPN": "MPN-C-HUBEIK-C34499",
+            "OOMPID": "LEDS-0805-W-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
         }
     ],
     "eagleBoard": [],
@@ -34,10 +41,16 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "code": "C-XXXX",
-            "name": "Hubei KENTO Elec",
-            "partID": "C34499",
-            "partName": "C34499"
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "C34499",
+            "MPNKEY": "MPN-C-HUBEIK-C34499",
+            "OOMPID": "LEDS-0805-W-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0805-W-STAN-01",
+            "tags": [
+                "STOCK:100K"
+            ]
         }
     ],
     "name": [
