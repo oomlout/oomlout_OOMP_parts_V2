@@ -32,4 +32,6 @@ NO IMAGES
 |Full OOMP ID|oompID|USBS-TC-X-K31-01|
 |Hex ID (short code)|hexID|USCK31|
 |name|name|Type C TYPE-C-31-M-12 USB Socket|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'name'</td></tr><tr><td> 'Korean Hroparts Elec'</td><td> 'code'</td></tr><tr><td> 'C-KHRO'</td><td> 'partID'</td></tr><tr><td> 'TYPE-C-31-M-12'</td><td> 'partName'</td></tr><tr><td> ''</td><td> 'partLink'</td></tr><tr><td> ''</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'name'</td></tr><tr><td> 'LCSC'</td><td> 'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'partID'</td></tr><tr><td> 'C165948'</td><td> 'partName'</td></tr><tr><td> 'C165948'</td><td> 'partLink'</td></tr><tr><td> ''</td></tr></table>|
 ||||

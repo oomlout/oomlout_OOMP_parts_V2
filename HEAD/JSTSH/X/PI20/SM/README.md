@@ -23,14 +23,19 @@ NO IMAGE
 ## Footprints
   
 
-|![]()<br>FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM20B-SRSS-TB_1x20-1MP_P1.00mm_Vertical|||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM20B-SRSS-TB_1x20-1MP_P1.00mm_Vertical||
+||||
 
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/)||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[Connector : Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/)|[Connector_Generic : Conn_01x20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/)|
+||||
   
 NO IMAGES  
 ## Tags
@@ -46,6 +51,7 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI20-SM|
 |Hex ID (short code)|hexID|HSH20|
 |name|name|JST SH (1 mm) 20 Pin Header (SMD)|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM20B-SRSS-TB_1x20-1MP_P1.00mm_Vertical|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20'|
 ||||

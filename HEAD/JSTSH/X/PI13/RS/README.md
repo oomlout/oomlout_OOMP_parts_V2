@@ -22,8 +22,11 @@ NO IMAGE
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x13_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x13_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x13/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x13/)||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x13_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x13_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x13_Male/)|[Connector : Conn_01x13_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x13_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x13/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x13/)|[Connector_Generic : Conn_01x13](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x13/)|
+||||
   
 NO IMAGES  
 ## Tags
@@ -39,5 +42,6 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI13-RS|
 |Hex ID (short code)|hexID|HSH13R|
 |name|name|JST SH (1 mm) 13 Pin Header Right Angle (SMD)|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13'|
 ||||

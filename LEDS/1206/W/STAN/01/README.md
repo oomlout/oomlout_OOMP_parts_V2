@@ -23,14 +23,19 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[LED_SMD : LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|[LED_SMD : LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|
+||||
 
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[Device : LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|
+||||
   
 NO IMAGES  
 ## Tags

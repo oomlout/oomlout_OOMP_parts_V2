@@ -7,6 +7,7 @@ Contents
 
 * [H2X10 > 2.54 mm 20 Pin (2x10) Header](#h2x10--254-mm-20-pin-2x10-header)
 	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -23,15 +24,34 @@ NO IMAGE
 ## Footprints
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/)|||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/)|[FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/)|[Connector_PinHeader_2.54mm : PinHeader_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/)|
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Odd_Even/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Odd_Even/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Odd_Even/)|[Connector_Generic : Conn_02x10_Odd_Even](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Odd_Even/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_First/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_First/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_First/)|[Connector_Generic : Conn_02x10_Row_Letter_First](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_First/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_Last/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_Last/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_Last/)|[Connector_Generic : Conn_02x10_Row_Letter_Last](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Row_Letter_Last/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Counter_Clockwise/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Counter_Clockwise/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Counter_Clockwise/)|[Connector_Generic : Conn_02x10_Counter_Clockwise](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Counter_Clockwise/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Top_Bottom/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Top_Bottom/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Top_Bottom/)|[Connector_Generic : Conn_02x10_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x10_Top_Bottom/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[Connector : Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|
+||||
 
 ## OOMP Instances
   
 
-|[2.8 TFT Breakout PCB<br>PROJ-ADAF-1770-STAN-01<br>2X10BREAKOUT](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1770/STAN/01/)|[SX1509 IO Expander<br>PROJ-SPAR-13601-STAN-01<br>JP3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13601/STAN/01/)|[SX1509 IO Expander<br>PROJ-SPAR-13601-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13601/STAN/01/)|
+|Project ID|Project Name|Parts|
 | :--- | :--- | :--- |
-|[tsunami<br>PROJ-SPAR-13810-STAN-01<br>J14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic<br>PROJ-SPAR-18159-STAN-01<br>J14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[GraphicLCD Serial Backpack<br>PROJ-SPAR-9352-STAN-01<br>JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9352/STAN/01/)|
+|[PROJ-ADAF-1770-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1770/STAN/01/)|[2.8 TFT Breakout PCB](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1770/STAN/01/)|[2X10BREAKOUT](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/1770/STAN/01/)|
+|[PROJ-SPAR-13601-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13601/STAN/01/)|[SX1509 IO Expander](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13601/STAN/01/)|[JP3,JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13601/STAN/01/)|
+|[PROJ-SPAR-13810-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|[tsunami](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|[J14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13810/STAN/01/)|
+|[PROJ-SPAR-18159-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[SparkFun Tsunami Super WAV Trigger Qwiic](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|[J14](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/18159/STAN/01/)|
+|[PROJ-SPAR-9352-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9352/STAN/01/)|[GraphicLCD Serial Backpack](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9352/STAN/01/)|[JP4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9352/STAN/01/)|
 ||||
   
 NO IMAGES  
@@ -49,5 +69,6 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X10|
 |name|name|2.54 mm 20 Pin (2x10) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical|
+|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1770-STAN-01'</td><td> 'ID'</td></tr><tr><td> '2X10BREAKOUT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13601-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13601-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13810-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J14'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18159-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J14'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-9352-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP4'</td></tr></table>|
 ||||

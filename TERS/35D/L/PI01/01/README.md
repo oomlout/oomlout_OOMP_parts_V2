@@ -23,14 +23,18 @@ NO IMAGE
 ## Footprints
   
 
-|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x01_P3.50mm_Vertical|||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+||FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x01_P3.50mm_Vertical||
+||||
 
 ## Symbols
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/)|||
+|Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/)|[Connector : Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/)|
+||||
   
 NO IMAGES  
 ## Tags
