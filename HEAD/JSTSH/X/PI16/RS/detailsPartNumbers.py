@@ -1,0 +1,3 @@
+def load(newPart,it):
+    it['HEAD-JSTSH-X-PI16-RS']['manufacturerPartNumber'] = []
+    it['HEAD-JSTSH-X-PI16-RS']['distributorPartNumber'] = []
