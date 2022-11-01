@@ -5,38 +5,24 @@
 Contents
 ========
 
-* [HPH9 > 9 Pin Header](#hph9--9-pin-header)
-	* [Footprints](#footprints)
+* [HPH9 > JST PH (2 mm) 9 Pin Header](#hph9--jst-ph-2-mm-9-pin-header)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
-# HPH9 > 9 Pin Header
+# HPH9 > JST PH (2 mm) 9 Pin Header
 
 - ID: HEAD-JSTPH-X-PI09-01
 - Hex ID: HPH9
-- Name: 9 Pin Header
-- Description: 9 Pin Header
+- Name: JST PH (2 mm) 9 Pin Header
+- Description: JST PH (2 mm) 9 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI09-01](http://oom.lt/HEAD-JSTPH-X-PI09-01)
 - Short Link: [http://oom.lt/HPH9](http://oom.lt/HPH9)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x09_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x09_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x09/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x09/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -52,7 +38,6 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI09-01|
 |Hex ID (short code)|hexID|HPH9|
-|name|name|9 Pin Header|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
+|name|name|JST PH (2 mm) 9 Pin Header|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09'|
 ||||

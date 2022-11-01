@@ -6,9 +6,7 @@ Contents
 ========
 
 * [L10GG > 10 mm Green LED](#l10gg--10-mm-green-led)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -21,22 +19,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/LEDS-10-G-STAN-01](http://oom.lt/LEDS-10-G-STAN-01)
 - Short Link: [http://oom.lt/L10GG](http://oom.lt/L10GG)
 
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED|||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|||
 | :--- | :--- | :--- |
   
 NO IMAGES  

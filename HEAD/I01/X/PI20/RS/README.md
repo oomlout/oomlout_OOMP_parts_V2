@@ -6,9 +6,7 @@ Contents
 ========
 
 * [H20RS > 2.54 mm 20 Pin Header Right Angle (SMD)](#h20rs--254-mm-20-pin-header-right-angle-smd)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -21,22 +19,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-I01-X-PI20-RS](http://oom.lt/HEAD-I01-X-PI20-RS)
 - Short Link: [http://oom.lt/H20RS](http://oom.lt/H20RS)
 
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x20_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x20/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  

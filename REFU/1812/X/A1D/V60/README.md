@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RF181D > SMD (1812) 100 mA Resetable Fuse 60 v](#rf181d--smd-1812-100-ma-resetable-fuse-60-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (1812) 100 mA Resetable Fuse 60 v
 - Long Link: [http://oom.lt/REFU-1812-X-A1D-V60](http://oom.lt/REFU-1812-X-A1D-V60)
 - Short Link: [http://oom.lt/RF181D](http://oom.lt/RF181D)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

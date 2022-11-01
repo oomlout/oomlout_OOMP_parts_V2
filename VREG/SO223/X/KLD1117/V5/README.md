@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR11172235 > SMD (SOT-223) LD1117 Voltage Regulator 5v](#vr11172235--smd-sot-223-ld1117-voltage-regulator-5v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V5](http://oom.lt/VREG-SO223-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR11172235](http://oom.lt/VR11172235)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

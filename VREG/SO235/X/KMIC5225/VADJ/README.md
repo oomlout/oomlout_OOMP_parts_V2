@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR5225235AJ > SMD (SOT-23-5) MIC5225 Voltage Regulator Adjustable Voltage](#vr5225235aj--smd-sot-23-5-mic5225-voltage-regulator-adjustable-voltage)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (SOT-23-5) MIC5225 Voltage Regulator Adjustable Voltage
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5225-VADJ](http://oom.lt/VREG-SO235-X-KMIC5225-VADJ)
 - Short Link: [http://oom.lt/VR5225235AJ](http://oom.lt/VR5225235AJ)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

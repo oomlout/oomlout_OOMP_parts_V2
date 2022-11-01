@@ -6,9 +6,6 @@ Contents
 ========
 
 * [USCK31 > Type C TYPE-C-31-M-12 USB Socket](#usck31--type-c-type-c-31-m-12-usb-socket)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: Type C TYPE-C-31-M-12 USB Socket
 - Long Link: [http://oom.lt/USBS-TC-X-K31-01](http://oom.lt/USBS-TC-X-K31-01)
 - Short Link: [http://oom.lt/USCK31](http://oom.lt/USCK31)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
@@ -53,6 +32,4 @@ NO IMAGES
 |Full OOMP ID|oompID|USBS-TC-X-K31-01|
 |Hex ID (short code)|hexID|USCK31|
 |name|name|Type C TYPE-C-31-M-12 USB Socket|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'name'</td></tr><tr><td> 'Korean Hroparts Elec'</td><td> 'code'</td></tr><tr><td> 'C-KHRO'</td><td> 'partID'</td></tr><tr><td> 'TYPE-C-31-M-12'</td><td> 'partName'</td></tr><tr><td> ''</td><td> 'partLink'</td></tr><tr><td> ''</td></tr></table>|
-|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'name'</td></tr><tr><td> 'LCSC'</td><td> 'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'partID'</td></tr><tr><td> 'C165948'</td><td> 'partName'</td></tr><tr><td> 'C165948'</td><td> 'partLink'</td></tr><tr><td> ''</td></tr></table>|
 ||||

@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR1117833 > SO-8 LD1117 Voltage Regulator 3.3v](#vr1117833--so-8-ld1117-voltage-regulator-33v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SO-8 LD1117 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V33D](http://oom.lt/VREG-SO8-X-KLD1117-V33D)
 - Short Link: [http://oom.lt/VR1117833](http://oom.lt/VR1117833)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

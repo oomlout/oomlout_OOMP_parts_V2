@@ -6,9 +6,7 @@ Contents
 ========
 
 * [HSH12R > JST SH (1 mm) 12 Pin Header Right Angle (SMD)](#hsh12r--jst-sh-1-mm-12-pin-header-right-angle-smd)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -21,22 +19,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI12-RS](http://oom.lt/HEAD-JSTSH-X-PI12-RS)
 - Short Link: [http://oom.lt/HSH12R](http://oom.lt/HSH12R)
 
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x12_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x12/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x12/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -53,6 +39,5 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI12-RS|
 |Hex ID (short code)|hexID|HSH12R|
 |name|name|JST SH (1 mm) 12 Pin Header Right Angle (SMD)|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x12'|
 ||||

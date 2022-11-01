@@ -6,9 +6,7 @@ Contents
 ========
 
 * [H11RS > 2.54 mm 11 Pin Header Right Angle (SMD)](#h11rs--254-mm-11-pin-header-right-angle-smd)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -21,22 +19,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-I01-X-PI11-RS](http://oom.lt/HEAD-I01-X-PI11-RS)
 - Short Link: [http://oom.lt/H11RS](http://oom.lt/H11RS)
 
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x11_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x11_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x11_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x11/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x11](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x11/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  

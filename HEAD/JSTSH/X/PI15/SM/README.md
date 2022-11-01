@@ -8,7 +8,6 @@ Contents
 * [HSH15 > JST SH (1 mm) 15 Pin Header (SMD)](#hsh15--jst-sh-1-mm-15-pin-header-smd)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -30,13 +29,7 @@ NO IMAGE
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -53,7 +46,6 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI15-SM|
 |Hex ID (short code)|hexID|HSH15|
 |name|name|JST SH (1 mm) 15 Pin Header (SMD)|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15'|
 ||||

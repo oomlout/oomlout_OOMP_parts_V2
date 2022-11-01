@@ -8,7 +8,6 @@ Contents
 * [HXH16 > JST XH (2.5 mm) 16 Pin Header](#hxh16--jst-xh-25-mm-16-pin-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -30,13 +29,7 @@ NO IMAGE
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x16/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x16/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -53,7 +46,6 @@ NO IMAGES
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI16-01|
 |Hex ID (short code)|hexID|HXH16|
 |name|name|JST XH (2.5 mm) 16 Pin Header|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=136'</td></tr></table>|
 |Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B16B-XH-AM_1x16_P2.50mm_Vertical', 'FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B16B-XH-A_1x16_P2.50mm_Vertical'|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16'|
 ||||

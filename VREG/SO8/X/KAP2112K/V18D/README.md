@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR2112818 > SO-8 AP2112K Voltage Regulator 1.8 v](#vr2112818--so-8-ap2112k-voltage-regulator-18-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SO-8 AP2112K Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V18D](http://oom.lt/VREG-SO8-X-KAP2112K-V18D)
 - Short Link: [http://oom.lt/VR2112818](http://oom.lt/VR2112818)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

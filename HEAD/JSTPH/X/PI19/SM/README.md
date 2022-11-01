@@ -5,38 +5,24 @@
 Contents
 ========
 
-* [HPH19 > 19 Pin Header (SMD)](#hph19--19-pin-header-smd)
-	* [Footprints](#footprints)
+* [HPH19 > JST PH (2 mm) 19 Pin Header (SMD)](#hph19--jst-ph-2-mm-19-pin-header-smd)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
-# HPH19 > 19 Pin Header (SMD)
+# HPH19 > JST PH (2 mm) 19 Pin Header (SMD)
 
 - ID: HEAD-JSTPH-X-PI19-SM
 - Hex ID: HPH19
-- Name: 19 Pin Header (SMD)
-- Description: 19 Pin Header (SMD)
+- Name: JST PH (2 mm) 19 Pin Header (SMD)
+- Description: JST PH (2 mm) 19 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI19-SM](http://oom.lt/HEAD-JSTPH-X-PI19-SM)
 - Short Link: [http://oom.lt/HPH19](http://oom.lt/HPH19)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x19_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x19_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x19/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x19/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -52,7 +38,6 @@ NO IMAGES
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI19-SM|
 |Hex ID (short code)|hexID|HPH19|
-|name|name|19 Pin Header (SMD)|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
+|name|name|JST PH (2 mm) 19 Pin Header (SMD)|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19'|
 ||||

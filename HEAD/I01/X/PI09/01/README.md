@@ -30,7 +30,7 @@ NO IMAGE
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x09_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x09_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x09_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x09/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x09](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x09/)||
 | :--- | :--- | :--- |
 
 ## OOMP Instances

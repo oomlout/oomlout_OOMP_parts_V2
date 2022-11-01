@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR111722325 > SMD (SOT-223) LD1117 Voltage Regulator 2.5 v](#vr111722325--smd-sot-223-ld1117-voltage-regulator-25-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V25D](http://oom.lt/VREG-SO223-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR111722325](http://oom.lt/VR111722325)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

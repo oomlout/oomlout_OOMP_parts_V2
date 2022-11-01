@@ -6,8 +6,6 @@ Contents
 ========
 
 * [RA6472 > SMD (0603-8) 4.7k Ohm (x4) Resistor Array](#ra6472--smd-0603-8-47k-ohm-x4-resistor-array)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -20,18 +18,6 @@ NO IMAGE
 - Description: SMD (0603-8) 4.7k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-06038-X-O472X4-01](http://oom.lt/RESA-06038-X-O472X4-01)
 - Short Link: [http://oom.lt/RA6472](http://oom.lt/RA6472)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## OOMP Instances
   

@@ -8,7 +8,6 @@ Contents
 * [C8U10 > SMD (0805) 10 uF Capacitor (Ceramic) 50v](#c8u10--smd-0805-10-uf-capacitor-ceramic-50v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -33,13 +32,7 @@ NO IMAGE
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-C|||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/C/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-C](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/C/)|||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -56,8 +49,8 @@ NO IMAGES
 |Full OOMP ID|oompID|CAPC-0805-X-UF10-V50|
 |Hex ID (short code)|hexID|C8U10|
 |name|name|SMD (0805) 10 uF Capacitor (Ceramic) 50v|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Murata Electronics'</td><td> 'partID'</td></tr><tr><td> 'GRM21BR61H106KE43L'</td><td> 'partName'</td></tr><tr><td> 'GRM21BR61H106KE43L'</td></tr></table>|
-|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C440198'</td></tr></table>|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-MURATA-GRM21BR61H106KE43L'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'Murata Electronics'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-MURATA'</td><td> 'MPN'</td></tr><tr><td> 'GRM21BR61H106KE43L'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'tags'</td></tr><tr><td> 'STOCK</td></tr><tr><td>100K'</td></tr></table></td><td> <table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-SANYEA-C0805X5R106K500NT'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'SANYEAR'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-SANYEA'</td><td> 'MPN'</td></tr><tr><td> 'C0805X5R106K500NT'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'tags'</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-MURATA-GRM21BR61H106ME43L'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'Murata Electronics'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-MURATA'</td><td> 'MPN'</td></tr><tr><td> 'GRM21BR61H106ME43L'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'tags'</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-SAMSUN-CL21A106KBYQNNE'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'Samsung Electro-Mechanics'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-SAMSUN'</td><td> 'MPN'</td></tr><tr><td> 'CL21A106KBYQNNE'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'tags'</td></tr><tr><td> 'STOCK</td></tr><tr><td>1K'</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'DPNKEY'</td></tr><tr><td> 'DPN-C-LCSC-C440198'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C440198'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-MURATA-GRM21BR61H106KE43L'</td><td> 'TAGS'</td></tr><tr><td> 'STOCK</td></tr><tr><td>100K'</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C440198'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td></tr></table></td><td> <table><tr><td>'DPNKEY'</td></tr><tr><td> 'DPN-C-LCSC-C962154'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C962154'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-SANYEA-C0805X5R106K500NT'</td><td> 'TAGS'</td></tr><tr><td> </td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C962154'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td></tr></table></td><td> <table><tr><td>'DPNKEY'</td></tr><tr><td> 'DPN-C-LCSC-C2190942'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C2190942'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-MURATA-GRM21BR61H106ME43L'</td><td> 'TAGS'</td></tr><tr><td> </td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C2190942'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td></tr></table></td><td> <table><tr><td>'DPNKEY'</td></tr><tr><td> 'DPN-C-LCSC-C2932476'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C2932476'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-SAMSUN-CL21A106KBYQNNE'</td><td> 'TAGS'</td></tr><tr><td> 'STOCK</td></tr><tr><td>1K'</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C2932476'</td><td> 'OOMPID'</td></tr><tr><td> 'CAPC-0805-X-UF10-V50'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C440198'</td><td> 'partName'</td></tr><tr><td> '50V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric', 'FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR', 'FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805'|
 |Footprint Eagle|footprintEagle|'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW', 'FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR', 'FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Capacitors-0805', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE', 'FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805'|

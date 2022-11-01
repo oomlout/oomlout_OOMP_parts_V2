@@ -5,38 +5,24 @@
 Contents
 ========
 
-* [HPH15R > 15 Pin Header Right Angle](#hph15r--15-pin-header-right-angle)
-	* [Footprints](#footprints)
+* [HPH15R > JST PH (2 mm) 15 Pin Header Right Angle](#hph15r--jst-ph-2-mm-15-pin-header-right-angle)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
-# HPH15R > 15 Pin Header Right Angle
+# HPH15R > JST PH (2 mm) 15 Pin Header Right Angle
 
 - ID: HEAD-JSTPH-X-PI15-RA
 - Hex ID: HPH15R
-- Name: 15 Pin Header Right Angle
-- Description: 15 Pin Header Right Angle
+- Name: JST PH (2 mm) 15 Pin Header Right Angle
+- Description: JST PH (2 mm) 15 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI15-RA](http://oom.lt/HEAD-JSTPH-X-PI15-RA)
 - Short Link: [http://oom.lt/HPH15R](http://oom.lt/HPH15R)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  
@@ -52,7 +38,6 @@ NO IMAGES
 |OOMP Index|oompIndex|RA|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI15-RA|
 |Hex ID (short code)|hexID|HPH15R|
-|name|name|15 Pin Header Right Angle|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
+|name|name|JST PH (2 mm) 15 Pin Header Right Angle|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15'|
 ||||

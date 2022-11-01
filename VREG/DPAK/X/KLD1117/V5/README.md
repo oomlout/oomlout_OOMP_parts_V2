@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR1117D5 > DPAK LD1117 Voltage Regulator 5v](#vr1117d5--dpak-ld1117-voltage-regulator-5v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: DPAK LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-DPAK-X-KLD1117-V5](http://oom.lt/VREG-DPAK-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR1117D5](http://oom.lt/VR1117D5)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

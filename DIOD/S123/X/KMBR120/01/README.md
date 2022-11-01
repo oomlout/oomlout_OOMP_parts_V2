@@ -6,8 +6,6 @@ Contents
 ========
 
 * [D34148 > SMD (SOD-123) MBR120 Diode](#d34148--smd-sod-123-mbr120-diode)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -20,18 +18,6 @@ NO IMAGE
 - Description: SMD (SOD-123) MBR120 Diode
 - Long Link: [http://oom.lt/DIOD-S123-X-KMBR120-01](http://oom.lt/DIOD-S123-X-KMBR120-01)
 - Short Link: [http://oom.lt/D34148](http://oom.lt/D34148)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## OOMP Instances
   

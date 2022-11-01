@@ -8,7 +8,6 @@ Contents
 * [T35L1 > 3.5 mm 1 Pin Blue Screw Terminal](#t35l1--35-mm-1-pin-blue-screw-terminal)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -30,13 +29,7 @@ NO IMAGE
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01|||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x01/)|||
 | :--- | :--- | :--- |
   
 NO IMAGES  

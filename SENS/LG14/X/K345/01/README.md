@@ -6,8 +6,6 @@ Contents
 ========
 
 * [SEN345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor](#sen345--14-pin-smd-lga-digital-accelerometer-adxl345-sensor)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -20,18 +18,6 @@ Contents
 - Description: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
 - Long Link: [http://oom.lt/SENS-LG14-X-K345-01](http://oom.lt/SENS-LG14-X-K345-01)
 - Short Link: [http://oom.lt/SEN345](http://oom.lt/SEN345)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## OOMP Instances
   

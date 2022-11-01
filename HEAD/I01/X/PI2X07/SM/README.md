@@ -7,8 +7,6 @@ Contents
 
 * [H2X7SM > 2.54 mm 14 Pin (2x7) Header (SMD)](#h2x7sm--254-mm-14-pin-2x7-header-smd)
 	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -26,20 +24,6 @@ NO IMAGE
 
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x07_P2.54mm_Vertical_SMD/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x07_P2.54mm_Vertical_SMD](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x07_P2.54mm_Vertical_SMD/)|||
 | :--- | :--- | :--- |
-
-## Symbols
-  
-
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_Last|
-| :--- | :--- | :--- |
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male|
-||||
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
@@ -56,5 +40,4 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X7SM|
 |name|name|2.54 mm 14 Pin (2x7) Header (SMD)|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x07_P2.54mm_Vertical_SMD|
-|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male'|
 ||||

@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR1117D25 > DPAK LD1117 Voltage Regulator 2.5 v](#vr1117d25--dpak-ld1117-voltage-regulator-25-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: DPAK LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-DPAK-X-KLD1117-V25D](http://oom.lt/VREG-DPAK-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR1117D25](http://oom.lt/VR1117D25)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

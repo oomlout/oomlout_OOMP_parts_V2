@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RA12472 > SMD (1206-8) 4.7k Ohm (x4) Resistor Array](#ra12472--smd-1206-8-47k-ohm-x4-resistor-array)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 ![][im]
@@ -20,24 +17,6 @@ Contents
 - Description: SMD (1206-8) 4.7k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-12068-X-O472X4-01](http://oom.lt/RESA-12068-X-O472X4-01)
 - Short Link: [http://oom.lt/RA12472](http://oom.lt/RA12472)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESA/12068/X/O472X4/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESA/12068/X/O472X4/01/image.jpg)||||

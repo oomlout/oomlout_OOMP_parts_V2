@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR1117D18 > DPAK LD1117 Voltage Regulator 1.8 v](#vr1117d18--dpak-ld1117-voltage-regulator-18-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: DPAK LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-DPAK-X-KLD1117-V18D](http://oom.lt/VREG-DPAK-X-KLD1117-V18D)
 - Short Link: [http://oom.lt/VR1117D18](http://oom.lt/VR1117D18)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -30,7 +30,7 @@ Contents
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|||
 | :--- | :--- | :--- |
 
 ## OOMP Instances
@@ -139,8 +139,8 @@ Contents
 |Full OOMP ID|oompID|LEDS-0603-L-STAN-01|
 |Hex ID (short code)|hexID|L6L|
 |name|name|SMD (0603) Blue LED|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-XXXX'</td><td> 'name'</td></tr><tr><td> 'Everlight Elec'</td><td> 'partID'</td></tr><tr><td> '19-213/Y2C-CQ2R2L/3T(CY)'</td><td> 'partName'</td></tr><tr><td> '19-213/Y2C-CQ2R2L/3T(CY)'</td></tr></table>|
-|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-LCSC'</td><td> 'name'</td></tr><tr><td> 'LCSC'</td><td> 'partID'</td></tr><tr><td> 'C72038'</td></tr></table>|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-EVERLI-19-213/Y2C-CQ2R2L/3T(CY)'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'Everlight Elec'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-EVERLI'</td><td> 'MPN'</td></tr><tr><td> '19-213/Y2C-CQ2R2L/3T(CY)'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'LEDS-0603-L-STAN-01'</td><td> 'OOMPID'</td></tr><tr><td> 'LEDS-0603-L-STAN-01'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'tags'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td></tr></table>|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>'DPNKEY'</td></tr><tr><td> 'DPN-C-LCSC-C72038'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C72038'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-EVERLI-19-213/Y2C-CQ2R2L/3T(CY)'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C72038'</td><td> 'OOMPID'</td></tr><tr><td> 'LEDS-0603-L-STAN-01'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C72038'</td><td> 'partName'</td></tr><tr><td> '20mA 180mcd 2.3V 591nm Colorless transparence -40??~+85?? 585.5nm~591.5nm yellow 120?? 60mW 0603  Light Emitting Diodes (LED) ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric', 'FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder'|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|

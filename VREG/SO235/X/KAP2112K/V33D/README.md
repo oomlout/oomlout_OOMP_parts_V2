@@ -6,8 +6,6 @@ Contents
 ========
 
 * [VR211223533 > SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v](#vr211223533--smd-sot-23-5-ap2112k-voltage-regulator-33v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -20,18 +18,6 @@ NO IMAGE
 - Description: SMD (SOT-23-5) AP2112K Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-SO235-X-KAP2112K-V33D](http://oom.lt/VREG-SO235-X-KAP2112K-V33D)
 - Short Link: [http://oom.lt/VR211223533](http://oom.lt/VR211223533)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## OOMP Instances
   

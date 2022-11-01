@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR111722018 > TO-220 LD1117 Voltage Regulator 1.8 v](#vr111722018--to-220-ld1117-voltage-regulator-18-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: TO-220 LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V18D](http://oom.lt/VREG-T220-X-KLD1117-V18D)
 - Short Link: [http://oom.lt/VR111722018](http://oom.lt/VR111722018)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

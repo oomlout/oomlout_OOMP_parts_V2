@@ -6,9 +6,6 @@ Contents
 ========
 
 * [D34148 > SMD (SOD-323) MNAOD4184A Diode](#d34148--smd-sod-323-mnaod4184a-diode)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (SOD-323) MNAOD4184A Diode
 - Long Link: [http://oom.lt/DIOD-S323-X-K4184-01](http://oom.lt/DIOD-S323-X-K4184-01)
 - Short Link: [http://oom.lt/D34148](http://oom.lt/D34148)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

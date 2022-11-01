@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR52252355 > SMD (SOT-23-5) MIC5205 Voltage Regulator 5v](#vr52252355--smd-sot-23-5-mic5205-voltage-regulator-5v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (SOT-23-5) MIC5205 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5205-V5](http://oom.lt/VREG-SO235-X-KMIC5205-V5)
 - Short Link: [http://oom.lt/VR52252355](http://oom.lt/VR52252355)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

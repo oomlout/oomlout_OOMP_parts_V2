@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RF1811D > SMD (1812) 1.1 A Resetable Fuse 8v](#rf1811d--smd-1812-11-a-resetable-fuse-8v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (1812) 1.1 A Resetable Fuse 8v
 - Long Link: [http://oom.lt/REFU-1812-X-A11D-V8](http://oom.lt/REFU-1812-X-A11D-V8)
 - Short Link: [http://oom.lt/RF1811D](http://oom.lt/RF1811D)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

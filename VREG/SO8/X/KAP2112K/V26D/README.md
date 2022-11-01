@@ -6,9 +6,6 @@ Contents
 ========
 
 * [VR2112826 > SO-8 AP2112K Voltage Regulator 2.6 v](#vr2112826--so-8-ap2112k-voltage-regulator-26-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SO-8 AP2112K Voltage Regulator 2.6 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V26D](http://oom.lt/VREG-SO8-X-KAP2112K-V26D)
 - Short Link: [http://oom.lt/VR2112826](http://oom.lt/VR2112826)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

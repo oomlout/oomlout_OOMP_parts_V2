@@ -7,7 +7,6 @@ Contents
 
 * [H2X10 > 2.54 mm 20 Pin (2x10) Header](#h2x10--254-mm-20-pin-2x10-header)
 	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -26,14 +25,6 @@ NO IMAGE
 
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_PinHeader_2.54mm/PinHeader_2x10_P2.54mm_Vertical/)|||
 | :--- | :--- | :--- |
-
-## Symbols
-  
-
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last|
-| :--- | :--- | :--- |
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male|
-||||
 
 ## OOMP Instances
   
@@ -58,6 +49,5 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X10|
 |name|name|2.54 mm 20 Pin (2x10) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1770-STAN-01'</td><td> 'ID'</td></tr><tr><td> '2X10BREAKOUT'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13601-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13601-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13810-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J14'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-18159-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'J14'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-9352-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP4'</td></tr></table>|
 ||||

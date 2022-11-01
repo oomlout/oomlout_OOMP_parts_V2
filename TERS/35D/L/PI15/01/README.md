@@ -8,7 +8,6 @@ Contents
 * [T35L15 > 3.5 mm 15 Pin Blue Screw Terminal](#t35l15--35-mm-15-pin-blue-screw-terminal)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -24,19 +23,13 @@ NO IMAGE
 ## Footprints
   
 
-|![]()<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x15_P3.50mm_Vertical|||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x15_P3.50mm_Vertical/image_140.png)<br>FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x15_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x15_P3.50mm_Vertical/)|||
 | :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x15|||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x15/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x15/)|||
 | :--- | :--- | :--- |
   
 NO IMAGES  

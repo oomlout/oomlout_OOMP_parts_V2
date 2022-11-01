@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RF183 > SMD (1812) 3 A Resetable Fuse 6v](#rf183--smd-1812-3-a-resetable-fuse-6v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (1812) 3 A Resetable Fuse 6v
 - Long Link: [http://oom.lt/REFU-1812-X-A3-V6](http://oom.lt/REFU-1812-X-A3-V6)
 - Short Link: [http://oom.lt/RF183](http://oom.lt/RF183)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

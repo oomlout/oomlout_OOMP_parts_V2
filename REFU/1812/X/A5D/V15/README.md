@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RF185D > SMD (1812) 500 mA Resetable Fuse 15 v](#rf185d--smd-1812-500-ma-resetable-fuse-15-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (1812) 500 mA Resetable Fuse 15 v
 - Long Link: [http://oom.lt/REFU-1812-X-A5D-V15](http://oom.lt/REFU-1812-X-A5D-V15)
 - Short Link: [http://oom.lt/RF185D](http://oom.lt/RF185D)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

@@ -5,32 +5,25 @@
 Contents
 ========
 
-* [HPH2 > 2 Pin Header](#hph2--2-pin-header)
-	* [Footprints](#footprints)
+* [HPH2 > JST PH (2 mm) 2 Pin Header](#hph2--jst-ph-2-mm-2-pin-header)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
-# HPH2 > 2 Pin Header
+# HPH2 > JST PH (2 mm) 2 Pin Header
 
 - ID: HEAD-JSTPH-X-PI02-01
 - Hex ID: HPH2
-- Name: 2 Pin Header
-- Description: 2 Pin Header
+- Name: JST PH (2 mm) 2 Pin Header
+- Description: JST PH (2 mm) 2 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI02-01](http://oom.lt/HEAD-JSTPH-X-PI02-01)
 - Short Link: [http://oom.lt/HPH2](http://oom.lt/HPH2)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)||
 | :--- | :--- | :--- |
 
 ## OOMP Instances
@@ -66,8 +59,7 @@ NO IMAGES
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI02-01|
 |Hex ID (short code)|hexID|HPH2|
-|name|name|2 Pin Header|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
+|name|name|JST PH (2 mm) 2 Pin Header|
 |Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02'|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1904-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'CN2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-1963-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'CN2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2468-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'CN2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2542-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'CN2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2636-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'CN2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2661-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2771-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2772-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2795-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2796-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2821-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2829-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-2995-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3027-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3056-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3147-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'CN2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3178-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3200-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3403-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3405-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3458-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3857-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-3900-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4172-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4300-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4343-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4382-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4500-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4757-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4757-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X5'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4759-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4775-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-4800-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-5000-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-5300-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-5323-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-5397-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-ADAF-5400-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'X1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11447-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11893-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11924-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP6'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-12958-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP3'</td></tr></table>|
 ||||

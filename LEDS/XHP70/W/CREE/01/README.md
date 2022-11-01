@@ -6,9 +6,7 @@ Contents
 ========
 
 * [LXHP70 > XHP 70 Cree White LED](#lxhp70--xhp-70-cree-white-led)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -21,22 +19,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/LEDS-XHP70-W-CREE-01](http://oom.lt/LEDS-XHP70-W-CREE-01)
 - Short Link: [http://oom.lt/LXHP70](http://oom.lt/LXHP70)
 
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Device-LED|||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|||
 | :--- | :--- | :--- |
   
 NO IMAGES  

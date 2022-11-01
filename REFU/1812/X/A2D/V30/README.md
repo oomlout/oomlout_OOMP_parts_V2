@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RF182D > SMD (1812) 200 mA Resetable Fuse 30 v](#rf182d--smd-1812-200-ma-resetable-fuse-30-v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (1812) 200 mA Resetable Fuse 30 v
 - Long Link: [http://oom.lt/REFU-1812-X-A2D-V30](http://oom.lt/REFU-1812-X-A2D-V30)
 - Short Link: [http://oom.lt/RF182D](http://oom.lt/RF182D)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags

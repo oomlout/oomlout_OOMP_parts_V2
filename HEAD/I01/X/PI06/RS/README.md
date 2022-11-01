@@ -6,9 +6,7 @@ Contents
 ========
 
 * [H6RS > 2.54 mm 6 Pin Header Right Angle (SMD)](#h6rs--254-mm-6-pin-header-right-angle-smd)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -21,22 +19,10 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-I01-X-PI06-RS](http://oom.lt/HEAD-I01-X-PI06-RS)
 - Short Link: [http://oom.lt/H6RS](http://oom.lt/H6RS)
 
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
 ## Symbols
   
 
-|![]()<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male|![]()<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x06_Male/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x06/image_140.png)<br>SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x06](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x06/)||
 | :--- | :--- | :--- |
   
 NO IMAGES  

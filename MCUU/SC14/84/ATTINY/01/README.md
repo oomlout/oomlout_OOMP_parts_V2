@@ -6,8 +6,6 @@ Contents
 ========
 
 * [MCAT84SC14 > 14 Pin SMD (SOIC) ATTiny 84 MCU](#mcat84sc14--14-pin-smd-soic-attiny-84-mcu)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
@@ -20,18 +18,6 @@ NO IMAGE
 - Description: 14 Pin SMD (SOIC) ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-SC14-84-ATTINY-01](http://oom.lt/MCUU-SC14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84SC14](http://oom.lt/MCAT84SC14)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
 
 ## OOMP Instances
   

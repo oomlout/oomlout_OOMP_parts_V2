@@ -6,9 +6,6 @@ Contents
 ========
 
 * [RF182 > SMD (1812) 2 A Resetable Fuse 8v](#rf182--smd-1812-2-a-resetable-fuse-8v)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
-	* [OOMP Instances](#oomp-instances)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -20,24 +17,6 @@ NO IMAGE
 - Description: SMD (1812) 2 A Resetable Fuse 8v
 - Long Link: [http://oom.lt/REFU-1812-X-A2-V8](http://oom.lt/REFU-1812-X-A2-V8)
 - Short Link: [http://oom.lt/RF182](http://oom.lt/RF182)
-
-## Footprints
-  
-
-||||
-| :--- | :--- | :--- |
-
-## Symbols
-  
-
-||||
-| :--- | :--- | :--- |
-
-## OOMP Instances
-  
-
-||||
-| :--- | :--- | :--- |
   
 NO IMAGES  
 ## Tags
