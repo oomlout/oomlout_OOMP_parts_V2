@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['HEAD-JSTSH-X-PI2X04-SHRR']['symbolKicad'] = ['SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x04_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male']
