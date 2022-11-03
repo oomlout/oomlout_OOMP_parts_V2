@@ -12543,6 +12543,7 @@
             "TAGS": []
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (0603) 7k Ohm Resistor"
     ],
@@ -12558,9 +12559,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O702/01/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/RESE/0603/X/O702/01//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O702/01/details.csv"
@@ -12582,9 +12580,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O702/01/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/RESE/0603/X/O702/01//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O702/01/README.md"
@@ -12608,8 +12603,8 @@
         {
             "code": "C-JLCC",
             "name": "JLC Parts Library",
-            "partID": "C13167",
-            "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 2.7k?? 0603  Chip Resistor - Surface Mount ROHS"
+            "partID": "C23162",
+            "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 4.7k?? 0603  Chip Resistor - Surface Mount ROHS"
         }
     ],
     "rawParts": [],

@@ -674,6 +674,7 @@
             "TAGS": []
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (1206) 1 nF Capacitor (Ceramic) 2kV"
     ],
@@ -689,9 +690,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/details.csv"
@@ -713,9 +711,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/README.md"

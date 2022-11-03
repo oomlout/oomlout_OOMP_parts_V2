@@ -31,6 +31,7 @@
             "TAGS": []
         }
     ],
+    "matchSpecial": [],
     "name": [
         "JST SH (1 mm) 2 Pin Header (SMD)"
     ],
@@ -46,9 +47,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI02/SM/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI02/SM//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI02/SM/details.csv"
@@ -70,9 +68,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI02/SM/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI02/SM//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI02/SM/README.md"

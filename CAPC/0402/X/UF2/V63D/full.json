@@ -895,6 +895,7 @@
             "TAGS": []
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (0402) 2 uF Capacitor (Ceramic) 6.3v"
     ],
@@ -910,9 +911,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D/details.csv"
@@ -934,9 +932,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D/README.md"

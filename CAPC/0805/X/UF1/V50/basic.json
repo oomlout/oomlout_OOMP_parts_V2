@@ -160,7 +160,7 @@
             "DISTRIBUTOR": "LCSC",
             "DPN": "C141772",
             "LINK": "https://www.lcsc.com/product-detail/C141772.html",
-            "MPN": "MPN-C-TORCH-CT41G-0805-2X1-50V-1F-K(N)",
+            "MPN": "MPN-C-TORCH-CT41G-0805-2X1-50V-1\u03bcF-K(N)",
             "OOMPID": "CAPC-0805-X-UF1-V50",
             "TAGS": [],
             "dpnKey": "DPN-C-LCSC-C141772"
@@ -802,8 +802,8 @@
             "LINK": "",
             "MANUCODE": "C-TORCH",
             "MANUFACTURER": "TORCH",
-            "MPN": "CT41G-0805-2X1-50V-1F-K(N)",
-            "MPNKEY": "MPN-C-TORCH-CT41G-0805-2X1-50V-1F-K(N)",
+            "MPN": "CT41G-0805-2X1-50V-1\u03bcF-K(N)",
+            "MPNKEY": "MPN-C-TORCH-CT41G-0805-2X1-50V-1\u03bcF-K(N)",
             "OOMPID": "CAPC-0805-X-UF1-V50",
             "OOMPIDPARTIAL": "CAPC-0805-X-UF1-V50",
             "TAGS": []
@@ -1263,6 +1263,7 @@
             ]
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (0805) 1 uF Capacitor (Ceramic) 50v"
     ],

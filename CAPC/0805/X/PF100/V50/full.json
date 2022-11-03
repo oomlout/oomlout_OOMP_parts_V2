@@ -1367,6 +1367,7 @@
             "TAGS": []
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (0805) 100 pF Capacitor (Ceramic) 50v"
     ],
@@ -1382,9 +1383,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF100/V50/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/CAPC/0805/X/PF100/V50//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF100/V50/details.csv"
@@ -1406,9 +1404,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF100/V50/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/CAPC/0805/X/PF100/V50//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/PF100/V50/README.md"

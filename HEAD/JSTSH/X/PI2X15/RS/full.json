@@ -1,0 +1,71 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "RSH2X15RS"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "JST SH (1 mm) 30 Pin (2x15) Header Right Angle (SMD)"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI2X15"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X15/RS/"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X15/RS/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X15/RS/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X15/RS/basic.json"
+        ]
+    },
+    "oompID": [
+        "HEAD-JSTSH-X-PI2X15-RS"
+    ],
+    "oompIndex": [
+        "RS"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "JSTSH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Odd_Even",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Row_Letter_First",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Row_Letter_Last",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Counter_Clockwise",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Top_Bottom",
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x30_Male"
+    ],
+    "symbolKicadDetails": []
+}

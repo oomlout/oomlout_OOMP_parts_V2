@@ -1,0 +1,71 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "RSH2X16SHRR"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "matchSpecial": [],
+    "name": [
+        "JST SH (1 mm) 32 Pin (2x16) Header Shrouded (IDC) Right Angle"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "PI2X16"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X16/SHRR/"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X16/SHRR/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X16/SHRR/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X16/SHRR/basic.json"
+        ]
+    },
+    "oompID": [
+        "HEAD-JSTSH-X-PI2X16-SHRR"
+    ],
+    "oompIndex": [
+        "SHRR"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "JSTSH"
+    ],
+    "oompType": [
+        "HEAD"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Odd_Even",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Row_Letter_First",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Row_Letter_Last",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Counter_Clockwise",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Top_Bottom",
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x32_Male"
+    ],
+    "symbolKicadDetails": []
+}

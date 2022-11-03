@@ -17,6 +17,7 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
+    "matchSpecial": [],
     "name": [
         "SMD (SOT-23-5) MIC5205 Voltage Regulator 2.5 v"
     ],
@@ -32,9 +33,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V25D/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V25D//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V25D/details.csv"
@@ -53,9 +51,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V25D/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V25D//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V25D/README.md"

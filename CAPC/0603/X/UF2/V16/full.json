@@ -632,6 +632,7 @@
             ]
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (0603) 2 uF Capacitor (Ceramic) 16v"
     ],
@@ -647,9 +648,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.csv"
@@ -671,9 +669,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16//labelInventory.pdf"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/README.md"

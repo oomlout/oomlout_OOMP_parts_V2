@@ -222,7 +222,7 @@
             "DISTRIBUTOR": "LCSC",
             "DPN": "C126469",
             "LINK": "https://www.lcsc.com/product-detail/C126469.html",
-            "MPN": "MPN-C-TORCH-CT41G-0805-2X1-50V-0.1F-K(N)",
+            "MPN": "MPN-C-TORCH-CT41G-0805-2X1-50V-0.1\u03bcF-K(N)",
             "OOMPID": "CAPC-0805-X-NF100-V50",
             "TAGS": [],
             "dpnKey": "DPN-C-LCSC-C126469"
@@ -1276,8 +1276,8 @@
             "LINK": "",
             "MANUCODE": "C-TORCH",
             "MANUFACTURER": "TORCH",
-            "MPN": "CT41G-0805-2X1-50V-0.1F-K(N)",
-            "MPNKEY": "MPN-C-TORCH-CT41G-0805-2X1-50V-0.1F-K(N)",
+            "MPN": "CT41G-0805-2X1-50V-0.1\u03bcF-K(N)",
+            "MPNKEY": "MPN-C-TORCH-CT41G-0805-2X1-50V-0.1\u03bcF-K(N)",
             "OOMPID": "CAPC-0805-X-NF100-V50",
             "OOMPIDPARTIAL": "CAPC-0805-X-NF100-V50",
             "TAGS": []
@@ -2157,6 +2157,7 @@
             ]
         }
     ],
+    "matchSpecial": [],
     "name": [
         "SMD (0805) 100 nF Capacitor (Ceramic) 50v"
     ],
@@ -2172,9 +2173,6 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/details.csv"
-        ],
-        "EDA": [
-            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50//labelInventory.pdf"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/details.csv"
@@ -2199,9 +2197,6 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/full.json"
-        ],
-        "labelInventory": [
-            "oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50//labelInventory.pdf"
         ],
         "mpnList": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/MPNLIST.md"
