@@ -7,13 +7,13 @@
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C2286",
-            "DPNKEY": "DPN-C-LCSC-C2286",
-            "LINK": "https://www.lcsc.com/product-detail/C2286",
+            "LINK": "https://www.lcsc.com/product-detail/C2286.html",
             "MPN": "MPN-C-HUBEIK-KT-0603R",
             "OOMPID": "LEDS-0603-R-STAN-01",
             "TAGS": [
                 "STOCK:1000K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C2286"
         }
     ],
     "eagleBoard": [],
@@ -34,6 +34,7 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-HUBEIK",
             "MANUFACTURER": "Hubei KENTO Elec",
@@ -41,7 +42,7 @@
             "MPNKEY": "MPN-C-HUBEIK-KT-0603R",
             "OOMPID": "LEDS-0603-R-STAN-01",
             "OOMPIDPARTIAL": "LEDS-0603-R-STAN-01",
-            "tags": [
+            "TAGS": [
                 "STOCK:1000K"
             ]
         }

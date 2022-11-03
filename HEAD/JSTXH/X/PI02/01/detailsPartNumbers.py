@@ -1,0 +1,2 @@
+def load(newPart,it):
+    it['HEAD-JSTXH-X-PI02-01']['manufacturerPartNumber'] = [{'MPNKEY': 'MPN-C-JSTSAL-B2B-XH-AM', 'MANUFACTURER': 'Japan Solderless Terminals', 'MANUCODE': 'C-JSTSAL', 'MPN': 'B2B-XH-AM', 'OOMPIDPARTIAL': 'HEAD-JSTXH-X-PI02-01', 'OOMPID': 'HEAD-JSTXH-X-PI02-01', 'LINK': '', 'DESCRIPTION': '', 'TAGS': []}, {'MPNKEY': 'MPN-C-JSTSAL-B2B-XH-A', 'MANUFACTURER': 'Japan Solderless Terminals', 'MANUCODE': 'C-JSTSAL', 'MPN': 'B2B-XH-A', 'OOMPIDPARTIAL': 'HEAD-JSTXH-X-PI02-01', 'OOMPID': 'HEAD-JSTXH-X-PI02-01', 'LINK': '', 'DESCRIPTION': '', 'TAGS': []}]

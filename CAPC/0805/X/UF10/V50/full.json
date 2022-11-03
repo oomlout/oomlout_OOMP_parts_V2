@@ -7,45 +7,45 @@
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C440198",
-            "DPNKEY": "DPN-C-LCSC-C440198",
-            "LINK": "https://www.lcsc.com/product-detail/C440198",
+            "LINK": "https://www.lcsc.com/product-detail/C440198.html",
             "MPN": "MPN-C-MURATA-GRM21BR61H106KE43L",
             "OOMPID": "CAPC-0805-X-UF10-V50",
             "TAGS": [
                 "STOCK:100K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C440198"
         },
         {
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C962154",
-            "DPNKEY": "DPN-C-LCSC-C962154",
-            "LINK": "https://www.lcsc.com/product-detail/C962154",
+            "LINK": "https://www.lcsc.com/product-detail/C962154.html",
             "MPN": "MPN-C-SANYEA-C0805X5R106K500NT",
             "OOMPID": "CAPC-0805-X-UF10-V50",
-            "TAGS": []
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C962154"
         },
         {
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C2190942",
-            "DPNKEY": "DPN-C-LCSC-C2190942",
-            "LINK": "https://www.lcsc.com/product-detail/C2190942",
+            "LINK": "https://www.lcsc.com/product-detail/C2190942.html",
             "MPN": "MPN-C-MURATA-GRM21BR61H106ME43L",
             "OOMPID": "CAPC-0805-X-UF10-V50",
-            "TAGS": []
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2190942"
         },
         {
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C2932476",
-            "DPNKEY": "DPN-C-LCSC-C2932476",
-            "LINK": "https://www.lcsc.com/product-detail/C2932476",
+            "LINK": "https://www.lcsc.com/product-detail/C2932476.html",
             "MPN": "MPN-C-SAMSUN-CL21A106KBYQNNE",
             "OOMPID": "CAPC-0805-X-UF10-V50",
             "TAGS": [
                 "STOCK:1K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C2932476"
         }
     ],
     "eagleBoard": [],
@@ -74,6 +74,7 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-MURATA",
             "MANUFACTURER": "Murata Electronics",
@@ -81,11 +82,12 @@
             "MPNKEY": "MPN-C-MURATA-GRM21BR61H106KE43L",
             "OOMPID": "CAPC-0805-X-UF10-V50",
             "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
-            "tags": [
+            "TAGS": [
                 "STOCK:100K"
             ]
         },
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-SANYEA",
             "MANUFACTURER": "SANYEAR",
@@ -93,9 +95,10 @@
             "MPNKEY": "MPN-C-SANYEA-C0805X5R106K500NT",
             "OOMPID": "CAPC-0805-X-UF10-V50",
             "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
-            "tags": []
+            "TAGS": []
         },
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-MURATA",
             "MANUFACTURER": "Murata Electronics",
@@ -103,9 +106,10 @@
             "MPNKEY": "MPN-C-MURATA-GRM21BR61H106ME43L",
             "OOMPID": "CAPC-0805-X-UF10-V50",
             "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
-            "tags": []
+            "TAGS": []
         },
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-SAMSUN",
             "MANUFACTURER": "Samsung Electro-Mechanics",
@@ -113,7 +117,7 @@
             "MPNKEY": "MPN-C-SAMSUN-CL21A106KBYQNNE",
             "OOMPID": "CAPC-0805-X-UF10-V50",
             "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
-            "tags": [
+            "TAGS": [
                 "STOCK:1K"
             ]
         }

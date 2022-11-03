@@ -50,9 +50,6 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X03/01/detailsInstancesOomp.py"
         ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X03/01/detailsPartNumbers.py"
-        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X03/01/basic.json"
         ],
@@ -172,6 +169,10 @@
         {
             "ID": "JP2",
             "PROJECT": "PROJ-ADAF-4985-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ELLA-0006-STAN-01"
         },
         {
             "ID": "U2",
@@ -357,6 +358,13 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom",
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male"
+    ],
     "symbolKicadDetails": []
 }

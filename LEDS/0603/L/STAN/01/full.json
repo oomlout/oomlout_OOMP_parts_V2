@@ -7,13 +7,13 @@
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C72038",
-            "DPNKEY": "DPN-C-LCSC-C72038",
-            "LINK": "https://www.lcsc.com/product-detail/C72038",
+            "LINK": "https://www.lcsc.com/product-detail/C72038.html",
             "MPN": "MPN-C-EVERLI-19-213/Y2C-CQ2R2L/3T(CY)",
             "OOMPID": "LEDS-0603-L-STAN-01",
             "TAGS": [
                 "STOCK:100K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C72038"
         }
     ],
     "eagleBoard": [],
@@ -34,6 +34,7 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-EVERLI",
             "MANUFACTURER": "Everlight Elec",
@@ -41,7 +42,7 @@
             "MPNKEY": "MPN-C-EVERLI-19-213/Y2C-CQ2R2L/3T(CY)",
             "OOMPID": "LEDS-0603-L-STAN-01",
             "OOMPIDPARTIAL": "LEDS-0603-L-STAN-01",
-            "tags": [
+            "TAGS": [
                 "STOCK:100K"
             ]
         }

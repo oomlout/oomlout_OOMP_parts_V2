@@ -1,0 +1,558 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "RA6103"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [],
+    "name": [
+        "SMD (0603-8) 10k Ohm (x4) Resistor Array"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O103X4"
+    ],
+    "oompID": [
+        "RESA-06038-X-O103X4-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-0904-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-0935-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1231-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-1231-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1231-STAN-0C"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-1231-STAN-0C"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1411-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-1411-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-1895-STAN-01"
+        },
+        {
+            "ID": "R8",
+            "PROJECT": "PROJ-ADAF-1982-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2020-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2809-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-2809-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-2857-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-ADAF-2927-STAN-01"
+        },
+        {
+            "ID": "R10",
+            "PROJECT": "PROJ-ADAF-2927-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-2928-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-2928-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-3134-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-3251-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-3387-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-3387-STAN-01"
+        },
+        {
+            "ID": "R13",
+            "PROJECT": "PROJ-ADAF-3405-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-3566-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-3660-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-3709-STAN-01"
+        },
+        {
+            "ID": "R8",
+            "PROJECT": "PROJ-ADAF-3779-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-3886-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-3900-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-ADAF-3900-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-3964-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-3965-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-3966-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-3967-STAN-01"
+        },
+        {
+            "ID": "R10",
+            "PROJECT": "PROJ-ADAF-4000-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4022-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4022-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-4026-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4074-STAN-01"
+        },
+        {
+            "ID": "R8",
+            "PROJECT": "PROJ-ADAF-4097-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4161-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4201-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4286-STAN-01"
+        },
+        {
+            "ID": "R27",
+            "PROJECT": "PROJ-ADAF-4300-STAN-01"
+        },
+        {
+            "ID": "R14",
+            "PROJECT": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
+            "ID": "R19",
+            "PROJECT": "PROJ-ADAF-4343-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4344-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4363-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4366-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4369-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4382-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4413-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4413-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4415-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4415-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4438-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4438-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4464-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4464-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4479-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4480-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4480-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4485-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4485-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4488-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4494-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4517-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4517-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4530-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4535-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4538-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4566-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4570-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4632-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4636-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4681-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4698-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4701-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4712-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4716-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4741-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4741-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4754-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4754-STAN-01"
+        },
+        {
+            "ID": "R4",
+            "PROJECT": "PROJ-ADAF-4754-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4756-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4775-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4808-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4821-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4829-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4831-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-4832-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4836-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4867-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4885-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4886-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4903-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-4903-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-4980-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-4984-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-4991-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-5027-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5027-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5056-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5146-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5146-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5159-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-5159-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5165-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5190-STAN-01"
+        },
+        {
+            "ID": "R6",
+            "PROJECT": "PROJ-ADAF-5233-STAN-01"
+        },
+        {
+            "ID": "R5",
+            "PROJECT": "PROJ-ADAF-5295-STAN-01"
+        },
+        {
+            "ID": "R9",
+            "PROJECT": "PROJ-ADAF-5296-STAN-01"
+        },
+        {
+            "ID": "R2",
+            "PROJECT": "PROJ-ADAF-5297-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5297-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5300-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5309-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5323-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5374-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5374-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5378-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5394-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-5396-STAN-01"
+        },
+        {
+            "ID": "R13",
+            "PROJECT": "PROJ-ADAF-5400-STAN-01"
+        },
+        {
+            "ID": "R1",
+            "PROJECT": "PROJ-ADAF-5423-STAN-01"
+        },
+        {
+            "ID": "R3",
+            "PROJECT": "PROJ-ADAF-5423-STAN-01"
+        },
+        {
+            "ID": "R7",
+            "PROJECT": "PROJ-ADAF-5425-STAN-01"
+        }
+    ],
+    "oompParts": [],
+    "oompSize": [
+        "06038"
+    ],
+    "oompType": [
+        "RESA"
+    ],
+    "oplPartNumber": [],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

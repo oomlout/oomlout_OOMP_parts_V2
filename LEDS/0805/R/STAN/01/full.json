@@ -7,13 +7,13 @@
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C84256",
-            "DPNKEY": "DPN-C-LCSC-C84256",
-            "LINK": "https://www.lcsc.com/product-detail/C84256",
+            "LINK": "https://www.lcsc.com/product-detail/C84256.html",
             "MPN": "MPN-C-FOSHAN-NCD0805R1",
             "OOMPID": "LEDS-0805-R-STAN-01",
             "TAGS": [
                 "STOCK:1000K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C84256"
         }
     ],
     "eagleBoard": [],
@@ -41,6 +41,7 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-FOSHAN",
             "MANUFACTURER": "Foshan NationStar Optoelectronics",
@@ -48,7 +49,7 @@
             "MPNKEY": "MPN-C-FOSHAN-NCD0805R1",
             "OOMPID": "LEDS-0805-R-STAN-01",
             "OOMPIDPARTIAL": "LEDS-0805-R-STAN-01",
-            "tags": [
+            "TAGS": [
                 "STOCK:1000K"
             ]
         }
@@ -464,6 +465,10 @@
         {
             "ID": "D2",
             "PROJECT": "PROJ-ADAF-4534-STAN-01"
+        },
+        {
+            "ID": "LED2",
+            "PROJECT": "PROJ-ELLA-0004-STAN-01"
         }
     ],
     "oompParts": [],

@@ -2,7 +2,15 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C165948",
+            "partLink": "",
+            "partName": "C165948"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
@@ -16,7 +24,15 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-KHRO",
+            "name": "Korean Hroparts Elec",
+            "partID": "TYPE-C-31-M-12",
+            "partLink": "",
+            "partName": ""
+        }
+    ],
     "name": [
         "Type C TYPE-C-31-M-12 USB Socket"
     ],
@@ -47,9 +63,6 @@
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/detailsInstancesOomp.py"
-        ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/detailsPartNumbers.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/basic.json"

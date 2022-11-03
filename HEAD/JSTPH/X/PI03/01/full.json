@@ -16,7 +16,11 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
+        }
+    ],
     "name": [
         "JST PH (2 mm) 3 Pin Header"
     ],
@@ -47,9 +51,6 @@
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/01/detailsInstancesOomp.py"
-        ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/01/detailsPartNumbers.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/01/basic.json"

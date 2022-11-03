@@ -16,7 +16,11 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
+        }
+    ],
     "name": [
         "JST SH (1 mm) 12 Pin Header Right Angle (SMD)"
     ],
@@ -47,9 +51,6 @@
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI12/RS/detailsInstancesOomp.py"
-        ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI12/RS/detailsPartNumbers.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI12/RS/basic.json"

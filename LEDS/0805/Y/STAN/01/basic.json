@@ -7,13 +7,13 @@
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C2296",
-            "DPNKEY": "DPN-C-LCSC-C2296",
-            "LINK": "https://www.lcsc.com/product-detail/C2296",
+            "LINK": "https://www.lcsc.com/product-detail/C2296.html",
             "MPN": "MPN-C-HUBEIK-17-21SUYC/TR8",
             "OOMPID": "LEDS-0805-Y-STAN-01",
             "TAGS": [
                 "STOCK:100K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C2296"
         }
     ],
     "eagleBoard": [],
@@ -41,6 +41,7 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-HUBEIK",
             "MANUFACTURER": "Hubei KENTO Elec",
@@ -48,7 +49,7 @@
             "MPNKEY": "MPN-C-HUBEIK-17-21SUYC/TR8",
             "OOMPID": "LEDS-0805-Y-STAN-01",
             "OOMPIDPARTIAL": "LEDS-0805-Y-STAN-01",
-            "tags": [
+            "TAGS": [
                 "STOCK:100K"
             ]
         }
@@ -144,6 +145,14 @@
         {
             "ID": "TXLED",
             "PROJECT": "PROJ-ADAF-4064-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ELLA-0004-STAN-01"
+        },
+        {
+            "ID": "D2",
+            "PROJECT": "PROJ-ELLA-0008-STAN-01"
         }
     ],
     "oompParts": [],

@@ -7,13 +7,13 @@
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
             "DPN": "C72043",
-            "DPNKEY": "DPN-C-LCSC-C72043",
-            "LINK": "https://www.lcsc.com/product-detail/C72043",
+            "LINK": "https://www.lcsc.com/product-detail/C72043.html",
             "MPN": "MPN-C-EVERLI-19-217/GHC-YR1S2/3T",
             "OOMPID": "LEDS-0603-G-STAN-01",
             "TAGS": [
                 "STOCK:1000K"
-            ]
+            ],
+            "dpnKey": "DPN-C-LCSC-C72043"
         }
     ],
     "eagleBoard": [],
@@ -34,6 +34,7 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
+            "DESCRIPTION": "",
             "LINK": "",
             "MANUCODE": "C-EVERLI",
             "MANUFACTURER": "Everlight Elec",
@@ -41,7 +42,7 @@
             "MPNKEY": "MPN-C-EVERLI-19-217/GHC-YR1S2/3T",
             "OOMPID": "LEDS-0603-G-STAN-01",
             "OOMPIDPARTIAL": "LEDS-0603-G-STAN-01",
-            "tags": [
+            "TAGS": [
                 "STOCK:1000K"
             ]
         }
@@ -405,6 +406,10 @@
         {
             "ID": "D2",
             "PROJECT": "PROJ-ADAF-5425-STAN-01"
+        },
+        {
+            "ID": "LED1",
+            "PROJECT": "PROJ-ELLA-0001-STAN-01"
         },
         {
             "ID": "PWR",

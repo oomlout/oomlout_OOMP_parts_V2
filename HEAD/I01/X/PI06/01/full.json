@@ -50,9 +50,6 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/detailsInstancesOomp.py"
         ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/detailsPartNumbers.py"
-        ],
         "image": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/01/image.jpg"
         ],
@@ -550,6 +547,10 @@
         {
             "ID": "JP2",
             "PROJECT": "PROJ-ADAF-5425-STAN-01"
+        },
+        {
+            "ID": "JP1",
+            "PROJECT": "PROJ-ELLA-0008-STAN-01"
         },
         {
             "ID": "JP1",

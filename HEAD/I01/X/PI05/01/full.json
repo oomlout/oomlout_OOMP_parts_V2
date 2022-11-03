@@ -50,9 +50,6 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI05/01/detailsInstancesOomp.py"
         ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI05/01/detailsPartNumbers.py"
-        ],
         "image": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI05/01/image.jpg"
         ],
@@ -310,6 +307,22 @@
         {
             "ID": "JP2",
             "PROJECT": "PROJ-ADAF-5378-STAN-01"
+        },
+        {
+            "ID": "ICSP",
+            "PROJECT": "PROJ-DANP-0002-STAN-V25"
+        },
+        {
+            "ID": "ICSP",
+            "PROJECT": "PROJ-DANP-0002-STAN-V35C"
+        },
+        {
+            "ID": "ICSP",
+            "PROJECT": "PROJ-DANP-0002-STAN-V36A"
+        },
+        {
+            "ID": "ICSP",
+            "PROJECT": "PROJ-DANP-0002-STAN-V3"
         },
         {
             "ID": "J8",

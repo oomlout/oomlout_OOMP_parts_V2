@@ -18,7 +18,19 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JSTSAL",
+            "MANUFACTURER": "Japan Solderless Terminals",
+            "MPN": "BM04B-SRSS-TB",
+            "MPNKEY": "MPN-C-JSTSAL-BM04B-SRSS-TB",
+            "OOMPID": "HEAD-JSTSH-X-PI04-SM",
+            "OOMPIDPARTIAL": "HEAD-JSTSH-X-PI04-SM",
+            "TAGS": []
+        }
+    ],
     "name": [
         "JST SH (1 mm) 4 Pin Header (SMD)"
     ],
@@ -61,6 +73,9 @@
         ],
         "labelInventory": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/MPNLIST.md"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/README.md"

@@ -50,9 +50,6 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI10/01/detailsInstancesOomp.py"
         ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI10/01/detailsPartNumbers.py"
-        ],
         "image": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI10/01/image.jpg"
         ],
@@ -214,6 +211,46 @@
         {
             "ID": "IOH",
             "PROJECT": "PROJ-ADAF-4775-STAN-01"
+        },
+        {
+            "ID": "J4",
+            "PROJECT": "PROJ-DANP-0001-STAN-1A"
+        },
+        {
+            "ID": "J2",
+            "PROJECT": "PROJ-DANP-0001-STAN-1B"
+        },
+        {
+            "ID": "J3",
+            "PROJECT": "PROJ-DANP-0001-STAN-1C"
+        },
+        {
+            "ID": "IO",
+            "PROJECT": "PROJ-DANP-0002-STAN-V38A"
+        },
+        {
+            "ID": "CON1",
+            "PROJECT": "PROJ-DANP-0002-STAN-V39"
+        },
+        {
+            "ID": "CON1",
+            "PROJECT": "PROJ-DANP-0002-STAN-V5"
+        },
+        {
+            "ID": "J1",
+            "PROJECT": "PROJ-ELLA-0004-STAN-01"
+        },
+        {
+            "ID": "J2",
+            "PROJECT": "PROJ-ELLA-0004-STAN-01"
+        },
+        {
+            "ID": "JP2",
+            "PROJECT": "PROJ-ELLA-0008-STAN-01"
+        },
+        {
+            "ID": "JP3",
+            "PROJECT": "PROJ-ELLA-0008-STAN-01"
         },
         {
             "ID": "JP4",

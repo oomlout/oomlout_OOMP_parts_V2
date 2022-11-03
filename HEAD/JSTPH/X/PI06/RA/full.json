@@ -16,7 +16,11 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "partLink": "https://www.jst.co.uk/productSeries.php?pid=6626"
+        }
+    ],
     "name": [
         "JST PH (2 mm) 6 Pin Header Right Angle"
     ],
@@ -47,9 +51,6 @@
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI06/RA/detailsInstancesOomp.py"
-        ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI06/RA/detailsPartNumbers.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI06/RA/basic.json"

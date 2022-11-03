@@ -34,7 +34,12 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
+    "oompInstances": [
+        {
+            "ID": "IO",
+            "PROJECT": "PROJ-DANP-0002-STAN-V4E"
+        }
+    ],
     "oompParts": [],
     "oompSize": [
         "I01"
@@ -46,6 +51,13 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_Last",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom",
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male"
+    ],
     "symbolKicadDetails": []
 }

@@ -1,0 +1,3 @@
+def load(newPart,it):
+    it['LEDS-0603-L-STAN-01']['manufacturerPartNumber'] = [{'MPNKEY': 'MPN-C-EVERLI-19-213/Y2C-CQ2R2L/3T(CY)', 'MANUFACTURER': 'Everlight Elec', 'MANUCODE': 'C-EVERLI', 'MPN': '19-213/Y2C-CQ2R2L/3T(CY)', 'OOMPIDPARTIAL': 'LEDS-0603-L-STAN-01', 'OOMPID': 'LEDS-0603-L-STAN-01', 'LINK': '', 'DESCRIPTION': '', 'TAGS': ['STOCK:100K']}]
+    it['LEDS-0603-L-STAN-01']['distributorPartNumber'] = [{'dpnKey': 'DPN-C-LCSC-C72038', 'DISTRIBUTOR': 'LCSC', 'DISTRCODE': 'C-LCSC', 'DPN': 'C72038', 'MPN': 'MPN-C-EVERLI-19-213/Y2C-CQ2R2L/3T(CY)', 'TAGS': ['STOCK:100K'], 'LINK': 'https://www.lcsc.com/product-detail/C72038.html', 'OOMPID': 'LEDS-0603-L-STAN-01'}]

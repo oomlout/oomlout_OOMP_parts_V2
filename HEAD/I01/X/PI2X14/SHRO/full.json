@@ -50,9 +50,6 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X14/SHRO/detailsInstancesOomp.py"
         ],
-        "detailspartNumbers": [
-            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X14/SHRO/detailsPartNumbers.py"
-        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X14/SHRO/basic.json"
         ],
@@ -84,6 +81,13 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Odd_Even",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Row_Letter_First",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Row_Letter_Last",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Counter_Clockwise",
+        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Top_Bottom",
+        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x28_Male"
+    ],
     "symbolKicadDetails": []
 }
