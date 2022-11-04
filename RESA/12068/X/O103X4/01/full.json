@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "RA12103"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "SMD (1206-8) 10k Ohm (x4) Resistor Array"
     ],
@@ -34,6 +18,12 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01/qrCode.png"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01/details.csv"
         ],
@@ -48,6 +38,12 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/RESA/12068/X/O103X4/01/qrCode.png"
         ]
     },
     "oompID": [
@@ -56,18 +52,10 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "12068"
     ],
     "oompType": [
         "RESA"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

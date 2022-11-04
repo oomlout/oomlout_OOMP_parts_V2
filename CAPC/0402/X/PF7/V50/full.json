@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -1068,23 +1065,1163 @@
             "dpnKey": "DPN-C-LCSC-C2423513"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C4P7"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG270J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG270J500NT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG470J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG470J500NT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402JRNPO9BN470",
+            "MPNKEY": "MPN-C-YAGEO-CC0402JRNPO9BN470",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H470JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H470JA01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C470JB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C470JB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C270JB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C270JB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H270FB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H270FB01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H270JB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H270JB01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402JRNPO9BN270",
+            "MPNKEY": "MPN-C-YAGEO-CC0402JRNPO9BN270",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402GRNPO9BN270",
+            "MPNKEY": "MPN-C-YAGEO-CC0402GRNPO9BN270",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G270J500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G270J500NTB",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G470J500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G470J500NTB",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H270JA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H270JA16D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H470JA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H470JA16D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G270G500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G270G500NTB",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C470J5GAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C470J5GAC7867",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0270JGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0270JGTS",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0470JGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0470JGTS",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H470JB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H470JB01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1552C1H470JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1552C1H470JA01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H470GA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H470GA01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G270K500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G270K500NTB",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0470JGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0470JGT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-AVX",
+            "MANUFACTURER": "AVX",
+            "MPN": "04025A270JAT2A",
+            "MPNKEY": "MPN-C-AVX-04025A270JAT2A",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402FRNPO9BN470",
+            "MPNKEY": "MPN-C-YAGEO-CC0402FRNPO9BN470",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402FRNPO9BN270",
+            "MPNKEY": "MPN-C-YAGEO-CC0402FRNPO9BN270",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG470L500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG470L500NT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG470G500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG470G500NT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N270G500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N270G500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N270J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N270J500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N270K500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N270K500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N470G500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N470G500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N470K500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N470K500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N270F500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N270F500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0270KGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0270KGTS",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MG15N470J500CT",
+            "MPNKEY": "MPN-C-WALSIN-MG15N470J500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N470J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N470J500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B2C0G1H270JT0Y0F",
+            "MPNKEY": "MPN-C-TDK-CGA2B2C0G1H270JT0Y0F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NPO270JGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NPO270JGT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N470F500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N470F500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG270JV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG270JV-F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG270JVHF",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG270JVHF",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG470JV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG470JV-F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H470FA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H470FA16D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "SH15N470J500CT",
+            "MPNKEY": "MPN-C-WALSIN-SH15N470J500CT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B2C0G1H470JT0Y0F",
+            "MPNKEY": "MPN-C-TDK-CGA2B2C0G1H470JT0Y0F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H470GA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H470GA16D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H270JT000F",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H270JT000F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CH470JV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CH470JV-F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UVK105CH2R7JW-F",
+            "MPNKEY": "MPN-C-TAIYOY-UVK105CH2R7JW-F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402C0G270J500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402C0G270J500AT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402C0G470J500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402C0G470J500AT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C470JB51PNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C470JB51PNC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CHINOC",
+            "MANUFACTURER": "Chinocera",
+            "MPN": "HGC0402G0470J500NTEJ",
+            "MPNKEY": "MPN-C-CHINOC-HGC0402G0470J500NTEJ",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG270G500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG270G500NT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A470JAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A470JAT2A",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V270J0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V270J0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N270J500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N270J500PNG",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N470G500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N470G500PNG",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N470J500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N470J500PNG",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402GRNPO9BN470",
+            "MPNKEY": "MPN-C-YAGEO-CC0402GRNPO9BN470",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402KRNPO9BN470",
+            "MPNKEY": "MPN-C-YAGEO-CC0402KRNPO9BN470",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C270J5GAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C270J5GAC7867",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A270FAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A270FAT2A",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "CBR04C470J5GAC",
+            "MPNKEY": "MPN-C-KEMET-CBR04C470J5GAC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402JRNPO9BN470",
+            "MPNKEY": "MPN-C-YAGEO-AC0402JRNPO9BN470",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V470J0402COG500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V470J0402COG500NBT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H470JT000F",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H470JT000F",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG270J500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG270J500AT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402JRNPO9BN270",
+            "MPNKEY": "MPN-C-YAGEO-AC0402JRNPO9BN270",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG470J500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG470J500AT",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A270JLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A270JLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A470JLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A470JLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A470KLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A470KLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A270KLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A270KLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A470GLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A470GLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A270GLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A270GLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A270FLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A270FLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A470FLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A470FLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H170FB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H170FB01D",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG470JVHF",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG470JVHF",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H470J050BA",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H470J050BA",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402T470K5GACTU",
+            "MPNKEY": "MPN-C-KEMET-C0402T470K5GACTU",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D270JLAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D270JLAAJ",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D270JLAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D270JLAAC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D270JLAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D270JLAAP",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D270JXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D270JXAAP",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D270JXAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D270JXAAC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A270JXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A270JXAAP",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A470JXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A470JXAAP",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A270GXAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A270GXAAC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D270FXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D270FXAAJ",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C470F5GAL7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C470F5GAL7867",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D470FXAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D470FXAAC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D470FXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D470FXAAP",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D470FLAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D470FLAAP",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D470FLAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D470FLAAC",
+            "OOMPID": "CAPC-0402-X-PF7-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF7-V50",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -2235,7 +3372,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0402) 7 pF Capacitor (Ceramic) 50v"
     ],
@@ -2251,6 +3387,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/details.csv"
@@ -2273,6 +3415,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF7/V50/README.md"
         ]
@@ -2283,8 +3434,6 @@
     "oompIndex": [
         "V50"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0402"
     ],
@@ -2299,11 +3448,7 @@
             "partName": "50V 47pF C0G ??5% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

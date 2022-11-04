@@ -1,12 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm",
         "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm",
@@ -19,16 +11,9 @@
         "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm",
         "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "L03WW"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "3 mm White LED"
     ],
@@ -44,6 +29,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/details.csv"
@@ -63,6 +54,12 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/README.md"
         ]
@@ -73,20 +70,13 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "03"
     ],
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

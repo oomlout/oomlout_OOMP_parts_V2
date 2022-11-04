@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -296,23 +293,332 @@
             "dpnKey": "DPN-C-LCSC-C2835567"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C6U216"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A225KO8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A225KO8NNNC",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B225K160NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B225K160NT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1C225KT000N",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1C225KT000N",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61C225KE15D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61C225KE15D",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "EMK107BJ225KA-T",
+            "MPNKEY": "MPN-C-TAIYOY-EMK107BJ225KA-T",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603ZRY5V7BB225",
+            "MPNKEY": "MPN-C-YAGEO-CC0603ZRY5V7BB225",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX5R7BB225",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX5R7BB225",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603F225M160NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603F225M160NT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603F225Z160CT",
+            "MPNKEY": "MPN-C-WALSIN-0603F225Z160CT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603X225K160NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603X225K160NT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E1X5R1C225M080AC",
+            "MPNKEY": "MPN-C-TDK-CGA3E1X5R1C225M080AC",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188C71C225KE11D",
+            "MPNKEY": "MPN-C-MURATA-GRM188C71C225KE11D",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "EMK107BB7225KA-T",
+            "MPNKEY": "MPN-C-TAIYOY-EMK107BB7225KA-T",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E1X7S1C225KT000N",
+            "MPNKEY": "MPN-C-TDK-CGA3E1X7S1C225KT000N",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E1X5R1C225KT0Y0E",
+            "MPNKEY": "MPN-C-TDK-CGA3E1X5R1C225KT0Y0E",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603X5R225K160CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603X5R225K160CT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "EMK107ABJ225KAHT",
+            "MPNKEY": "MPN-C-TAIYOY-EMK107ABJ225KAHT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603X225K160CT",
+            "MPNKEY": "MPN-C-WALSIN-0603X225K160CT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0603C225K4PAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0603C225K4PAC7867",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603MRY5V7BB225",
+            "MPNKEY": "MPN-C-YAGEO-CC0603MRY5V7BB225",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603B225K160CT",
+            "MPNKEY": "MPN-C-WALSIN-0603B225K160CT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188Z71C225KE43D",
+            "MPNKEY": "MPN-C-MURATA-GRM188Z71C225KE43D",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX7R7BB225",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX7R7BB225",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X7S1C225K080AE",
+            "MPNKEY": "MPN-C-TDK-C1608X7S1C225K080AE",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A226MO7JZNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A226MO7JZNC",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0603X5R226M160NT",
+            "MPNKEY": "MPN-C-SANYEA-C0603X5R226M160NT",
+            "OOMPID": "CAPC-0603-X-UF2-V16",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF2-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -632,7 +938,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) 2 uF Capacitor (Ceramic) 16v"
     ],
@@ -648,6 +953,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/details.csv"
@@ -670,6 +981,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/README.md"
         ]
@@ -680,8 +1000,6 @@
     "oompIndex": [
         "V16"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -696,11 +1014,7 @@
             "partName": "16V 2.2uF X5R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

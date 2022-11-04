@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "MN2524184A"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "TO-252 MNAOD4184A N-Ch. MOSFET"
     ],
@@ -33,6 +17,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/details.csv"
@@ -52,6 +42,12 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/README.md"
         ]
@@ -62,18 +58,10 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "T252"
     ],
     "oompType": [
         "MOSN"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

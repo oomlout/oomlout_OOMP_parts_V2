@@ -1,25 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x05_P3.50mm_Vertical"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "T35L5"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "3.5 mm 5 Pin Blue Screw Terminal"
     ],
@@ -86,19 +71,13 @@
             "PROJECT": "PROJ-ADAF-2348-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "35D"
     ],
     "oompType": [
         "TERS"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

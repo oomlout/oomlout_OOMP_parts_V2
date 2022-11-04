@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -388,23 +385,432 @@
             "dpnKey": "DPN-C-LCSC-C5137565"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C6U1010"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "LMK107BJ106MALTD",
+            "MPNKEY": "MPN-C-TAIYOY-LMK107BJ106MALTD",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A106KP8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A106KP8NNNC",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603X106K100NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603X106K100NT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1A106KT000E",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1A106KT000E",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1A106MT000E",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1A106MT000E",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61A106KE47D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61A106KE47D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61A106KE69D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61A106KE69D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A106MP8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A106MP8NNNC",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603X106M100CT",
+            "MPNKEY": "MPN-C-WALSIN-0603X106M100CT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61A106ME69D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61A106ME69D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603X106K100",
+            "MPNKEY": "MPN-C-WALSIN-0603X106K100",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603X106M100NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603X106M100NT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603F106M100NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603F106M100NT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603MRX5R6BB106",
+            "MPNKEY": "MPN-C-YAGEO-CC0603MRX5R6BB106",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188B31A106ME69D",
+            "MPNKEY": "MPN-C-MURATA-GRM188B31A106ME69D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188D71A106MA73D",
+            "MPNKEY": "MPN-C-MURATA-GRM188D71A106MA73D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188Z71A106MA73D",
+            "MPNKEY": "MPN-C-MURATA-GRM188Z71A106MA73D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A106KP8NNND",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A106KP8NNND",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A106MP8NNND",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A106MP8NNND",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10X106MP8NRNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10X106MP8NRNC",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX5R6BB106",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX5R6BB106",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X6S1A106MT000E",
+            "MPNKEY": "MPN-C-TDK-C1608X6S1A106MT000E",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603X5R106K100CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603X5R106K100CT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603X5R106M100CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603X5R106M100CT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188D71A106KA73D",
+            "MPNKEY": "MPN-C-MURATA-GRM188D71A106KA73D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0603X5R106M100NT",
+            "MPNKEY": "MPN-C-SANYEA-C0603X5R106M100NT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188B31A106KE69D",
+            "MPNKEY": "MPN-C-MURATA-GRM188B31A106KE69D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0603X5R106K100NT",
+            "MPNKEY": "MPN-C-SANYEA-C0603X5R106K100NT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "ZRB18AD71A106KE01L",
+            "MPNKEY": "MPN-C-MURATA-ZRB18AD71A106KE01L",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61A106KE69J",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61A106KE69J",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1A106K080AC",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1A106K080AC",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "0603ZD106KAT2A",
+            "MPNKEY": "MPN-C-KYOCER-0603ZD106KAT2A",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188Z71A106KA73D",
+            "MPNKEY": "MPN-C-MURATA-GRM188Z71A106KA73D",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FOJAN",
+            "MANUFACTURER": "FOJAN",
+            "MPN": "FCC0603X106K100CT",
+            "MPNKEY": "MPN-C-FOJAN-FCC0603X106K100CT",
+            "OOMPID": "CAPC-0603-X-UF10-V10",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V10",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -824,7 +1230,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) 10 uF Capacitor (Ceramic) 10v"
     ],
@@ -840,6 +1245,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/details.csv"
@@ -868,6 +1279,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/README.md"
         ]
@@ -878,8 +1298,6 @@
     "oompIndex": [
         "V10"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -894,11 +1312,7 @@
             "partName": "10V 10uF X5R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

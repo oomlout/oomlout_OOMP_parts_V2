@@ -1,23 +1,19 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm",
+        "FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm"
+    ],
     "hexID": [
         "L03OO"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "3 mm Orange LED"
     ],
@@ -31,11 +27,35 @@
         "": [
             "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/"
         ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/qrCode.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/details.csv"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/detailsFootprintsOomp.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/qrCode.png"
         ]
     },
     "oompID": [
@@ -44,18 +64,13 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "03"
     ],
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ]
 }

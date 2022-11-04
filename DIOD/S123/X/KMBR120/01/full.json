@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "D34148"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "SMD (SOD-123) MBR120 Diode"
     ],
@@ -33,6 +17,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/details.csv"
@@ -51,6 +41,15 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/README.md"
@@ -316,17 +315,10 @@
             "PROJECT": "PROJ-ADAF-5397-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "S123"
     ],
     "oompType": [
         "DIOD"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

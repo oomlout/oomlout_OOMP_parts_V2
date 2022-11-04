@@ -5,19 +5,21 @@
 Contents
 ========
 
-* [HPH10 > JST PH (2 mm) 10 Pin Header](#hph10--jst-ph-2-mm-10-pin-header)
+* [RPH10 > JST PH (2 mm) 10 Pin Header](#rph10--jst-ph-2-mm-10-pin-header)
 	* [Symbols](#symbols)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# HPH10 > JST PH (2 mm) 10 Pin Header
+# RPH10 > JST PH (2 mm) 10 Pin Header
 
 - ID: HEAD-JSTPH-X-PI10-01
-- Hex ID: HPH10
+- Hex ID: RPH10
 - Name: JST PH (2 mm) 10 Pin Header
 - Description: JST PH (2 mm) 10 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI10-01](http://oom.lt/HEAD-JSTPH-X-PI10-01)
-- Short Link: [http://oom.lt/HPH10](http://oom.lt/HPH10)
+- Short Link: [http://oom.lt/RPH10](http://oom.lt/RPH10)
 
 ## Symbols
   
@@ -27,8 +29,23 @@ NO IMAGE
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male/)|[Connector : Conn_01x10_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x10_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x10/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x10/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x10](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x10/)|[Connector_Generic : Conn_01x10](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x10/)|
 ||||
+
+## Distributor Searches
   
-NO IMAGES  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+PH+2+mm+10+Pin+Header)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+PH+2+mm+10+Pin+Header)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+PH+2+mm+10+Pin+Header)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+PH+2+mm+10+Pin+Header)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+PH+2+mm+10+Pin+Header)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+PH+2+mm+10+Pin+Header)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 1  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTPH/X/PI10/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTPH/X/PI10/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -40,8 +57,8 @@ NO IMAGES
 |OOMP Description|oompDesc|PI10|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI10-01|
-|Hex ID (short code)|hexID|HPH10|
+|Hex ID (short code)|hexID|RPH10|
 |name|name|JST PH (2 mm) 10 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
-|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x10'|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x10|
 ||||

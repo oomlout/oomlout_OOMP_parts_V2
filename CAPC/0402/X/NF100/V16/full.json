@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -744,23 +741,808 @@
             "dpnKey": "DPN-C-LCSC-C2874743"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C4N10016"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05B104KO5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05B104KO5NNNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402B104K160NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402B104K160NT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402KRX7R7BB104",
+            "MPNKEY": "MPN-C-YAGEO-CC0402KRX7R7BB104",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R71C104KA88D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R71C104KA88D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B1X7R1C104KT0Y0F",
+            "MPNKEY": "MPN-C-TDK-CGA2B1X7R1C104KT0Y0F",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R61C104KA88D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R61C104KA88D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05F104ZO5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05F104ZO5NNNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM155R71C104KA55D",
+            "MPNKEY": "MPN-C-MURATA-GCM155R71C104KA55D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155B31C104KA87D",
+            "MPNKEY": "MPN-C-MURATA-GRM155B31C104KA87D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155F11C104ZA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM155F11C104ZA01D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "EMK105B7104KV-F",
+            "MPNKEY": "MPN-C-TAIYOY-EMK105B7104KV-F",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402KRX5R7BB104",
+            "MPNKEY": "MPN-C-YAGEO-CC0402KRX5R7BB104",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402ZRY5V7BB104",
+            "MPNKEY": "MPN-C-YAGEO-CC0402ZRY5V7BB104",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402X5R104K160NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402X5R104K160NTB",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402X5R104M160NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402X5R104M160NTB",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402X7R104K160NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402X7R104K160NTB",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402F104Z160CT",
+            "MPNKEY": "MPN-C-WALSIN-0402F104Z160CT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM155R71C104KA40D",
+            "MPNKEY": "MPN-C-MURATA-GCM155R71C104KA40D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402F104M160",
+            "MPNKEY": "MPN-C-WALSIN-0402F104M160",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05B104KO5NNND",
+            "MPNKEY": "MPN-C-SAMSUN-CL05B104KO5NNND",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TORCH",
+            "MANUFACTURER": "TORCH",
+            "MPN": "CT41G-0402-2X1-16V-0.1\u03bcF-K(N)",
+            "MPNKEY": "MPN-C-TORCH-CT41G-0402-2X1-16V-0.1\u03bcF-K(N)",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "0402YD104KAT2A",
+            "MPNKEY": "MPN-C-KYOCER-0402YD104KAT2A",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005X7R104METS",
+            "MPNKEY": "MPN-C-DARFON-C1005X7R104METS",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005X5R104METS",
+            "MPNKEY": "MPN-C-DARFON-C1005X5R104METS",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "0402YC104KAT2A",
+            "MPNKEY": "MPN-C-KYOCER-0402YC104KAT2A",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05A104KO5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05A104KO5NNNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402B104M160",
+            "MPNKEY": "MPN-C-WALSIN-0402B104M160",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C104M4RACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0402C104M4RACAUTO",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B1X7R1C104M050BC",
+            "MPNKEY": "MPN-C-TDK-CGA2B1X7R1C104M050BC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B1X7R1C104K050BC",
+            "MPNKEY": "MPN-C-TDK-CGA2B1X7R1C104K050BC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005X5R104KETS",
+            "MPNKEY": "MPN-C-DARFON-C1005X5R104KETS",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402KRX7R7BB104",
+            "MPNKEY": "MPN-C-YAGEO-AC0402KRX7R7BB104",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402F104M160NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402F104M160NT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402X104K160CT",
+            "MPNKEY": "MPN-C-WALSIN-0402X104K160CT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "SH15B104K160CT",
+            "MPNKEY": "MPN-C-WALSIN-SH15B104K160CT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05B104KO5VPNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05B104KO5VPNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05A104MO5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05A104MO5NNNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05B104KO5NFNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05B104KO5NFNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05B104MO5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05B104MO5NNNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005Y5V104ZETS",
+            "MPNKEY": "MPN-C-DARFON-C1005Y5V104ZETS",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402MRY5V7BB104",
+            "MPNKEY": "MPN-C-YAGEO-CC0402MRY5V7BB104",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MG15B104K160CT",
+            "MPNKEY": "MPN-C-WALSIN-MG15B104K160CT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15X104K160PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15X104K160PNG",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005X5R1C104KT000F",
+            "MPNKEY": "MPN-C-TDK-C1005X5R1C104KT000F",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005X7R1C104KT000F",
+            "MPNKEY": "MPN-C-TDK-C1005X7R1C104KT000F",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402X5R104K160AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402X5R104K160AT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402X5R104M160AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402X5R104M160AT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15X104J160PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15X104J160PNG",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155F51C104ZA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM155F51C104ZA01D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "EMK105B7104KVHF",
+            "MPNKEY": "MPN-C-TAIYOY-EMK105B7104KVHF",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402B104J160CT",
+            "MPNKEY": "MPN-C-WALSIN-0402B104J160CT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402X7R104K160AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402X7R104K160AT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15B104K160CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15B104K160CT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R11C104KA88D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R11C104KA88D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0402X7R104K160NT",
+            "MPNKEY": "MPN-C-SANYEA-C0402X7R104K160NT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402B104J160NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402B104J160NT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402JRX7R7BB104",
+            "MPNKEY": "MPN-C-YAGEO-CC0402JRX7R7BB104",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C104J4RAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C104J4RAC7867",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V104K0402X5R160NBT",
+            "MPNKEY": "MPN-C-VIIYON-V104K0402X5R160NBT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V104K0402X7R160NBT",
+            "MPNKEY": "MPN-C-VIIYON-V104K0402X7R160NBT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005JB1C104KT000F",
+            "MPNKEY": "MPN-C-TDK-C1005JB1C104KT000F",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C104K4RECAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0402C104K4RECAUTO",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402X7R104M160AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402X7R104M160AT",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05B104JO5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05B104JO5NNNC",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM155R71C104JA55D",
+            "MPNKEY": "MPN-C-MURATA-GCM155R71C104JA55D",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15B104M160PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15B104M160PNG",
+            "OOMPID": "CAPC-0402-X-NF100-V16",
+            "OOMPIDPARTIAL": "CAPC-0402-X-NF100-V16",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -1556,7 +2338,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0402) 100 nF Capacitor (Ceramic) 16v"
     ],
@@ -1572,6 +2353,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/details.csv"
@@ -1596,6 +2383,15 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/README.md"
@@ -3989,7 +4785,6 @@
             "PROJECT": "PROJ-SPAR-9981-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "0402"
     ],
@@ -4004,11 +4799,7 @@
             "partName": "16V 100nF X7R ??10% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

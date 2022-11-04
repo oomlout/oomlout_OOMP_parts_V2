@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -16,23 +13,27 @@
             "dpnKey": "DPN-C-LCSC-C2290"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "L6W"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "C2290",
+            "MPNKEY": "MPN-C-HUBEIK-C2290",
+            "OOMPID": "LEDS-0603-W-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0603-W-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -47,7 +48,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) White LED"
     ],
@@ -63,6 +63,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/details.csv"
@@ -90,6 +96,12 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/README.md"
@@ -679,7 +691,6 @@
             "PROJECT": "PROJ-ADAF-2946-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -694,11 +705,7 @@
             "partName": "White 0603 Light Emitting Diodes (LED) RoHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

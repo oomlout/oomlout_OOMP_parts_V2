@@ -9,6 +9,8 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 ![][im]
@@ -51,12 +53,24 @@ Contents
 
 |Project ID|Project Name|Parts|
 | :--- | :--- | :--- |
-|[PROJ-SPAR-10570-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10570/STAN/01/)|[DangerShield](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10570/STAN/01/)|[LED2,LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10570/STAN/01/)|
+|[PROJ-SPAR-10570-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10570/STAN/01/)|[DangerShield](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10570/STAN/01/)|[LED2, LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10570/STAN/01/)|
 |[PROJ-SPAR-10618-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10618/STAN/01/)|[Power Driver Shield Kit](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10618/STAN/01/)|[LED2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/10618/STAN/01/)|
+||||
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11175+mm+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/5+mm+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=5+mm+Yellow+LED)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=5+mm+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=5+mm+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=5+mm+Yellow+LED)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
 ||||
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/Y/STAN/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/Y/STAN/01/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/Y/STAN/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/Y/STAN/01/image_RE.jpg)|||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/Y/STAN/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/Y/STAN/01/image.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/Y/STAN/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/Y/STAN/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/05/Y/STAN/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/05/Y/STAN/01/qrCode.png)||
 | :---: | :---: | :---: | :---: |
 
 ## Tags
@@ -72,9 +86,9 @@ Contents
 |Full OOMP ID|oompID|LEDS-05-Y-STAN-01|
 |Hex ID (short code)|hexID|L05YY|
 |name|name|5 mm Yellow LED|
-|Footprint Kicad|footprintKicad|'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm', 'FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm'|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10570-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10570-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED3'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-10618-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'LED2'</td></tr></table>|
+|OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10570-STAN-01</td><td> ID</td></tr><tr><td> LED2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10570-STAN-01</td><td> ID</td></tr><tr><td> LED3</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10618-STAN-01</td><td> ID</td></tr><tr><td> LED2</td></tr></table>|
 ||||
 
 

@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -178,8 +175,6 @@
             "dpnKey": "DPN-C-LCSC-C2835553"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
     "footprintEagle": [
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
@@ -189,20 +184,204 @@
         "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
         "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
     ],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C8U763D"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21A476MQYNNNE",
+            "MPNKEY": "MPN-C-SAMSUN-CL21A476MQYNNNE",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM21BR60J476ME15L",
+            "MPNKEY": "MPN-C-MURATA-GRM21BR60J476ME15L",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "JMK212BJ476MG-T",
+            "MPNKEY": "MPN-C-TAIYOY-JMK212BJ476MG-T",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0805X476M6R3CT",
+            "MPNKEY": "MPN-C-WALSIN-0805X476M6R3CT",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0805X476M6R3NT",
+            "MPNKEY": "MPN-C-FHGUAN-0805X476M6R3NT",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0805F476M6R3NT",
+            "MPNKEY": "MPN-C-FHGUAN-0805F476M6R3NT",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0805MKX5R5BB476",
+            "MPNKEY": "MPN-C-YAGEO-CC0805MKX5R5BB476",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21A476MQCLRNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL21A476MQCLRNC",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21A476MQCLRXC",
+            "MPNKEY": "MPN-C-SAMSUN-CL21A476MQCLRXC",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C2012X5R0J476MT000E",
+            "MPNKEY": "MPN-C-TDK-C2012X5R0J476MT000E",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0805X5R476M6R3FT",
+            "MPNKEY": "MPN-C-CCTC-TCC0805X5R476M6R3FT",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM21BR60J476ME01L",
+            "MPNKEY": "MPN-C-MURATA-GRM21BR60J476ME01L",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "JMK212BBJ476MG-T",
+            "MPNKEY": "MPN-C-TAIYOY-JMK212BBJ476MG-T",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM219R60J476ME44D",
+            "MPNKEY": "MPN-C-MURATA-GRM219R60J476ME44D",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "JMK212BC6476MG-T",
+            "MPNKEY": "MPN-C-TAIYOY-JMK212BC6476MG-T",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0805X6S476M6R3NT",
+            "MPNKEY": "MPN-C-SANYEA-C0805X6S476M6R3NT",
+            "OOMPID": "CAPC-0805-X-UF7-V63D",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF7-V63D",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -394,7 +573,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0805) 7 uF Capacitor (Ceramic) 6.3v"
     ],
@@ -410,6 +588,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/details.csv"
@@ -432,6 +616,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/README.md"
         ]
@@ -442,8 +635,6 @@
     "oompIndex": [
         "V63D"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0805"
     ],
@@ -458,11 +649,7 @@
             "partName": "6.3V 47uF X5R ??20% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

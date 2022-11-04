@@ -1,22 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "D34148"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
     "matchSpecial": [
         [
             [
@@ -41,6 +26,12 @@
         "BASE": [
             "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/details.csv"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/qrCode.png"
+        ],
         "csv": [
             "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/details.csv"
         ],
@@ -59,6 +50,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/DIOD/S323/X/K4184/01/README.md"
         ]
@@ -69,18 +69,10 @@
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "S323"
     ],
     "oompType": [
         "DIOD"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

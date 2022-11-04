@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "R20S"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "2.54 mm 20 Pin Header (SMD)"
     ],
@@ -31,6 +15,18 @@
         "": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/"
         ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/qrCode.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/details.csv"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/details.py"
         ],
@@ -39,6 +35,21 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI20/SM/README.md"
         ]
     },
     "oompID": [
@@ -47,21 +58,14 @@
     "oompIndex": [
         "SM"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "I01"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x20"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

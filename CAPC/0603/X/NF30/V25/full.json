@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -194,23 +191,208 @@
             "dpnKey": "DPN-C-LCSC-C2918485"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C6N30"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B334K250NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B334K250NT",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603F334M250NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603F334M250NT",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X7R1E334KT000N",
+            "MPNKEY": "MPN-C-TDK-C1608X7R1E334KT000N",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX5R8BB334",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX5R8BB334",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX7R8BB334",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX7R8BB334",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603ZRY5V8BB334",
+            "MPNKEY": "MPN-C-YAGEO-CC0603ZRY5V8BB334",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603F334Z250CT",
+            "MPNKEY": "MPN-C-WALSIN-0603F334Z250CT",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603X334K250CT",
+            "MPNKEY": "MPN-C-WALSIN-0603X334K250CT",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10F334ZA8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10F334ZA8NNNC",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCJ188R91E334KA01D",
+            "MPNKEY": "MPN-C-MURATA-GCJ188R91E334KA01D",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E3X7R1E334KT0Y0N",
+            "MPNKEY": "MPN-C-TDK-CGA3E3X7R1E334KT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603JRX7R8BB334",
+            "MPNKEY": "MPN-C-YAGEO-CC0603JRX7R8BB334",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06033D334KAT2A",
+            "MPNKEY": "MPN-C-KYOCER-06033D334KAT2A",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1E334KT000E",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1E334KT000E",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCJ188R91E334MA01J",
+            "MPNKEY": "MPN-C-MURATA-GCJ188R91E334MA01J",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMWHA",
+            "MANUFACTURER": "Samwha Capacitor",
+            "MPN": "CS1608X7R334K250NRB",
+            "MPNKEY": "MPN-C-SAMWHA-CS1608X7R334K250NRB",
+            "OOMPID": "CAPC-0603-X-NF30-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF30-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -406,7 +588,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) 30 nF Capacitor (Ceramic) 25v"
     ],
@@ -422,6 +603,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/details.csv"
@@ -444,6 +631,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/README.md"
         ]
@@ -454,8 +650,6 @@
     "oompIndex": [
         "V25"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -470,11 +664,7 @@
             "partName": "25V 330nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

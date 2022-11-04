@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
-        "H19RS"
+        "R19RS"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "2.54 mm 19 Pin Header Right Angle (SMD)"
     ],
@@ -33,6 +17,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/details.csv"
@@ -52,6 +42,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/RS/README.md"
         ]
@@ -62,21 +61,14 @@
     "oompIndex": [
         "RS"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "I01"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

@@ -7,6 +7,8 @@ Contents
 
 * [MCAT84SC14 > 14 Pin SMD (SOIC) ATTiny 84 MCU](#mcat84sc14--14-pin-smd-soic-attiny-84-mcu)
 	* [OOMP Instances](#oomp-instances)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -26,23 +28,27 @@ NO IMAGE
 | :--- | :--- | :--- |
 |[PROJ-SPAR-11801-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11801/STAN/01/)|[Tiny AVR Programmer](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11801/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11801/STAN/01/)|
 |[PROJ-SPAR-13118-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13118/STAN/01/)|[Servo Trigger](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13118/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13118/STAN/01/)|
-|[PROJ-SPAR-14130-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14130/STAN/01/)|[Roshamglo](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14130/STAN/01/)|[IC1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14130/STAN/01/)|
-|[PROJ-SPAR-15083-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15083/STAN/01/)|[Qwiic Twist](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15083/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15083/STAN/01/)|
-|[PROJ-SPAR-15165-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15165/STAN/01/)|[Qwiic MP3 Trigger](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15165/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15165/STAN/01/)|
-|[PROJ-SPAR-15191-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15191/STAN/01/)|[SparkFun Qwiic RFID ID XXLA](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15191/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15191/STAN/01/)|
 |[PROJ-SPAR-15290-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|[https://github.com/sparkfunX/Qwiic Keypad](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|
-|[PROJ-SPAR-15932-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15932/STAN/01/)|[https://github.com/sparkfunX/Qwiic Button](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15932/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15932/STAN/01/)|
-|[PROJ-SPAR-16328-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16328/STAN/01/)|[SparkFun Auto pHAT](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16328/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16328/STAN/01/)|
-|[PROJ-SPAR-16566-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|[https://github.com/sparkfunX/Qwiic Quad Relay](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|
 |[PROJ-SPAR-16653-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16653/STAN/01/)|[Top pHat](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16653/STAN/01/)|[U5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16653/STAN/01/)|
-|[PROJ-SPAR-16810-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16810/STAN/01/)|[Qwiic Dual Solid State Relay](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16810/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16810/STAN/01/)|
-|[PROJ-SPAR-16833-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16833/STAN/01/)|[Qwiic Quad Solid State Relay](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16833/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16833/STAN/01/)|
 |[PROJ-SPAR-16985-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|[MicroMod Input and Display Carrier](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|[U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|
-|[PROJ-SPAR-17375-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17375/STAN/01/)|[Qwiic PIR](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17375/STAN/01/)|[U4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/17375/STAN/01/)|
-|[PROJ-SPAR-19217-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/19217/STAN/01/)|[Thing Plus Dual Port Logging Shield](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/19217/STAN/01/)|[U3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/19217/STAN/01/)|
+||||
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111714+Pin+SMD+SOIC+ATTiny+84+MCU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/14+Pin+SMD+SOIC+ATTiny+84+MCU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=14+Pin+SMD+SOIC+ATTiny+84+MCU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=14+Pin+SMD+SOIC+ATTiny+84+MCU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=14+Pin+SMD+SOIC+ATTiny+84+MCU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=14+Pin+SMD+SOIC+ATTiny+84+MCU)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
 ||||
   
-NO IMAGES  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/SC14/84/ATTINY/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/SC14/84/ATTINY/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -56,5 +62,6 @@ NO IMAGES
 |Full OOMP ID|oompID|MCUU-SC14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84SC14|
 |name|name|14 Pin SMD (SOIC) ATTiny 84 MCU|
-|OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11801-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-13118-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-14130-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'IC1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-15083-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-15165-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-15191-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-15290-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U1'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-15932-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16328-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16566-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16653-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U5'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16810-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16833-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-16985-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U2'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-17375-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U4'</td></tr></table></td><td> <table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-19217-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'U3'</td></tr></table>|
+|Match Special|matchSpecial|[['ATTINY84,SO14'], 'MCUU-SC14-84-ATTINY-01']|
+|OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-11801-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-13118-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-15290-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-16653-STAN-01</td><td> ID</td></tr><tr><td> U5</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-16985-STAN-01</td><td> ID</td></tr><tr><td> U2</td></tr></table>|
 ||||

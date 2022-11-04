@@ -8,6 +8,8 @@ Contents
 * [T35L13 > 3.5 mm 13 Pin Blue Screw Terminal](#t35l13--35-mm-13-pin-blue-screw-terminal)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -34,6 +36,18 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x13](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/)|[Connector : Screw_Terminal_01x13](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x13/)|
+||||
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11173.5+mm+13+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/3.5+mm+13+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=3.5+mm+13+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=3.5+mm+13+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=3.5+mm+13+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=3.5+mm+13+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
 ||||
   
 NO IMAGES  

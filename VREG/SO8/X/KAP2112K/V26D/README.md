@@ -6,6 +6,8 @@ Contents
 ========
 
 * [VR2112826 > SO-8 AP2112K Voltage Regulator 2.6 v](#vr2112826--so-8-ap2112k-voltage-regulator-26-v)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -17,6 +19,18 @@ NO IMAGE
 - Description: SO-8 AP2112K Voltage Regulator 2.6 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V26D](http://oom.lt/VREG-SO8-X-KAP2112K-V26D)
 - Short Link: [http://oom.lt/VR2112826](http://oom.lt/VR2112826)
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SO-8+AP2112K+Voltage+Regulator+2.6+v)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SO-8+AP2112K+Voltage+Regulator+2.6+v)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SO-8+AP2112K+Voltage+Regulator+2.6+v)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SO-8+AP2112K+Voltage+Regulator+2.6+v)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SO-8+AP2112K+Voltage+Regulator+2.6+v)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SO-8+AP2112K+Voltage+Regulator+2.6+v)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
   
 NO IMAGES  
 ## Tags

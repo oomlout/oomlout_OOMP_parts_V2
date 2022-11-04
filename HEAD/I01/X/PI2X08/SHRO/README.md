@@ -8,6 +8,8 @@ Contents
 * [H2X8SH > 2.54 mm 16 Pin (2x8) Header Shrouded (IDC)](#h2x8sh--254-mm-16-pin-2x8-header-shrouded-idc)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -40,8 +42,23 @@ NO IMAGE
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x08_Top_Bottom/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x08_Top_Bottom/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x08_Top_Bottom/)|[Connector_Generic : Conn_02x08_Top_Bottom](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_02x08_Top_Bottom/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/)|[Connector : Conn_01x16_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x16_Male/)|
 ||||
+
+## Distributor Searches
   
-NO IMAGES  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11172.54+mm+16+Pin+2x8+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/2.54+mm+16+Pin+2x8+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=2.54+mm+16+Pin+2x8+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=2.54+mm+16+Pin+2x8+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=2.54+mm+16+Pin+2x8+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=2.54+mm+16+Pin+2x8+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+||||
+  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/I01/X/PI2X08/SHRO/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/I01/X/PI2X08/SHRO/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 
@@ -56,5 +73,5 @@ NO IMAGES
 |Hex ID (short code)|hexID|H2X8SH|
 |name|name|2.54 mm 16 Pin (2x8) Header Shrouded (IDC)|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x08_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Odd_Even', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_First', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_Last', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Counter_Clockwise', 'SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom', 'SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male'|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x08_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male|
 ||||

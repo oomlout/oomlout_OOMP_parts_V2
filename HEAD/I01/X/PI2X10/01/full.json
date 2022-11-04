@@ -1,25 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x10_P2.54mm_Vertical"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
-        "H2X10"
+        "R2X10"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "2.54 mm 20 Pin (2x10) Header"
     ],
@@ -35,6 +20,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/details.csv"
@@ -53,6 +44,15 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/README.md"
@@ -90,17 +90,12 @@
             "PROJECT": "PROJ-SPAR-9352-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "I01"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Odd_Even",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Row_Letter_First",
@@ -108,6 +103,5 @@
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Counter_Clockwise",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x10_Top_Bottom",
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x20_Male"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,10 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
     "footprintEagle": [
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
@@ -13,21 +7,13 @@
         "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
         "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
     ],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric",
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "L0805LL"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "SMD (0805) Blue LED"
     ],
@@ -43,6 +29,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/details.csv"
@@ -61,6 +53,12 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/README.md"
@@ -162,19 +160,13 @@
             "PROJECT": "PROJ-ADAF-3027-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "0805"
     ],
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -166,23 +163,190 @@
             "dpnKey": "DPN-C-LCSC-C2839440"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C4U1063D"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05A106MQ5NUNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05A106MQ5NUNC",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R60J106ME44D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R60J106ME44D",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "JMK105CBJ106MV-F",
+            "MPNKEY": "MPN-C-TAIYOY-JMK105CBJ106MV-F",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402MRX5R5BB106",
+            "MPNKEY": "MPN-C-YAGEO-CC0402MRX5R5BB106",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402X106M6R3CT",
+            "MPNKEY": "MPN-C-WALSIN-0402X106M6R3CT",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402X106M6R3NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402X106M6R3NT",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155C80J106ME11D",
+            "MPNKEY": "MPN-C-MURATA-GRM155C80J106ME11D",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05A106MQ8NUB8",
+            "MPNKEY": "MPN-C-SAMSUN-CL05A106MQ8NUB8",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R60J106ME15D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R60J106ME15D",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R60J106ME11D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R60J106ME11D",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "CT05X5R106M06AH055",
+            "MPNKEY": "MPN-C-KYOCER-CT05X5R106M06AH055",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FS15B106M6R3PKG",
+            "MPNKEY": "MPN-C-PSAPRO-FS15B106M6R3PKG",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM155R60J106ME05D",
+            "MPNKEY": "MPN-C-MURATA-GRM155R60J106ME05D",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05A106MQ5NUNZ",
+            "MPNKEY": "MPN-C-SAMSUN-CL05A106MQ5NUNZ",
+            "OOMPID": "CAPC-0402-X-UF10-V63D",
+            "OOMPIDPARTIAL": "CAPC-0402-X-UF10-V63D",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -360,7 +524,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0402) 10 uF Capacitor (Ceramic) 6.3v"
     ],
@@ -376,6 +539,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/details.csv"
@@ -400,6 +569,15 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/UF10/V63D/README.md"
@@ -509,7 +687,6 @@
             "PROJECT": "PROJ-SPAR-19921-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "0402"
     ],
@@ -524,11 +701,7 @@
             "partName": "6.3V 10uF X5R ??20% 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

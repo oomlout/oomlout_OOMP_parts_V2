@@ -1,0 +1,63 @@
+{
+    "distributorPartNumber": [
+        {
+            "code": "C-LCSC",
+            "name": "LCSC",
+            "partID": "C23140"
+        }
+    ],
+    "hexID": [
+        "R6O330"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "UNI-ROYAL(Uniroyal Elec)",
+            "partID": "0603WAF330JT5E",
+            "partName": "0603WAF330JT5E"
+        }
+    ],
+    "name": [
+        "SMD (0603) 33 Ohm Resistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "O330"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O330/01/"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O330/01/details.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O330/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O330/01/full.json"
+        ]
+    },
+    "oompID": [
+        "RESE-0603-X-O330-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "0603"
+    ],
+    "oompType": [
+        "RESE"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C23140",
+            "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 33?? 0603  Chip Resistor - Surface Mount ROHS"
+        }
+    ]
+}

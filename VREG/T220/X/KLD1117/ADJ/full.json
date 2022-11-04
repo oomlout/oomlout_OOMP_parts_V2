@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "VR1117220AJ"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "TO-220 LD1117 Voltage Regulator"
     ],
@@ -36,6 +20,9 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/full.json"
         ]
     },
     "oompID": [
@@ -44,18 +31,10 @@
     "oompIndex": [
         "ADJ"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "T220"
     ],
     "oompType": [
         "VREG"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

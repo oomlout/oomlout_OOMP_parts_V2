@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -16,23 +13,27 @@
             "dpnKey": "DPN-C-LCSC-C72043"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "L6G"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EVERLI",
+            "MANUFACTURER": "Everlight Elec",
+            "MPN": "19-217/GHC-YR1S2/3T",
+            "MPNKEY": "MPN-C-EVERLI-19-217/GHC-YR1S2/3T",
+            "OOMPID": "LEDS-0603-G-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0603-G-STAN-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -47,7 +48,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) Green LED"
     ],
@@ -63,6 +63,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/details.csv"
@@ -87,6 +93,12 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/README.md"
@@ -1136,7 +1148,6 @@
             "PROJECT": "PROJ-SPAR-9954-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -1151,11 +1162,7 @@
             "partName": "20mA 285mcd 3.3V 518nm Colorless transparence -40??~+85?? 520nm~535nm Emerald 120?? 110mW 0603  Light Emitting Diodes (LED) ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

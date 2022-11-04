@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -150,23 +147,160 @@
             "dpnKey": "DPN-C-LCSC-C2922482"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C6U10"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1E106MT000E",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1E106MT000E",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61E106MA73D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61E106MA73D",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A106MA8NRNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A106MA8NRNC",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61E106KA73D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61E106KA73D",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "TMK107BBJ106MA-T",
+            "MPNKEY": "MPN-C-TAIYOY-TMK107BBJ106MA-T",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0603X5R106M250NT",
+            "MPNKEY": "MPN-C-SANYEA-C0603X5R106M250NT",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603X106M250NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603X106M250NT",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603MRX5R8BB106",
+            "MPNKEY": "MPN-C-YAGEO-CC0603MRX5R8BB106",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRT188R61E106ME13D",
+            "MPNKEY": "MPN-C-MURATA-GRT188R61E106ME13D",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0603X5R106K250NT",
+            "MPNKEY": "MPN-C-SANYEA-C0603X5R106K250NT",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1E106M080AC",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1E106M080AC",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R61E106KA73J",
+            "MPNKEY": "MPN-C-MURATA-GRM188R61E106KA73J",
+            "OOMPID": "CAPC-0603-X-UF10-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-UF10-V25",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -314,7 +448,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) 10 uF Capacitor (Ceramic) 25v"
     ],
@@ -330,6 +463,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/details.csv"
@@ -352,6 +491,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V25/README.md"
         ]
@@ -362,8 +510,6 @@
     "oompIndex": [
         "V25"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -378,11 +524,7 @@
             "partName": "25V 10uF X5R ??20% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

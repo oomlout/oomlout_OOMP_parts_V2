@@ -9,6 +9,8 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
+	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -43,6 +45,18 @@ NO IMAGE
 |Project ID|Project Name|Parts|
 | :--- | :--- | :--- |
 |[PROJ-ADAF-0196-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0196/STAN/01/)|[Adafruit Proto Screwshield PCB](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0196/STAN/01/)|[JP1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/ADAF/0196/STAN/01/)|
+||||
+
+## Distributor Searches
+  
+Links to search for this item (using OOMP name) at various distributors  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11173.5+mm+6+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/3.5+mm+6+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=3.5+mm+6+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=3.5+mm+6+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=3.5+mm+6+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=3.5+mm+6+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 0  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
 ||||
   
 NO IMAGES  

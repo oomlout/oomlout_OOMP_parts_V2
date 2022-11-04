@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -160,23 +157,184 @@
             "dpnKey": "DPN-C-LCSC-C2310915"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C12U710"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "1206F476M100NT",
+            "MPNKEY": "MPN-C-FHGUAN-1206F476M100NT",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "LMK316BJ476ML-T",
+            "MPNKEY": "MPN-C-TAIYOY-LMK316BJ476ML-T",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM31CR61A476ME15L",
+            "MPNKEY": "MPN-C-MURATA-GRM31CR61A476ME15L",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL31A476MPHNNNE",
+            "MPNKEY": "MPN-C-SAMSUN-CL31A476MPHNNNE",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "1206X476M100NT",
+            "MPNKEY": "MPN-C-FHGUAN-1206X476M100NT",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "LMK316ABJ476ML-T",
+            "MPNKEY": "MPN-C-TAIYOY-LMK316ABJ476ML-T",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C3216X5R1A476MTJ00N",
+            "MPNKEY": "MPN-C-TDK-C3216X5R1A476MTJ00N",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM31CR61A476KE15L",
+            "MPNKEY": "MPN-C-MURATA-GRM31CR61A476KE15L",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C3216X6S1A476MTJ00E",
+            "MPNKEY": "MPN-C-TDK-C3216X6S1A476MTJ00E",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM31CC81A476ME44L",
+            "MPNKEY": "MPN-C-MURATA-GRM31CC81A476ME44L",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC1206MKX5R6BB476",
+            "MPNKEY": "MPN-C-YAGEO-CC1206MKX5R6BB476",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C1206C476M8PAC7800",
+            "MPNKEY": "MPN-C-KEMET-C1206C476M8PAC7800",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C1206C275M8RACTU",
+            "MPNKEY": "MPN-C-KEMET-C1206C275M8RACTU",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM31CR61A476KE15K",
+            "MPNKEY": "MPN-C-MURATA-GRM31CR61A476KE15K",
+            "OOMPID": "CAPC-1206-X-UF7-V10",
+            "OOMPIDPARTIAL": "CAPC-1206-X-UF7-V10",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -348,7 +506,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (1206) 7 uF Capacitor (Ceramic) 10v"
     ],
@@ -364,6 +521,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/details.csv"
@@ -386,6 +549,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/README.md"
         ]
@@ -396,8 +568,6 @@
     "oompIndex": [
         "V10"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "1206"
     ],
@@ -412,11 +582,7 @@
             "partName": "10V 47uF X5R ??20% 1206  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

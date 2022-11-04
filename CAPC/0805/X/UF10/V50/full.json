@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -48,8 +45,6 @@
             "dpnKey": "DPN-C-LCSC-C2932476"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
     "footprintEagle": [
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
@@ -59,20 +54,62 @@
         "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
         "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
     ],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C8U10"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM21BR61H106KE43L",
+            "MPNKEY": "MPN-C-MURATA-GRM21BR61H106KE43L",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SANYEA",
+            "MANUFACTURER": "SANYEAR",
+            "MPN": "C0805X5R106K500NT",
+            "MPNKEY": "MPN-C-SANYEA-C0805X5R106K500NT",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM21BR61H106ME43L",
+            "MPNKEY": "MPN-C-MURATA-GRM21BR61H106ME43L",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL21A106KBYQNNE",
+            "MPNKEY": "MPN-C-SAMSUN-CL21A106KBYQNNE",
+            "OOMPID": "CAPC-0805-X-UF10-V50",
+            "OOMPIDPARTIAL": "CAPC-0805-X-UF10-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -122,7 +159,6 @@
             ]
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0805) 10 uF Capacitor (Ceramic) 50v"
     ],
@@ -138,6 +174,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/details.csv"
@@ -160,6 +202,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0805/X/UF10/V50/README.md"
         ]
@@ -170,8 +221,6 @@
     "oompIndex": [
         "V50"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0805"
     ],
@@ -186,11 +235,7 @@
             "partName": "50V 10uF X5R ??10% 0805  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

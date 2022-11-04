@@ -1,25 +1,10 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x02_P2.54mm_Vertical"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "R02"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "2.54 mm 2 Pin Header"
     ],
@@ -35,6 +20,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/details.csv"
@@ -59,6 +50,15 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/README.md"
@@ -2144,20 +2144,14 @@
             "PROJECT": "PROJ-SPAR-9825-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "I01"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "SEN345"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor"
     ],
@@ -74,23 +58,7 @@
     "oompInstances": [
         {
             "ID": "U1",
-            "PROJECT": "PROJ-ADAF-1231-STAN-01"
-        },
-        {
-            "ID": "U1",
             "PROJECT": "PROJ-ADAF-1231-STAN-0A"
-        },
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-ADAF-1231-STAN-0C"
-        },
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-ADAF-4097-STAN-01"
-        },
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-ADAF-5374-STAN-01"
         },
         {
             "ID": "U1",
@@ -109,17 +77,10 @@
             "PROJECT": "PROJ-SPAR-9836-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "LG14"
     ],
     "oompType": [
         "SENS"
-    ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
-    "symbolKicad": [],
-    "symbolKicadDetails": []
+    ]
 }

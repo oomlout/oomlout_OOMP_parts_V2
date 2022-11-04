@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -4022,23 +4019,4371 @@
             "dpnKey": "DPN-C-LCSC-C2941936"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C4P5"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG150J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG150J500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG1R2C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG1R2C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG1R8C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG1R8C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG250J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG250J500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG2R0C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG2R0C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG2R5C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG2R5C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG2R7C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG2R7C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG3R9C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG3R9C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG5R0C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG5R0C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG5R6C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG5R6C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG6R8C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG6R8C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG7R0C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG7R0C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG8R2C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG8R2C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG9R0C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG9R0C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C020CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C020CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG750J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG750J500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG0R8C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG0R8C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG6R2C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG6R2C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG7R5C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG7R5C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C3R9CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C3R9CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG3R6C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG3R6C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R2WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R2WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R8WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R8WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR20WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR20WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR75WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR75WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H150JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H150JA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H1R2CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H1R2CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H2R0CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H2R0CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H2R7CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H2R7CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H6R8CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H6R8CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H8R0CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H8R0CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H8R2CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H8R2CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H1R8CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H1R8CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H6R2CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H6R2CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CGR75C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CGR75C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R2CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R2CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R8CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R8CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H2R0CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H2R0CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H3R6CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H3R6CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H9R0CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H9R0CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H3R9CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H3R9CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H5R6CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H5R6CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C150JB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C150JB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H150JB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H150JB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R6WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R6WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H2R0WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H2R0WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H2R7WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H2R7WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H3R9WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H3R9WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H5R6CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H5R6CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H6R8CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H6R8CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H8R2CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H8R2CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR80WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR80WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H1R2WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H1R2WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H3R9WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H3R9WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H5R0CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H5R0CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H7R0CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H7R0CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402JRNPO9BN150",
+            "MPNKEY": "MPN-C-YAGEO-CC0402JRNPO9BN150",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402JRNPO9BN750",
+            "MPNKEY": "MPN-C-YAGEO-CC0402JRNPO9BN750",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR56",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR56",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G0R8C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G0R8C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G150J500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G150J500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G1R2C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G1R2C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G2R0C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G2R0C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G3R6C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G3R6C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G6R8C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G6R8C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G750J500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G750J500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0GR75C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0GR75C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H3R9CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H3R9CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H5R0CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H5R0CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H9R0CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H9R0CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1HR75CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1HR75CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN5R0",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN5R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN8R0",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN8R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G8R2C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G8R2C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G5R6C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G5R6C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G150G500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G150G500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C129C5GAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C129C5GAC7867",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0129CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0129CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0189CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0189CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0209CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0209CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0279CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0279CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0399CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0399CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0909CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0909CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0150JGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0150JGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C1R2CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C1R2CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H150JA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H150JA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H1R8CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H1R8CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H2R5CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H2R5CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H5R6CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H5R6CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H8R0CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H8R0CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R6CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R6CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H3R2WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H3R2WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H3R6WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H3R6WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H6R0CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H6R0CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H7R5WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H7R5WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR90WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR90WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1552C1H1R8CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1552C1H1R8CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1552C1H2R0CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1552C1H2R0CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1552C1H6R8CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1552C1H6R8CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1552C1H8R2CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1552C1H8R2CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H2R5CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H2R5CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H3R5WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H3R5WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H3R6WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H3R6WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H4R2CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H4R2CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H6R0CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H6R0CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1HR20WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1HR20WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1HR70WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1HR70WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1HR80WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1HR80WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1HR90WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1HR90WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A8R2CAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A8R2CAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N3R9C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N3R9C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N1R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N1R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N8R2C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N8R2C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N6R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N6R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N2R7C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N2R7C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N0R8A500",
+            "MPNKEY": "MPN-C-WALSIN-RF15N0R8A500",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N1R8A500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N1R8A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N2R7A500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N2R7A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N1R2A500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N1R2A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N9R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N9R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G150K500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G150K500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN6R8",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN6R8",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1HR75CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1HR75CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H9R7CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H9R7CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H3R9CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H3R9CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1552C1H9R0CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1552C1H9R0CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0808CGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0808CGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0129CGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0129CGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0189CGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0189CGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0279CGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0279CGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0399CGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0399CGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN6R2",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN6R2",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN8R2",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN8R2",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0208CGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0208CGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN5R6",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN5R6",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN1R8",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN1R8",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN2R7",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN2R7",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN1R2",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN1R2",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR68",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR68",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN3R9",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN3R9",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN9R0",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN9R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG0R7C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG0R7C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG150K500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG150K500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG150F500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG150F500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402HQ150J500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402HQ150J500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402HQ8R2C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402HQ8R2C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N0R2C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N0R2C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N150K500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N150K500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N1R8A500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N1R8A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N250J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N250J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N2R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N2R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N2R7C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N2R7C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N3R6C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N3R6C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N6R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N6R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N7R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N7R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N7R5C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N7R5C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N8R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N8R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N8R2C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N8R2C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N9R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N9R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N1R2A500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N1R2A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N1R2C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N1R2C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N1R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N1R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N2R0A500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N2R0A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402NR75C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402NR75C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15NR75C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15NR75C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C150JB51PNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C150JB51PNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C1R8CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C1R8CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C3R6CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C3R6CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CH750JV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CH750JV-F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CH8R5CV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CH8R5CV-F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0828CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0828CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0808CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0808CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0758CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0758CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0208AGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0208AGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0150KGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0150KGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N5R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N5R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G100C500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G100C500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C050CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C050CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C080CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C080CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C090CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C090CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C100CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C100CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C2R7CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C2R7CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C5R6CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C5R6CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C6R8CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C6R8CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C8R2CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C8R2CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05CR75CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05CR75CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C6R2CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C6R2CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C060CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C060CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL05C070CB5NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL05C070CB5NNNC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15N6R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15N6R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15N5R6C500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15N5R6C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15N5R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15N5R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15N3R9C500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15N3R9C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15N150J500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15N150J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN2R0",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN2R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR75",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR75",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR80",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR80",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402GRNPO9BN150",
+            "MPNKEY": "MPN-C-YAGEO-CC0402GRNPO9BN150",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CQ0402ARNPO9BN1R2",
+            "MPNKEY": "MPN-C-YAGEO-CQ0402ARNPO9BN1R2",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CQ0402ARNPO9BN2R0",
+            "MPNKEY": "MPN-C-YAGEO-CQ0402ARNPO9BN2R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CQ0402ARNPO9BNR20",
+            "MPNKEY": "MPN-C-YAGEO-CQ0402ARNPO9BNR20",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CQ0402ARNPO9BNR80",
+            "MPNKEY": "MPN-C-YAGEO-CQ0402ARNPO9BNR80",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CQ0402CRNPO9BN6R8",
+            "MPNKEY": "MPN-C-YAGEO-CQ0402CRNPO9BN6R8",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402FRNPO9BN150",
+            "MPNKEY": "MPN-C-YAGEO-CC0402FRNPO9BN150",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402CRNPO9BN9R0",
+            "MPNKEY": "MPN-C-YAGEO-AC0402CRNPO9BN9R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN3R6",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN3R6",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MG15N150J500CT",
+            "MPNKEY": "MPN-C-WALSIN-MG15N150J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "MT15N8R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-MT15N8R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B2C0G1H150JT0Y0F",
+            "MPNKEY": "MPN-C-TDK-CGA2B2C0G1H150JT0Y0F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N3R9C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N3R9C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B2C0G1H020CT0Y0F",
+            "MPNKEY": "MPN-C-TDK-CGA2B2C0G1H020CT0Y0F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA2B2C0G1H050CT0Y0F",
+            "MPNKEY": "MPN-C-TDK-CGA2B2C0G1H050CT0Y0F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR70CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR70CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0509CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0509CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N1R2C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N1R2C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N1R8C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N1R8C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N5R0C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N5R0C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N7R0C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N7R0C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H6R0CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H6R0CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H7R0CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H7R0CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A3R6CAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A3R6CAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025U8R2CAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025U8R2CAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NPO150JGT",
+            "MPNKEY": "MPN-C-DARFON-C1005NPO150JGT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N5R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N5R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N150J500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N150J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG020CV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG020CV-F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG150JV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG150JV-F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG2R7CV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG2R7CV-F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "UMK105CG3R9CV-F",
+            "MPNKEY": "MPN-C-TAIYOY-UMK105CG3R9CV-F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N0R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N0R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N100C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N100C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N150G500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N150G500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N150J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N150J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N2R5C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N2R5C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N5R6C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N5R6C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H3R6CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H3R6CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H8R2CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H8R2CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N150F500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N150F500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "HH15N0R8C500CT",
+            "MPNKEY": "MPN-C-WALSIN-HH15N0R8C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "HH15N150G500CT",
+            "MPNKEY": "MPN-C-WALSIN-HH15N150G500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N0R2A500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N0R2A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N2R0A500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N2R0A500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N2R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N2R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N5R6C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N5R6C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N6R8C500CTNB",
+            "MPNKEY": "MPN-C-WALSIN-RF15N6R8C500CTNB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "SH15N150J500CT",
+            "MPNKEY": "MPN-C-WALSIN-SH15N150J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR70WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR70WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H7R5CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H7R5CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H6R2CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H6R2CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N750J500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N750J500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H1R2CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H1R2CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H2R0CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H2R0CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JOHANS",
+            "MANUFACTURER": "Johanson Dielectrics",
+            "MPN": "500R07N150JV4T",
+            "MPNKEY": "MPN-C-JOHANS-500R07N150JV4T",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H9R2CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H9R2CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H150FB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H150FB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1HR90CA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1HR90CA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402C0G1R2C500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402C0G1R2C500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "RF15N100C500CT",
+            "MPNKEY": "MPN-C-WALSIN-RF15N100C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H1R7WB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H1R7WB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1552C1H150JA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1552C1H150JA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H5R0CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H5R0CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG150G500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG150G500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG3R5C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG3R5C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CG4R5C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CG4R5C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0402CGR25C500NT",
+            "MPNKEY": "MPN-C-FHGUAN-0402CGR25C500NT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN7R5",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN7R5",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A150JAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A150JAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V1R8C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V1R8C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V150J0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V150J0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V2R7C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V2R7C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V8R2C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V8R2C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V9R0C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V9R0C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NPO809CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NPO809CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0369CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0369CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H020CT000F",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H020CT000F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H3R9CT000F",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H3R9CT000F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM1555C1H2R0WA01D",
+            "MPNKEY": "MPN-C-MURATA-GRM1555C1H2R0WA01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N150J500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N150J500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N2R7C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N2R7C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N3R9C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N3R9C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN15N5R6C500PNG",
+            "MPNKEY": "MPN-C-PSAPRO-FN15N5R6C500PNG",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN100",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN100",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR47",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR47",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR82",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR82",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN1R6",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN1R6",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN2R5",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN2R5",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN3R5",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN3R5",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BNR70",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BNR70",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402JRNPO9BN250",
+            "MPNKEY": "MPN-C-YAGEO-CC0402JRNPO9BN250",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402GRNPO9BN750",
+            "MPNKEY": "MPN-C-YAGEO-CC0402GRNPO9BN750",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N1R6C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N1R6C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N6R0C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N6R0C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A150GAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A150GAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A1R8CAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A1R8CAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A5R6CAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A5R6CAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "04025A6R8CAT2A",
+            "MPNKEY": "MPN-C-KYOCER-04025A6R8CAT2A",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C150J5GAC",
+            "MPNKEY": "MPN-C-KEMET-C0402C150J5GAC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C150K5GAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C150K5GAC7867",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C569C5GAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C569C5GAC7867",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C689C5GACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0402C689C5GACAUTO",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C829C5GAC7867",
+            "MPNKEY": "MPN-C-KEMET-C0402C829C5GAC7867",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V5R6C0402COG500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V5R6C0402COG500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V0R8C0402COG500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V0R8C0402COG500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "VR75C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-VR75C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V0R9C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V0R9C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V1R2C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V1R2C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V2R0C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V2R0C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V3R6C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V3R6C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V3R9C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V3R9C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V5R0C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V5R0C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V6R8C0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V6R8C0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIIYON",
+            "MANUFACTURER": "VIIYONG",
+            "MPN": "V750J0402C0G500NBT",
+            "MPNKEY": "MPN-C-VIIYON-V750J0402C0G500NBT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H100CT000F",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H100CT000F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1005C0G1H150JT000F",
+            "MPNKEY": "MPN-C-TDK-C1005C0G1H150JT000F",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG6R0C500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG6R0C500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG3R9C500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG3R9C500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG2R7C500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG2R7C500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG2R0C500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG2R0C500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG150K500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG150K500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG250K500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG250K500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG250J500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG250J500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0402CRNPO9BN6R0",
+            "MPNKEY": "MPN-C-YAGEO-CC0402CRNPO9BN6R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402CRNPO9BN1R8",
+            "MPNKEY": "MPN-C-YAGEO-AC0402CRNPO9BN1R8",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-DARFON",
+            "MANUFACTURER": "Darfon Elec",
+            "MPN": "C1005NP0829CGTS",
+            "MPNKEY": "MPN-C-DARFON-C1005NP0829CGTS",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402CRNPO9BN1R2",
+            "MPNKEY": "MPN-C-YAGEO-AC0402CRNPO9BN1R2",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402CRNPO9BN2R7",
+            "MPNKEY": "MPN-C-YAGEO-AC0402CRNPO9BN2R7",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402CRNPO9BN5R0",
+            "MPNKEY": "MPN-C-YAGEO-AC0402CRNPO9BN5R0",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402CRNPO9BN6R8",
+            "MPNKEY": "MPN-C-YAGEO-AC0402CRNPO9BN6R8",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EYANGS",
+            "MANUFACTURER": "EYANG(Shenzhen Eyang Tech Development)",
+            "MPN": "C0402C0G6R2A500NTB",
+            "MPNKEY": "MPN-C-EYANGS-C0402C0G6R2A500NTB",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0402COG5R0C500AT",
+            "MPNKEY": "MPN-C-CCTC-TCC0402COG5R0C500AT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C129C5HACAUTO",
+            "MPNKEY": "MPN-C-KEMET-C0402C129C5HACAUTO",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A150KLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A150KLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A150JLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A150JLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A150GLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A150GLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A5R6CLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A5R6CLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A1R2CLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A1R2CLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A2R7CLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A2R7CLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A6R8CLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A6R8CLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A3R9CLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A3R9CLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A150FLAAJ32",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A150FLAAJ32",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H1R6WA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H1R6WA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1HR90WA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1HR90WA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR70CB01J",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR70CB01J",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1HR80CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1HR80CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H3R6CB01J",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H3R6CB01J",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GJM1555C1H6R5CB01D",
+            "MPNKEY": "MPN-C-MURATA-GJM1555C1H6R5CB01D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0402FRNPO9BN150",
+            "MPNKEY": "MPN-C-YAGEO-AC0402FRNPO9BN150",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CQ0402ARNPO9BNR70",
+            "MPNKEY": "MPN-C-YAGEO-CQ0402ARNPO9BNR70",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402A150JXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402A150JXAAP",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C100C5GALTU",
+            "MPNKEY": "MPN-C-KEMET-C0402C100C5GALTU",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R6CXAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R6CXAAC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R9CXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R9CXAAJ",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R6CLAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R6CLAAP",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R9CLAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R9CLAAP",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R9CLAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R9CLAAC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R9CLAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R9CLAAJ",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R6CXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R6CXAAP",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D3R6CXAAJ",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D3R6CXAAJ",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KEMET",
+            "MANUFACTURER": "KEMET",
+            "MPN": "C0402C180C5GACTU",
+            "MPNKEY": "MPN-C-KEMET-C0402C180C5GACTU",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D150FLAAC",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D150FLAAC",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "VJ0402D150FXAAP",
+            "MPNKEY": "MPN-C-VISHAY-VJ0402D150FXAAP",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0402N6R2C500CT",
+            "MPNKEY": "MPN-C-WALSIN-0402N6R2C500CT",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM1555C1H4R9CA16D",
+            "MPNKEY": "MPN-C-MURATA-GCM1555C1H4R9CA16D",
+            "OOMPID": "CAPC-0402-X-PF5-V50",
+            "OOMPIDPARTIAL": "CAPC-0402-X-PF5-V50",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -8397,7 +12742,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0402) 5 pF Capacitor (Ceramic) 50v"
     ],
@@ -8413,6 +12757,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/details.csv"
@@ -8435,6 +12785,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0402/X/PF5/V50/README.md"
         ]
@@ -8445,8 +12804,6 @@
     "oompIndex": [
         "V50"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0402"
     ],
@@ -8461,11 +12818,7 @@
             "partName": "50V 6.8pF C0G ??0.25pF 0402  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

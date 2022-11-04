@@ -1,24 +1,22 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "HSH4"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JSTSAL",
+            "MANUFACTURER": "Japan Solderless Terminals",
+            "MPN": "BM04B-SRSS-TB",
+            "MPNKEY": "MPN-C-JSTSAL-BM04B-SRSS-TB",
+            "OOMPID": "HEAD-JSTSH-X-PI04-SM",
+            "OOMPIDPARTIAL": "HEAD-JSTSH-X-PI04-SM",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -31,7 +29,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "JST SH (1 mm) 4 Pin Header (SMD)"
     ],
@@ -47,6 +44,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/details.csv"
@@ -69,8 +72,14 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM//labelInventory.pdf"
+        ],
         "mpnList": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/SM/README.md"
@@ -82,21 +91,14 @@
     "oompIndex": [
         "SM"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "JSTSH"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

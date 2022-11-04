@@ -1,27 +1,12 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "RSH15R"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
         {
             "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
         }
     ],
-    "matchSpecial": [],
     "name": [
         "JST SH (1 mm) 15 Pin Header Right Angle"
     ],
@@ -35,6 +20,18 @@
         "": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/"
         ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/qrCode.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/details.csv"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/details.py"
         ],
@@ -43,6 +40,15 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/RA/qrCode.png"
         ]
     },
     "oompID": [
@@ -51,21 +57,14 @@
     "oompIndex": [
         "RA"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "JSTSH"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

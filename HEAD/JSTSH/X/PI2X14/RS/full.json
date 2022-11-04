@@ -1,23 +1,7 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
-    "footprintKicad": [],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "RSH2X14RS"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "JST SH (1 mm) 28 Pin (2x14) Header Right Angle (SMD)"
     ],
@@ -31,6 +15,18 @@
         "": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/"
         ],
+        "BASE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/qrCode.png"
+        ],
+        "csv": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/details.csv"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/details.py"
         ],
@@ -39,6 +35,15 @@
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/RS/qrCode.png"
         ]
     },
     "oompID": [
@@ -47,18 +52,12 @@
     "oompIndex": [
         "RS"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "JSTSH"
     ],
     "oompType": [
         "HEAD"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Odd_Even",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Row_Letter_First",
@@ -66,6 +65,5 @@
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Counter_Clockwise",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x14_Top_Bottom",
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x28_Male"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

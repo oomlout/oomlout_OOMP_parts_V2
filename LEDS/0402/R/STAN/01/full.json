@@ -1,26 +1,11 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
-    "distributorPartNumber": [],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "L4RR"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
-    "manufacturerPartNumber": [],
-    "matchSpecial": [],
     "name": [
         "SMD (0402) Red LED"
     ],
@@ -36,6 +21,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/details.csv"
@@ -54,6 +45,12 @@
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01//labelInventory.pdf"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/README.md"
@@ -79,19 +76,13 @@
             "PROJECT": "PROJ-SPAR-20170-STAN-01"
         }
     ],
-    "oompParts": [],
     "oompSize": [
         "0402"
     ],
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"
-    ],
-    "symbolKicadDetails": []
+    ]
 }

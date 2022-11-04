@@ -1,7 +1,4 @@
 {
-    "code": [],
-    "collection": [],
-    "description": [],
     "distributorPartNumber": [
         {
             "DISTRCODE": "C-LCSC",
@@ -314,23 +311,352 @@
             "dpnKey": "DPN-C-LCSC-C2176484"
         }
     ],
-    "eagleBoard": [],
-    "eagleSchem": [],
-    "footprintEagle": [],
-    "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
     ],
-    "footprintKicadDetails": [],
-    "gitName": [],
-    "gitRepo": [],
     "hexID": [
         "C6N70"
     ],
-    "kicadBoard": [],
-    "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B474KA8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B474KA8NNNC",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188R71E474KA12D",
+            "MPNKEY": "MPN-C-MURATA-GRM188R71E474KA12D",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KYOCER",
+            "MANUFACTURER": "Kyocera AVX",
+            "MPN": "06033C474KAT2A",
+            "MPNKEY": "MPN-C-KYOCER-06033C474KAT2A",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GRM188B31E474KA75D",
+            "MPNKEY": "MPN-C-MURATA-GRM188B31E474KA75D",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX5R8BB474",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX5R8BB474",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603B474K250CT",
+            "MPNKEY": "MPN-C-WALSIN-0603B474K250CT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603F474Z250",
+            "MPNKEY": "MPN-C-WALSIN-0603F474Z250",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603X474K250CT",
+            "MPNKEY": "MPN-C-WALSIN-0603X474K250CT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCM188R71E474KA64D",
+            "MPNKEY": "MPN-C-MURATA-GCM188R71E474KA64D",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603B474K250NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603B474K250NT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "0603F474M250NT",
+            "MPNKEY": "MPN-C-FHGUAN-0603F474M250NT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10A474KA8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10A474KA8NNNC",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B474KA8NFNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B474KA8NFNC",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10F474ZA8NNNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10F474ZA8NNNC",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603KRX7R8BB474",
+            "MPNKEY": "MPN-C-YAGEO-CC0603KRX7R8BB474",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603ZRY5V8BB474",
+            "MPNKEY": "MPN-C-YAGEO-CC0603ZRY5V8BB474",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X5R1E474KT000E",
+            "MPNKEY": "MPN-C-TDK-C1608X5R1E474KT000E",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "CGA3E3X7R1E474KT0Y0N",
+            "MPNKEY": "MPN-C-TDK-CGA3E3X7R1E474KT0Y0N",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-CCTC",
+            "MANUFACTURER": "CCTC",
+            "MPN": "TCC0603X7R474K250CT",
+            "MPNKEY": "MPN-C-CCTC-TCC0603X7R474K250CT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603F474M250CT",
+            "MPNKEY": "MPN-C-WALSIN-0603F474M250CT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "0603B274K250CT",
+            "MPNKEY": "MPN-C-WALSIN-0603B274K250CT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PSAPRO",
+            "MANUFACTURER": "PSA(Prosperity Dielectrics)",
+            "MPN": "FN18X474K250PBG",
+            "MPNKEY": "MPN-C-PSAPRO-FN18X474K250PBG",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SAMSUN",
+            "MANUFACTURER": "Samsung Electro-Mechanics",
+            "MPN": "CL10B474KA8VPNC",
+            "MPNKEY": "MPN-C-SAMSUN-CL10B474KA8VPNC",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "CC0603JRX7R8BB474",
+            "MPNKEY": "MPN-C-YAGEO-CC0603JRX7R8BB474",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAIYOY",
+            "MANUFACTURER": "Taiyo Yuden",
+            "MPN": "TMK107B7474KAHT",
+            "MPNKEY": "MPN-C-TAIYOY-TMK107B7474KAHT",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TDK",
+            "MANUFACTURER": "TDK",
+            "MPN": "C1608X7R1E474KT000N",
+            "MPNKEY": "MPN-C-TDK-C1608X7R1E474KT000N",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-MURATA",
+            "MANUFACTURER": "Murata Electronics",
+            "MPN": "GCJ188R91E474KA01D",
+            "MPNKEY": "MPN-C-MURATA-GCJ188R91E474KA01D",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WURTHE",
+            "MANUFACTURER": "Wurth Elektronik",
+            "MPN": "885012206075",
+            "MPNKEY": "MPN-C-WURTHE-885012206075",
+            "OOMPID": "CAPC-0603-X-NF70-V25",
+            "OOMPIDPARTIAL": "CAPC-0603-X-NF70-V25",
+            "TAGS": []
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -670,7 +996,6 @@
             "TAGS": []
         }
     ],
-    "matchSpecial": [],
     "name": [
         "SMD (0603) 70 nF Capacitor (Ceramic) 25v"
     ],
@@ -686,6 +1011,12 @@
         ],
         "BASE": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/details.csv"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/details.csv"
@@ -708,6 +1039,15 @@
         "jsonFull": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/full.json"
         ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/CAPC/0603/X/NF70/V25/README.md"
         ]
@@ -718,8 +1058,6 @@
     "oompIndex": [
         "V25"
     ],
-    "oompInstances": [],
-    "oompParts": [],
     "oompSize": [
         "0603"
     ],
@@ -734,11 +1072,7 @@
             "partName": "25V 470nF X7R ??10% 0603  Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS"
         }
     ],
-    "rawParts": [],
-    "symbolEagle": [],
-    "symbolEagleDetails": [],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-C"
-    ],
-    "symbolKicadDetails": []
+    ]
 }
