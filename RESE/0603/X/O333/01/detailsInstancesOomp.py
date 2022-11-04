@@ -1,2 +1,0 @@
-def load(newPart,it):
-    it['RESE-0603-X-O333-01']['oompInstances'] = [{'PROJECT': 'PROJ-SPAR-10920-STAN-01', 'ID': 'R1'}, {'PROJECT': 'PROJ-SPAR-12958-STAN-01', 'ID': 'R4'}, {'PROJECT': 'PROJ-SPAR-12958-STAN-01', 'ID': 'R5'}, {'PROJECT': 'PROJ-SPAR-13752-STAN-01', 'ID': 'R6'}, {'PROJECT': 'PROJ-SPAR-18430-STAN-01', 'ID': 'R6'}]
