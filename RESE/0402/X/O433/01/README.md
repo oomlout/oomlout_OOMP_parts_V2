@@ -6,6 +6,8 @@ Contents
 ========
 
 * [R4O433 > SMD (0402) 43k Ohm Resistor](#r4o433--smd-0402-43k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,23 @@ NO IMAGE
 - Description: SMD (0402) 43k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O433-01](http://oom.lt/RESE-0402-X-O433-01)
 - Short Link: [http://oom.lt/R4O433](http://oom.lt/R4O433)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|[Resistor_SMD : R_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|[FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|[Resistor_SMD : R_0402_1005Metric_Pad0.72x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0402_1005Metric_Pad0.72x0.64mm_HandSolder/)|
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[Device : R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|
+||||
 
 ## Distributor Searches
   
@@ -46,4 +65,6 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-0402-X-O433-01|
 |Hex ID (short code)|hexID|R4O433|
 |name|name|SMD (0402) 43k Ohm Resistor|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric, FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0402_1005Metric_Pad0.72x0.64mm_HandSolder|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||

@@ -6,6 +6,7 @@ Contents
 ========
 
 * [RW04-O473 > 1/4 Watt 47k Ohm Resistor](#rw04-o473--14-watt-47k-ohm-resistor)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ NO IMAGE
 - Description: 1/4 Watt 47k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O473-01](http://oom.lt/RESE-W04-X-O473-01)
 - Short Link: [http://oom.lt/RW04-O473](http://oom.lt/RW04-O473)
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[Device : R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|
+||||
 
 ## Distributor Searches
   
@@ -46,4 +55,5 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-W04-X-O473-01|
 |Hex ID (short code)|hexID|RW04-O473|
 |name|name|1/4 Watt 47k Ohm Resistor|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||

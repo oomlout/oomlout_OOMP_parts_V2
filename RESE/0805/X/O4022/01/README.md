@@ -6,6 +6,8 @@ Contents
 ========
 
 * [R8O4022 > SMD (0805) 40.2k Ohm Resistor](#r8o4022--smd-0805-402k-ohm-resistor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,32 @@ NO IMAGE
 - Description: SMD (0805) 40.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O4022-01](http://oom.lt/RESE-0805-X-O4022-01)
 - Short Link: [http://oom.lt/R8O4022](http://oom.lt/R8O4022)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|[FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|[Resistor_SMD : R_0805_2012Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Resistor_SMD/R_0805_2012Metric/)|
+||FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1W/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1W/)|[FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1W/)|[adafruit : 085CS_1W](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1W/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1R/)|[FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1R/)|[adafruit : 085CS_1R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1R/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AW/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AW/)|[FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AW/)|[adafruit : 085CS_1AW](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AW/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AR/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AR/)|[FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AR/)|[adafruit : 085CS_1AR](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/Adafruit-Eagle-Library/adafruit/085CS_1AR/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/)|[FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/)|[SparkFun-Resistors : 0805](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805-ARV/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805-ARV/)|[FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805-ARV/)|[SparkFun-Resistors : 0805-ARV](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805-ARV/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/)|[FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/)|[SparkFun-Resistors : 0805](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/eagle/SparkFun-Eagle-Libraries/SparkFun-Resistors/0805/)|
+||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE||
+||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[Device : R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|
+||||
 
 ## Distributor Searches
   
@@ -46,4 +74,7 @@ NO IMAGES
 |Full OOMP ID|oompID|RESE-0805-X-O4022-01|
 |Hex ID (short code)|hexID|R8O4022|
 |name|name|SMD (0805) 40.2k Ohm Resistor|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric, FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805, FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV, FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805|
+|Footprint Eagle|footprintEagle|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805, FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV, FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||
