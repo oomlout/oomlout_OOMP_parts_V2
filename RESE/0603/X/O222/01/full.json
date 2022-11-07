@@ -6,6 +6,10 @@
             "partID": "C4190"
         }
     ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+    ],
     "hexID": [
         "R6O222"
     ],
@@ -30,14 +34,38 @@
         "": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01//labelInventory.pdf"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/detailsFootprintsOomp.py"
+        ],
+        "image": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/image.jpg"
+        ],
+        "imageBottom": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/image_BOTTOM.jpg"
+        ],
+        "imageRe": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/image_RE.jpg"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/MPNLIST.md"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O222/01/README.md"
         ]
     },
     "oompID": [
@@ -59,5 +87,8 @@
             "partID": "C4190",
             "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 2.2k?? 0603  Chip Resistor - Surface Mount ROHS"
         }
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-R"
     ]
 }

@@ -6,6 +6,10 @@
             "partID": "C23185"
         }
     ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+    ],
     "hexID": [
         "R6O499D"
     ],
@@ -30,14 +34,29 @@
         "": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01//labelInventory.pdf"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/detailsFootprintsOomp.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/MPNLIST.md"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/0603/X/O499D/01/README.md"
         ]
     },
     "oompID": [
@@ -59,5 +78,8 @@
             "partID": "C23185",
             "partName": "100mW Thick Film Resistors 75V ??100ppm/?? ??1% -55??~+155?? 49.9?? 0603  Chip Resistor - Surface Mount ROHS"
         }
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-R"
     ]
 }

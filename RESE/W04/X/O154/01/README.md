@@ -41,7 +41,10 @@ Number of MPNs: 0
 | :--- | :--- | :--- |
 ||||
   
-NO IMAGES  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/W04/X/O154/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/W04/X/O154/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

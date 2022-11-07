@@ -7,7 +7,7 @@ def load(newPart,it):
     oColor = "R"
     oDesc = "STAN"
     oIndex = "01"
-    hexID = "L6R"
+    hexID = "L6RR"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -17,9 +17,6 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['oplPartNumber'].append({'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C2286', 'partName': 'Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS'})
-    newPart['distributorPartNumber'].append({'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C2286'})
-    newPart['manufacturerPartNumber'].append({'code': 'C-XXXX', 'name': 'Hubei KENTO Elec', 'partID': 'KT-0603R', 'partName': 'KT-0603R'})
 
 
     ######  Common

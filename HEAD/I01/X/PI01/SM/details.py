@@ -7,7 +7,7 @@ def load(newPart,it):
     oColor = "X"
     oDesc = "PI01"
     oIndex = "SM"
-    hexID = "RPSM"
+    hexID = "HPSM"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)

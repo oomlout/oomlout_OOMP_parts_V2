@@ -7,7 +7,7 @@ def load(newPart,it):
     oColor = "X"
     oDesc = "KS8050"
     oIndex = "01"
-    hexID = "TNS248050"
+    hexID = "TRNN-SO23-KS8050"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -17,8 +17,9 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23')
-    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC')
+    newPart['oplPartNumber'].append({'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C2146', 'partName': 'Basic'})
+    newPart['distributorPartNumber'].append({'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C2146'})
+    newPart['manufacturerPartNumber'].append({'code': 'C-XXXX', 'name': 'Jiangsu Changjing Electronics Technology Co.', 'partID': 'S8050 J3Y', 'partName': 'S8050 J3Y'})
 
 
     ######  Common

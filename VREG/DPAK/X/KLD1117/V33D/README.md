@@ -32,7 +32,10 @@ Number of MPNs: 0
 | :--- | :--- | :--- |
 ||||
   
-NO IMAGES  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/V33D/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/V33D/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

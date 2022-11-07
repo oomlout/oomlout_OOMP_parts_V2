@@ -46,8 +46,9 @@ Number of MPNs: 0
 ||||
   
 
-|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_RE.jpg)||
+|image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/qrCode.png)|
 | :---: | :---: | :---: | :---: |
+|||||
 
 ## Tags
   

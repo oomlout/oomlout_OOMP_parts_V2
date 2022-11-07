@@ -32,7 +32,10 @@ Number of MPNs: 1
 | :--- | :--- | :--- |
 ||||
   
-NO IMAGES  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/USBS/TC/X/K31/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/USBS/TC/X/K31/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

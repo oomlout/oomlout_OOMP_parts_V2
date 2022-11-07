@@ -1,4 +1,8 @@
 {
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+    ],
     "hexID": [
         "R12O3501"
     ],
@@ -15,14 +19,29 @@
         "": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/"
         ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01//labelInventory.pdf"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/detailsFootprintsOomp.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/basic.json"
         ],
         "jsonFull": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/MPNLIST.md"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O305/01/README.md"
         ]
     },
     "oompID": [
@@ -36,5 +55,8 @@
     ],
     "oompType": [
         "RESE"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-R"
     ]
 }
