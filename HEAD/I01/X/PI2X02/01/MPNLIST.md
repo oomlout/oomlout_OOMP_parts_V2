@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R2X02 > 2.54 mm 4 Pin (2x2) Header
+# MPN Summary For: H2X02 > 2.54 mm 4 Pin (2x2) Header
 
 ## MPNs
   

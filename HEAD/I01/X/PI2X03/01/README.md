@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R2X301 > 2.54 mm 6 Pin (2x3) Header](#r2x301--254-mm-6-pin-2x3-header)
+* [H2X301 > 2.54 mm 6 Pin (2x3) Header](#h2x301--254-mm-6-pin-2x3-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# R2X301 > 2.54 mm 6 Pin (2x3) Header
+# H2X301 > 2.54 mm 6 Pin (2x3) Header
 
 - ID: HEAD-I01-X-PI2X03-01
-- Hex ID: R2X301
+- Hex ID: H2X301
 - Name: 2.54 mm 6 Pin (2x3) Header
 - Description: 2.54 mm 6 Pin (2x3) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-01](http://oom.lt/HEAD-I01-X-PI2X03-01)
-- Short Link: [http://oom.lt/R2X301](http://oom.lt/R2X301)
+- Short Link: [http://oom.lt/H2X301](http://oom.lt/H2X301)
 
 ## Footprints
   
@@ -136,7 +136,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X03|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X03-01|
-|Hex ID (short code)|hexID|R2X301|
+|Hex ID (short code)|hexID|H2X301|
 |name|name|2.54 mm 6 Pin (2x3) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x03_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male|

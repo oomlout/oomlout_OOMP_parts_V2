@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R2X17 > 2.54 mm 34 Pin (2x17) Header
+# MPN Summary For: H2X17 > 2.54 mm 34 Pin (2x17) Header
 
 ## MPNs
   

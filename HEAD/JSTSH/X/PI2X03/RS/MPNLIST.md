@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RSH2X3RS > JST SH (1 mm) 6 Pin (2x3) Header Right Angle (SMD)
+# MPN Summary For: HSH2X3RS > JST SH (1 mm) 6 Pin (2x3) Header Right Angle (SMD)
 
 ## MPNs
   

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R2X15 > 2.54 mm 30 Pin (2x15) Header](#r2x15--254-mm-30-pin-2x15-header)
+* [H2X15 > 2.54 mm 30 Pin (2x15) Header](#h2x15--254-mm-30-pin-2x15-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# R2X15 > 2.54 mm 30 Pin (2x15) Header
+# H2X15 > 2.54 mm 30 Pin (2x15) Header
 
 - ID: HEAD-I01-X-PI2X15-01
-- Hex ID: R2X15
+- Hex ID: H2X15
 - Name: 2.54 mm 30 Pin (2x15) Header
 - Description: 2.54 mm 30 Pin (2x15) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X15-01](http://oom.lt/HEAD-I01-X-PI2X15-01)
-- Short Link: [http://oom.lt/R2X15](http://oom.lt/R2X15)
+- Short Link: [http://oom.lt/H2X15](http://oom.lt/H2X15)
 
 ## Footprints
   
@@ -70,7 +70,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X15|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X15-01|
-|Hex ID (short code)|hexID|R2X15|
+|Hex ID (short code)|hexID|H2X15|
 |name|name|2.54 mm 30 Pin (2x15) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x15_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x15_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x30_Male|

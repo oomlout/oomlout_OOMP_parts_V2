@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R08 > 2.54 mm 8 Pin Header
+# MPN Summary For: H08 > 2.54 mm 8 Pin Header
 
 ## MPNs
   

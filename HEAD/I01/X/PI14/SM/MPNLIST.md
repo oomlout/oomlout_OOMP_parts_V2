@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R14S > 2.54 mm 14 Pin Header (SMD)
+# MPN Summary For: H14S > 2.54 mm 14 Pin Header (SMD)
 
 ## MPNs
   

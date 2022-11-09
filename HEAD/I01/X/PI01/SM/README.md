@@ -5,27 +5,31 @@
 Contents
 ========
 
-* [RPSM > 2.54 mm 1 Pin Header (SMD)](#rpsm--254-mm-1-pin-header-smd)
+* [HPSM > 2.54 mm 1 Pin Header (SMD)](#hpsm--254-mm-1-pin-header-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RPSM > 2.54 mm 1 Pin Header (SMD)
+# HPSM > 2.54 mm 1 Pin Header (SMD)
 
 - ID: HEAD-I01-X-PI01-SM
-- Hex ID: RPSM
+- Hex ID: HPSM
 - Name: 2.54 mm 1 Pin Header (SMD)
 - Description: 2.54 mm 1 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI01-SM](http://oom.lt/HEAD-I01-X-PI01-SM)
-- Short Link: [http://oom.lt/RPSM](http://oom.lt/RPSM)
+- Short Link: [http://oom.lt/HPSM](http://oom.lt/HPSM)
 
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[Connector : Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[Connector_Generic : Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[Connector : Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[Connector_Generic : Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[Connector : Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[Connector_Generic : Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|
 ||||
@@ -57,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI01|
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-I01-X-PI01-SM|
-|Hex ID (short code)|hexID|RPSM|
+|Hex ID (short code)|hexID|HPSM|
 |name|name|2.54 mm 1 Pin Header (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|
 ||||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [VR11172205 > TO-220 LD1117 Voltage Regulator 5v](#vr11172205--to-220-ld1117-voltage-regulator-5v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,22 @@ NO IMAGE
 - Description: TO-220 LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V5](http://oom.lt/VREG-T220-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR11172205](http://oom.lt/VR11172205)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/)|[Package_TO_SOT_THT : TO-220-3_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/)|
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S50TR_SOT223/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S50TR_SOT223/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S50TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S50TR_SOT223/)|[Regulator_Linear : LD1117S50TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S50TR_SOT223/)|
+||||
 
 ## Distributor Searches
   
@@ -47,6 +65,9 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V5|
 |Full OOMP ID|oompID|VREG-T220-X-KLD1117-V5|
+|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py|
 |Hex ID (short code)|hexID|VR11172205|
 |name|name|TO-220 LD1117 Voltage Regulator 5v|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S50TR_SOT223|
 ||||

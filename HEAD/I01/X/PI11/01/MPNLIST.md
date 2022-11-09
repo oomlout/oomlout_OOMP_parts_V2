@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R11 > 2.54 mm 11 Pin Header
+# MPN Summary For: H11 > 2.54 mm 11 Pin Header
 
 ## MPNs
   

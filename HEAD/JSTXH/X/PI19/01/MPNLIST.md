@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RXH19 > JST XH (2.5 mm) 19 Pin Header
+# MPN Summary For: HXH19 > JST XH (2.5 mm) 19 Pin Header
 
 ## MPNs
   

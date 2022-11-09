@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R02RS > 2.54 mm 2 Pin Header Right Angle (SMD)
+# MPN Summary For: H02RS > 2.54 mm 2 Pin Header Right Angle (SMD)
 
 ## MPNs
   

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R07RS > 2.54 mm 7 Pin Header Right Angle (SMD)
+# MPN Summary For: H07RS > 2.54 mm 7 Pin Header Right Angle (SMD)
 
 ## MPNs
   

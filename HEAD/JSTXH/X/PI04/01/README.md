@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RXH04 > JST XH (2.5 mm) 4 Pin Header](#rxh04--jst-xh-25-mm-4-pin-header)
+* [HXH04 > JST XH (2.5 mm) 4 Pin Header](#hxh04--jst-xh-25-mm-4-pin-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# RXH04 > JST XH (2.5 mm) 4 Pin Header
+# HXH04 > JST XH (2.5 mm) 4 Pin Header
 
 - ID: HEAD-JSTXH-X-PI04-01
-- Hex ID: RXH04
+- Hex ID: HXH04
 - Name: JST XH (2.5 mm) 4 Pin Header
 - Description: JST XH (2.5 mm) 4 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI04-01](http://oom.lt/HEAD-JSTXH-X-PI04-01)
-- Short Link: [http://oom.lt/RXH04](http://oom.lt/RXH04)
+- Short Link: [http://oom.lt/HXH04](http://oom.lt/HXH04)
 
 ## Footprints
   
@@ -36,6 +36,10 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[Connector : Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|[Connector_Generic : Conn_01x04](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[Connector : Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|[Connector_Generic : Conn_01x04](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|[Connector : Conn_01x04_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x04_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|[Connector_Generic : Conn_01x04](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x04/)|
 ||||
@@ -71,9 +75,9 @@ Number of MPNs: 4
 |OOMP Description|oompDesc|PI04|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI04-01|
-|Hex ID (short code)|hexID|RXH04|
+|Hex ID (short code)|hexID|HXH04|
 |name|name|JST XH (2.5 mm) 4 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B4B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B4B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B4B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B4B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B4B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B4B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B4B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B4B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI04-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B4B-XH-AM_1x04_P2.50mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B4B-XH-A_1x04_P2.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04|
 ||||

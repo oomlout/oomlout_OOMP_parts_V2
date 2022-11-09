@@ -20,6 +20,8 @@ Contents
 	* [HEAD>JSTPH  (Header>JST PH (2 mm))](#headjstph--headerjst-ph-2-mm)
 	* [HEAD>JSTSH>RS  (Header>JST SH (1 mm)>Right Angle (SMD))](#headjstshrs--headerjst-sh-1-mmright-angle-smd)
 	* [HEAD>JSTSH>SM  (Header>JST SH (1 mm)>(SMD))](#headjstshsm--headerjst-sh-1-mmsmd)
+	* [ICIC>SC16  (>16 Pin SMD (SOIC))](#icicsc16--16-pin-smd-soic)
+	* [ICIC>SC18W  (>18 Pin SMD (SOIC Wide 7.62 mm))](#icicsc18w--18-pin-smd-soic-wide-762-mm)
 	* [MCUU>SC14  (MCU>14 Pin SMD (SOIC))](#mcuusc14--mcu14-pin-smd-soic)
 	* [MCUU>DI14  (MCU>14 Pin DIP)](#mcuudi14--mcu14-pin-dip)
 	* [MCUU>QFN14  (MCU>14 Pin SMD (QFN))](#mcuuqfn14--mcu14-pin-smd-qfn)
@@ -31,7 +33,10 @@ Contents
 	* [LEDS>05  (LED>5 mm)](#leds05--led5-mm)
 	* [LEDS>10  (LED>10 mm)](#leds10--led10-mm)
 	* [LEDS>XHP70  (LED>XHP 70)](#ledsxhp70--ledxhp-70)
-	* [MOSN>T252  (N-Ch. MOSFET>TO-252)](#mosnt252--n-ch-mosfetto-252)
+	* [MOSN>SO23  (N-Ch. MOSFET>SMD (SOT-23))](#mosnso23--n-ch-mosfetsmd-sot-23)
+	* [MOSN>T220  (N-Ch. MOSFET>TO-220)](#mosnt220--n-ch-mosfetto-220)
+	* [MOSN>T252  (N-Ch. MOSFET>TO-252 (SMD))](#mosnt252--n-ch-mosfetto-252-smd)
+	* [MOSP>SO23  (P-Ch. MOSFET>SMD (SOT-23))](#mospso23--p-ch-mosfetsmd-sot-23)
 	* [REFU>1812  (Resetable Fuse>SMD (1812))](#refu1812--resetable-fusesmd-1812)
 	* [RESA>06038  (Resistor Array>SMD (0603-8))](#resa06038--resistor-arraysmd-0603-8)
 	* [RESA>12068  (Resistor Array>SMD (1206-8))](#resa12068--resistor-arraysmd-1206-8)
@@ -43,12 +48,20 @@ Contents
 	* [SENS>LG14  (Sensor>14 Pin SMD (LGA))](#senslg14--sensor14-pin-smd-lga)
 	* [TERS>35D  (Screw Terminal>3.5 mm)](#ters35d--screw-terminal35-mm)
 	* [TRNN>SO23  (NPN Transistor>SMD (SOT-23))](#trnnso23--npn-transistorsmd-sot-23)
+	* [TRNN>T92  (NPN Transistor>TO-92)](#trnnt92--npn-transistorto-92)
+	* [TRNP>SO23  (PNP Transistor>SMD (SOT-23))](#trnpso23--pnp-transistorsmd-sot-23)
+	* [TRNP>T92  (PNP Transistor>TO-92)](#trnpt92--pnp-transistorto-92)
 	* [USBS>TC  (USB Socket>Type C)](#usbstc--usb-sockettype-c)
 	* [VREG>SO223  (Voltage Regulator>SMD (SOT-223))](#vregso223--voltage-regulatorsmd-sot-223)
 	* [VREG>SO235  (Voltage Regulator>SMD (SOT-23-5))](#vregso235--voltage-regulatorsmd-sot-23-5)
 	* [VREG>T220  (Voltage Regulator>TO-220)](#vregt220--voltage-regulatorto-220)
-	* [VREG>DPAK  (Voltage Regulator>DPAK)](#vregdpak--voltage-regulatordpak)
+	* [VREG>T252  (Voltage Regulator>TO-252 (SMD))](#vregt252--voltage-regulatorto-252-smd)
 	* [VREG>SO8  (Voltage Regulator>SO-8)](#vregso8--voltage-regulatorso-8)
+	* [XTAL>3215  (Crystal>SMD (3215))](#xtal3215--crystalsmd-3215)
+	* [XTAL>5032  (Crystal>SMD (5032))](#xtal5032--crystalsmd-5032)
+	* [XTAL>3225P4  (Crystal>SMD (3225) (4 Pin))](#xtal3225p4--crystalsmd-3225-4-pin)
+	* [XTAL>HC49  (Crystal>HC49)](#xtalhc49--crystalhc49)
+	* [XTAL>HC49S  (Crystal>SMD (HC49))](#xtalhc49s--crystalsmd-hc49)
 
 # Parts
 
@@ -211,6 +224,18 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X12/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X12-SM<br>JST SH (1 mm) 24 Pin (2x12) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X12/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X13/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X13-SM<br>JST SH (1 mm) 26 Pin (2x13) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X13/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X14/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X14-SM<br>JST SH (1 mm) 28 Pin (2x14) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X14/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X15/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X15-SM<br>JST SH (1 mm) 30 Pin (2x15) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X15/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X16/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X16-SM<br>JST SH (1 mm) 32 Pin (2x16) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X16/SM/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X17/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X17-SM<br>JST SH (1 mm) 34 Pin (2x17) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X17/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X18/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X18-SM<br>JST SH (1 mm) 36 Pin (2x18) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X18/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X19/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X19-SM<br>JST SH (1 mm) 38 Pin (2x19) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X19/SM/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTSH/X/PI2X20/SM/image_140.jpg)<br>HEAD-JSTSH-X-PI2X20-SM<br>JST SH (1 mm) 40 Pin (2x20) Header (SMD)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTSH/X/PI2X20/SM/)||
 
+## ICIC>SC16  (>16 Pin SMD (SOIC))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/ICIC/SC16/X/K2003/01/image_140.jpg)<br>ICIC-SC16-X-K2003-01<br>16 Pin SMD (SOIC) ULN2003A Heptal Transistor Array](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/ICIC/SC16/X/K2003/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## ICIC>SC18W  (>18 Pin SMD (SOIC Wide 7.62 mm))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/ICIC/SC18W/X/K2803/01/image_140.jpg)<br>ICIC-SC18W-X-K2803-01<br>18 Pin SMD (SOIC Wide 7.62 mm) ULN2803A Octal Transistor Array](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/ICIC/SC18W/X/K2803/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
 ## MCUU>SC14  (MCU>14 Pin SMD (SOIC))
   
 
@@ -284,10 +309,28 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/XHP70/W/CREE/01/image_140.jpg)<br>LEDS-XHP70-W-CREE-01<br>XHP 70 Cree White LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/XHP70/W/CREE/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
-## MOSN>T252  (N-Ch. MOSFET>TO-252)
+## MOSN>SO23  (N-Ch. MOSFET>SMD (SOT-23))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T252/X/K4184/01/image_140.jpg)<br>MOSN-T252-X-K4184-01<br>TO-252 MNAOD4184A N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T252/X/K4184/01/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/K2N7002/01/image_140.jpg)<br>MOSN-SO23-X-K2N7002-01<br>SMD (SOT-23) 2N7002 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/K2N7002/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/KAO3400A/01/image_140.jpg)<br>MOSN-SO23-X-KAO3400A-01<br>SMD (SOT-23) AO3400A N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/KAO3400A/01/)||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## MOSN>T220  (N-Ch. MOSFET>TO-220)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T220/X/K30N06L/01/image_140.jpg)<br>MOSN-T220-X-K30N06L-01<br>TO-220 30N06L N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T220/X/K30N06L/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## MOSN>T252  (N-Ch. MOSFET>TO-252 (SMD))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T252/X/K30N06L/01/image_140.jpg)<br>MOSN-T252-X-K30N06L-01<br>TO-252 (SMD) 30N06L N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T252/X/K30N06L/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T252/X/K4184/01/image_140.jpg)<br>MOSN-T252-X-K4184-01<br>TO-252 (SMD) MNAOD4184A N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T252/X/K4184/01/)||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## MOSP>SO23  (P-Ch. MOSFET>SMD (SOT-23))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSP/SO23/X/KAO3401A/01/image_140.jpg)<br>MOSP-SO23-X-KAO3401A-01<br>SMD (SOT-23) AO3401A P-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSP/SO23/X/KAO3401A/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSP/SO23/X/KSI2301CDS/01/image_140.jpg)<br>MOSP-SO23-X-KSI2301CDS-01<br>SMD (SOT-23) SI2301CDS P-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSP/SO23/X/KSI2301CDS/01/)||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## REFU>1812  (Resetable Fuse>SMD (1812))
@@ -470,8 +513,29 @@ Contents
 ## TRNN>SO23  (NPN Transistor>SMD (SOT-23))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KS8050/01/image_140.jpg)<br>TRNN-SO23-X-KS8050-01<br>SMD (SOT-23) S8050 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KS8050/01/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/K5551/01/image_140.jpg)<br>TRNN-SO23-X-K5551-01<br>SMD (SOT-23) MMBT5551 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/K5551/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KD882/01/image_140.jpg)<br>TRNN-SO23-X-KD882-01<br>SMD (SOT-23) D882 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KD882/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KMMBT2222A/01/image_140.jpg)<br>TRNN-SO23-X-KMMBT2222A-01<br>SMD (SOT-23) MMBT2222A NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KMMBT2222A/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KMMBT3904/01/image_140.jpg)<br>TRNN-SO23-X-KMMBT3904-01<br>SMD (SOT-23) MMBT3904 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KMMBT3904/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KS8050/01/image_140.jpg)<br>TRNN-SO23-X-KS8050-01<br>SMD (SOT-23) S8050 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KS8050/01/)|
 | :---: | :---: | :---: | :---: | :---: |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KS9013/01/image_140.jpg)<br>TRNN-SO23-X-KS9013-01<br>SMD (SOT-23) S9013 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KS9013/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KSS8050/01/image_140.jpg)<br>TRNN-SO23-X-KSS8050-01<br>SMD (SOT-23) SS8050 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KSS8050/01/)||||
+
+## TRNN>T92  (NPN Transistor>TO-92)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/T92/X/K2N2222/01/image_140.jpg)<br>TRNN-T92-X-K2N2222-01<br>TO-92 2N2222 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/T92/X/K2N2222/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/T92/X/K2N3904/01/image_140.jpg)<br>TRNN-T92-X-K2N3904-01<br>TO-92 2N3904 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/T92/X/K2N3904/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/T92/X/KBC337/01/image_140.jpg)<br>TRNN-T92-X-KBC337-01<br>TO-92 BC337 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/T92/X/KBC337/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/T92/X/KC1815/01/image_140.jpg)<br>TRNN-T92-X-KC1815-01<br>TO-92 C1815 NPN Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/T92/X/KC1815/01/)||
+| :---: | :---: | :---: | :---: | :---: |
+
+## TRNP>SO23  (PNP Transistor>SMD (SOT-23))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KB772/01/image_140.jpg)<br>TRNP-SO23-X-KB772-01<br>SMD (SOT-23) B772 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KB772/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KMMBT5401/01/image_140.jpg)<br>TRNP-SO23-X-KMMBT5401-01<br>SMD (SOT-23) MMBT5401 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KMMBT5401/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KS8550/01/image_140.jpg)<br>TRNP-SO23-X-KS8550-01<br>SMD (SOT-23) S8550 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KS8550/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KS9012/01/image_140.jpg)<br>TRNP-SO23-X-KS9012-01<br>SMD (SOT-23) S9012 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KS9012/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KS9015/01/image_140.jpg)<br>TRNP-SO23-X-KS9015-01<br>SMD (SOT-23) S9015 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KS9015/01/)|
+| :---: | :---: | :---: | :---: | :---: |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KSS8550/01/image_140.jpg)<br>TRNP-SO23-X-KSS8550-01<br>SMD (SOT-23) SS8550 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KSS8550/01/)|||||
+
+## TRNP>T92  (PNP Transistor>TO-92)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/K2N2907/01/image_140.jpg)<br>TRNP-T92-X-K2N2907-01<br>TO-92 2N2907 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/K2N2907/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/K2N3906/01/image_140.jpg)<br>TRNP-T92-X-K2N3906-01<br>TO-92 2N3906 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/K2N3906/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/KA1015/01/image_140.jpg)<br>TRNP-T92-X-KA1015-01<br>TO-92 A1015 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/KA1015/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/KBC327/01/image_140.jpg)<br>TRNP-T92-X-KBC327-01<br>TO-92 BC327 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/KBC327/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/KS8550/01/image_140.jpg)<br>TRNP-T92-X-KS8550-01<br>TO-92 S8550 PNP Transistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/KS8550/01/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
 
 ## USBS>TC  (USB Socket>Type C)
   
@@ -502,12 +566,12 @@ Contents
 | :---: | :---: | :---: | :---: | :---: |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T220/X/KLD1117/V5/image_140.jpg)<br>VREG-T220-X-KLD1117-V5<br>TO-220 LD1117 Voltage Regulator 5v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T220/X/KLD1117/V5/)|||||
 
-## VREG>DPAK  (Voltage Regulator>DPAK)
+## VREG>T252  (Voltage Regulator>TO-252 (SMD))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/ADJ/image_140.jpg)<br>VREG-DPAK-X-KLD1117-ADJ<br>DPAK LD1117 Voltage Regulator](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/ADJ/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/V12D/image_140.jpg)<br>VREG-DPAK-X-KLD1117-V12D<br>DPAK LD1117 Voltage Regulator 1.2 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/V12D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/V18D/image_140.jpg)<br>VREG-DPAK-X-KLD1117-V18D<br>DPAK LD1117 Voltage Regulator 1.8 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/V18D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/V25D/image_140.jpg)<br>VREG-DPAK-X-KLD1117-V25D<br>DPAK LD1117 Voltage Regulator 2.5 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/V25D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/V33D/image_140.jpg)<br>VREG-DPAK-X-KLD1117-V33D<br>DPAK LD1117 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/V33D/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T252/X/KLD1117/ADJ/image_140.jpg)<br>VREG-T252-X-KLD1117-ADJ<br>TO-252 (SMD) LD1117 Voltage Regulator](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T252/X/KLD1117/ADJ/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T252/X/KLD1117/V12D/image_140.jpg)<br>VREG-T252-X-KLD1117-V12D<br>TO-252 (SMD) LD1117 Voltage Regulator 1.2 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T252/X/KLD1117/V12D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T252/X/KLD1117/V18D/image_140.jpg)<br>VREG-T252-X-KLD1117-V18D<br>TO-252 (SMD) LD1117 Voltage Regulator 1.8 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T252/X/KLD1117/V18D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T252/X/KLD1117/V25D/image_140.jpg)<br>VREG-T252-X-KLD1117-V25D<br>TO-252 (SMD) LD1117 Voltage Regulator 2.5 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T252/X/KLD1117/V25D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T252/X/KLD1117/V33D/image_140.jpg)<br>VREG-T252-X-KLD1117-V33D<br>TO-252 (SMD) LD1117 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T252/X/KLD1117/V33D/)|
 | :---: | :---: | :---: | :---: | :---: |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/DPAK/X/KLD1117/V5/image_140.jpg)<br>VREG-DPAK-X-KLD1117-V5<br>DPAK LD1117 Voltage Regulator 5v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/DPAK/X/KLD1117/V5/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/T252/X/KLD1117/V5/image_140.jpg)<br>VREG-T252-X-KLD1117-V5<br>TO-252 (SMD) LD1117 Voltage Regulator 5v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/T252/X/KLD1117/V5/)|||||
 
 ## VREG>SO8  (Voltage Regulator>SO-8)
   
@@ -516,3 +580,34 @@ Contents
 | :---: | :---: | :---: | :---: | :---: |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO8/X/KLD1117/ADJ/image_140.jpg)<br>VREG-SO8-X-KLD1117-ADJ<br>SO-8 LD1117 Voltage Regulator](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO8/X/KLD1117/ADJ/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO8/X/KLD1117/V12D/image_140.jpg)<br>VREG-SO8-X-KLD1117-V12D<br>SO-8 LD1117 Voltage Regulator 1.2 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO8/X/KLD1117/V12D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO8/X/KLD1117/V18D/image_140.jpg)<br>VREG-SO8-X-KLD1117-V18D<br>SO-8 LD1117 Voltage Regulator 1.8 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO8/X/KLD1117/V18D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO8/X/KLD1117/V25D/image_140.jpg)<br>VREG-SO8-X-KLD1117-V25D<br>SO-8 LD1117 Voltage Regulator 2.5 v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO8/X/KLD1117/V25D/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO8/X/KLD1117/V33D/image_140.jpg)<br>VREG-SO8-X-KLD1117-V33D<br>SO-8 LD1117 Voltage Regulator 3.3v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO8/X/KLD1117/V33D/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/VREG/SO8/X/KLD1117/V5/image_140.jpg)<br>VREG-SO8-X-KLD1117-V5<br>SO-8 LD1117 Voltage Regulator 5v](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/VREG/SO8/X/KLD1117/V5/)|||||
+
+## XTAL>3215  (Crystal>SMD (3215))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/3215/X/KZ327D/01/image_140.jpg)<br>XTAL-3215-X-KZ327D-01<br>SMD (3215) 32.768 kHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/3215/X/KZ327D/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## XTAL>5032  (Crystal>SMD (5032))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/5032/X/MZ11/01/image_140.jpg)<br>XTAL-5032-X-MZ11-01<br>SMD (5032) 11 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/5032/X/MZ11/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/5032/X/MZ12/01/image_140.jpg)<br>XTAL-5032-X-MZ12-01<br>SMD (5032) 12 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/5032/X/MZ12/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/5032/X/MZ16/01/image_140.jpg)<br>XTAL-5032-X-MZ16-01<br>SMD (5032) 16 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/5032/X/MZ16/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/5032/X/MZ25/01/image_140.jpg)<br>XTAL-5032-X-MZ25-01<br>SMD (5032) 25 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/5032/X/MZ25/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/5032/X/MZ8/01/image_140.jpg)<br>XTAL-5032-X-MZ8-01<br>SMD (5032) 8 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/5032/X/MZ8/01/)|
+| :---: | :---: | :---: | :---: | :---: |
+||||||
+
+## XTAL>3225P4  (Crystal>SMD (3225) (4 Pin))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/3225P4/X/MZ12/01/image_140.jpg)<br>XTAL-3225P4-X-MZ12-01<br>SMD (3225) (4 Pin) 12 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/3225P4/X/MZ12/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/3225P4/X/MZ16/01/image_140.jpg)<br>XTAL-3225P4-X-MZ16-01<br>SMD (3225) (4 Pin) 16 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/3225P4/X/MZ16/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/3225P4/X/MZ25/01/image_140.jpg)<br>XTAL-3225P4-X-MZ25-01<br>SMD (3225) (4 Pin) 25 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/3225P4/X/MZ25/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/3225P4/X/MZ8/01/image_140.jpg)<br>XTAL-3225P4-X-MZ8-01<br>SMD (3225) (4 Pin) 8 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/3225P4/X/MZ8/01/)||
+| :---: | :---: | :---: | :---: | :---: |
+
+## XTAL>HC49  (Crystal>HC49)
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49/X/MZ12/01/image_140.jpg)<br>XTAL-HC49-X-MZ12-01<br>HC49 12 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49/X/MZ12/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49/X/MZ16/01/image_140.jpg)<br>XTAL-HC49-X-MZ16-01<br>HC49 16 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49/X/MZ16/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49/X/MZ25/01/image_140.jpg)<br>XTAL-HC49-X-MZ25-01<br>HC49 25 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49/X/MZ25/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49/X/MZ8/01/image_140.jpg)<br>XTAL-HC49-X-MZ8-01<br>HC49 8 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49/X/MZ8/01/)||
+| :---: | :---: | :---: | :---: | :---: |
+
+## XTAL>HC49S  (Crystal>SMD (HC49))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49S/X/MZ12/01/image_140.jpg)<br>XTAL-HC49S-X-MZ12-01<br>SMD (HC49) 12 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49S/X/MZ12/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49S/X/MZ16/01/image_140.jpg)<br>XTAL-HC49S-X-MZ16-01<br>SMD (HC49) 16 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49S/X/MZ16/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49S/X/MZ25/01/image_140.jpg)<br>XTAL-HC49S-X-MZ25-01<br>SMD (HC49) 25 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49S/X/MZ25/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/XTAL/HC49S/X/MZ8/01/image_140.jpg)<br>XTAL-HC49S-X-MZ8-01<br>SMD (HC49) 8 MHz Crystal](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/XTAL/HC49S/X/MZ8/01/)||
+| :---: | :---: | :---: | :---: | :---: |

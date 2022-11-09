@@ -1,0 +1,68 @@
+{
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm",
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
+    ],
+    "hexID": [
+        "XTAL3225P4-MZ8"
+    ],
+    "name": [
+        "SMD (3225) (4 Pin) 8 MHz Crystal"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "MZ8"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/README.md"
+        ]
+    },
+    "oompID": [
+        "XTAL-3225P4-X-MZ8-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "3225P4"
+    ],
+    "oompType": [
+        "XTAL"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Crystal"
+    ]
+}

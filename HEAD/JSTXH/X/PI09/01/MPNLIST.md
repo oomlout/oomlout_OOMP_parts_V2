@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RXH09 > JST XH (2.5 mm) 9 Pin Header
+# MPN Summary For: HXH09 > JST XH (2.5 mm) 9 Pin Header
 
 ## MPNs
   

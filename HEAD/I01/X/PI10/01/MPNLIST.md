@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R10 > 2.54 mm 10 Pin Header
+# MPN Summary For: H10 > 2.54 mm 10 Pin Header
 
 ## MPNs
   

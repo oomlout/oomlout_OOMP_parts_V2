@@ -2,7 +2,1242 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C4346",
+            "LINK": "https://www.lcsc.com/product-detail/C4346.html",
+            "MPN": "MPN-C-RALEC-RTT052704FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C4346"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C17531",
+            "LINK": "https://www.lcsc.com/product-detail/C17531.html",
+            "MPN": "MPN-C-UNIROY-0805W8F2704T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C17531"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C17674",
+            "LINK": "https://www.lcsc.com/product-detail/C17674.html",
+            "MPN": "MPN-C-UNIROY-0805W8F4704T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C17674"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C40178",
+            "LINK": "https://www.lcsc.com/product-detail/C40178.html",
+            "MPN": "MPN-C-UNIROY-0805W8J0475T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C40178"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C102020",
+            "LINK": "https://www.lcsc.com/product-detail/C102020.html",
+            "MPN": "MPN-C-LIZELE-CR0805J80475G",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C102020"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C104347",
+            "LINK": "https://www.lcsc.com/product-detail/C104347.html",
+            "MPN": "MPN-C-RALEC-RTT054704FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C104347"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C104357",
+            "LINK": "https://www.lcsc.com/product-detail/C104357.html",
+            "MPN": "MPN-C-RALEC-RTT05475JTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C104357"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C131395",
+            "LINK": "https://www.lcsc.com/product-detail/C131395.html",
+            "MPN": "MPN-C-YAGEO-RC0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C131395"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C137426",
+            "LINK": "https://www.lcsc.com/product-detail/C137426.html",
+            "MPN": "MPN-C-YAGEO-RC0805JR-0747ML",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C137426"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C137453",
+            "LINK": "https://www.lcsc.com/product-detail/C137453.html",
+            "MPN": "MPN-C-YAGEO-RC0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C137453"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C137515",
+            "LINK": "https://www.lcsc.com/product-detail/C137515.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C137515"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C169951",
+            "LINK": "https://www.lcsc.com/product-detail/C169951.html",
+            "MPN": "MPN-C-TAITEC-RM10FTN4704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C169951"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C170003",
+            "LINK": "https://www.lcsc.com/product-detail/C170003.html",
+            "MPN": "MPN-C-TAITEC-RM10FTN2704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C170003"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C170861",
+            "LINK": "https://www.lcsc.com/product-detail/C170861.html",
+            "MPN": "MPN-C-WALSIN-WR08W2704FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C170861"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C170916",
+            "LINK": "https://www.lcsc.com/product-detail/C170916.html",
+            "MPN": "MPN-C-WALSIN-WR08W4704FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C170916"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C171027",
+            "LINK": "https://www.lcsc.com/product-detail/C171027.html",
+            "MPN": "MPN-C-WALSIN-WR08X475JTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C171027"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C185697",
+            "LINK": "https://www.lcsc.com/product-detail/C185697.html",
+            "MPN": "MPN-C-HKRHON-RCT054M7FLF",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C185697"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C189664",
+            "LINK": "https://www.lcsc.com/product-detail/C189664.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C189664"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C189666",
+            "LINK": "https://www.lcsc.com/product-detail/C189666.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1474T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C189666"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C189672",
+            "LINK": "https://www.lcsc.com/product-detail/C189672.html",
+            "MPN": "MPN-C-UNIROY-0805W8F2874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C189672"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C212466",
+            "LINK": "https://www.lcsc.com/product-detail/C212466.html",
+            "MPN": "MPN-C-TAITEC-RMS10JT475",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C212466"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C228875",
+            "LINK": "https://www.lcsc.com/product-detail/C228875.html",
+            "MPN": "MPN-C-YAGEO-AC0805FR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C228875"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C229178",
+            "LINK": "https://www.lcsc.com/product-detail/C229178.html",
+            "MPN": "MPN-C-YAGEO-AC0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C229178"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C229221",
+            "LINK": "https://www.lcsc.com/product-detail/C229221.html",
+            "MPN": "MPN-C-YAGEO-AC0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C229221"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C270909",
+            "LINK": "https://www.lcsc.com/product-detail/C270909.html",
+            "MPN": "MPN-C-UNIROY-0805W8J0275T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C270909"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C276126",
+            "LINK": "https://www.lcsc.com/product-detail/C276126.html",
+            "MPN": "MPN-C-KOASPE-RK73B2ATTD475J",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C276126"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C316837",
+            "LINK": "https://www.lcsc.com/product-detail/C316837.html",
+            "MPN": "MPN-C-KOASPE-RK73B2ATTD275J",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C316837"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C317316",
+            "LINK": "https://www.lcsc.com/product-detail/C317316.html",
+            "MPN": "MPN-C-KOASPE-RK73H2ATTD2704F",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C317316"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C317322",
+            "LINK": "https://www.lcsc.com/product-detail/C317322.html",
+            "MPN": "MPN-C-KOASPE-RK73H2ATTD4704F",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C317322"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C320601",
+            "LINK": "https://www.lcsc.com/product-detail/C320601.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L1274FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C320601"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C320606",
+            "LINK": "https://www.lcsc.com/product-detail/C320606.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L1474FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C320606"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C320616",
+            "LINK": "https://www.lcsc.com/product-detail/C320616.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L1874FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C320616"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C320652",
+            "LINK": "https://www.lcsc.com/product-detail/C320652.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L2674FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C320652"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C320655",
+            "LINK": "https://www.lcsc.com/product-detail/C320655.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L275JT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C320655"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C322747",
+            "LINK": "https://www.lcsc.com/product-detail/C322747.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L4704FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C322747"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C322749",
+            "LINK": "https://www.lcsc.com/product-detail/C322749.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L475JT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C322749"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C322792",
+            "LINK": "https://www.lcsc.com/product-detail/C322792.html",
+            "MPN": "MPN-C-FHGUAN-RS-05L7874FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C322792"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C327262",
+            "LINK": "https://www.lcsc.com/product-detail/C327262.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C327262"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C332780",
+            "LINK": "https://www.lcsc.com/product-detail/C332780.html",
+            "MPN": "MPN-C-RALEC-RTT051274FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C332780"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C332785",
+            "LINK": "https://www.lcsc.com/product-detail/C332785.html",
+            "MPN": "MPN-C-RALEC-RTT051474FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C332785"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C332800",
+            "LINK": "https://www.lcsc.com/product-detail/C332800.html",
+            "MPN": "MPN-C-RALEC-RTT051874FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C332800"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C332827",
+            "LINK": "https://www.lcsc.com/product-detail/C332827.html",
+            "MPN": "MPN-C-RALEC-RTT052674FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C332827"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C332832",
+            "LINK": "https://www.lcsc.com/product-detail/C332832.html",
+            "MPN": "MPN-C-RALEC-RTT052874FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C332832"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C334971",
+            "LINK": "https://www.lcsc.com/product-detail/C334971.html",
+            "MPN": "MPN-C-WALSIN-WR08X275JTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C334971"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367820",
+            "LINK": "https://www.lcsc.com/product-detail/C367820.html",
+            "MPN": "MPN-C-WALSIN-WR08W1074FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C367820"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367824",
+            "LINK": "https://www.lcsc.com/product-detail/C367824.html",
+            "MPN": "MPN-C-WALSIN-WR08W1374FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C367824"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367826",
+            "LINK": "https://www.lcsc.com/product-detail/C367826.html",
+            "MPN": "MPN-C-WALSIN-WR08W1474FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C367826"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367830",
+            "LINK": "https://www.lcsc.com/product-detail/C367830.html",
+            "MPN": "MPN-C-WALSIN-WR08W1874FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C367830"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367842",
+            "LINK": "https://www.lcsc.com/product-detail/C367842.html",
+            "MPN": "MPN-C-WALSIN-WR08W2374FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C367842"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367844",
+            "LINK": "https://www.lcsc.com/product-detail/C367844.html",
+            "MPN": "MPN-C-WALSIN-WR08W2674FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C367844"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C367845",
+            "LINK": "https://www.lcsc.com/product-detail/C367845.html",
+            "MPN": "MPN-C-WALSIN-WR08W2874FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C367845"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C407357",
+            "LINK": "https://www.lcsc.com/product-detail/C407357.html",
+            "MPN": "MPN-C-UNIROY-0805W8J0476T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C407357"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C407363",
+            "LINK": "https://www.lcsc.com/product-detail/C407363.html",
+            "MPN": "MPN-C-UNIROY-0805W8J0276T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C407363"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C407394",
+            "LINK": "https://www.lcsc.com/product-detail/C407394.html",
+            "MPN": "MPN-C-UNIROY-0805W8F4705T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C407394"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C407406",
+            "LINK": "https://www.lcsc.com/product-detail/C407406.html",
+            "MPN": "MPN-C-UNIROY-0805W8F2674T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C407406"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C407420",
+            "LINK": "https://www.lcsc.com/product-detail/C407420.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1475T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C407420"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C409967",
+            "LINK": "https://www.lcsc.com/product-detail/C409967.html",
+            "MPN": "MPN-C-PANASO-ERJ6ENF1474V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C409967"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C409983",
+            "LINK": "https://www.lcsc.com/product-detail/C409983.html",
+            "MPN": "MPN-C-PANASO-ERJ6ENF1874V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C409983"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C413236",
+            "LINK": "https://www.lcsc.com/product-detail/C413236.html",
+            "MPN": "MPN-C-PANASO-ERJ6GEYJ275V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C413236"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C413240",
+            "LINK": "https://www.lcsc.com/product-detail/C413240.html",
+            "MPN": "MPN-C-PANASO-ERJ6GEYJ475V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:10K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C413240"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422699",
+            "LINK": "https://www.lcsc.com/product-detail/C422699.html",
+            "MPN": "MPN-C-UNIROY-0805W8F8874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C422699"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422709",
+            "LINK": "https://www.lcsc.com/product-detail/C422709.html",
+            "MPN": "MPN-C-UNIROY-0805W8F7874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C422709"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422727",
+            "LINK": "https://www.lcsc.com/product-detail/C422727.html",
+            "MPN": "MPN-C-UNIROY-0805W8F4874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C422727"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422744",
+            "LINK": "https://www.lcsc.com/product-detail/C422744.html",
+            "MPN": "MPN-C-UNIROY-0805W8F3574T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C422744"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422761",
+            "LINK": "https://www.lcsc.com/product-detail/C422761.html",
+            "MPN": "MPN-C-UNIROY-0805W8F2374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C422761"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422770",
+            "LINK": "https://www.lcsc.com/product-detail/C422770.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C422770"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422791",
+            "LINK": "https://www.lcsc.com/product-detail/C422791.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1375T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C422791"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422794",
+            "LINK": "https://www.lcsc.com/product-detail/C422794.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1275T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C422794"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422795",
+            "LINK": "https://www.lcsc.com/product-detail/C422795.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1274T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C422795"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422806",
+            "LINK": "https://www.lcsc.com/product-detail/C422806.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1075T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C422806"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C422807",
+            "LINK": "https://www.lcsc.com/product-detail/C422807.html",
+            "MPN": "MPN-C-UNIROY-0805W8F1074T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C422807"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C482956",
+            "LINK": "https://www.lcsc.com/product-detail/C482956.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-071M27L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C482956"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C482959",
+            "LINK": "https://www.lcsc.com/product-detail/C482959.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-071M37L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C482959"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C482965",
+            "LINK": "https://www.lcsc.com/product-detail/C482965.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C482965"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C482988",
+            "LINK": "https://www.lcsc.com/product-detail/C482988.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-071M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C482988"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483042",
+            "LINK": "https://www.lcsc.com/product-detail/C483042.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-072M37L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C483042"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483053",
+            "LINK": "https://www.lcsc.com/product-detail/C483053.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-072M67L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C483053"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483057",
+            "LINK": "https://www.lcsc.com/product-detail/C483057.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C483057"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483058",
+            "LINK": "https://www.lcsc.com/product-detail/C483058.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-072M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C483058"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483081",
+            "LINK": "https://www.lcsc.com/product-detail/C483081.html",
+            "MPN": "MPN-C-YAGEO-RC0805JR-0727ML",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C483081"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483150",
+            "LINK": "https://www.lcsc.com/product-detail/C483150.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-074M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C483150"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483225",
+            "LINK": "https://www.lcsc.com/product-detail/C483225.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C483225"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C483244",
+            "LINK": "https://www.lcsc.com/product-detail/C483244.html",
+            "MPN": "MPN-C-YAGEO-RC0805FR-078M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C483244"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C543512",
+            "LINK": "https://www.lcsc.com/product-detail/C543512.html",
+            "MPN": "MPN-C-PANASO-ERJP06J275V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C543512"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C966569",
+            "LINK": "https://www.lcsc.com/product-detail/C966569.html",
+            "MPN": "MPN-C-UNIROY-CQ05W8F1374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C966569"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1013137",
+            "LINK": "https://www.lcsc.com/product-detail/C1013137.html",
+            "MPN": "MPN-C-PANASO-ERJ-S06J475V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C1013137"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1356541",
+            "LINK": "https://www.lcsc.com/product-detail/C1356541.html",
+            "MPN": "MPN-C-VISHAY-RCS08054M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C1356541"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2074198",
+            "LINK": "https://www.lcsc.com/product-detail/C2074198.html",
+            "MPN": "MPN-C-ROHMSE-KTR10EZPF4704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2074198"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2077451",
+            "LINK": "https://www.lcsc.com/product-detail/C2077451.html",
+            "MPN": "MPN-C-PANASO-ERJ-6ENF1374V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2077451"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2080363",
+            "LINK": "https://www.lcsc.com/product-detail/C2080363.html",
+            "MPN": "MPN-C-PANASO-ERJ6ENF1274V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2080363"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2081132",
+            "LINK": "https://www.lcsc.com/product-detail/C2081132.html",
+            "MPN": "MPN-C-VISHAY-CRCW080547M0JPEAHR",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2081132"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2081249",
+            "LINK": "https://www.lcsc.com/product-detail/C2081249.html",
+            "MPN": "MPN-C-VISHAY-CRCW08054M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2081249"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2081879",
+            "LINK": "https://www.lcsc.com/product-detail/C2081879.html",
+            "MPN": "MPN-C-TECONN-CRGCQ0805J4M7",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2081879"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2082899",
+            "LINK": "https://www.lcsc.com/product-detail/C2082899.html",
+            "MPN": "MPN-C-SUSUMU-RGT2012P-275-B-T5",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2082899"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2085591",
+            "LINK": "https://www.lcsc.com/product-detail/C2085591.html",
+            "MPN": "MPN-C-VISHAY-CRCW08051M47FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2085591"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2090875",
+            "LINK": "https://www.lcsc.com/product-detail/C2090875.html",
+            "MPN": "MPN-C-VISHAY-CRCW08052M87FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2090875"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2091341",
+            "LINK": "https://www.lcsc.com/product-detail/C2091341.html",
+            "MPN": "MPN-C-TECONN-RH73U2A4M7JTD",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2091341"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2091791",
+            "LINK": "https://www.lcsc.com/product-detail/C2091791.html",
+            "MPN": "MPN-C-VISHAY-CRCW08052M37FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2091791"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2092111",
+            "LINK": "https://www.lcsc.com/product-detail/C2092111.html",
+            "MPN": "MPN-C-VISHAY-CRCW08052M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2092111"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099597",
+            "LINK": "https://www.lcsc.com/product-detail/C2099597.html",
+            "MPN": "MPN-C-YAGEO-AA0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2099597"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099740",
+            "LINK": "https://www.lcsc.com/product-detail/C2099740.html",
+            "MPN": "MPN-C-YAGEO-AA0805FR-072M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2099740"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099762",
+            "LINK": "https://www.lcsc.com/product-detail/C2099762.html",
+            "MPN": "MPN-C-YAGEO-AA0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2099762"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099764",
+            "LINK": "https://www.lcsc.com/product-detail/C2099764.html",
+            "MPN": "MPN-C-YAGEO-AA0805FR-072M67L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2099764"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099805",
+            "LINK": "https://www.lcsc.com/product-detail/C2099805.html",
+            "MPN": "MPN-C-YAGEO-AA0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2099805"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2099945",
+            "LINK": "https://www.lcsc.com/product-detail/C2099945.html",
+            "MPN": "MPN-C-YAGEO-AA0805FR-071M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2099945"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2100003",
+            "LINK": "https://www.lcsc.com/product-detail/C2100003.html",
+            "MPN": "MPN-C-YAGEO-AA0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2100003"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2100015",
+            "LINK": "https://www.lcsc.com/product-detail/C2100015.html",
+            "MPN": "MPN-C-YAGEO-AA0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2100015"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2101768",
+            "LINK": "https://www.lcsc.com/product-detail/C2101768.html",
+            "MPN": "MPN-C-TECONN-CRGH0805J2M7",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2101768"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2105300",
+            "LINK": "https://www.lcsc.com/product-detail/C2105300.html",
+            "MPN": "MPN-C-ROHMSE-KTR10EZPJ475",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2105300"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2107609",
+            "LINK": "https://www.lcsc.com/product-detail/C2107609.html",
+            "MPN": "MPN-C-YAGEO-AF0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2107609"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2107664",
+            "LINK": "https://www.lcsc.com/product-detail/C2107664.html",
+            "MPN": "MPN-C-YAGEO-AF0805FR-074M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2107664"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2107682",
+            "LINK": "https://www.lcsc.com/product-detail/C2107682.html",
+            "MPN": "MPN-C-YAGEO-AF0805FR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2107682"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2107829",
+            "LINK": "https://www.lcsc.com/product-detail/C2107829.html",
+            "MPN": "MPN-C-YAGEO-AF0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2107829"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2107850",
+            "LINK": "https://www.lcsc.com/product-detail/C2107850.html",
+            "MPN": "MPN-C-YAGEO-AF0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2107850"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2110098",
+            "LINK": "https://www.lcsc.com/product-detail/C2110098.html",
+            "MPN": "MPN-C-ROHMSE-KTR10EZPF1474",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2110098"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [
@@ -19,7 +1254,16 @@
     "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric",
-        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_0805_2012Metric_Pad1.18x1.45mm_HandSolder",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW",
+        "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR",
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805",
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805-ARV",
+        "FOOTPRINT-eagle-SparkFun-Eagle-Libraries-SparkFun-Resistors-0805",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE",
+        "FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805"
     ],
     "footprintKicadDetails": [],
     "gitName": [],
@@ -29,7 +1273,2706 @@
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT052704FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT052704FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2704T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2704T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F4704T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F4704T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0475T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0475T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-LIZELE",
+            "MANUFACTURER": "LIZ Elec",
+            "MPN": "CR0805J80475G",
+            "MPNKEY": "MPN-C-LIZELE-CR0805J80475G",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT054704FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT054704FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT05475JTP",
+            "MPNKEY": "MPN-C-RALEC-RTT05475JTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-0747ML",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-0747ML",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAITEC",
+            "MANUFACTURER": "TA-I Tech",
+            "MPN": "RM10FTN4704",
+            "MPNKEY": "MPN-C-TAITEC-RM10FTN4704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAITEC",
+            "MANUFACTURER": "TA-I Tech",
+            "MPN": "RM10FTN2704",
+            "MPNKEY": "MPN-C-TAITEC-RM10FTN2704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2704FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2704FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W4704FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W4704FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08X475JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08X475JTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HKRHON",
+            "MANUFACTURER": "HKR(Hong Kong Resistors)",
+            "MPN": "RCT054M7FLF",
+            "MPNKEY": "MPN-C-HKRHON-RCT054M7FLF",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1374T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1474T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1474T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAITEC",
+            "MANUFACTURER": "TA-I Tech",
+            "MPN": "RMS10JT475",
+            "MPNKEY": "MPN-C-TAITEC-RMS10JT475",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0805FR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-AC0805FR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0805JR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-AC0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0805JR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-AC0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0275T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0275T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B2ATTD475J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B2ATTD475J",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B2ATTD275J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B2ATTD275J",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73H2ATTD2704F",
+            "MPNKEY": "MPN-C-KOASPE-RK73H2ATTD2704F",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73H2ATTD4704F",
+            "MPNKEY": "MPN-C-KOASPE-RK73H2ATTD4704F",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L1274FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L1274FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L1474FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L1474FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L1874FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L1874FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L2674FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L2674FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L275JT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L275JT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L4704FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L4704FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L475JT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L475JT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L7874FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L7874FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M07L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT051274FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT051274FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT051474FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT051474FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT051874FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT051874FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT052674FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT052674FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT052874FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT052874FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08X275JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08X275JTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1074FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1074FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1374FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1374FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1474FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1474FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1874FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1874FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2374FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2374FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2674FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2674FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2874FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2874FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0476T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0476T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0276T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0276T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F4705T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F4705T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2674T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2674T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1475T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1475T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6ENF1474V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6ENF1474V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6ENF1874V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6ENF1874V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6GEYJ275V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6GEYJ275V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6GEYJ475V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6GEYJ475V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F8874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F8874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F7874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F7874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F4874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F4874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F3574T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F3574T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2374T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1375T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1375T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1275T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1275T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1274T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1274T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1075T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1075T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1074T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1074T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M27L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M27L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M37L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M37L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M47L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M37L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M37L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M67L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M67L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-0727ML",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-0727ML",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-074M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-074M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-077M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-078M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-078M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJP06J275V",
+            "MPNKEY": "MPN-C-PANASO-ERJP06J275V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "CQ05W8F1374T5E",
+            "MPNKEY": "MPN-C-UNIROY-CQ05W8F1374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-S06J475V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-S06J475V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "RCS08054M70JNEA",
+            "MPNKEY": "MPN-C-VISHAY-RCS08054M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR10EZPF4704",
+            "MPNKEY": "MPN-C-ROHMSE-KTR10EZPF4704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-6ENF1374V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-6ENF1374V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6ENF1274V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6ENF1274V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW080547M0JPEAHR",
+            "MPNKEY": "MPN-C-VISHAY-CRCW080547M0JPEAHR",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08054M70JNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08054M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGCQ0805J4M7",
+            "MPNKEY": "MPN-C-TECONN-CRGCQ0805J4M7",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SUSUMU",
+            "MANUFACTURER": "SUSUMU",
+            "MPN": "RGT2012P-275-B-T5",
+            "MPNKEY": "MPN-C-SUSUMU-RGT2012P-275-B-T5",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08051M47FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08051M47FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08052M87FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08052M87FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "RH73U2A4M7JTD",
+            "MPNKEY": "MPN-C-TECONN-RH73U2A4M7JTD",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08052M37FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08052M37FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08052M70JNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08052M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-077M87L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-072M87L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-072M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-071M07L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-072M67L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-072M67L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805JR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-071M87L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-071M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-071M47L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805JR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGH0805J2M7",
+            "MPNKEY": "MPN-C-TECONN-CRGH0805J2M7",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR10EZPJ475",
+            "MPNKEY": "MPN-C-ROHMSE-KTR10EZPJ475",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-077M87L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-074M87L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-074M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-071M07L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-071M47L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR10EZPF1474",
+            "MPNKEY": "MPN-C-ROHMSE-KTR10EZPF1474",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT052704FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT052704FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2704T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2704T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F4704T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F4704T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0475T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0475T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-LIZELE",
+            "MANUFACTURER": "LIZ Elec",
+            "MPN": "CR0805J80475G",
+            "MPNKEY": "MPN-C-LIZELE-CR0805J80475G",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT054704FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT054704FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT05475JTP",
+            "MPNKEY": "MPN-C-RALEC-RTT05475JTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-0747ML",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-0747ML",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAITEC",
+            "MANUFACTURER": "TA-I Tech",
+            "MPN": "RM10FTN4704",
+            "MPNKEY": "MPN-C-TAITEC-RM10FTN4704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAITEC",
+            "MANUFACTURER": "TA-I Tech",
+            "MPN": "RM10FTN2704",
+            "MPNKEY": "MPN-C-TAITEC-RM10FTN2704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2704FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2704FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W4704FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W4704FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08X475JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08X475JTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HKRHON",
+            "MANUFACTURER": "HKR(Hong Kong Resistors)",
+            "MPN": "RCT054M7FLF",
+            "MPNKEY": "MPN-C-HKRHON-RCT054M7FLF",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1374T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1474T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1474T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TAITEC",
+            "MANUFACTURER": "TA-I Tech",
+            "MPN": "RMS10JT475",
+            "MPNKEY": "MPN-C-TAITEC-RMS10JT475",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0805FR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-AC0805FR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0805JR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-AC0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC0805JR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-AC0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0275T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0275T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B2ATTD475J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B2ATTD475J",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B2ATTD275J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B2ATTD275J",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73H2ATTD2704F",
+            "MPNKEY": "MPN-C-KOASPE-RK73H2ATTD2704F",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73H2ATTD4704F",
+            "MPNKEY": "MPN-C-KOASPE-RK73H2ATTD4704F",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L1274FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L1274FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L1474FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L1474FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L1874FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L1874FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L2674FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L2674FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L275JT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L275JT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L4704FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L4704FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L475JT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L475JT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-05L7874FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-05L7874FT",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M07L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT051274FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT051274FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT051474FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT051474FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT051874FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT051874FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT052674FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT052674FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT052874FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT052874FTP",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08X275JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08X275JTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1074FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1074FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1374FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1374FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1474FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1474FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W1874FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W1874FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2374FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2374FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2674FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2674FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR08W2874FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR08W2874FTL",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0476T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0476T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8J0276T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8J0276T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F4705T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F4705T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2674T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2674T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1475T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1475T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6ENF1474V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6ENF1474V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6ENF1874V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6ENF1874V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6GEYJ275V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6GEYJ275V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6GEYJ475V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6GEYJ475V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F8874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F8874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F7874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F7874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F4874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F4874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F3574T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F3574T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F2374T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F2374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1874T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1874T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1375T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1375T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1275T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1275T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1274T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1274T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1075T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1075T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "0805W8F1074T5E",
+            "MPNKEY": "MPN-C-UNIROY-0805W8F1074T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M27L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M27L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M37L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M37L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M47L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-071M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-071M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M37L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M37L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M67L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M67L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-072M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-072M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805JR-0727ML",
+            "MPNKEY": "MPN-C-YAGEO-RC0805JR-0727ML",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-074M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-074M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-077M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC0805FR-078M87L",
+            "MPNKEY": "MPN-C-YAGEO-RC0805FR-078M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJP06J275V",
+            "MPNKEY": "MPN-C-PANASO-ERJP06J275V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "CQ05W8F1374T5E",
+            "MPNKEY": "MPN-C-UNIROY-CQ05W8F1374T5E",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-S06J475V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-S06J475V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "RCS08054M70JNEA",
+            "MPNKEY": "MPN-C-VISHAY-RCS08054M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR10EZPF4704",
+            "MPNKEY": "MPN-C-ROHMSE-KTR10EZPF4704",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-6ENF1374V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-6ENF1374V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ6ENF1274V",
+            "MPNKEY": "MPN-C-PANASO-ERJ6ENF1274V",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW080547M0JPEAHR",
+            "MPNKEY": "MPN-C-VISHAY-CRCW080547M0JPEAHR",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08054M70JNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08054M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGCQ0805J4M7",
+            "MPNKEY": "MPN-C-TECONN-CRGCQ0805J4M7",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-SUSUMU",
+            "MANUFACTURER": "SUSUMU",
+            "MPN": "RGT2012P-275-B-T5",
+            "MPNKEY": "MPN-C-SUSUMU-RGT2012P-275-B-T5",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08051M47FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08051M47FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08052M87FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08052M87FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "RH73U2A4M7JTD",
+            "MPNKEY": "MPN-C-TECONN-RH73U2A4M7JTD",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08052M37FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08052M37FKEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW08052M70JNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW08052M70JNEA",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-077M87L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-072M87L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-072M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-071M07L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-072M67L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-072M67L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805JR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805JR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-071M87L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-071M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805FR-071M47L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AA0805JR-074M7L",
+            "MPNKEY": "MPN-C-YAGEO-AA0805JR-074M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGH0805J2M7",
+            "MPNKEY": "MPN-C-TECONN-CRGH0805J2M7",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR10EZPJ475",
+            "MPNKEY": "MPN-C-ROHMSE-KTR10EZPJ475",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-077M87L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-077M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-074M87L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-074M87L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-072M7L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-072M7L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-071M07L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-071M07L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AF0805FR-071M47L",
+            "MPNKEY": "MPN-C-YAGEO-AF0805FR-071M47L",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR10EZPF1474",
+            "MPNKEY": "MPN-C-ROHMSE-KTR10EZPF1474",
+            "OOMPID": "RESE-0805-X-O705-01",
+            "OOMPIDPARTIAL": "RESE-0805-X-O705-01",
+            "TAGS": []
+        }
+    ],
     "matchSpecial": [],
     "name": [
         "SMD (0805) 7M Ohm Resistor"

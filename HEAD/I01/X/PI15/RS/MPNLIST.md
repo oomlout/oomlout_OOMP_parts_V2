@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R15RS > 2.54 mm 15 Pin Header Right Angle (SMD)
+# MPN Summary For: H15RS > 2.54 mm 15 Pin Header Right Angle (SMD)
 
 ## MPNs
   

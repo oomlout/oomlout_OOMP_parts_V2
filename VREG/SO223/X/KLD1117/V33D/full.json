@@ -1,4 +1,7 @@
 {
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-5"
+    ],
     "hexID": [
         "VR111722333"
     ],
@@ -20,6 +23,9 @@
         ],
         "EDA": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/qrCode.png"
         ],
         "csv": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/details.csv"
@@ -45,6 +51,9 @@
         "mpnList": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/MPNLIST.md"
         ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/qrCode.png"
+        ],
         "readme": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/README.md"
         ]
@@ -60,5 +69,8 @@
     ],
     "oompType": [
         "VREG"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S33TR_SOT223"
     ]
 }

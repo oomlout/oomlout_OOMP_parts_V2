@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R2X19 > 2.54 mm 38 Pin (2x19) Header](#r2x19--254-mm-38-pin-2x19-header)
+* [H2X19 > 2.54 mm 38 Pin (2x19) Header](#h2x19--254-mm-38-pin-2x19-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# R2X19 > 2.54 mm 38 Pin (2x19) Header
+# H2X19 > 2.54 mm 38 Pin (2x19) Header
 
 - ID: HEAD-I01-X-PI2X19-01
-- Hex ID: R2X19
+- Hex ID: H2X19
 - Name: 2.54 mm 38 Pin (2x19) Header
 - Description: 2.54 mm 38 Pin (2x19) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X19-01](http://oom.lt/HEAD-I01-X-PI2X19-01)
-- Short Link: [http://oom.lt/R2X19](http://oom.lt/R2X19)
+- Short Link: [http://oom.lt/H2X19](http://oom.lt/H2X19)
 
 ## Footprints
   
@@ -70,7 +70,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X19|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X19-01|
-|Hex ID (short code)|hexID|R2X19|
+|Hex ID (short code)|hexID|H2X19|
 |name|name|2.54 mm 38 Pin (2x19) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x19_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Male|

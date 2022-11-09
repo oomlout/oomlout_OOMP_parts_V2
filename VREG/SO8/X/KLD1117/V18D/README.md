@@ -6,6 +6,7 @@ Contents
 ========
 
 * [VR1117818 > SO-8 LD1117 Voltage Regulator 1.8 v](#vr1117818--so-8-ld1117-voltage-regulator-18-v)
+	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ NO IMAGE
 - Description: SO-8 LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V18D](http://oom.lt/VREG-SO8-X-KLD1117-V18D)
 - Short Link: [http://oom.lt/VR1117818](http://oom.lt/VR1117818)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/)|[FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/)|[Package_SO : SO-8_3.9x4.9mm_P1.27mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/)|
+||||
 
 ## Distributor Searches
   
@@ -47,6 +56,8 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V18D|
 |Full OOMP ID|oompID|VREG-SO8-X-KLD1117-V18D|
+|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py|
 |Hex ID (short code)|hexID|VR1117818|
 |name|name|SO-8 LD1117 Voltage Regulator 1.8 v|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm|
 ||||

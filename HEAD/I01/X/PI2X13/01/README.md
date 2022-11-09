@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R2X13 > 2.54 mm 26 Pin (2x13) Header](#r2x13--254-mm-26-pin-2x13-header)
+* [H2X13 > 2.54 mm 26 Pin (2x13) Header](#h2x13--254-mm-26-pin-2x13-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# R2X13 > 2.54 mm 26 Pin (2x13) Header
+# H2X13 > 2.54 mm 26 Pin (2x13) Header
 
 - ID: HEAD-I01-X-PI2X13-01
-- Hex ID: R2X13
+- Hex ID: H2X13
 - Name: 2.54 mm 26 Pin (2x13) Header
 - Description: 2.54 mm 26 Pin (2x13) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X13-01](http://oom.lt/HEAD-I01-X-PI2X13-01)
-- Short Link: [http://oom.lt/R2X13](http://oom.lt/R2X13)
+- Short Link: [http://oom.lt/H2X13](http://oom.lt/H2X13)
 
 ## Footprints
   
@@ -85,7 +85,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X13|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X13-01|
-|Hex ID (short code)|hexID|R2X13|
+|Hex ID (short code)|hexID|H2X13|
 |name|name|2.54 mm 26 Pin (2x13) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x13_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x13_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x13_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x13_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x13_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x13_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x26_Male|

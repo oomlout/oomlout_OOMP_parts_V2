@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R2X11 > 2.54 mm 22 Pin (2x11) Header
+# MPN Summary For: H2X11 > 2.54 mm 22 Pin (2x11) Header
 
 ## MPNs
   

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R06RS > 2.54 mm 6 Pin Header Right Angle (SMD)
+# MPN Summary For: H06RS > 2.54 mm 6 Pin Header Right Angle (SMD)
 
 ## MPNs
   

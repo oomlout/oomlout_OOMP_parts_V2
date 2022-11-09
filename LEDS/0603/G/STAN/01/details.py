@@ -7,7 +7,7 @@ def load(newPart,it):
     oColor = "G"
     oDesc = "STAN"
     oIndex = "01"
-    hexID = "L6GG"
+    hexID = "L6G"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -17,6 +17,9 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['oplPartNumber'].append({'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C72043', 'partName': '20mA 285mcd 3.3V 518nm Colorless transparence -40??~+85?? 520nm~535nm Emerald 120?? 110mW 0603  Light Emitting Diodes (LED) ROHS'})
+    newPart['distributorPartNumber'].append({'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C72043'})
+    newPart['manufacturerPartNumber'].append({'code': 'C-XXXX', 'name': 'Everlight Elec', 'partID': '19-217/GHC-YR1S2/3T', 'partName': '19-217/GHC-YR1S2/3T'})
 
 
     ######  Common

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R5RS > 2.54 mm 5 Pin Header Right Angle (SMD)
+# MPN Summary For: H5RS > 2.54 mm 5 Pin Header Right Angle (SMD)
 
 ## MPNs
   

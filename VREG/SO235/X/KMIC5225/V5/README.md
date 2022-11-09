@@ -6,6 +6,8 @@ Contents
 ========
 
 * [VR52252355 > SMD (SOT-23-5) MIC5225 Voltage Regulator 5v](#vr52252355--smd-sot-23-5-mic5225-voltage-regulator-5v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,23 @@ NO IMAGE
 - Description: SMD (SOT-23-5) MIC5225 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5225-V5](http://oom.lt/VREG-SO235-X-KMIC5225-V5)
 - Short Link: [http://oom.lt/VR52252355](http://oom.lt/VR52252355)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|[Package_TO_SOT_SMD : SOT-23-5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|[Package_TO_SOT_SMD : SOT-23-5_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-5.0YM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-5.0YM5/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-5.0YM5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-5.0YM5/)|[Regulator_Linear : MIC5205-5.0YM5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-5.0YM5/)|
+||||
 
 ## Distributor Searches
   
@@ -49,4 +68,6 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|VREG-SO235-X-KMIC5225-V5|
 |Hex ID (short code)|hexID|VR52252355|
 |name|name|SMD (SOT-23-5) MIC5225 Voltage Regulator 5v|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5, FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-5.0YM5|
 ||||

@@ -8,6 +8,4 @@ def load(newPart,it):
     #newPart['matchSpecial'].append([["ADXL345"],"SENS-LG14-X-K345-01"]) ###### might also be set elsewhere
     #newPart['footprintKicad'].append('') ###### might also be set elsewhere
     #newPart['symbolKicad'].append('')
-
-
-
+    

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R2X07 > 2.54 mm 14 Pin (2x7) Header
+# MPN Summary For: H2X07 > 2.54 mm 14 Pin (2x7) Header
 
 ## MPNs
   

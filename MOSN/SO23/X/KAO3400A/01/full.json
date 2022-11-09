@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C20917",
+            "LINK": "https://www.lcsc.com/product-detail/C20917.html",
+            "MPN": "MPN-C-ALPHAO-AO3400A",
+            "OOMPID": "MOSN-SO23-X-KAO3400A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C20917"
+        }
+    ],
+    "hexID": [
+        "MOSN-SO23-KAO3400A"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ALPHAO",
+            "MANUFACTURER": "Alpha & Omega Semicon",
+            "MPN": "AO3400A",
+            "MPNKEY": "MPN-C-ALPHAO-AO3400A",
+            "OOMPID": "MOSN-SO23-X-KAO3400A-01",
+            "OOMPIDPARTIAL": "MOSN-SO23-X-KAO3400A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ALPHAO",
+            "MANUFACTURER": "Alpha & Omega Semicon",
+            "MPN": "AO3400A",
+            "MPNKEY": "MPN-C-ALPHAO-AO3400A",
+            "OOMPID": "MOSN-SO23-X-KAO3400A-01",
+            "OOMPIDPARTIAL": "MOSN-SO23-X-KAO3400A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) AO3400A N-Ch. MOSFET"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KAO3400A"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/README.md"
+        ]
+    },
+    "oompID": [
+        "MOSN-SO23-X-KAO3400A-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "MOSN"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C20917",
+            "partName": "30V 5.7A 26.5m??@10V"
+        }
+    ]
+}

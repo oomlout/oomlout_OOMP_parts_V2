@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R2X14 > 2.54 mm 28 Pin (2x14) Header
+# MPN Summary For: H2X14 > 2.54 mm 28 Pin (2x14) Header
 
 ## MPNs
   

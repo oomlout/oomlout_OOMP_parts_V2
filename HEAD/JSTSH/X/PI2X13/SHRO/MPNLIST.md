@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RSH2X13SHR > JST SH (1 mm) 26 Pin (2x13) Header Shrouded (IDC)
+# MPN Summary For: HSH2X13SHR > JST SH (1 mm) 26 Pin (2x13) Header Shrouded (IDC)
 
 ## MPNs
   

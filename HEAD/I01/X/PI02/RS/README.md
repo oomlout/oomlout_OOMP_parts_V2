@@ -5,27 +5,31 @@
 Contents
 ========
 
-* [R02RS > 2.54 mm 2 Pin Header Right Angle (SMD)](#r02rs--254-mm-2-pin-header-right-angle-smd)
+* [H02RS > 2.54 mm 2 Pin Header Right Angle (SMD)](#h02rs--254-mm-2-pin-header-right-angle-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# R02RS > 2.54 mm 2 Pin Header Right Angle (SMD)
+# H02RS > 2.54 mm 2 Pin Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI02-RS
-- Hex ID: R02RS
+- Hex ID: H02RS
 - Name: 2.54 mm 2 Pin Header Right Angle (SMD)
 - Description: 2.54 mm 2 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI02-RS](http://oom.lt/HEAD-I01-X-PI02-RS)
-- Short Link: [http://oom.lt/R02RS](http://oom.lt/R02RS)
+- Short Link: [http://oom.lt/H02RS](http://oom.lt/H02RS)
 
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[Connector : Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[Connector_Generic : Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[Connector : Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[Connector_Generic : Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[Connector : Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[Connector_Generic : Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|
 ||||
@@ -57,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI02|
 |OOMP Index|oompIndex|RS|
 |Full OOMP ID|oompID|HEAD-I01-X-PI02-RS|
-|Hex ID (short code)|hexID|R02RS|
+|Hex ID (short code)|hexID|H02RS|
 |name|name|2.54 mm 2 Pin Header Right Angle (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02|
 ||||

@@ -1,0 +1,5 @@
+###### LCSC part
+	oompID = "VREG-" + size + "-X-KLD1117-V12D"
+    newPart = it[oompID]    
+    lcscNum = "C155612"
+    newPart['distributorPartNumber'].append({'dpnKey': 'DPN-C-LCSC-' + lcscNum, 'DISTRIBUTOR': 'LCSC', 'DISTRCODE': 'C-LCSC', 'DPN': lcscNum, 'MPN': '', 'TAGS': [], 'LINK': 'https://www.lcsc.com/product-detail/' + lcscNum + '01.html', 'OOMPID': oompID})

@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X3SHRR > JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle](#rsh2x3shrr--jst-sh-1-mm-6-pin-2x3-header-shrouded-idc-right-angle)
+* [HSH2X3SHRR > JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle](#hsh2x3shrr--jst-sh-1-mm-6-pin-2x3-header-shrouded-idc-right-angle)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X3SHRR > JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle
+# HSH2X3SHRR > JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle
 
 - ID: HEAD-JSTSH-X-PI2X03-SHRR
-- Hex ID: RSH2X3SHRR
+- Hex ID: HSH2X3SHRR
 - Name: JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle
 - Description: JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X03-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X03-SHRR)
-- Short Link: [http://oom.lt/RSH2X3SHRR](http://oom.lt/RSH2X3SHRR)
+- Short Link: [http://oom.lt/HSH2X3SHRR](http://oom.lt/HSH2X3SHRR)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X03|
 |OOMP Index|oompIndex|SHRR|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X03-SHRR|
-|Hex ID (short code)|hexID|RSH2X3SHRR|
+|Hex ID (short code)|hexID|HSH2X3SHRR|
 |name|name|JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC) Right Angle|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x03_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x06_Male|
 ||||

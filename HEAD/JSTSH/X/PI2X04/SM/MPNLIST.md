@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RSH2X04S > JST SH (1 mm) 8 Pin (2x4) Header (SMD)
+# MPN Summary For: HSH2X04S > JST SH (1 mm) 8 Pin (2x4) Header (SMD)
 
 ## MPNs
   

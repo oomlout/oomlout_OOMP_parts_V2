@@ -1,0 +1,102 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C12674",
+            "LINK": "https://www.lcsc.com/product-detail/C12674.html",
+            "MPN": "MPN-C-YANGXI-X49SM8MSD2SC",
+            "OOMPID": "XTAL-HC49S-X-MZ8-01",
+            "TAGS": [
+                "STOCK:10K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C12674"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD",
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering"
+    ],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "XTALHC49S-MZ8"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YANGXI",
+            "MANUFACTURER": "Yangxing Tech",
+            "MPN": "X49SM8MSD2SC",
+            "MPNKEY": "MPN-C-YANGXI-X49SM8MSD2SC",
+            "OOMPID": "XTAL-HC49S-X-MZ8-01",
+            "OOMPIDPARTIAL": "XTAL-HC49S-X-MZ8-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YANGXI",
+            "MANUFACTURER": "Yangxing Tech",
+            "MPN": "X49SM8MSD2SC",
+            "MPNKEY": "MPN-C-YANGXI-X49SM8MSD2SC",
+            "OOMPID": "XTAL-HC49S-X-MZ8-01",
+            "OOMPIDPARTIAL": "XTAL-HC49S-X-MZ8-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        }
+    ],
+    "matchSpecial": [],
+    "name": [
+        "SMD (HC49) 8 MHz Crystal"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "MZ8"
+    ],
+    "oompID": [
+        "XTAL-HC49S-X-MZ8-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "HC49S"
+    ],
+    "oompType": [
+        "XTAL"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C12674",
+            "partName": "8MHz 49SMD 20pF ??20ppm ??30ppm -20??~+70?? HC-49S/SMD  Crystals ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Crystal"
+    ],
+    "symbolKicadDetails": []
+}

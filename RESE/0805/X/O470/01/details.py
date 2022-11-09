@@ -17,6 +17,9 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['oplPartNumber'].append({'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C17714', 'partName': '125mW Thick Film Resistors 150V ??1% ??200ppm/?? -55??~+155?? 47?? 0805  Chip Resistor - Surface Mount ROHS'})
+    newPart['distributorPartNumber'].append({'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C17714'})
+    newPart['manufacturerPartNumber'].append({'code': 'C-XXXX', 'name': 'UNI-ROYAL(Uniroyal Elec)', 'partID': '0805W8F470JT5E', 'partName': '0805W8F470JT5E'})
 
 
     ######  Common

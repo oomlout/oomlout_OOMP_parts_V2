@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R09S > 2.54 mm 9 Pin Header (SMD)
+# MPN Summary For: H09S > 2.54 mm 9 Pin Header (SMD)
 
 ## MPNs
   

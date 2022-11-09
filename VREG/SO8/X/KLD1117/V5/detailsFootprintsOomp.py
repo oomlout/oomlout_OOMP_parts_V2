@@ -1,4 +1,2 @@
 def load(newPart,it):
-    it['VREG-SO8-X-KLD1117-V5']['footprintEagle'] = []
-    it['VREG-SO8-X-KLD1117-V5']['footprintKicad'] = []
-    it['VREG-SO8-X-KLD1117-V5']['symbolKicad'] = []
+    it['VREG-SO8-X-KLD1117-V5']['footprintKicad'] = ['FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm']

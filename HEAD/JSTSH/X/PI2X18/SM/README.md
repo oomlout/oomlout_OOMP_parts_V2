@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X18S > JST SH (1 mm) 36 Pin (2x18) Header (SMD)](#rsh2x18s--jst-sh-1-mm-36-pin-2x18-header-smd)
+* [HSH2X18S > JST SH (1 mm) 36 Pin (2x18) Header (SMD)](#hsh2x18s--jst-sh-1-mm-36-pin-2x18-header-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X18S > JST SH (1 mm) 36 Pin (2x18) Header (SMD)
+# HSH2X18S > JST SH (1 mm) 36 Pin (2x18) Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI2X18-SM
-- Hex ID: RSH2X18S
+- Hex ID: HSH2X18S
 - Name: JST SH (1 mm) 36 Pin (2x18) Header (SMD)
 - Description: JST SH (1 mm) 36 Pin (2x18) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X18-SM](http://oom.lt/HEAD-JSTSH-X-PI2X18-SM)
-- Short Link: [http://oom.lt/RSH2X18S](http://oom.lt/RSH2X18S)
+- Short Link: [http://oom.lt/HSH2X18S](http://oom.lt/HSH2X18S)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X18|
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X18-SM|
-|Hex ID (short code)|hexID|RSH2X18S|
+|Hex ID (short code)|hexID|HSH2X18S|
 |name|name|JST SH (1 mm) 36 Pin (2x18) Header (SMD)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male|
 ||||

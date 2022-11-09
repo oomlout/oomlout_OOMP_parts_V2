@@ -1,0 +1,91 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C105432",
+            "LINK": "https://www.lcsc.com/product-detail/C105432.html",
+            "MPN": "MPN-C-JIANGS-S8550",
+            "OOMPID": "TRNP-SO23-X-KS8550-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C105432"
+        }
+    ],
+    "hexID": [
+        "TRNPSO23-KS8550"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Jiangsu Changjing Electronics Technology Co.",
+            "partID": "S8550",
+            "partName": "S8550"
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) S8550 PNP Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KS8550"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNP-SO23-X-KS8550-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNP"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C105432",
+            "partName": "Basic"
+        }
+    ]
+}

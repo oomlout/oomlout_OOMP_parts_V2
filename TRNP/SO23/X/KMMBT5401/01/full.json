@@ -1,0 +1,91 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C8326",
+            "LINK": "https://www.lcsc.com/product-detail/C8326.html",
+            "MPN": "MPN-C-JIANGS-MMBT5401",
+            "OOMPID": "TRNP-SO23-X-KMMBT5401-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C8326"
+        }
+    ],
+    "hexID": [
+        "TRNPSO23-KMMBT5401"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Jiangsu Changjing Electronics Technology Co.",
+            "partID": "MMBT5401",
+            "partName": "MMBT5401"
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) MMBT5401 PNP Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KMMBT5401"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNP-SO23-X-KMMBT5401-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNP"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C8326",
+            "partName": "Basic"
+        }
+    ]
+}

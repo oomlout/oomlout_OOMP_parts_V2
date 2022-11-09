@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RPH12R > JST PH (2 mm) 12 Pin Header Right Angle
+# MPN Summary For: HPH12R > JST PH (2 mm) 12 Pin Header Right Angle
 
 ## MPNs
   

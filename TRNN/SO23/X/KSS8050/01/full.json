@@ -1,0 +1,91 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2150",
+            "LINK": "https://www.lcsc.com/product-detail/C2150.html",
+            "MPN": "MPN-C-JIANGS-SS8050",
+            "OOMPID": "TRNN-SO23-X-KSS8050-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C2150"
+        }
+    ],
+    "hexID": [
+        "TRNN-SO23-KSS8050"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Jiangsu Changjing Electronics Technology Co.",
+            "partID": "SS8050",
+            "partName": "SS8050"
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) SS8050 NPN Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KSS8050"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KSS8050/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNN-SO23-X-KSS8050-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNN"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2150",
+            "partName": "Basic"
+        }
+    ]
+}

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RXH16 > JST XH (2.5 mm) 16 Pin Header
+# MPN Summary For: HXH16 > JST XH (2.5 mm) 16 Pin Header
 
 ## MPNs
   

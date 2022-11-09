@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R501 > 2.54 mm 5 Pin Header
+# MPN Summary For: H501 > 2.54 mm 5 Pin Header
 
 ## MPNs
   

@@ -18,6 +18,9 @@
         "EDA": [
             "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ//labelInventory.pdf"
         ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/qrCode.png"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/details.py"
         ],
@@ -32,6 +35,9 @@
         ],
         "mpnList": [
             "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/ADJ/README.md"
@@ -48,5 +54,8 @@
     ],
     "oompType": [
         "VREG"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117SAJTR_SOT223"
     ]
 }

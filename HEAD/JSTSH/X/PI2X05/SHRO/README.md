@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X5SHRO > JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)](#rsh2x5shro--jst-sh-1-mm-10-pin-2x5-header-shrouded-idc)
+* [HSH2X5SHRO > JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)](#hsh2x5shro--jst-sh-1-mm-10-pin-2x5-header-shrouded-idc)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X5SHRO > JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)
+# HSH2X5SHRO > JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)
 
 - ID: HEAD-JSTSH-X-PI2X05-SHRO
-- Hex ID: RSH2X5SHRO
+- Hex ID: HSH2X5SHRO
 - Name: JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)
 - Description: JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X05-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X05-SHRO)
-- Short Link: [http://oom.lt/RSH2X5SHRO](http://oom.lt/RSH2X5SHRO)
+- Short Link: [http://oom.lt/HSH2X5SHRO](http://oom.lt/HSH2X5SHRO)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X05|
 |OOMP Index|oompIndex|SHRO|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X05-SHRO|
-|Hex ID (short code)|hexID|RSH2X5SHRO|
+|Hex ID (short code)|hexID|HSH2X5SHRO|
 |name|name|JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x05_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x10_Male|
 ||||

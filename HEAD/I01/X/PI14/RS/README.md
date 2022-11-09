@@ -5,27 +5,31 @@
 Contents
 ========
 
-* [R14RS > 2.54 mm 14 Pin Header Right Angle (SMD)](#r14rs--254-mm-14-pin-header-right-angle-smd)
+* [H14RS > 2.54 mm 14 Pin Header Right Angle (SMD)](#h14rs--254-mm-14-pin-header-right-angle-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# R14RS > 2.54 mm 14 Pin Header Right Angle (SMD)
+# H14RS > 2.54 mm 14 Pin Header Right Angle (SMD)
 
 - ID: HEAD-I01-X-PI14-RS
-- Hex ID: R14RS
+- Hex ID: H14RS
 - Name: 2.54 mm 14 Pin Header Right Angle (SMD)
 - Description: 2.54 mm 14 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI14-RS](http://oom.lt/HEAD-I01-X-PI14-RS)
-- Short Link: [http://oom.lt/R14RS](http://oom.lt/R14RS)
+- Short Link: [http://oom.lt/H14RS](http://oom.lt/H14RS)
 
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|[Connector : Conn_01x14_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|[Connector_Generic : Conn_01x14](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|[Connector : Conn_01x14_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|[Connector_Generic : Conn_01x14](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|[Connector : Conn_01x14_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x14_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|[Connector_Generic : Conn_01x14](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x14/)|
 ||||
@@ -57,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI14|
 |OOMP Index|oompIndex|RS|
 |Full OOMP ID|oompID|HEAD-I01-X-PI14-RS|
-|Hex ID (short code)|hexID|R14RS|
+|Hex ID (short code)|hexID|H14RS|
 |name|name|2.54 mm 14 Pin Header Right Angle (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|
 ||||

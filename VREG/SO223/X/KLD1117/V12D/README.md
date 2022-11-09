@@ -47,6 +47,8 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V12D|
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-V12D|
+|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py|
 |Hex ID (short code)|hexID|VR111722312|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 1.2 v|
+|Part Number (Distributor)|distributorPartNumber|<table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C155612</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C155612</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C15561201.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V12D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C347225</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C347225</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C34722501.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V12D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C75486</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C75486</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C7548601.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V12D</td></tr></table>|
 ||||

@@ -1,0 +1,102 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C9002",
+            "LINK": "https://www.lcsc.com/product-detail/C9002.html",
+            "MPN": "MPN-C-YANGXI-X322512MSB4SI",
+            "OOMPID": "XTAL-3225P4-X-MZ12-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C9002"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm",
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering"
+    ],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "XTAL3225P4-MZ12"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YANGXI",
+            "MANUFACTURER": "Yangxing Tech",
+            "MPN": "X322512MSB4SI",
+            "MPNKEY": "MPN-C-YANGXI-X322512MSB4SI",
+            "OOMPID": "XTAL-3225P4-X-MZ12-01",
+            "OOMPIDPARTIAL": "XTAL-3225P4-X-MZ12-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YANGXI",
+            "MANUFACTURER": "Yangxing Tech",
+            "MPN": "X322512MSB4SI",
+            "MPNKEY": "MPN-C-YANGXI-X322512MSB4SI",
+            "OOMPID": "XTAL-3225P4-X-MZ12-01",
+            "OOMPIDPARTIAL": "XTAL-3225P4-X-MZ12-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "matchSpecial": [],
+    "name": [
+        "SMD (3225) (4 Pin) 12 MHz Crystal"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "MZ12"
+    ],
+    "oompID": [
+        "XTAL-3225P4-X-MZ12-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "3225P4"
+    ],
+    "oompType": [
+        "XTAL"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C9002",
+            "partName": "12MHz SMD Crystal Resonator 20pF ??10ppm ??30ppm -40??~+85?? SMD3225-4P  Crystals ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Crystal"
+    ],
+    "symbolKicadDetails": []
+}

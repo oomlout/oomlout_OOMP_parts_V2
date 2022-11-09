@@ -1,0 +1,97 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C7512",
+            "LINK": "https://www.lcsc.com/product-detail/C7512.html",
+            "MPN": "MPN-C-TEXASI-ULN2003ADR",
+            "OOMPID": "ICIC-SC16-X-K2003-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C7512"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "ICIC-SC16-K20301"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TEXASI",
+            "MANUFACTURER": "Texas Instruments",
+            "MPN": "ULN2003ADR",
+            "MPNKEY": "MPN-C-TEXASI-ULN2003ADR",
+            "OOMPID": "ICIC-SC16-X-K2003-01",
+            "OOMPIDPARTIAL": "ICIC-SC16-X-K2003-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TEXASI",
+            "MANUFACTURER": "Texas Instruments",
+            "MPN": "ULN2003ADR",
+            "MPNKEY": "MPN-C-TEXASI-ULN2003ADR",
+            "OOMPID": "ICIC-SC16-X-K2003-01",
+            "OOMPIDPARTIAL": "ICIC-SC16-X-K2003-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "matchSpecial": [],
+    "name": [
+        "16 Pin SMD (SOIC) ULN2003A Heptal Transistor Array"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "K2003"
+    ],
+    "oompID": [
+        "ICIC-SC16-X-K2003-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "SC16"
+    ],
+    "oompType": [
+        "ICIC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C7512",
+            "partName": "SOIC-16  Darlington Transistor Arrays ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [],
+    "symbolKicadDetails": []
+}

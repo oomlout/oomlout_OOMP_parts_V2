@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RSH2X13RS > JST SH (1 mm) 26 Pin (2x13) Header Right Angle (SMD)
+# MPN Summary For: HSH2X13RS > JST SH (1 mm) 26 Pin (2x13) Header Right Angle (SMD)
 
 ## MPNs
   

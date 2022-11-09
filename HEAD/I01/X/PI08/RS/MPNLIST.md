@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R08RS > 2.54 mm 8 Pin Header Right Angle (SMD)
+# MPN Summary For: H08RS > 2.54 mm 8 Pin Header Right Angle (SMD)
 
 ## MPNs
   

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RPH17S > JST PH (2 mm) 17 Pin Header (SMD)
+# MPN Summary For: HPH17S > JST PH (2 mm) 17 Pin Header (SMD)
 
 ## MPNs
   

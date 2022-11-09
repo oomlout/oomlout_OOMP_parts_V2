@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RXH07 > JST XH (2.5 mm) 7 Pin Header
+# MPN Summary For: HXH07 > JST XH (2.5 mm) 7 Pin Header
 
 ## MPNs
   

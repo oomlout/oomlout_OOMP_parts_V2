@@ -1,0 +1,91 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2145",
+            "LINK": "https://www.lcsc.com/product-detail/C2145.html",
+            "MPN": "MPN-C-JIANGS-MMBT5551",
+            "OOMPID": "TRNN-SO23-X-K5551-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C2145"
+        }
+    ],
+    "hexID": [
+        "TRNN-SO23-K5551"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Jiangsu Changjing Electronics Technology Co.",
+            "partID": "MMBT5551",
+            "partName": "MMBT5551"
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) MMBT5551 NPN Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "K5551"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNN-SO23-X-K5551-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNN"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2145",
+            "partName": "Basic"
+        }
+    ]
+}

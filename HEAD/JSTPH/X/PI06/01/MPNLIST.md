@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RPH06 > JST PH (2 mm) 6 Pin Header
+# MPN Summary For: HPH06 > JST PH (2 mm) 6 Pin Header
 
 ## MPNs
   

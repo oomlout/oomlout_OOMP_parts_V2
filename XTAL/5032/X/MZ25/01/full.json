@@ -1,0 +1,68 @@
+{
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_5032-2Pin_5.0x3.2mm",
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
+    ],
+    "hexID": [
+        "XTAL5032-MZ25"
+    ],
+    "name": [
+        "SMD (5032) 25 MHz Crystal"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "MZ25"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/README.md"
+        ]
+    },
+    "oompID": [
+        "XTAL-5032-X-MZ25-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "5032"
+    ],
+    "oompType": [
+        "XTAL"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Crystal"
+    ]
+}

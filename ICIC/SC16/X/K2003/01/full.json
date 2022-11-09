@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C7512",
+            "LINK": "https://www.lcsc.com/product-detail/C7512.html",
+            "MPN": "MPN-C-TEXASI-ULN2003ADR",
+            "OOMPID": "ICIC-SC16-X-K2003-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C7512"
+        }
+    ],
+    "hexID": [
+        "ICIC-SC16-K20301"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TEXASI",
+            "MANUFACTURER": "Texas Instruments",
+            "MPN": "ULN2003ADR",
+            "MPNKEY": "MPN-C-TEXASI-ULN2003ADR",
+            "OOMPID": "ICIC-SC16-X-K2003-01",
+            "OOMPIDPARTIAL": "ICIC-SC16-X-K2003-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TEXASI",
+            "MANUFACTURER": "Texas Instruments",
+            "MPN": "ULN2003ADR",
+            "MPNKEY": "MPN-C-TEXASI-ULN2003ADR",
+            "OOMPID": "ICIC-SC16-X-K2003-01",
+            "OOMPIDPARTIAL": "ICIC-SC16-X-K2003-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "name": [
+        "16 Pin SMD (SOIC) ULN2003A Heptal Transistor Array"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "K2003"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/README.md"
+        ]
+    },
+    "oompID": [
+        "ICIC-SC16-X-K2003-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SC16"
+    ],
+    "oompType": [
+        "ICIC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C7512",
+            "partName": "SOIC-16  Darlington Transistor Arrays ROHS"
+        }
+    ]
+}

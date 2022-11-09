@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C20526",
+            "LINK": "https://www.lcsc.com/product-detail/C20526.html",
+            "MPN": "MPN-C-JIANGS-MMBT3904",
+            "OOMPID": "TRNN-SO23-X-KMMBT3904-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C20526"
+        }
+    ],
+    "hexID": [
+        "TRNN-SO23-KMMBT3904"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "MMBT3904",
+            "MPNKEY": "MPN-C-JIANGS-MMBT3904",
+            "OOMPID": "TRNN-SO23-X-KMMBT3904-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KMMBT3904-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "MMBT3904",
+            "MPNKEY": "MPN-C-JIANGS-MMBT3904",
+            "OOMPID": "TRNN-SO23-X-KMMBT3904-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KMMBT3904-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) MMBT3904 NPN Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KMMBT3904"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNN-SO23-X-KMMBT3904-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNN"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C20526",
+            "partName": "Basic"
+        }
+    ]
+}

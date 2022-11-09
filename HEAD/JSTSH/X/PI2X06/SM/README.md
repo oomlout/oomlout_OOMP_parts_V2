@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X06S > JST SH (1 mm) 12 Pin (2x6) Header (SMD)](#rsh2x06s--jst-sh-1-mm-12-pin-2x6-header-smd)
+* [HSH2X06S > JST SH (1 mm) 12 Pin (2x6) Header (SMD)](#hsh2x06s--jst-sh-1-mm-12-pin-2x6-header-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X06S > JST SH (1 mm) 12 Pin (2x6) Header (SMD)
+# HSH2X06S > JST SH (1 mm) 12 Pin (2x6) Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI2X06-SM
-- Hex ID: RSH2X06S
+- Hex ID: HSH2X06S
 - Name: JST SH (1 mm) 12 Pin (2x6) Header (SMD)
 - Description: JST SH (1 mm) 12 Pin (2x6) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X06-SM](http://oom.lt/HEAD-JSTSH-X-PI2X06-SM)
-- Short Link: [http://oom.lt/RSH2X06S](http://oom.lt/RSH2X06S)
+- Short Link: [http://oom.lt/HSH2X06S](http://oom.lt/HSH2X06S)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X06|
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X06-SM|
-|Hex ID (short code)|hexID|RSH2X06S|
+|Hex ID (short code)|hexID|HSH2X06S|
 |name|name|JST SH (1 mm) 12 Pin (2x6) Header (SMD)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male|
 ||||

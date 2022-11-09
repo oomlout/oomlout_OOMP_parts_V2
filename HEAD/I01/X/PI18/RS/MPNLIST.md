@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R18RS > 2.54 mm 18 Pin Header Right Angle (SMD)
+# MPN Summary For: H18RS > 2.54 mm 18 Pin Header Right Angle (SMD)
 
 ## MPNs
   

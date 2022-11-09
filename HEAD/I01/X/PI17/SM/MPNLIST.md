@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R17S > 2.54 mm 17 Pin Header (SMD)
+# MPN Summary For: H17S > 2.54 mm 17 Pin Header (SMD)
 
 ## MPNs
   

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R2X20 > 2.54 mm 40 Pin (2x20) Header](#r2x20--254-mm-40-pin-2x20-header)
+* [H2X20 > 2.54 mm 40 Pin (2x20) Header](#h2x20--254-mm-40-pin-2x20-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# R2X20 > 2.54 mm 40 Pin (2x20) Header
+# H2X20 > 2.54 mm 40 Pin (2x20) Header
 
 - ID: HEAD-I01-X-PI2X20-01
-- Hex ID: R2X20
+- Hex ID: H2X20
 - Name: 2.54 mm 40 Pin (2x20) Header
 - Description: 2.54 mm 40 Pin (2x20) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X20-01](http://oom.lt/HEAD-I01-X-PI2X20-01)
-- Short Link: [http://oom.lt/R2X20](http://oom.lt/R2X20)
+- Short Link: [http://oom.lt/H2X20](http://oom.lt/H2X20)
 
 ## Footprints
   
@@ -90,7 +90,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X20|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X20-01|
-|Hex ID (short code)|hexID|R2X20|
+|Hex ID (short code)|hexID|H2X20|
 |name|name|2.54 mm 40 Pin (2x20) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x20_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x20_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x40_Male|

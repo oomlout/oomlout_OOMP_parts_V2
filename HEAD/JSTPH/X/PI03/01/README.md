@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [RPH301 > JST PH (2 mm) 3 Pin Header](#rph301--jst-ph-2-mm-3-pin-header)
+* [HPH301 > JST PH (2 mm) 3 Pin Header](#hph301--jst-ph-2-mm-3-pin-header)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Distributor Searches](#distributor-searches)
@@ -13,20 +13,24 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# RPH301 > JST PH (2 mm) 3 Pin Header
+# HPH301 > JST PH (2 mm) 3 Pin Header
 
 - ID: HEAD-JSTPH-X-PI03-01
-- Hex ID: RPH301
+- Hex ID: HPH301
 - Name: JST PH (2 mm) 3 Pin Header
 - Description: JST PH (2 mm) 3 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI03-01](http://oom.lt/HEAD-JSTPH-X-PI03-01)
-- Short Link: [http://oom.lt/RPH301](http://oom.lt/RPH301)
+- Short Link: [http://oom.lt/HPH301](http://oom.lt/HPH301)
 
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|[Connector : Conn_01x03_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|[Connector_Generic : Conn_01x03](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|[Connector : Conn_01x03_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|[Connector_Generic : Conn_01x03](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|[Connector : Conn_01x03_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x03_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|[Connector_Generic : Conn_01x03](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x03/)|
 ||||
@@ -79,9 +83,9 @@ Number of MPNs: 1
 |OOMP Description|oompDesc|PI03|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI03-01|
-|Hex ID (short code)|hexID|RPH301|
+|Hex ID (short code)|hexID|HPH301|
 |name|name|JST PH (2 mm) 3 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x03_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x03|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3885-STAN-01</td><td> ID</td></tr><tr><td> SENSE</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3900-STAN-01</td><td> ID</td></tr><tr><td> NEOPIXEL</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3900-STAN-01</td><td> ID</td></tr><tr><td> PIR</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3988-STAN-01</td><td> ID</td></tr><tr><td> NEO</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4300-STAN-01</td><td> ID</td></tr><tr><td> NEOPIX1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4300-STAN-01</td><td> ID</td></tr><tr><td> SENSE1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4343-STAN-01</td><td> ID</td></tr><tr><td> NEOPIX</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4343-STAN-01</td><td> ID</td></tr><tr><td> SENSE</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4367-STAN-01</td><td> ID</td></tr><tr><td> LEFT</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4367-STAN-01</td><td> ID</td></tr><tr><td> RIGHT</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4409-STAN-01</td><td> ID</td></tr><tr><td> X4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4428-STAN-01</td><td> ID</td></tr><tr><td> LEFT</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4428-STAN-01</td><td> ID</td></tr><tr><td> RIGHT</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4686-STAN-01</td><td> ID</td></tr><tr><td> X4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4745-STAN-01</td><td> ID</td></tr><tr><td> SENSE</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4757-STAN-01</td><td> ID</td></tr><tr><td> NEOPIX</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4800-STAN-01</td><td> ID</td></tr><tr><td> SENSE</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4800-STAN-01</td><td> ID</td></tr><tr><td> SENSE1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4863-STAN-01</td><td> ID</td></tr><tr><td> NEOPIX</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4863-STAN-01</td><td> ID</td></tr><tr><td> SENSE</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4985-STAN-01</td><td> ID</td></tr><tr><td> SENSE</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4985-STAN-01</td><td> ID</td></tr><tr><td> SENSE1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4985-STAN-01</td><td> ID</td></tr><tr><td> SENSE3</td></tr></table>|
 ||||

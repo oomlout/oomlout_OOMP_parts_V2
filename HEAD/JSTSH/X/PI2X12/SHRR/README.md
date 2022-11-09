@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X12SHRR > JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle](#rsh2x12shrr--jst-sh-1-mm-24-pin-2x12-header-shrouded-idc-right-angle)
+* [HSH2X12SHRR > JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle](#hsh2x12shrr--jst-sh-1-mm-24-pin-2x12-header-shrouded-idc-right-angle)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X12SHRR > JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle
+# HSH2X12SHRR > JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle
 
 - ID: HEAD-JSTSH-X-PI2X12-SHRR
-- Hex ID: RSH2X12SHRR
+- Hex ID: HSH2X12SHRR
 - Name: JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle
 - Description: JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X12-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X12-SHRR)
-- Short Link: [http://oom.lt/RSH2X12SHRR](http://oom.lt/RSH2X12SHRR)
+- Short Link: [http://oom.lt/HSH2X12SHRR](http://oom.lt/HSH2X12SHRR)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X12|
 |OOMP Index|oompIndex|SHRR|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X12-SHRR|
-|Hex ID (short code)|hexID|RSH2X12SHRR|
+|Hex ID (short code)|hexID|HSH2X12SHRR|
 |name|name|JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC) Right Angle|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x12_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x12_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x12_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x12_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x12_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x24_Male|
 ||||

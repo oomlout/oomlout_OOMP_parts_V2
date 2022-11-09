@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R2X13 > 2.54 mm 26 Pin (2x13) Header
+# MPN Summary For: H2X13 > 2.54 mm 26 Pin (2x13) Header
 
 ## MPNs
   

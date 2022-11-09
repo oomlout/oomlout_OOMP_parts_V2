@@ -6,6 +6,7 @@ Contents
 ========
 
 * [VR2112826 > SO-8 AP2112K Voltage Regulator 2.6 v](#vr2112826--so-8-ap2112k-voltage-regulator-26-v)
+	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +20,14 @@ NO IMAGE
 - Description: SO-8 AP2112K Voltage Regulator 2.6 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V26D](http://oom.lt/VREG-SO8-X-KAP2112K-V26D)
 - Short Link: [http://oom.lt/VR2112826](http://oom.lt/VR2112826)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/)|[FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/)|[Package_SO : SO-8_3.9x4.9mm_P1.27mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_SO/SO-8_3.9x4.9mm_P1.27mm/)|
+||||
 
 ## Distributor Searches
   
@@ -49,4 +58,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|VREG-SO8-X-KAP2112K-V26D|
 |Hex ID (short code)|hexID|VR2112826|
 |name|name|SO-8 AP2112K Voltage Regulator 2.6 v|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm|
 ||||

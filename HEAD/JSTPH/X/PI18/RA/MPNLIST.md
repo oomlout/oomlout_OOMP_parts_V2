@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RPH18R > JST PH (2 mm) 18 Pin Header Right Angle
+# MPN Summary For: HPH18R > JST PH (2 mm) 18 Pin Header Right Angle
 
 ## MPNs
   

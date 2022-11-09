@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X19SHR > JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)](#rsh2x19shr--jst-sh-1-mm-38-pin-2x19-header-shrouded-idc)
+* [HSH2X19SHR > JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)](#hsh2x19shr--jst-sh-1-mm-38-pin-2x19-header-shrouded-idc)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X19SHR > JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)
+# HSH2X19SHR > JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)
 
 - ID: HEAD-JSTSH-X-PI2X19-SHRO
-- Hex ID: RSH2X19SHR
+- Hex ID: HSH2X19SHR
 - Name: JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)
 - Description: JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X19-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X19-SHRO)
-- Short Link: [http://oom.lt/RSH2X19SHR](http://oom.lt/RSH2X19SHR)
+- Short Link: [http://oom.lt/HSH2X19SHR](http://oom.lt/HSH2X19SHR)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X19|
 |OOMP Index|oompIndex|SHRO|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X19-SHRO|
-|Hex ID (short code)|hexID|RSH2X19SHR|
+|Hex ID (short code)|hexID|HSH2X19SHR|
 |name|name|JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Male|
 ||||

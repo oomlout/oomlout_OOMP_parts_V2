@@ -1,0 +1,102 @@
+{
+    "code": [],
+    "collection": [],
+    "description": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C112574",
+            "LINK": "https://www.lcsc.com/product-detail/C112574.html",
+            "MPN": "MPN-C-YANGXI-X5032110592MSB2GI",
+            "OOMPID": "XTAL-5032-X-MZ11-01",
+            "TAGS": [
+                "STOCK:10K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C112574"
+        }
+    ],
+    "eagleBoard": [],
+    "eagleSchem": [],
+    "footprintEagle": [],
+    "footprintEagleDetails": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_5032-2Pin_5.0x3.2mm",
+        "FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering"
+    ],
+    "footprintKicadDetails": [],
+    "gitName": [],
+    "gitRepo": [],
+    "hexID": [
+        "XTAL5032-MZ11"
+    ],
+    "kicadBoard": [],
+    "kicadSchem": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YANGXI",
+            "MANUFACTURER": "Yangxing Tech",
+            "MPN": "X5032110592MSB2GI",
+            "MPNKEY": "MPN-C-YANGXI-X5032110592MSB2GI",
+            "OOMPID": "XTAL-5032-X-MZ11-01",
+            "OOMPIDPARTIAL": "XTAL-5032-X-MZ11-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YANGXI",
+            "MANUFACTURER": "Yangxing Tech",
+            "MPN": "X5032110592MSB2GI",
+            "MPNKEY": "MPN-C-YANGXI-X5032110592MSB2GI",
+            "OOMPID": "XTAL-5032-X-MZ11-01",
+            "OOMPIDPARTIAL": "XTAL-5032-X-MZ11-01",
+            "TAGS": [
+                "STOCK:10K"
+            ]
+        }
+    ],
+    "matchSpecial": [],
+    "name": [
+        "SMD (5032) 11 MHz Crystal"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "MZ11"
+    ],
+    "oompID": [
+        "XTAL-5032-X-MZ11-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompInstances": [],
+    "oompParts": [],
+    "oompSize": [
+        "5032"
+    ],
+    "oompType": [
+        "XTAL"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C112574",
+            "partName": "11.0592MHz SMD Crystal Resonator 20pF ??10ppm ??50ppm -40??~+85?? SMD5032-2P  Crystals ROHS"
+        }
+    ],
+    "rawParts": [],
+    "symbolEagle": [],
+    "symbolEagleDetails": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Crystal"
+    ],
+    "symbolKicadDetails": []
+}

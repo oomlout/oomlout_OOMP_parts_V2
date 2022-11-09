@@ -1,10 +1,840 @@
 {
-    "footprintKicad": [
-        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric",
-        "FOOTPRINT-kicad-kicad-footprints-Resistor_SMD-R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C26121",
+            "LINK": "https://www.lcsc.com/product-detail/C26121.html",
+            "MPN": "MPN-C-UNIROY-1206W4F2204T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C26121"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C104700",
+            "LINK": "https://www.lcsc.com/product-detail/C104700.html",
+            "MPN": "MPN-C-RALEC-RTT062204FTP",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C104700"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C111535",
+            "LINK": "https://www.lcsc.com/product-detail/C111535.html",
+            "MPN": "MPN-C-UNIROY-1206W4J0225T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C111535"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C118031",
+            "LINK": "https://www.lcsc.com/product-detail/C118031.html",
+            "MPN": "MPN-C-YAGEO-RV1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C118031"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C137164",
+            "LINK": "https://www.lcsc.com/product-detail/C137164.html",
+            "MPN": "MPN-C-YAGEO-RC1206JR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C137164"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C137329",
+            "LINK": "https://www.lcsc.com/product-detail/C137329.html",
+            "MPN": "MPN-C-YAGEO-RC1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C137329"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C171070",
+            "LINK": "https://www.lcsc.com/product-detail/C171070.html",
+            "MPN": "MPN-C-WALSIN-WR12W2204FTL",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C171070"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C171156",
+            "LINK": "https://www.lcsc.com/product-detail/C171156.html",
+            "MPN": "MPN-C-WALSIN-WR12X225JTL",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C171156"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C229524",
+            "LINK": "https://www.lcsc.com/product-detail/C229524.html",
+            "MPN": "MPN-C-YAGEO-AC1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C229524"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C245512",
+            "LINK": "https://www.lcsc.com/product-detail/C245512.html",
+            "MPN": "MPN-C-EVEROH-CR1206F2M20P05Z",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C245512"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C269617",
+            "LINK": "https://www.lcsc.com/product-detail/C269617.html",
+            "MPN": "MPN-C-TYOHM-RMC12062.2M1%N",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C269617"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C280043",
+            "LINK": "https://www.lcsc.com/product-detail/C280043.html",
+            "MPN": "MPN-C-VIKING-CR-06JL7---2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C280043"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C294798",
+            "LINK": "https://www.lcsc.com/product-detail/C294798.html",
+            "MPN": "MPN-C-FHGUAN-RS-06L2204FT",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C294798"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C294799",
+            "LINK": "https://www.lcsc.com/product-detail/C294799.html",
+            "MPN": "MPN-C-FHGUAN-RS-06L225JT",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C294799"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C303743",
+            "LINK": "https://www.lcsc.com/product-detail/C303743.html",
+            "MPN": "MPN-C-RALEC-RTT06225JTP",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C303743"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C414796",
+            "LINK": "https://www.lcsc.com/product-detail/C414796.html",
+            "MPN": "MPN-C-UNIROY-HV06W4F2204T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C414796"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C830133",
+            "LINK": "https://www.lcsc.com/product-detail/C830133.html",
+            "MPN": "MPN-C-KOASPE-RK73B2BTTD225J",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C830133"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C881239",
+            "LINK": "https://www.lcsc.com/product-detail/C881239.html",
+            "MPN": "MPN-C-EVEROH-CR1206J2M20P05Z",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C881239"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C966067",
+            "LINK": "https://www.lcsc.com/product-detail/C966067.html",
+            "MPN": "MPN-C-UNIROY-AS0606J0225T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C966067"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2075747",
+            "LINK": "https://www.lcsc.com/product-detail/C2075747.html",
+            "MPN": "MPN-C-ROHMSE-KTR18EZPF2204",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2075747"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2077895",
+            "LINK": "https://www.lcsc.com/product-detail/C2077895.html",
+            "MPN": "MPN-C-PANASO-ERJ-8ENF2204V",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2077895"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2090939",
+            "LINK": "https://www.lcsc.com/product-detail/C2090939.html",
+            "MPN": "MPN-C-VISHAY-CRCW12062M20FKEA",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2090939"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2091707",
+            "LINK": "https://www.lcsc.com/product-detail/C2091707.html",
+            "MPN": "MPN-C-VISHAY-CRCW12062M20JNEA",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2091707"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2102943",
+            "LINK": "https://www.lcsc.com/product-detail/C2102943.html",
+            "MPN": "MPN-C-TECONN-CRGH1206J2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2102943"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2109823",
+            "LINK": "https://www.lcsc.com/product-detail/C2109823.html",
+            "MPN": "MPN-C-TECONN-CRG1206F2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C2109823"
+        }
     ],
     "hexID": [
         "R12O225"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "1206W4F2204T5E",
+            "MPNKEY": "MPN-C-UNIROY-1206W4F2204T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT062204FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT062204FTP",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "1206W4J0225T5E",
+            "MPNKEY": "MPN-C-UNIROY-1206W4J0225T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RV1206FR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-RV1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC1206JR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-RC1206JR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC1206FR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-RC1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR12W2204FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR12W2204FTL",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR12X225JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR12X225JTL",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC1206FR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-AC1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EVEROH",
+            "MANUFACTURER": "Ever Ohms Tech",
+            "MPN": "CR1206F2M20P05Z",
+            "MPNKEY": "MPN-C-EVEROH-CR1206F2M20P05Z",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TYOHM",
+            "MANUFACTURER": "TyoHM",
+            "MPN": "RMC12062.2M1%N",
+            "MPNKEY": "MPN-C-TYOHM-RMC12062.2M1%N",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIKING",
+            "MANUFACTURER": "Viking Tech",
+            "MPN": "CR-06JL7---2M2",
+            "MPNKEY": "MPN-C-VIKING-CR-06JL7---2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-06L2204FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-06L2204FT",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-06L225JT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-06L225JT",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT06225JTP",
+            "MPNKEY": "MPN-C-RALEC-RTT06225JTP",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "HV06W4F2204T5E",
+            "MPNKEY": "MPN-C-UNIROY-HV06W4F2204T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B2BTTD225J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B2BTTD225J",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EVEROH",
+            "MANUFACTURER": "Ever Ohms Tech",
+            "MPN": "CR1206J2M20P05Z",
+            "MPNKEY": "MPN-C-EVEROH-CR1206J2M20P05Z",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "AS0606J0225T5E",
+            "MPNKEY": "MPN-C-UNIROY-AS0606J0225T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR18EZPF2204",
+            "MPNKEY": "MPN-C-ROHMSE-KTR18EZPF2204",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-8ENF2204V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-8ENF2204V",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW12062M20FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW12062M20FKEA",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW12062M20JNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW12062M20JNEA",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGH1206J2M2",
+            "MPNKEY": "MPN-C-TECONN-CRGH1206J2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRG1206F2M2",
+            "MPNKEY": "MPN-C-TECONN-CRG1206F2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "1206W4F2204T5E",
+            "MPNKEY": "MPN-C-UNIROY-1206W4F2204T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT062204FTP",
+            "MPNKEY": "MPN-C-RALEC-RTT062204FTP",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "1206W4J0225T5E",
+            "MPNKEY": "MPN-C-UNIROY-1206W4J0225T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RV1206FR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-RV1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC1206JR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-RC1206JR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "RC1206FR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-RC1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR12W2204FTL",
+            "MPNKEY": "MPN-C-WALSIN-WR12W2204FTL",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-WALSIN",
+            "MANUFACTURER": "Walsin Tech Corp",
+            "MPN": "WR12X225JTL",
+            "MPNKEY": "MPN-C-WALSIN-WR12X225JTL",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-YAGEO",
+            "MANUFACTURER": "YAGEO",
+            "MPN": "AC1206FR-072M2L",
+            "MPNKEY": "MPN-C-YAGEO-AC1206FR-072M2L",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EVEROH",
+            "MANUFACTURER": "Ever Ohms Tech",
+            "MPN": "CR1206F2M20P05Z",
+            "MPNKEY": "MPN-C-EVEROH-CR1206F2M20P05Z",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TYOHM",
+            "MANUFACTURER": "TyoHM",
+            "MPN": "RMC12062.2M1%N",
+            "MPNKEY": "MPN-C-TYOHM-RMC12062.2M1%N",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VIKING",
+            "MANUFACTURER": "Viking Tech",
+            "MPN": "CR-06JL7---2M2",
+            "MPNKEY": "MPN-C-VIKING-CR-06JL7---2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-06L2204FT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-06L2204FT",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FHGUAN",
+            "MANUFACTURER": "FH (Guangdong Fenghua Advanced Tech)",
+            "MPN": "RS-06L225JT",
+            "MPNKEY": "MPN-C-FHGUAN-RS-06L225JT",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-RALEC",
+            "MANUFACTURER": "RALEC",
+            "MPN": "RTT06225JTP",
+            "MPNKEY": "MPN-C-RALEC-RTT06225JTP",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "HV06W4F2204T5E",
+            "MPNKEY": "MPN-C-UNIROY-HV06W4F2204T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-KOASPE",
+            "MANUFACTURER": "KOA Speer Elec",
+            "MPN": "RK73B2BTTD225J",
+            "MPNKEY": "MPN-C-KOASPE-RK73B2BTTD225J",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-EVEROH",
+            "MANUFACTURER": "Ever Ohms Tech",
+            "MPN": "CR1206J2M20P05Z",
+            "MPNKEY": "MPN-C-EVEROH-CR1206J2M20P05Z",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-UNIROY",
+            "MANUFACTURER": "UNI-ROYAL(Uniroyal Elec)",
+            "MPN": "AS0606J0225T5E",
+            "MPNKEY": "MPN-C-UNIROY-AS0606J0225T5E",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ROHMSE",
+            "MANUFACTURER": "ROHM Semicon",
+            "MPN": "KTR18EZPF2204",
+            "MPNKEY": "MPN-C-ROHMSE-KTR18EZPF2204",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-PANASO",
+            "MANUFACTURER": "PANASONIC",
+            "MPN": "ERJ-8ENF2204V",
+            "MPNKEY": "MPN-C-PANASO-ERJ-8ENF2204V",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW12062M20FKEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW12062M20FKEA",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-VISHAY",
+            "MANUFACTURER": "Vishay Intertech",
+            "MPN": "CRCW12062M20JNEA",
+            "MPNKEY": "MPN-C-VISHAY-CRCW12062M20JNEA",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRGH1206J2M2",
+            "MPNKEY": "MPN-C-TECONN-CRGH1206J2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TECONN",
+            "MANUFACTURER": "TE Connectivity",
+            "MPN": "CRG1206F2M2",
+            "MPNKEY": "MPN-C-TECONN-CRG1206F2M2",
+            "OOMPID": "RESE-1206-X-O225-01",
+            "OOMPIDPARTIAL": "RESE-1206-X-O225-01",
+            "TAGS": []
+        }
     ],
     "name": [
         "SMD (1206) 2.2M Ohm Resistor"
@@ -22,11 +852,17 @@
         "EDA": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01//labelInventory.pdf"
         ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/qrCode.png"
+        ],
         "details": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/details.py"
         ],
         "detailsFootprintsOomp": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/detailsFootprintsOomp.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/detailsPartNumbers.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/basic.json"
@@ -39,6 +875,9 @@
         ],
         "mpnList": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/qrCode.png"
         ],
         "readme": [
             "oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/README.md"

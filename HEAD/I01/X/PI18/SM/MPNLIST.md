@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R18S > 2.54 mm 18 Pin Header (SMD)
+# MPN Summary For: H18S > 2.54 mm 18 Pin Header (SMD)
 
 ## MPNs
   

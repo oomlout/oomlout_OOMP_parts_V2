@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X18RS > JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)](#rsh2x18rs--jst-sh-1-mm-36-pin-2x18-header-right-angle-smd)
+* [HSH2X18RS > JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)](#hsh2x18rs--jst-sh-1-mm-36-pin-2x18-header-right-angle-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X18RS > JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)
+# HSH2X18RS > JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)
 
 - ID: HEAD-JSTSH-X-PI2X18-RS
-- Hex ID: RSH2X18RS
+- Hex ID: HSH2X18RS
 - Name: JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)
 - Description: JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X18-RS](http://oom.lt/HEAD-JSTSH-X-PI2X18-RS)
-- Short Link: [http://oom.lt/RSH2X18RS](http://oom.lt/RSH2X18RS)
+- Short Link: [http://oom.lt/HSH2X18RS](http://oom.lt/HSH2X18RS)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X18|
 |OOMP Index|oompIndex|RS|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X18-RS|
-|Hex ID (short code)|hexID|RSH2X18RS|
+|Hex ID (short code)|hexID|HSH2X18RS|
 |name|name|JST SH (1 mm) 36 Pin (2x18) Header Right Angle (SMD)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x18_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x36_Male|
 ||||

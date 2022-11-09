@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C8512",
+            "LINK": "https://www.lcsc.com/product-detail/C8512.html",
+            "MPN": "MPN-C-JIANGS-MMBT2222A 1P",
+            "OOMPID": "TRNN-SO23-X-KMMBT2222A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C8512"
+        }
+    ],
+    "hexID": [
+        "TRNN-SO23-KMMBT2222A"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "MMBT2222A 1P",
+            "MPNKEY": "MPN-C-JIANGS-MMBT2222A 1P",
+            "OOMPID": "TRNN-SO23-X-KMMBT2222A-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KMMBT2222A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "MMBT2222A 1P",
+            "MPNKEY": "MPN-C-JIANGS-MMBT2222A 1P",
+            "OOMPID": "TRNN-SO23-X-KMMBT2222A-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KMMBT2222A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) MMBT2222A NPN Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KMMBT2222A"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNN-SO23-X-KMMBT2222A-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNN"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C8512",
+            "partName": "Basic"
+        }
+    ]
+}

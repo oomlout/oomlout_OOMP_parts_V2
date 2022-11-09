@@ -17,6 +17,9 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['oplPartNumber'].append({'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C115962', 'partName': '8MHz SMD Crystal Resonator 20pF ??10ppm ??50ppm -40??~+85?? SMD5032-2P  Crystals ROHS'})
+    newPart['distributorPartNumber'].append({'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C115962'})
+    newPart['manufacturerPartNumber'].append({'code': 'C-XXXX', 'name': 'Yangxing Tech', 'partID': 'X50328MSB2GI', 'partName': 'X50328MSB2GI'})
 
 
     ######  Common

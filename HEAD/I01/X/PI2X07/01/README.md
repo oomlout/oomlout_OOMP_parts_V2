@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [R2X07 > 2.54 mm 14 Pin (2x7) Header](#r2x07--254-mm-14-pin-2x7-header)
+* [H2X07 > 2.54 mm 14 Pin (2x7) Header](#h2x07--254-mm-14-pin-2x7-header)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# R2X07 > 2.54 mm 14 Pin (2x7) Header
+# H2X07 > 2.54 mm 14 Pin (2x7) Header
 
 - ID: HEAD-I01-X-PI2X07-01
-- Hex ID: R2X07
+- Hex ID: H2X07
 - Name: 2.54 mm 14 Pin (2x7) Header
 - Description: 2.54 mm 14 Pin (2x7) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X07-01](http://oom.lt/HEAD-I01-X-PI2X07-01)
-- Short Link: [http://oom.lt/R2X07](http://oom.lt/R2X07)
+- Short Link: [http://oom.lt/H2X07](http://oom.lt/H2X07)
 
 ## Footprints
   
@@ -79,7 +79,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X07|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X07-01|
-|Hex ID (short code)|hexID|R2X07|
+|Hex ID (short code)|hexID|H2X07|
 |name|name|2.54 mm 14 Pin (2x7) Header|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_2x07_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x07_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male|

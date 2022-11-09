@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X16S > JST SH (1 mm) 32 Pin (2x16) Header (SMD)](#rsh2x16s--jst-sh-1-mm-32-pin-2x16-header-smd)
+* [HSH2X16S > JST SH (1 mm) 32 Pin (2x16) Header (SMD)](#hsh2x16s--jst-sh-1-mm-32-pin-2x16-header-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X16S > JST SH (1 mm) 32 Pin (2x16) Header (SMD)
+# HSH2X16S > JST SH (1 mm) 32 Pin (2x16) Header (SMD)
 
 - ID: HEAD-JSTSH-X-PI2X16-SM
-- Hex ID: RSH2X16S
+- Hex ID: HSH2X16S
 - Name: JST SH (1 mm) 32 Pin (2x16) Header (SMD)
 - Description: JST SH (1 mm) 32 Pin (2x16) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X16-SM](http://oom.lt/HEAD-JSTSH-X-PI2X16-SM)
-- Short Link: [http://oom.lt/RSH2X16S](http://oom.lt/RSH2X16S)
+- Short Link: [http://oom.lt/HSH2X16S](http://oom.lt/HSH2X16S)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X16|
 |OOMP Index|oompIndex|SM|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X16-SM|
-|Hex ID (short code)|hexID|RSH2X16S|
+|Hex ID (short code)|hexID|HSH2X16S|
 |name|name|JST SH (1 mm) 32 Pin (2x16) Header (SMD)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x16_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x32_Male|
 ||||

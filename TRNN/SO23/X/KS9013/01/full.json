@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C6749",
+            "LINK": "https://www.lcsc.com/product-detail/C6749.html",
+            "MPN": "MPN-C-JIANGS-S9013 J3",
+            "OOMPID": "TRNN-SO23-X-KS9013-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C6749"
+        }
+    ],
+    "hexID": [
+        "TRNN-SO23-KS9013"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "S9013 J3",
+            "MPNKEY": "MPN-C-JIANGS-S9013 J3",
+            "OOMPID": "TRNN-SO23-X-KS9013-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KS9013-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "S9013 J3",
+            "MPNKEY": "MPN-C-JIANGS-S9013 J3",
+            "OOMPID": "TRNN-SO23-X-KS9013-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KS9013-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) S9013 NPN Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KS9013"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNN/SO23/X/KS9013/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNN-SO23-X-KS9013-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNN"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C6749",
+            "partName": "Basic"
+        }
+    ]
+}

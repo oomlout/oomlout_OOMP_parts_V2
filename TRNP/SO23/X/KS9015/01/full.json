@@ -1,0 +1,91 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2149",
+            "LINK": "https://www.lcsc.com/product-detail/C2149.html",
+            "MPN": "MPN-C-JIANGS-S9015",
+            "OOMPID": "TRNP-SO23-X-KS9015-01",
+            "TAGS": [
+                "STOCK:10K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C2149"
+        }
+    ],
+    "hexID": [
+        "TRNPSO23-KS9015"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "code": "C-XXXX",
+            "name": "Jiangsu Changjing Electronics Technology Co.",
+            "partID": "S9015",
+            "partName": "S9015"
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) S9015 PNP Transistor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KS9015"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/README.md"
+        ]
+    },
+    "oompID": [
+        "TRNP-SO23-X-KS9015-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "TRNP"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2149",
+            "partName": "Basic"
+        }
+    ]
+}

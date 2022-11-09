@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RXH11 > JST XH (2.5 mm) 11 Pin Header
+# MPN Summary For: HXH11 > JST XH (2.5 mm) 11 Pin Header
 
 ## MPNs
   

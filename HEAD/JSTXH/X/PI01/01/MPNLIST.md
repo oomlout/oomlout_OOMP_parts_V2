@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RXHP01 > JST XH (2.5 mm) 1 Pin Header
+# MPN Summary For: HXHP01 > JST XH (2.5 mm) 1 Pin Header
 
 ## MPNs
   

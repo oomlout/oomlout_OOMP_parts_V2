@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C9683",
+            "LINK": "https://www.lcsc.com/product-detail/C9683.html",
+            "MPN": "MPN-C-TEXASI-ULN2803ADWR",
+            "OOMPID": "ICIC-SC18W-X-K2803-01",
+            "TAGS": [
+                "STOCK:1K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C9683"
+        }
+    ],
+    "hexID": [
+        "ICIC-SC18WK28301"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TEXASI",
+            "MANUFACTURER": "Texas Instruments",
+            "MPN": "ULN2803ADWR",
+            "MPNKEY": "MPN-C-TEXASI-ULN2803ADWR",
+            "OOMPID": "ICIC-SC18W-X-K2803-01",
+            "OOMPIDPARTIAL": "ICIC-SC18W-X-K2803-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-TEXASI",
+            "MANUFACTURER": "Texas Instruments",
+            "MPN": "ULN2803ADWR",
+            "MPNKEY": "MPN-C-TEXASI-ULN2803ADWR",
+            "OOMPID": "ICIC-SC18W-X-K2803-01",
+            "OOMPIDPARTIAL": "ICIC-SC18W-X-K2803-01",
+            "TAGS": [
+                "STOCK:1K"
+            ]
+        }
+    ],
+    "name": [
+        "18 Pin SMD (SOIC Wide 7.62 mm) ULN2803A Octal Transistor Array"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "K2803"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/README.md"
+        ]
+    },
+    "oompID": [
+        "ICIC-SC18W-X-K2803-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SC18W"
+    ],
+    "oompType": [
+        "ICIC"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C9683",
+            "partName": "SOIC-18_300mil  Darlington Transistor Arrays ROHS"
+        }
+    ]
+}

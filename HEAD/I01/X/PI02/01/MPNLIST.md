@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R02 > 2.54 mm 2 Pin Header
+# MPN Summary For: H02 > 2.54 mm 2 Pin Header
 
 ## MPNs
   

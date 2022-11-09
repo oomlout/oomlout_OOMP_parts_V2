@@ -5,27 +5,31 @@
 Contents
 ========
 
-* [RPHPRA > JST PH (2 mm) 1 Pin Header Right Angle](#rphpra--jst-ph-2-mm-1-pin-header-right-angle)
+* [HPHPRA > JST PH (2 mm) 1 Pin Header Right Angle](#hphpra--jst-ph-2-mm-1-pin-header-right-angle)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RPHPRA > JST PH (2 mm) 1 Pin Header Right Angle
+# HPHPRA > JST PH (2 mm) 1 Pin Header Right Angle
 
 - ID: HEAD-JSTPH-X-PI01-RA
-- Hex ID: RPHPRA
+- Hex ID: HPHPRA
 - Name: JST PH (2 mm) 1 Pin Header Right Angle
 - Description: JST PH (2 mm) 1 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI01-RA](http://oom.lt/HEAD-JSTPH-X-PI01-RA)
-- Short Link: [http://oom.lt/RPHPRA](http://oom.lt/RPHPRA)
+- Short Link: [http://oom.lt/HPHPRA](http://oom.lt/HPHPRA)
 
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[Connector : Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[Connector_Generic : Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[Connector : Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[Connector_Generic : Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|[Connector : Conn_01x01_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x01_Male/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|[Connector_Generic : Conn_01x01](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x01/)|
 ||||
@@ -57,8 +61,8 @@ Number of MPNs: 1
 |OOMP Description|oompDesc|PI01|
 |OOMP Index|oompIndex|RA|
 |Full OOMP ID|oompID|HEAD-JSTPH-X-PI01-RA|
-|Hex ID (short code)|hexID|RPHPRA|
+|Hex ID (short code)|hexID|HPHPRA|
 |name|name|JST PH (2 mm) 1 Pin Header Right Angle|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|
 ||||

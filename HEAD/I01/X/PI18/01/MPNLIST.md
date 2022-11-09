@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R18 > 2.54 mm 18 Pin Header
+# MPN Summary For: H18 > 2.54 mm 18 Pin Header
 
 ## MPNs
   

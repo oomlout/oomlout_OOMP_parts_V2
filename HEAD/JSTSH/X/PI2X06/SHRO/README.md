@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [RSH2X06SHR > JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)](#rsh2x06shr--jst-sh-1-mm-12-pin-2x6-header-shrouded-idc)
+* [HSH2X06SHR > JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)](#hsh2x06shr--jst-sh-1-mm-12-pin-2x6-header-shrouded-idc)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
   
 NO IMAGE  
-# RSH2X06SHR > JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)
+# HSH2X06SHR > JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)
 
 - ID: HEAD-JSTSH-X-PI2X06-SHRO
-- Hex ID: RSH2X06SHR
+- Hex ID: HSH2X06SHR
 - Name: JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)
 - Description: JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X06-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X06-SHRO)
-- Short Link: [http://oom.lt/RSH2X06SHR](http://oom.lt/RSH2X06SHR)
+- Short Link: [http://oom.lt/HSH2X06SHR](http://oom.lt/HSH2X06SHR)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|PI2X06|
 |OOMP Index|oompIndex|SHRO|
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI2X06-SHRO|
-|Hex ID (short code)|hexID|RSH2X06SHR|
+|Hex ID (short code)|hexID|HSH2X06SHR|
 |name|name|JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC)|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x06_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x12_Male|
 ||||

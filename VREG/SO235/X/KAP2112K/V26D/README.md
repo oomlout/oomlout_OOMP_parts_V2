@@ -6,6 +6,8 @@ Contents
 ========
 
 * [VR211223526 > SMD (SOT-23-5) AP2112K Voltage Regulator 2.6 v](#vr211223526--smd-sot-23-5-ap2112k-voltage-regulator-26-v)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,23 @@ NO IMAGE
 - Description: SMD (SOT-23-5) AP2112K Voltage Regulator 2.6 v
 - Long Link: [http://oom.lt/VREG-SO235-X-KAP2112K-V26D](http://oom.lt/VREG-SO235-X-KAP2112K-V26D)
 - Short Link: [http://oom.lt/VR211223526](http://oom.lt/VR211223526)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|[Package_TO_SOT_SMD : SOT-23-5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|[Package_TO_SOT_SMD : SOT-23-5_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2112K-2.6/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2112K-2.6/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.6](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2112K-2.6/)|[Regulator_Linear : AP2112K-2.6](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP2112K-2.6/)|
+||||
 
 ## Distributor Searches
   
@@ -49,4 +68,6 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|VREG-SO235-X-KAP2112K-V26D|
 |Hex ID (short code)|hexID|VR211223526|
 |name|name|SMD (SOT-23-5) AP2112K Voltage Regulator 2.6 v|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5, FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.6|
 ||||

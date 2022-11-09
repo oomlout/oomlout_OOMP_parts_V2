@@ -36,6 +36,8 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|[Connector : Screw_Terminal_01x07](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|[Connector : Screw_Terminal_01x07](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|[Connector : Screw_Terminal_01x07](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x07/)|
 ||||
 
 ## Distributor Searches
@@ -68,5 +70,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|T35L7|
 |name|name|3.5 mm 7 Pin Blue Screw Terminal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x07_P3.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x07|
 ||||

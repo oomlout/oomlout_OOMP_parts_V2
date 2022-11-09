@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: RP01 > 2.54 mm 1 Pin Header
+# MPN Summary For: HP01 > 2.54 mm 1 Pin Header
 
 ## MPNs
   

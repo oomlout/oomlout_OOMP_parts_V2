@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R13 > 2.54 mm 13 Pin Header
+# MPN Summary For: H13 > 2.54 mm 13 Pin Header
 
 ## MPNs
   

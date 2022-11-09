@@ -2,7 +2,20 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C2146",
+            "LINK": "https://www.lcsc.com/product-detail/C2146.html",
+            "MPN": "MPN-C-JIANGS-S8050 J3Y",
+            "OOMPID": "TRNN-SO23-X-KS8050-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C2146"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
@@ -12,11 +25,38 @@
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "TNS248050"
+        "TRNN-SO23-KS8050"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
-    "manufacturerPartNumber": [],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "S8050 J3Y",
+            "MPNKEY": "MPN-C-JIANGS-S8050 J3Y",
+            "OOMPID": "TRNN-SO23-X-KS8050-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KS8050-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JIANGS",
+            "MANUFACTURER": "Jiangsu Changjing Electronics Technology Co., Ltd.",
+            "MPN": "S8050 J3Y",
+            "MPNKEY": "MPN-C-JIANGS-S8050 J3Y",
+            "OOMPID": "TRNN-SO23-X-KS8050-01",
+            "OOMPIDPARTIAL": "TRNN-SO23-X-KS8050-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        }
+    ],
     "matchSpecial": [],
     "name": [
         "SMD (SOT-23) S8050 NPN Transistor"
@@ -41,7 +81,14 @@
     "oompType": [
         "TRNN"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2146",
+            "partName": "Basic"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

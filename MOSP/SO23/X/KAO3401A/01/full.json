@@ -1,0 +1,111 @@
+{
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C15127",
+            "LINK": "https://www.lcsc.com/product-detail/C15127.html",
+            "MPN": "MPN-C-ALPHAO-AO3401A",
+            "OOMPID": "MOSP-SO23-X-KAO3401A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C15127"
+        }
+    ],
+    "hexID": [
+        "MOSPSO23-KAO3401A"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ALPHAO",
+            "MANUFACTURER": "Alpha & Omega Semicon",
+            "MPN": "AO3401A",
+            "MPNKEY": "MPN-C-ALPHAO-AO3401A",
+            "OOMPID": "MOSP-SO23-X-KAO3401A-01",
+            "OOMPIDPARTIAL": "MOSP-SO23-X-KAO3401A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ALPHAO",
+            "MANUFACTURER": "Alpha & Omega Semicon",
+            "MPN": "AO3401A",
+            "MPNKEY": "MPN-C-ALPHAO-AO3401A",
+            "OOMPID": "MOSP-SO23-X-KAO3401A-01",
+            "OOMPIDPARTIAL": "MOSP-SO23-X-KAO3401A-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
+    ],
+    "name": [
+        "SMD (SOT-23) AO3401A P-Ch. MOSFET"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KAO3401A"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/details.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/detailsPartNumbers.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/README.md"
+        ]
+    },
+    "oompID": [
+        "MOSP-SO23-X-KAO3401A-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO23"
+    ],
+    "oompType": [
+        "MOSP"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C15127",
+            "partName": "30V 4A 44m??@10V"
+        }
+    ]
+}

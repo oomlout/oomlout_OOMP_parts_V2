@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: R15S > 2.54 mm 15 Pin Header (SMD)
+# MPN Summary For: H15S > 2.54 mm 15 Pin Header (SMD)
 
 ## MPNs
   
