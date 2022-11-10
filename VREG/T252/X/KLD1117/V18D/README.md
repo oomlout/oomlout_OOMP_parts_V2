@@ -56,7 +56,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V18D|
 |Full OOMP ID|oompID|VREG-T252-X-KLD1117-V18D|
-|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py|
+|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
 |Hex ID (short code)|hexID|VR111725218|
 |name|name|TO-252 (SMD) LD1117 Voltage Regulator 1.8 v|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S18TR_SOT223|

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L6G > SMD (0603) Green LED
+# MPN Summary For: L6GG > SMD (0603) Green LED
 
 ## MPNs
   

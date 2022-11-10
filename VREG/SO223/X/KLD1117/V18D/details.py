@@ -18,6 +18,7 @@ def load(newPart,it):
     newPart['oompID'].append(oompID)
 
     newPart['oompNote'].append('LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py')
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15')
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S18TR_SOT223')
 
 

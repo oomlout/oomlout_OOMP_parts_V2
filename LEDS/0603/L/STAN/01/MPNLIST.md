@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L6L > SMD (0603) Blue LED
+# MPN Summary For: L6LL > SMD (0603) Blue LED
 
 ## MPNs
   

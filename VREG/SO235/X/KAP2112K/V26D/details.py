@@ -17,6 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2204K-1.5')
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.6')
 
 

@@ -18,6 +18,7 @@ def load(newPart,it):
     newPart['oompID'].append(oompID)
 
     newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm')
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24V-10M')
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M')
 
 

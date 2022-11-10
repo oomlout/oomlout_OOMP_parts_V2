@@ -65,7 +65,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V25D|
 |Full OOMP ID|oompID|VREG-T220-X-KLD1117-V25D|
-|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py|
+|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
 |Hex ID (short code)|hexID|VR111722025|
 |name|name|TO-220 LD1117 Voltage Regulator 2.5 v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|

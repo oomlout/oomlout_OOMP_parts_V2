@@ -56,7 +56,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|ADJ|
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-ADJ|
-|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py|
+|OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
 |Hex ID (short code)|hexID|VR1117223AJ|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C283466'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C283466'</td><td> 'MPN'</td></tr><tr><td> ''</td><td> 'TAGS'</td></tr><tr><td> []</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C28346601.html'</td><td> 'OOMPID'</td></tr><tr><td> 'VREG-SO223-X-KLD1117-ADJ'</td></tr></table>|

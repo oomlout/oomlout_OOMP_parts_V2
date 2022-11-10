@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [L8Y > SMD (0805) Yellow LED](#l8y--smd-0805-yellow-led)
+* [L0805YY > SMD (0805) Yellow LED](#l0805yy--smd-0805-yellow-led)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 ![][im]
-# L8Y > SMD (0805) Yellow LED
+# L0805YY > SMD (0805) Yellow LED
 
 - ID: LEDS-0805-Y-STAN-01
-- Hex ID: L8Y
+- Hex ID: L0805YY
 - Name: SMD (0805) Yellow LED
 - Description: SMD (0805) Yellow LED
 - Long Link: [http://oom.lt/LEDS-0805-Y-STAN-01](http://oom.lt/LEDS-0805-Y-STAN-01)
-- Short Link: [http://oom.lt/L8Y](http://oom.lt/L8Y)
+- Short Link: [http://oom.lt/L0805YY](http://oom.lt/L0805YY)
 
 ## Footprints
   
@@ -71,11 +71,10 @@ Links to search for this item (using OOMP name) at various distributors
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+0805+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+0805+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+0805+Yellow+LED)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+0805+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+0805+Yellow+LED)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+0805+Yellow+LED)&nbsp;&nbsp;&nbsp;
 ## MPNs
   
-Number of MPNs: 2  
+Number of MPNs: 1  
 
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
-|Hubei KENTO Elec<br>17-21SUYC/TR8||[(AV) ](https://www.avnet.com/shop/us/search/17-21SUYC/TR8)[(DK) ](https://www.digikey.co.uk/products/en?keywords=17-21SUYC/TR8)[(LCSC) ](https://www.lcsc.com/search?q=17-21SUYC/TR8)[(FA) ](https://uk.farnell.com/search?st=17-21SUYC/TR8)[(MO) ](https://www.mouser.com/c/?q=17-21SUYC/TR8)|
 |Hubei KENTO Elec<br>17-21SUYC/TR8||[(AV) ](https://www.avnet.com/shop/us/search/17-21SUYC/TR8)[(DK) ](https://www.digikey.co.uk/products/en?keywords=17-21SUYC/TR8)[(LCSC) ](https://www.lcsc.com/search?q=17-21SUYC/TR8)[(FA) ](https://uk.farnell.com/search?st=17-21SUYC/TR8)[(MO) ](https://www.mouser.com/c/?q=17-21SUYC/TR8)|
 ||||
   
@@ -94,11 +93,10 @@ Number of MPNs: 2
 |OOMP Description|oompDesc|STAN|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|LEDS-0805-Y-STAN-01|
-|Hex ID (short code)|hexID|L8Y|
+|Hex ID (short code)|hexID|L0805YY|
 |name|name|SMD (0805) Yellow LED|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-HUBEIK-17-21SUYC/TR8</td><td> MANUFACTURER</td></tr><tr><td> Hubei KENTO Elec</td><td> MANUCODE</td></tr><tr><td> C-HUBEIK</td><td> MPN</td></tr><tr><td> 17-21SUYC/TR8</td><td> OOMPIDPARTIAL</td></tr><tr><td> LEDS-0805-Y-STAN-01</td><td> OOMPID</td></tr><tr><td> LEDS-0805-Y-STAN-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-HUBEIK-17-21SUYC/TR8</td><td> MANUFACTURER</td></tr><tr><td> Hubei KENTO Elec</td><td> MANUCODE</td></tr><tr><td> C-HUBEIK</td><td> MPN</td></tr><tr><td> 17-21SUYC/TR8</td><td> OOMPIDPARTIAL</td></tr><tr><td> LEDS-0805-Y-STAN-01</td><td> OOMPID</td></tr><tr><td> LEDS-0805-Y-STAN-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table>|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-HUBEIK-17-21SUYC/TR8'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'Hubei KENTO Elec'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-HUBEIK'</td><td> 'MPN'</td></tr><tr><td> '17-21SUYC/TR8'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'LEDS-0805-Y-STAN-01'</td><td> 'OOMPID'</td></tr><tr><td> 'LEDS-0805-Y-STAN-01'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'DESCRIPTION'</td></tr><tr><td> ''</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C2296'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C2296'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-HUBEIK-17-21SUYC/TR8'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C2296.html'</td><td> 'OOMPID'</td></tr><tr><td> 'LEDS-0805-Y-STAN-01'</td></tr></table>|
-|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C2296'</td><td> 'partName'</td></tr><tr><td> 'Yellow 592~594nm 0805 Light Emitting Diodes (LED) RoHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric, FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|
 |Footprint Eagle|footprintEagle|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|

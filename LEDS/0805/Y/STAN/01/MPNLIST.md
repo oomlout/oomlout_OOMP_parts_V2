@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L8Y > SMD (0805) Yellow LED
+# MPN Summary For: L0805YY > SMD (0805) Yellow LED
 
 ## MPNs
   

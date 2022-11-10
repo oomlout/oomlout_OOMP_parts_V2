@@ -45,11 +45,10 @@ Links to search for this item (using OOMP name) at various distributors
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+SH+1+mm+13+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+SH+1+mm+13+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+SH+1+mm+13+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+SH+1+mm+13+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+SH+1+mm+13+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+SH+1+mm+13+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;
 ## MPNs
   
-Number of MPNs: 2  
+Number of MPNs: 1  
 
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
-|Japan Solderless Terminals<br>BM13B-SRSS-TB||[(AV) ](https://www.avnet.com/shop/us/search/BM13B-SRSS-TB)[(DK) ](https://www.digikey.co.uk/products/en?keywords=BM13B-SRSS-TB)[(LCSC) ](https://www.lcsc.com/search?q=BM13B-SRSS-TB)[(FA) ](https://uk.farnell.com/search?st=BM13B-SRSS-TB)[(MO) ](https://www.mouser.com/c/?q=BM13B-SRSS-TB)|
 |Japan Solderless Terminals<br>BM13B-SRSS-TB||[(AV) ](https://www.avnet.com/shop/us/search/BM13B-SRSS-TB)[(DK) ](https://www.digikey.co.uk/products/en?keywords=BM13B-SRSS-TB)[(LCSC) ](https://www.lcsc.com/search?q=BM13B-SRSS-TB)[(FA) ](https://uk.farnell.com/search?st=BM13B-SRSS-TB)[(MO) ](https://www.mouser.com/c/?q=BM13B-SRSS-TB)|
 ||||
   
@@ -70,7 +69,7 @@ Number of MPNs: 2
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI13-SM|
 |Hex ID (short code)|hexID|HSH13|
 |name|name|JST SH (1 mm) 13 Pin Header (SMD)|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM13B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM13B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI13-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI13-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM13B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM13B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI13-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI13-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'MPNKEY'</td></tr><tr><td> 'MPN-C-JSTSAL-BM13B-SRSS-TB'</td><td> 'MANUFACTURER'</td></tr><tr><td> 'Japan Solderless Terminals'</td><td> 'MANUCODE'</td></tr><tr><td> 'C-JSTSAL'</td><td> 'MPN'</td></tr><tr><td> 'BM13B-SRSS-TB'</td><td> 'OOMPIDPARTIAL'</td></tr><tr><td> 'HEAD-JSTSH-X-PI13-SM'</td><td> 'OOMPID'</td></tr><tr><td> 'HEAD-JSTSH-X-PI13-SM'</td><td> 'LINK'</td></tr><tr><td> ''</td><td> 'DESCRIPTION'</td></tr><tr><td> ''</td><td> 'TAGS'</td></tr><tr><td> []</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM13B-SRSS-TB_1x13-1MP_P1.00mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|
 ||||
