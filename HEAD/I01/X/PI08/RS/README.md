@@ -28,12 +28,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08||
 ||||
 
 ## Distributor Searches
@@ -65,5 +59,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI08-RS|
 |Hex ID (short code)|hexID|H08RS|
 |name|name|2.54 mm 8 Pin Header Right Angle (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x08_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x08|
 ||||

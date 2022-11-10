@@ -34,26 +34,6 @@ NO IMAGE
 ||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R||
 ||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW||
 ||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW||
-||FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE||
-||FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805||
 ||||
 
 ## Symbols
@@ -61,9 +41,6 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
 |![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
 ||||
 
@@ -133,8 +110,8 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|LEDS-0805-O-STAN-01|
 |Hex ID (short code)|hexID|L0805OO|
 |name|name|SMD (0805) Orange LED|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric, FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805|
-|Footprint Eagle|footprintEagle|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805_SENSE, FOOTPRINT-eagle-Pimoroni-Eagle-Library-pimoroni-rc-0805|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric, FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|
+|Footprint Eagle|footprintEagle|FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1W, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1R, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AW, FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-0259-STAN-01</td><td> ID</td></tr><tr><td> LED1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-0280-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-0390-STAN-01</td><td> ID</td></tr><tr><td> CHRG/LBO</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1944-STAN-01</td><td> ID</td></tr><tr><td> LED3</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1963-STAN-01</td><td> ID</td></tr><tr><td> CHRG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2465-STAN-01</td><td> ID</td></tr><tr><td> CHRG/LBO</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2468-STAN-01</td><td> ID</td></tr><tr><td> CHRG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2542-STAN-01</td><td> ID</td></tr><tr><td> CHRG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2636-STAN-01</td><td> ID</td></tr><tr><td> CHRG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2771-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2772-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2795-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2796-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2821-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2829-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2995-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3027-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3056-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3147-STAN-01</td><td> ID</td></tr><tr><td> CHRG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3178-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3200-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3403-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3405-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3458-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3857-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3900-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4300-STAN-01</td><td> ID</td></tr><tr><td> CHG1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4343-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4382-STAN-01</td><td> ID</td></tr><tr><td> CHG</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4516-STAN-01</td><td> ID</td></tr><tr><td> D3</td></tr></table>|
 ||||

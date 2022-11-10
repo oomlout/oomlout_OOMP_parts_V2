@@ -37,9 +37,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
 ||||
 
 ## Distributor Searches
@@ -72,5 +69,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|XTAL3225P4-MZ8|
 |name|name|SMD (3225) (4 Pin) 8 MHz Crystal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm, FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||

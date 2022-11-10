@@ -6,6 +6,8 @@ Contents
 ========
 
 * [SEN345 > 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor](#sen345--14-pin-smd-lga-digital-accelerometer-adxl345-sensor)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -20,6 +22,22 @@ Contents
 - Description: 14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor
 - Long Link: [http://oom.lt/SENS-LG14-X-K345-01](http://oom.lt/SENS-LG14-X-K345-01)
 - Short Link: [http://oom.lt/SEN345](http://oom.lt/SEN345)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+||FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y||
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|![]()|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343||
+||||
 
 ## OOMP Instances
   
@@ -63,6 +81,8 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|SENS-LG14-X-K345-01|
 |Hex ID (short code)|hexID|SEN345|
 |name|name|14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1231-STAN-0A</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10121-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10252-STAN-01</td><td> ID</td></tr><tr><td> U2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-9814-STAN-01</td><td> ID</td></tr><tr><td> U2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-9836-STAN-01</td><td> ID</td></tr><tr><td> U2</td></tr></table>|
 ||||
 

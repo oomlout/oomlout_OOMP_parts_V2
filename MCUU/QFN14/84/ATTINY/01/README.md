@@ -6,6 +6,8 @@ Contents
 ========
 
 * [MCAT84QF14 > 14 Pin SMD (QFN) ATTiny 84 MCU](#mcat84qf14--14-pin-smd-qfn-attiny-84-mcu)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,22 @@ NO IMAGE
 - Description: 14 Pin SMD (QFN) ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-QFN14-84-ATTINY-01](http://oom.lt/MCUU-QFN14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84QF14](http://oom.lt/MCAT84QF14)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+||FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm||
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|![]()|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M||
+||||
 
 ## Distributor Searches
   
@@ -49,4 +67,6 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|MCUU-QFN14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84QF14|
 |name|name|14 Pin SMD (QFN) ATTiny 84 MCU|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M|
 ||||

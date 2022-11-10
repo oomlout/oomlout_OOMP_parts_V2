@@ -37,12 +37,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05||
 ||||
 
 ## Distributor Searches
@@ -78,5 +72,5 @@ Number of MPNs: 2
 |name|name|JST SH (1 mm) 5 Pin Header (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM05B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM05B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI05-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI05-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM05B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM05B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI05-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI05-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM05B-SRSS-TB_1x05-1MP_P1.00mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x05_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x05|
 ||||

@@ -36,9 +36,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14||
 ||||
 
 ## Distributor Searches
@@ -71,5 +68,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|T35L14|
 |name|name|3.5 mm 14 Pin Blue Screw Terminal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x14_P3.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x14|
 ||||

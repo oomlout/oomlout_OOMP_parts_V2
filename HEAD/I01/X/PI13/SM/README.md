@@ -28,12 +28,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
 ||||
 
 ## Distributor Searches
@@ -65,5 +59,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI13-SM|
 |Hex ID (short code)|hexID|H13S|
 |name|name|2.54 mm 13 Pin Header (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|
 ||||

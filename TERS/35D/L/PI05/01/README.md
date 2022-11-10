@@ -37,9 +37,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
 ||||
 
 ## OOMP Instances
@@ -82,6 +79,6 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|T35L5|
 |name|name|3.5 mm 5 Pin Blue Screw Terminal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x05_P3.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-0801-STAN-01</td><td> ID</td></tr><tr><td> J3</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1438-STAN-01</td><td> ID</td></tr><tr><td> J1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1438-STAN-01</td><td> ID</td></tr><tr><td> J2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2348-STAN-01</td><td> ID</td></tr><tr><td> J1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2348-STAN-01</td><td> ID</td></tr><tr><td> J3</td></tr></table>|
 ||||

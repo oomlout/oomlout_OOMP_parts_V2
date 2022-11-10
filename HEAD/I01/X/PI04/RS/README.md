@@ -28,12 +28,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04||
 ||||
 
 ## Distributor Searches
@@ -65,5 +59,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI04-RS|
 |Hex ID (short code)|hexID|H04RS|
 |name|name|2.54 mm 4 Pin Header Right Angle (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04|
 ||||

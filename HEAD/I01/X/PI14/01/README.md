@@ -6,7 +6,6 @@ Contents
 ========
 
 * [H14 > 2.54 mm 14 Pin Header](#h14--254-mm-14-pin-header)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Distributor Searches](#distributor-searches)
@@ -23,28 +22,11 @@ Contents
 - Long Link: [http://oom.lt/HEAD-I01-X-PI14-01](http://oom.lt/HEAD-I01-X-PI14-01)
 - Short Link: [http://oom.lt/H14](http://oom.lt/H14)
 
-## Footprints
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical||
-||||
-
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14||
 ||||
@@ -97,8 +79,7 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI14-01|
 |Hex ID (short code)|hexID|H14|
 |name|name|2.54 mm 14 Pin Header|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x14_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x14_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x14|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1752-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2133-STAN-01</td><td> ID</td></tr><tr><td> CONTROL</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2133-STAN-01</td><td> ID</td></tr><tr><td> GPIO1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3677-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3677-STAN-01</td><td> ID</td></tr><tr><td> JP4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3727-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3727-STAN-01</td><td> ID</td></tr><tr><td> JP4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3800-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-3800-STAN-01</td><td> ID</td></tr><tr><td> JP4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4363-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4363-STAN-01</td><td> ID</td></tr><tr><td> JP4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4481-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4481-STAN-01</td><td> ID</td></tr><tr><td> JP4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4888-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-4888-STAN-01</td><td> ID</td></tr><tr><td> JP4</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-0496-STAN-01</td><td> ID</td></tr><tr><td> JP1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-0496-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-0500-STAN-01</td><td> ID</td></tr><tr><td> JP1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-0500-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10116-STAN-01</td><td> ID</td></tr><tr><td> JP1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10116-STAN-01</td><td> ID</td></tr><tr><td> JP5</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-11520-STAN-01</td><td> ID</td></tr><tr><td> JP1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-11520-STAN-01</td><td> ID</td></tr><tr><td> JP2</td></tr></table>|
 ||||
 

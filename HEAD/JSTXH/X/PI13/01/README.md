@@ -27,7 +27,6 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-AM_1x13_P2.50mm_Vertical||
 ||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical||
 ||||
 
@@ -38,12 +37,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13||
 ||||
 
 ## Distributor Searches
@@ -52,13 +45,11 @@ Links to search for this item (using OOMP name) at various distributors
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+XH+2.5+mm+13+Pin+Header)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+XH+2.5+mm+13+Pin+Header)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+XH+2.5+mm+13+Pin+Header)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+XH+2.5+mm+13+Pin+Header)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+XH+2.5+mm+13+Pin+Header)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+XH+2.5+mm+13+Pin+Header)&nbsp;&nbsp;&nbsp;
 ## MPNs
   
-Number of MPNs: 4  
+Number of MPNs: 2  
 
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
-|Japan Solderless Terminals<br>B13B-XH-AM||[(AV) ](https://www.avnet.com/shop/us/search/B13B-XH-AM)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B13B-XH-AM)[(LCSC) ](https://www.lcsc.com/search?q=B13B-XH-AM)[(FA) ](https://uk.farnell.com/search?st=B13B-XH-AM)[(MO) ](https://www.mouser.com/c/?q=B13B-XH-AM)|
 |Japan Solderless Terminals<br>B13B-XH-A||[(AV) ](https://www.avnet.com/shop/us/search/B13B-XH-A)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B13B-XH-A)[(LCSC) ](https://www.lcsc.com/search?q=B13B-XH-A)[(FA) ](https://uk.farnell.com/search?st=B13B-XH-A)[(MO) ](https://www.mouser.com/c/?q=B13B-XH-A)|
-|Japan Solderless Terminals<br>B13B-XH-AM||[(AV) ](https://www.avnet.com/shop/us/search/B13B-XH-AM)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B13B-XH-AM)[(LCSC) ](https://www.lcsc.com/search?q=B13B-XH-AM)[(FA) ](https://uk.farnell.com/search?st=B13B-XH-AM)[(MO) ](https://www.mouser.com/c/?q=B13B-XH-AM)|
 |Japan Solderless Terminals<br>B13B-XH-A||[(AV) ](https://www.avnet.com/shop/us/search/B13B-XH-A)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B13B-XH-A)[(LCSC) ](https://www.lcsc.com/search?q=B13B-XH-A)[(FA) ](https://uk.farnell.com/search?st=B13B-XH-A)[(MO) ](https://www.mouser.com/c/?q=B13B-XH-A)|
 ||||
   
@@ -79,7 +70,7 @@ Number of MPNs: 4
 |Full OOMP ID|oompID|HEAD-JSTXH-X-PI13-01|
 |Hex ID (short code)|hexID|HXH13|
 |name|name|JST XH (2.5 mm) 13 Pin Header|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B13B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B13B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B13B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B13B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B13B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B13B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B13B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B13B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-AM_1x13_P2.50mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B13B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B13B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B13B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B13B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI13-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13|
 ||||

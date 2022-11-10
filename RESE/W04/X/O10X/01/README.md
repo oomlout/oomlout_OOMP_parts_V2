@@ -27,9 +27,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-R||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
 ||||
 
 ## Distributor Searches
@@ -61,5 +58,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|RESE-W04-X-O10X-01|
 |Hex ID (short code)|hexID|RW04-O10X|
 |name|name|1/4 Watt 1 Ohm Resistor|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||

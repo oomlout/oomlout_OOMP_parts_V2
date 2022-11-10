@@ -28,12 +28,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
 ||||
 
 ## Distributor Searches
@@ -66,5 +60,5 @@ Number of MPNs: 1
 |Hex ID (short code)|hexID|HSH18RS|
 |name|name|JST SH (1 mm) 18 Pin Header Right Angle (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18|
 ||||

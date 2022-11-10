@@ -6,7 +6,6 @@ Contents
 ========
 
 * [HSH16 > JST SH (1 mm) 16 Pin Header (SMD)](#hsh16--jst-sh-1-mm-16-pin-header-smd)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -22,25 +21,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI16-SM](http://oom.lt/HEAD-JSTSH-X-PI16-SM)
 - Short Link: [http://oom.lt/HSH16](http://oom.lt/HSH16)
 
-## Footprints
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM16B-SRSS-TB_1x16-1MP_P1.00mm_Vertical||
-||||
-
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16||
 ||||
@@ -77,6 +62,5 @@ Number of MPNs: 2
 |Hex ID (short code)|hexID|HSH16|
 |name|name|JST SH (1 mm) 16 Pin Header (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM16B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM16B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI16-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI16-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM16B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM16B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI16-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI16-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM16B-SRSS-TB_1x16-1MP_P1.00mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x16_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x16|
 ||||

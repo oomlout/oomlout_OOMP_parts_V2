@@ -28,12 +28,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01||
 ||||
 
 ## Distributor Searches
@@ -66,5 +60,5 @@ Number of MPNs: 1
 |Hex ID (short code)|hexID|HPHP01|
 |name|name|JST PH (2 mm) 1 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=6626'</td></tr></table>|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x01_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x01|
 ||||

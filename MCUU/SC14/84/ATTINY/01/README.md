@@ -6,6 +6,8 @@ Contents
 ========
 
 * [MCAT84SC14 > 14 Pin SMD (SOIC) ATTiny 84 MCU](#mcat84sc14--14-pin-smd-soic-attiny-84-mcu)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -20,6 +22,22 @@ NO IMAGE
 - Description: 14 Pin SMD (SOIC) ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-SC14-84-ATTINY-01](http://oom.lt/MCUU-SC14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84SC14](http://oom.lt/MCAT84SC14)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+||FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm||
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|![]()|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS||
+||||
 
 ## OOMP Instances
   
@@ -62,6 +80,8 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|MCUU-SC14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84SC14|
 |name|name|14 Pin SMD (SOIC) ATTiny 84 MCU|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SOIC-14_3.9x8.7mm_P1.27mm|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS|
 |Match Special|matchSpecial|[['ATTINY84,SO14'], 'MCUU-SC14-84-ATTINY-01']|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-11801-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-13118-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-15290-STAN-01</td><td> ID</td></tr><tr><td> U1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-16653-STAN-01</td><td> ID</td></tr><tr><td> U5</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-16985-STAN-01</td><td> ID</td></tr><tr><td> U2</td></tr></table>|
 ||||

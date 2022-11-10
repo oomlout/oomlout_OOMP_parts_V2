@@ -45,9 +45,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
 ||||
 
 ## Distributor Searches
@@ -80,5 +77,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|L03WW|
 |name|name|3 mm White LED|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z6.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O1.27mm_Z10.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z2.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z6.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O3.81mm_Z10.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z2.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z6.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D3.0mm_Horizontal_O6.35mm_Z10.0mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||

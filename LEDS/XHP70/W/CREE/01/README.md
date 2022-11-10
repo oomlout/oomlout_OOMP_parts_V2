@@ -27,9 +27,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
 ||||
 
 ## Distributor Searches
@@ -61,5 +58,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|LEDS-XHP70-W-CREE-01|
 |Hex ID (short code)|hexID|LXHP70|
 |name|name|XHP 70 Cree White LED|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||

@@ -46,9 +46,6 @@ Contents
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
 ||||
 
 ## OOMP Instances
@@ -90,7 +87,7 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|L05YY|
 |name|name|5 mm Yellow LED|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10570-STAN-01</td><td> ID</td></tr><tr><td> LED2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10570-STAN-01</td><td> ID</td></tr><tr><td> LED3</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-SPAR-10618-STAN-01</td><td> ID</td></tr><tr><td> LED2</td></tr></table>|
 ||||
 

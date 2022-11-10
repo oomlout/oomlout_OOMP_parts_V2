@@ -27,9 +27,6 @@ Contents
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-R||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
 ||||
 
 ## Distributor Searches
@@ -61,7 +58,7 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|RESE-W04-X-O561-01|
 |Hex ID (short code)|hexID|RW04-O561|
 |name|name|1/4 Watt 560 Ohm Resistor|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R|
 ||||
 
 

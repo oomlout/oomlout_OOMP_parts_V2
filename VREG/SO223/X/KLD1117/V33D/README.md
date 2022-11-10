@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-5||
+||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2||
 ||||
 
 ## Symbols
@@ -69,6 +69,6 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|VR111722333|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 3.3v|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C86781</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C86781</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C8678101.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C35879</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C35879</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C3587901.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C347229</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C347229</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C34722901.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C115288</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C115288</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C11528801.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C474404</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C474404</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C47440401.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C71121</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C71121</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C7112101.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-5|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S33TR_SOT223|
 ||||

@@ -157,6 +157,10 @@
             "dpnKey": "DPN-C-LCSC-C2310915"
         }
     ],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+    ],
     "hexID": [
         "C12U710"
     ],
@@ -579,9 +583,6 @@
         }
     ],
     "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-Device-C",
-        "SYMBOL-kicad-kicad-symbols-Device-C",
-        "SYMBOL-kicad-kicad-symbols-Device-C",
         "SYMBOL-kicad-kicad-symbols-Device-C"
     ]
 }

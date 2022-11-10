@@ -27,9 +27,6 @@ Contents
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
 ||||
 
 ## Distributor Searches
@@ -66,7 +63,7 @@ Number of MPNs: 2
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-SEIKOE-Q13FC1350000400</td><td> MANUFACTURER</td></tr><tr><td> Seiko Epson</td><td> MANUCODE</td></tr><tr><td> C-SEIKOE</td><td> MPN</td></tr><tr><td> Q13FC1350000400</td><td> OOMPIDPARTIAL</td></tr><tr><td> XTAL-3215-X-KZ327D-01</td><td> OOMPID</td></tr><tr><td> XTAL-3215-X-KZ327D-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-SEIKOE-Q13FC1350000400</td><td> MANUFACTURER</td></tr><tr><td> Seiko Epson</td><td> MANUCODE</td></tr><tr><td> C-SEIKOE</td><td> MPN</td></tr><tr><td> Q13FC1350000400</td><td> OOMPIDPARTIAL</td></tr><tr><td> XTAL-3215-X-KZ327D-01</td><td> OOMPID</td></tr><tr><td> XTAL-3215-X-KZ327D-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C32346'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C32346'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-SEIKOE-Q13FC1350000400'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C32346.html'</td><td> 'OOMPID'</td></tr><tr><td> 'XTAL-3215-X-KZ327D-01'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C32346'</td><td> 'partName'</td></tr><tr><td> '32.768kHz SMD Crystal Resonator 12.5pF 70k?? ??20ppm -40??~+85?? SMD3215-2P  Crystals ROHS'</td></tr></table>|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||
 
 

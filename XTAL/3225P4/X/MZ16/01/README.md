@@ -37,9 +37,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
 ||||
 
 ## Distributor Searches
@@ -77,5 +74,5 @@ Number of MPNs: 2
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C13738'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C13738'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-YANGXI-X322516MLB4SI'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C13738.html'</td><td> 'OOMPID'</td></tr><tr><td> 'XTAL-3225P4-X-MZ16-01'</td></tr></table>|
 |Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C13738'</td><td> 'partName'</td></tr><tr><td> '16MHz SMD Crystal Resonator 9pF ??10ppm ??30ppm -40??~+85?? SMD3225-4P  Crystals ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm, FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||

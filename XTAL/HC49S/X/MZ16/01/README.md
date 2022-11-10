@@ -37,9 +37,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
 ||||
 
 ## Distributor Searches
@@ -72,5 +69,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|XTALHC49S-MZ16|
 |name|name|SMD (HC49) 16 MHz Crystal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD, FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||

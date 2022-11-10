@@ -6,7 +6,6 @@ Contents
 ========
 
 * [H19 > 2.54 mm 19 Pin Header](#h19--254-mm-19-pin-header)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Distributor Searches](#distributor-searches)
@@ -23,28 +22,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-I01-X-PI19-01](http://oom.lt/HEAD-I01-X-PI19-01)
 - Short Link: [http://oom.lt/H19](http://oom.lt/H19)
 
-## Footprints
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical||
-||||
-
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19||
 ||||
@@ -86,7 +68,6 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI19-01|
 |Hex ID (short code)|hexID|H19|
 |name|name|2.54 mm 19 Pin Header|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_PinHeader_2.54mm-PinHeader_1x19_P2.54mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x19_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x19|
 |OOMP Instances|oompInstances|<table><tr><td>'PROJECT'</td></tr><tr><td> 'PROJ-SPAR-11343-STAN-01'</td><td> 'ID'</td></tr><tr><td> 'JP20'</td></tr></table>|
 ||||

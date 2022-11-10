@@ -7,7 +7,9 @@
     "eagleSchem": [],
     "footprintEagle": [],
     "footprintEagleDetails": [],
-    "footprintKicad": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -46,6 +48,8 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P"
+    ],
     "symbolKicadDetails": []
 }

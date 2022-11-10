@@ -7,7 +7,6 @@ Contents
 
 * [VR1117220AJ > TO-220 LD1117 Voltage Regulator](#vr1117220aj--to-220-ld1117-voltage-regulator)
 	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -28,14 +27,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 ||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical||
-||||
-
-## Symbols
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117SAJTR_SOT223||
 ||||
 
 ## Distributor Searches
@@ -69,5 +60,4 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|VR1117220AJ|
 |name|name|TO-220 LD1117 Voltage Regulator|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117SAJTR_SOT223|
 ||||

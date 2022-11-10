@@ -38,12 +38,6 @@ NO IMAGE
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07||
 ||||
 
 ## Distributor Searches
@@ -81,5 +75,5 @@ Number of MPNs: 4
 |name|name|JST XH (2.5 mm) 7 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B7B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B7B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B7B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B7B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B7B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B7B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B7B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B7B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI07-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B7B-XH-AM_1x07_P2.50mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B7B-XH-A_1x07_P2.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x07_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x07|
 ||||

@@ -6,6 +6,8 @@ Contents
 ========
 
 * [MCAT84DI14 > 14 Pin DIP ATTiny 84 MCU](#mcat84di14--14-pin-dip-attiny-84-mcu)
+	* [Footprints](#footprints)
+	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -19,6 +21,22 @@ NO IMAGE
 - Description: 14 Pin DIP ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-DI14-84-ATTINY-01](http://oom.lt/MCUU-DI14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84DI14](http://oom.lt/MCAT84DI14)
+
+## Footprints
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+||FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm||
+||||
+
+## Symbols
+  
+
+|Image|ID|Name|
+| :--- | :--- | :--- |
+|![]()|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P||
+||||
 
 ## Distributor Searches
   
@@ -49,4 +67,6 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|MCUU-DI14-84-ATTINY-01|
 |Hex ID (short code)|hexID|MCAT84DI14|
 |name|name|14 Pin DIP ATTiny 84 MCU|
+|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P|
 ||||

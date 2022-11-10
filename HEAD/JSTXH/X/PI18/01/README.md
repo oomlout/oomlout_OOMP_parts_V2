@@ -6,7 +6,6 @@ Contents
 ========
 
 * [HXH18 > JST XH (2.5 mm) 18 Pin Header](#hxh18--jst-xh-25-mm-18-pin-header)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -22,26 +21,11 @@ NO IMAGE
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI18-01](http://oom.lt/HEAD-JSTXH-X-PI18-01)
 - Short Link: [http://oom.lt/HXH18](http://oom.lt/HXH18)
 
-## Footprints
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B18B-XH-AM_1x18_P2.50mm_Vertical||
-||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B18B-XH-A_1x18_P2.50mm_Vertical||
-||||
-
 ## Symbols
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
-|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male||
 |![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18||
 ||||
@@ -80,6 +64,5 @@ Number of MPNs: 4
 |Hex ID (short code)|hexID|HXH18|
 |name|name|JST XH (2.5 mm) 18 Pin Header|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B18B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B18B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B18B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B18B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B18B-XH-AM</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B18B-XH-AM</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-B18B-XH-A</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> B18B-XH-A</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> OOMPID</td></tr><tr><td> HEAD-JSTXH-X-PI18-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B18B-XH-AM_1x18_P2.50mm_Vertical, FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B18B-XH-A_1x18_P2.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x18_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x18|
 ||||

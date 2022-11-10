@@ -7,7 +7,9 @@
     "eagleSchem": [],
     "footprintEagle": [],
     "footprintEagleDetails": [],
-    "footprintKicad": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -46,6 +48,8 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS"
+    ],
     "symbolKicadDetails": []
 }

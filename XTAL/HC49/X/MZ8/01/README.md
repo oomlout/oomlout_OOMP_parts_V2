@@ -36,9 +36,6 @@ NO IMAGE
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
 ||||
 
 ## Distributor Searches
@@ -71,5 +68,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|XTALHC49-MZ8|
 |name|name|HC49 8 MHz Crystal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_HC49-4H_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal, SYMBOL-kicad-kicad-symbols-Device-Crystal|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||

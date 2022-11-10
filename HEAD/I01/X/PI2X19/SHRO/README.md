@@ -6,7 +6,6 @@ Contents
 ========
 
 * [H2X19SH > 2.54 mm 38 Pin (2x19) Header Shrouded (IDC)](#h2x19sh--254-mm-38-pin-2x19-header-shrouded-idc)
-	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -21,14 +20,6 @@ NO IMAGE
 - Description: 2.54 mm 38 Pin (2x19) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X19-SHRO](http://oom.lt/HEAD-I01-X-PI2X19-SHRO)
 - Short Link: [http://oom.lt/H2X19SH](http://oom.lt/H2X19SH)
-
-## Footprints
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x19_P2.54mm_Vertical||
-||||
 
 ## Symbols
   
@@ -72,6 +63,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI2X19-SHRO|
 |Hex ID (short code)|hexID|H2X19SH|
 |name|name|2.54 mm 38 Pin (2x19) Header Shrouded (IDC)|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_IDC-IDC-Header_2x19_P2.54mm_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Odd_Even, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Row_Letter_First, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Row_Letter_Last, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Counter_Clockwise, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_02x19_Top_Bottom, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x38_Male|
 ||||

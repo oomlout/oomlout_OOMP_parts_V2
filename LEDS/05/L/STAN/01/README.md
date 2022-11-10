@@ -45,9 +45,6 @@ Contents
 |Image|ID|Name|
 | :--- | :--- | :--- |
 |![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
 ||||
 
 ## Distributor Searches
@@ -80,7 +77,7 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|L05LL|
 |name|name|5 mm Blue LED|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O1.27mm_Z15.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O3.81mm_Z15.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z3.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z9.0mm, FOOTPRINT-kicad-kicad-footprints-LED_THT-LED_D5.0mm_Horizontal_O6.35mm_Z15.0mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED, SYMBOL-kicad-kicad-symbols-Device-LED|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|
 ||||
 
 

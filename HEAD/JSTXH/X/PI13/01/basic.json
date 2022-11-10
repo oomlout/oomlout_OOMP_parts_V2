@@ -8,7 +8,6 @@
     "footprintEagle": [],
     "footprintEagleDetails": [],
     "footprintKicad": [
-        "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-AM_1x13_P2.50mm_Vertical",
         "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_XH_B13B-XH-A_1x13_P2.50mm_Vertical"
     ],
     "footprintKicadDetails": [],
@@ -25,30 +24,8 @@
             "LINK": "",
             "MANUCODE": "C-JSTSAL",
             "MANUFACTURER": "Japan Solderless Terminals",
-            "MPN": "B13B-XH-AM",
-            "MPNKEY": "MPN-C-JSTSAL-B13B-XH-AM",
-            "OOMPID": "HEAD-JSTXH-X-PI13-01",
-            "OOMPIDPARTIAL": "HEAD-JSTXH-X-PI13-01",
-            "TAGS": []
-        },
-        {
-            "DESCRIPTION": "",
-            "LINK": "",
-            "MANUCODE": "C-JSTSAL",
-            "MANUFACTURER": "Japan Solderless Terminals",
             "MPN": "B13B-XH-A",
             "MPNKEY": "MPN-C-JSTSAL-B13B-XH-A",
-            "OOMPID": "HEAD-JSTXH-X-PI13-01",
-            "OOMPIDPARTIAL": "HEAD-JSTXH-X-PI13-01",
-            "TAGS": []
-        },
-        {
-            "DESCRIPTION": "",
-            "LINK": "",
-            "MANUCODE": "C-JSTSAL",
-            "MANUFACTURER": "Japan Solderless Terminals",
-            "MPN": "B13B-XH-AM",
-            "MPNKEY": "MPN-C-JSTSAL-B13B-XH-AM",
             "OOMPID": "HEAD-JSTXH-X-PI13-01",
             "OOMPIDPARTIAL": "HEAD-JSTXH-X-PI13-01",
             "TAGS": []
@@ -95,12 +72,6 @@
     "symbolEagle": [],
     "symbolEagleDetails": [],
     "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13",
-        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13",
-        "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male",
-        "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13",
         "SYMBOL-kicad-kicad-symbols-Connector-Conn_01x13_Male",
         "SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x13"
     ],

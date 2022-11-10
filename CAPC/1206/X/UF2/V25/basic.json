@@ -446,7 +446,10 @@
     "eagleSchem": [],
     "footprintEagle": [],
     "footprintEagleDetails": [],
-    "footprintKicad": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -1450,9 +1453,6 @@
     "symbolEagle": [],
     "symbolEagleDetails": [],
     "symbolKicad": [
-        "SYMBOL-kicad-kicad-symbols-Device-C",
-        "SYMBOL-kicad-kicad-symbols-Device-C",
-        "SYMBOL-kicad-kicad-symbols-Device-C",
         "SYMBOL-kicad-kicad-symbols-Device-C"
     ],
     "symbolKicadDetails": []

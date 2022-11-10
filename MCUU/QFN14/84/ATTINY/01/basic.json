@@ -7,7 +7,9 @@
     "eagleSchem": [],
     "footprintEagle": [],
     "footprintEagleDetails": [],
-    "footprintKicad": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -46,6 +48,8 @@
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],
-    "symbolKicad": [],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M"
+    ],
     "symbolKicadDetails": []
 }
