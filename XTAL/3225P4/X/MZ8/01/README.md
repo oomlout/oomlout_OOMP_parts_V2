@@ -6,8 +6,6 @@ Contents
 ========
 
 * [XTAL3225P4-MZ8 > SMD (3225) (4 Pin) 8 MHz Crystal](#xtal3225p4-mz8--smd-3225-4-pin-8-mhz-crystal)
-	* [Footprints](#footprints)
-	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -21,23 +19,6 @@ NO IMAGE
 - Description: SMD (3225) (4 Pin) 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-3225P4-X-MZ8-01](http://oom.lt/XTAL-3225P4-X-MZ8-01)
 - Short Link: [http://oom.lt/XTAL3225P4-MZ8](http://oom.lt/XTAL3225P4-MZ8)
-
-## Footprints
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm||
-||FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering||
-||||
-
-## Symbols
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
-||||
 
 ## Distributor Searches
   
@@ -68,6 +49,4 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|XTAL-3225P4-X-MZ8-01|
 |Hex ID (short code)|hexID|XTAL3225P4-MZ8|
 |name|name|SMD (3225) (4 Pin) 8 MHz Crystal|
-|Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm, FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||
