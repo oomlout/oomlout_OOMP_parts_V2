@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L05OO > 5 mm Orange LED
+# MPN Summary For: L5O > 5 mm Orange LED
 
 ## MPNs
   

@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [L1206WW > SMD (1206) White LED](#l1206ww--smd-1206-white-led)
+* [L12W > SMD (1206) White LED](#l12w--smd-1206-white-led)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -13,22 +13,22 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# L1206WW > SMD (1206) White LED
+# L12W > SMD (1206) White LED
 
 - ID: LEDS-1206-W-STAN-01
-- Hex ID: L1206WW
+- Hex ID: L12W
 - Name: SMD (1206) White LED
 - Description: SMD (1206) White LED
 - Long Link: [http://oom.lt/LEDS-1206-W-STAN-01](http://oom.lt/LEDS-1206-W-STAN-01)
-- Short Link: [http://oom.lt/L1206WW](http://oom.lt/L1206WW)
+- Short Link: [http://oom.lt/L12W](http://oom.lt/L12W)
 
 ## Footprints
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric||
-||FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[LED_SMD : LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|[LED_SMD : LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|
 ||||
 
 ## Symbols
@@ -36,7 +36,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[Device : LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|
 ||||
 
 ## Distributor Searches
@@ -66,7 +66,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|STAN|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|LEDS-1206-W-STAN-01|
-|Hex ID (short code)|hexID|L1206WW|
+|Hex ID (short code)|hexID|L12W|
 |name|name|SMD (1206) White LED|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric, FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|

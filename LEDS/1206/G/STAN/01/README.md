@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [L1206GG > SMD (1206) Green LED](#l1206gg--smd-1206-green-led)
+* [L12G > SMD (1206) Green LED](#l12g--smd-1206-green-led)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
@@ -14,22 +14,22 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# L1206GG > SMD (1206) Green LED
+# L12G > SMD (1206) Green LED
 
 - ID: LEDS-1206-G-STAN-01
-- Hex ID: L1206GG
+- Hex ID: L12G
 - Name: SMD (1206) Green LED
 - Description: SMD (1206) Green LED
 - Long Link: [http://oom.lt/LEDS-1206-G-STAN-01](http://oom.lt/LEDS-1206-G-STAN-01)
-- Short Link: [http://oom.lt/L1206GG](http://oom.lt/L1206GG)
+- Short Link: [http://oom.lt/L12G](http://oom.lt/L12G)
 
 ## Footprints
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric||
-||FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|[LED_SMD : LED_1206_3216Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|[LED_SMD : LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder/)|
 ||||
 
 ## Symbols
@@ -37,7 +37,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[Device : LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|
 ||||
 
 ## OOMP Instances
@@ -112,7 +112,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|STAN|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|LEDS-1206-G-STAN-01|
-|Hex ID (short code)|hexID|L1206GG|
+|Hex ID (short code)|hexID|L12G|
 |name|name|SMD (1206) Green LED|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric, FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|

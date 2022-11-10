@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm/)|[FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm/)|[Package_DFN_QFN : QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DFN_QFN/QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm/)|
 ||||
 
 ## Symbols
@@ -35,7 +35,8 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10M/)|[SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24V-10M](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10M/)|[MCU_Microchip_ATtiny : ATtiny24V-10M](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10M/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20M/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20M/)|[SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20M/)|[MCU_Microchip_ATtiny : ATtiny84-20M](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20M/)|
 ||||
 
 ## Distributor Searches
@@ -68,5 +69,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|MCAT84QF14|
 |name|name|14 Pin SMD (QFN) ATTiny 84 MCU|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_DFN_QFN-QFN-20-1EP_4x4mm_P0.5mm_EP2.6x2.6mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24V-10M, SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20M|
 ||||

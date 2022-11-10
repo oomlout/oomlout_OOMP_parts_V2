@@ -18,9 +18,22 @@
         "FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
     ],
     "hexID": [
-        "L6WW"
+        "L6W"
     ],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "C2290",
+            "MPNKEY": "MPN-C-HUBEIK-C2290",
+            "OOMPID": "LEDS-0603-W-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0603-W-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -686,6 +699,14 @@
     ],
     "oompType": [
         "LEDS"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2290",
+            "partName": "White 0603 Light Emitting Diodes (LED) RoHS"
+        }
     ],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"

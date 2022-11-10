@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L03LL > 3 mm Blue LED
+# MPN Summary For: L3L > 3 mm Blue LED
 
 ## MPNs
   

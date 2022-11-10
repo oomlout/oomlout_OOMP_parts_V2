@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L03YY > 3 mm Yellow LED
+# MPN Summary For: L3Y > 3 mm Yellow LED
 
 ## MPNs
   

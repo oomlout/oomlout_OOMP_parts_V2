@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L03WW > 3 mm White LED
+# MPN Summary For: L3W > 3 mm White LED
 
 ## MPNs
   

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L10GG > 10 mm Green LED
+# MPN Summary For: L10-G > 10 mm Green LED
 
 ## MPNs
   

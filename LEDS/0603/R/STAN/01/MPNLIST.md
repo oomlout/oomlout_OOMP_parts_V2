@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L6RR > SMD (0603) Red LED
+# MPN Summary For: L6R > SMD (0603) Red LED
 
 ## MPNs
   

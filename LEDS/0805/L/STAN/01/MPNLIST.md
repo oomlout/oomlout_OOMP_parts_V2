@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L0805LL > SMD (0805) Blue LED
+# MPN Summary For: L8L > SMD (0805) Blue LED
 
 ## MPNs
   

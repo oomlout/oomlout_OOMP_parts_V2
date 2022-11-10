@@ -28,11 +28,24 @@
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L6WW"
+        "L6W"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "C2290",
+            "MPNKEY": "MPN-C-HUBEIK-C2290",
+            "OOMPID": "LEDS-0603-W-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0603-W-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -649,7 +662,14 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2290",
+            "partName": "White 0603 Light Emitting Diodes (LED) RoHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

@@ -28,9 +28,22 @@
         "FOOTPRINT-eagle-Adafruit-Eagle-Library-adafruit-085CS_1AR"
     ],
     "hexID": [
-        "L0805RR"
+        "L8R"
     ],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-FOSHAN",
+            "MANUFACTURER": "Foshan NationStar Optoelectronics",
+            "MPN": "NCD0805R1",
+            "MPNKEY": "MPN-C-FOSHAN-NCD0805R1",
+            "OOMPID": "LEDS-0805-R-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0805-R-STAN-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -476,6 +489,14 @@
     ],
     "oompType": [
         "LEDS"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C84256",
+            "partName": "Red 0805  Light Emitting Diodes (LED) ROHS"
+        }
     ],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Device-LED"

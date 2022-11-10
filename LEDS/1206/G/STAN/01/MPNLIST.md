@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L1206GG > SMD (1206) Green LED
+# MPN Summary For: L12G > SMD (1206) Green LED
 
 ## MPNs
   

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L1206RR > SMD (1206) Red LED
+# MPN Summary For: L12R > SMD (1206) Red LED
 
 ## MPNs
   

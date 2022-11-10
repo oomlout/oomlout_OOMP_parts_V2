@@ -85,7 +85,14 @@
     "oompType": [
         "XTAL"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C12674",
+            "partName": "8MHz 49SMD 20pF ??20ppm ??30ppm -20??~+70?? HC-49S/SMD  Crystals ROHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

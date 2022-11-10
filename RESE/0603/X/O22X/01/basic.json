@@ -2413,7 +2413,14 @@
     "oompType": [
         "RESE"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C22939",
+            "partName": "100mW Thick Film Resistors 75V ??1% ??400ppm/?? -55??~+155?? 2.2?? 0603  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

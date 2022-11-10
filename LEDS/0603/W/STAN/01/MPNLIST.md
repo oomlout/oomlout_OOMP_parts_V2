@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L6WW > SMD (0603) White LED
+# MPN Summary For: L6W > SMD (0603) White LED
 
 ## MPNs
   

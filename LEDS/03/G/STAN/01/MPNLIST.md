@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L03GG > 3 mm Green LED
+# MPN Summary For: L3G > 3 mm Green LED
 
 ## MPNs
   

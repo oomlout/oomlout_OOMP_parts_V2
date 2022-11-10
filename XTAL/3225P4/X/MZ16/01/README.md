@@ -27,8 +27,8 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm||
-||FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm/)|[FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm/)|[Crystal : Crystal_SMD_3225-4Pin_3.2x2.5mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering/)|[FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering/)|[Crystal : Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering/)|
 ||||
 
 ## Symbols
@@ -36,7 +36,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/)|[SYMBOL-kicad-kicad-symbols-Device-Crystal](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/)|[Device : Crystal](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/)|
 ||||
 
 ## Distributor Searches
@@ -72,6 +72,7 @@ Number of MPNs: 2
 |name|name|SMD (3225) (4 Pin) 16 MHz Crystal|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-YANGXI-X322516MLB4SI</td><td> MANUFACTURER</td></tr><tr><td> Yangxing Tech</td><td> MANUCODE</td></tr><tr><td> C-YANGXI</td><td> MPN</td></tr><tr><td> X322516MLB4SI</td><td> OOMPIDPARTIAL</td></tr><tr><td> XTAL-3225P4-X-MZ16-01</td><td> OOMPID</td></tr><tr><td> XTAL-3225P4-X-MZ16-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-YANGXI-X322516MLB4SI</td><td> MANUFACTURER</td></tr><tr><td> Yangxing Tech</td><td> MANUCODE</td></tr><tr><td> C-YANGXI</td><td> MPN</td></tr><tr><td> X322516MLB4SI</td><td> OOMPIDPARTIAL</td></tr><tr><td> XTAL-3225P4-X-MZ16-01</td><td> OOMPID</td></tr><tr><td> XTAL-3225P4-X-MZ16-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C13738'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C13738'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-YANGXI-X322516MLB4SI'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C13738.html'</td><td> 'OOMPID'</td></tr><tr><td> 'XTAL-3225P4-X-MZ16-01'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C13738'</td><td> 'partName'</td></tr><tr><td> '16MHz SMD Crystal Resonator 9pF ??10ppm ??30ppm -40??~+85?? SMD3225-4P  Crystals ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm, FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_3225-4Pin_3.2x2.5mm_HandSoldering|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||

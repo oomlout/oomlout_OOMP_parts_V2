@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L05LL > 5 mm Blue LED
+# MPN Summary For: L5L > 5 mm Blue LED
 
 ## MPNs
   

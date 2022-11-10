@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [L4OO > SMD (0402) Orange LED](#l4oo--smd-0402-orange-led)
+* [L4O > SMD (0402) Orange LED](#l4o--smd-0402-orange-led)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -13,22 +13,22 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# L4OO > SMD (0402) Orange LED
+# L4O > SMD (0402) Orange LED
 
 - ID: LEDS-0402-O-STAN-01
-- Hex ID: L4OO
+- Hex ID: L4O
 - Name: SMD (0402) Orange LED
 - Description: SMD (0402) Orange LED
 - Long Link: [http://oom.lt/LEDS-0402-O-STAN-01](http://oom.lt/LEDS-0402-O-STAN-01)
-- Short Link: [http://oom.lt/L4OO](http://oom.lt/L4OO)
+- Short Link: [http://oom.lt/L4O](http://oom.lt/L4O)
 
 ## Footprints
   
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric||
-||FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/)|[LED_SMD : LED_0402_1005Metric](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/)|[FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/)|[LED_SMD : LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/LED_SMD/LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder/)|
 ||||
 
 ## Symbols
@@ -36,7 +36,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-LED||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/LED/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[SYMBOL-kicad-kicad-symbols-Device-LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|[Device : LED](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/LED/)|
 ||||
 
 ## Distributor Searches
@@ -66,7 +66,7 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|STAN|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|LEDS-0402-O-STAN-01|
-|Hex ID (short code)|hexID|L4OO|
+|Hex ID (short code)|hexID|L4O|
 |name|name|SMD (0402) Orange LED|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric, FOOTPRINT-kicad-kicad-footprints-LED_SMD-LED_0402_1005Metric_Pad0.77x0.64mm_HandSolder|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-LED|

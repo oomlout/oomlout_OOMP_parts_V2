@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W7.62mm/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W7.62mm/)|[FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W7.62mm/)|[Package_DIP : DIP-14_W7.62mm](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_DIP/DIP-14_W7.62mm/)|
 ||||
 
 ## Symbols
@@ -35,7 +35,8 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10P/)|[SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24V-10P](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10P/)|[MCU_Microchip_ATtiny : ATtiny24V-10P](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny24V-10P/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/)|[SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/)|[MCU_Microchip_ATtiny : ATtiny84-20P](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/MCU_Microchip_ATtiny/ATtiny84-20P/)|
 ||||
 
 ## Distributor Searches
@@ -68,5 +69,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|MCAT84DI14|
 |name|name|14 Pin DIP ATTiny 84 MCU|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_DIP-DIP-14_W7.62mm|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny24V-10P, SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny84-20P|
 ||||

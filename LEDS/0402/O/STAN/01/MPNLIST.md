@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L4OO > SMD (0402) Orange LED
+# MPN Summary For: L4O > SMD (0402) Orange LED
 
 ## MPNs
   

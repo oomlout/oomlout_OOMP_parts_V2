@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L05RR > 5 mm Red LED
+# MPN Summary For: L5R > 5 mm Red LED
 
 ## MPNs
   

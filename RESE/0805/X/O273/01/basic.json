@@ -4463,7 +4463,14 @@
     "oompType": [
         "RESE"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C17593",
+            "partName": "125mW Thick Film Resistors 150V ??100ppm/?? ??1% -55??~+155?? 27k?? 0805  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

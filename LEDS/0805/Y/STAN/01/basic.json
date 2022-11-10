@@ -37,11 +37,24 @@
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L0805YY"
+        "L8Y"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "17-21SUYC/TR8",
+            "MPNKEY": "MPN-C-HUBEIK-17-21SUYC/TR8",
+            "OOMPID": "LEDS-0805-Y-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0805-Y-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -166,7 +179,14 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2296",
+            "partName": "Yellow 592~594nm 0805 Light Emitting Diodes (LED) RoHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

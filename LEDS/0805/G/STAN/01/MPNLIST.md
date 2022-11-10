@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L0805GG > SMD (0805) Green LED
+# MPN Summary For: L8G > SMD (0805) Green LED
 
 ## MPNs
   

@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L4LL > SMD (0402) Blue LED
+# MPN Summary For: L4L > SMD (0402) Blue LED
 
 ## MPNs
   

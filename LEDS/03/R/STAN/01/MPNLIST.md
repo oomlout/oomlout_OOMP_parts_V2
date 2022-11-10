@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L03RR > 3 mm Red LED
+# MPN Summary For: L3R > 3 mm Red LED
 
 ## MPNs
   

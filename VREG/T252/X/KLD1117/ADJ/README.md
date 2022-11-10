@@ -6,7 +6,6 @@ Contents
 ========
 
 * [VR1117252AJ > TO-252 (SMD) LD1117 Voltage Regulator](#vr1117252aj--to-252-smd-ld1117-voltage-regulator)
-	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Tags](#tags)
@@ -20,14 +19,6 @@ NO IMAGE
 - Description: TO-252 (SMD) LD1117 Voltage Regulator
 - Long Link: [http://oom.lt/VREG-T252-X-KLD1117-ADJ](http://oom.lt/VREG-T252-X-KLD1117-ADJ)
 - Short Link: [http://oom.lt/VR1117252AJ](http://oom.lt/VR1117252AJ)
-
-## Symbols
-  
-
-|Image|ID|Name|
-| :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117SAJTR_SOT223||
-||||
 
 ## Distributor Searches
   
@@ -59,5 +50,4 @@ Number of MPNs: 0
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
 |Hex ID (short code)|hexID|VR1117252AJ|
 |name|name|TO-252 (SMD) LD1117 Voltage Regulator|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117SAJTR_SOT223|
 ||||

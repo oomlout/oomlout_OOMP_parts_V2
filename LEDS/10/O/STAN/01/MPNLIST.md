@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L10OO > 10 mm Orange LED
+# MPN Summary For: L10-O > 10 mm Orange LED
 
 ## MPNs
   

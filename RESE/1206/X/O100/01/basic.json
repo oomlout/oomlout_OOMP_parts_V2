@@ -3157,7 +3157,14 @@
     "oompType": [
         "RESE"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C17903",
+            "partName": "250mW Thick Film Resistors 200V ??1% ??400ppm/?? -55??~+155?? 10?? 1206  Chip Resistor - Surface Mount ROHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

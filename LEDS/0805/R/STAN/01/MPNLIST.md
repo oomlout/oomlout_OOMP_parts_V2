@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L0805RR > SMD (0805) Red LED
+# MPN Summary For: L8R > SMD (0805) Red LED
 
 ## MPNs
   

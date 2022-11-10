@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L6YY > SMD (0603) Yellow LED
+# MPN Summary For: L6Y > SMD (0603) Yellow LED
 
 ## MPNs
   

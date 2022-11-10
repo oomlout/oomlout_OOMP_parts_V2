@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L05GG > 5 mm Green LED
+# MPN Summary For: L5G > 5 mm Green LED
 
 ## MPNs
   

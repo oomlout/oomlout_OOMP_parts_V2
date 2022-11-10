@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L1206WW > SMD (1206) White LED
+# MPN Summary For: L12W > SMD (1206) White LED
 
 ## MPNs
   

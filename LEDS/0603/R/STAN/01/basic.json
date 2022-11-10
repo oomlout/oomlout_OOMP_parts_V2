@@ -28,11 +28,24 @@
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L6RR"
+        "L6R"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "KT-0603R",
+            "MPNKEY": "MPN-C-HUBEIK-KT-0603R",
+            "OOMPID": "LEDS-0603-R-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0603-R-STAN-01",
+            "TAGS": [
+                "STOCK:1000K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -1861,7 +1874,14 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C2286",
+            "partName": "Red 615~630nm 1.9~2.2V 0603 Light Emitting Diodes (LED) RoHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

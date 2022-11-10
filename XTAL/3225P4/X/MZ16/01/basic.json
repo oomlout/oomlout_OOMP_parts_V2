@@ -85,7 +85,14 @@
     "oompType": [
         "XTAL"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C13738",
+            "partName": "16MHz SMD Crystal Resonator 9pF ??10ppm ??30ppm -40??~+85?? SMD3225-4P  Crystals ROHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

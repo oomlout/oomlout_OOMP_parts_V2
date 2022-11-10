@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L4GG > SMD (0402) Green LED
+# MPN Summary For: L4G > SMD (0402) Green LED
 
 ## MPNs
   

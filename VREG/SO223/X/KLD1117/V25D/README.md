@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-223-3_TabPin2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-223-3_TabPin2/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-223-3_TabPin2/)|[Package_TO_SOT_SMD : SOT-223-3_TabPin2](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-223-3_TabPin2/)|
 ||||
 
 ## Symbols
@@ -35,7 +35,8 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP1117-15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP1117-15/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP1117-15/)|[Regulator_Linear : AP1117-15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP1117-15/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|[Regulator_Linear : LD1117S25TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|
 ||||
 
 ## Distributor Searches
@@ -70,5 +71,5 @@ Number of MPNs: 0
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 2.5 v|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C26457</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C26457</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C2645701.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V25D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C2802527</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C2802527</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C280252701.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V25D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C347228</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C347228</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C34722801.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V25D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C71123</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C71123</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C7112301.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V25D</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15, SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223|
 ||||

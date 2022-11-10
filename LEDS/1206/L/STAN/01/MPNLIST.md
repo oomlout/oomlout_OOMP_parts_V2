@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L1206LL > SMD (1206) Blue LED
+# MPN Summary For: L12L > SMD (1206) Blue LED
 
 ## MPNs
   

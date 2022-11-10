@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L10WW > 10 mm White LED
+# MPN Summary For: L10-W > 10 mm White LED
 
 ## MPNs
   

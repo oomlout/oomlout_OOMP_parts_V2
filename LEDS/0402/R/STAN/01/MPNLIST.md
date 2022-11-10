@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L4RR > SMD (0402) Red LED
+# MPN Summary For: L4R > SMD (0402) Red LED
 
 ## MPNs
   

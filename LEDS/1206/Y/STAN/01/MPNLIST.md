@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L1206YY > SMD (1206) Yellow LED
+# MPN Summary For: L12Y > SMD (1206) Yellow LED
 
 ## MPNs
   

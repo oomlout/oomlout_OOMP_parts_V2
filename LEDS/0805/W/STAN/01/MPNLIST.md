@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L0805WW > SMD (0805) White LED
+# MPN Summary For: L8W > SMD (0805) White LED
 
 ## MPNs
   

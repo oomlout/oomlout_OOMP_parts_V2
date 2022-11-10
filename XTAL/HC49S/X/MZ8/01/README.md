@@ -27,8 +27,8 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-||FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD||
-||FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD/)|[FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD/)|[Crystal : Crystal_SMD_HC49-SD](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD/)|
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering/)|[FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering/)|[Crystal : Crystal_SMD_HC49-SD_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Crystal/Crystal_SMD_HC49-SD_HandSoldering/)|
 ||||
 
 ## Symbols
@@ -36,7 +36,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Device-Crystal||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/)|[SYMBOL-kicad-kicad-symbols-Device-Crystal](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/)|[Device : Crystal](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Crystal/)|
 ||||
 
 ## Distributor Searches
@@ -72,6 +72,7 @@ Number of MPNs: 2
 |name|name|SMD (HC49) 8 MHz Crystal|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-YANGXI-X49SM8MSD2SC</td><td> MANUFACTURER</td></tr><tr><td> Yangxing Tech</td><td> MANUCODE</td></tr><tr><td> C-YANGXI</td><td> MPN</td></tr><tr><td> X49SM8MSD2SC</td><td> OOMPIDPARTIAL</td></tr><tr><td> XTAL-HC49S-X-MZ8-01</td><td> OOMPID</td></tr><tr><td> XTAL-HC49S-X-MZ8-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>10K</td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-YANGXI-X49SM8MSD2SC</td><td> MANUFACTURER</td></tr><tr><td> Yangxing Tech</td><td> MANUCODE</td></tr><tr><td> C-YANGXI</td><td> MPN</td></tr><tr><td> X49SM8MSD2SC</td><td> OOMPIDPARTIAL</td></tr><tr><td> XTAL-HC49S-X-MZ8-01</td><td> OOMPID</td></tr><tr><td> XTAL-HC49S-X-MZ8-01</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>10K</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C12674'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C12674'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-YANGXI-X49SM8MSD2SC'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>10K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C12674.html'</td><td> 'OOMPID'</td></tr><tr><td> 'XTAL-HC49S-X-MZ8-01'</td></tr></table>|
+|Part Number (OPL)|oplPartNumber|<table><tr><td>'code'</td></tr><tr><td> 'C-JLCC'</td><td> 'name'</td></tr><tr><td> 'JLC Parts Library'</td><td> 'partID'</td></tr><tr><td> 'C12674'</td><td> 'partName'</td></tr><tr><td> '8MHz 49SMD 20pF ??20ppm ??30ppm -20??~+70?? HC-49S/SMD  Crystals ROHS'</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD, FOOTPRINT-kicad-kicad-footprints-Crystal-Crystal_SMD_HC49-SD_HandSoldering|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Crystal|
 ||||

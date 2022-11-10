@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L10LL > 10 mm Blue LED
+# MPN Summary For: L10-L > 10 mm Blue LED
 
 ## MPNs
   

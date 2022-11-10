@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L4YY > SMD (0402) Yellow LED
+# MPN Summary For: L4Y > SMD (0402) Yellow LED
 
 ## MPNs
   

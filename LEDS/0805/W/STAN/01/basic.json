@@ -37,11 +37,24 @@
     "gitName": [],
     "gitRepo": [],
     "hexID": [
-        "L0805WW"
+        "L8W"
     ],
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-HUBEIK",
+            "MANUFACTURER": "Hubei KENTO Elec",
+            "MPN": "C34499",
+            "MPNKEY": "MPN-C-HUBEIK-C34499",
+            "OOMPID": "LEDS-0805-W-STAN-01",
+            "OOMPIDPARTIAL": "LEDS-0805-W-STAN-01",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
         {
             "DESCRIPTION": "",
             "LINK": "",
@@ -81,7 +94,14 @@
     "oompType": [
         "LEDS"
     ],
-    "oplPartNumber": [],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C34499",
+            "partName": "0805  Light Emitting Diodes (LED) ROHS"
+        }
+    ],
     "rawParts": [],
     "symbolEagle": [],
     "symbolEagleDetails": [],

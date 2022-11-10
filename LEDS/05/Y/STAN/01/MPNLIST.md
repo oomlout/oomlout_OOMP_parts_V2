@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L05YY > 5 mm Yellow LED
+# MPN Summary For: L5Y > 5 mm Yellow LED
 
 ## MPNs
   

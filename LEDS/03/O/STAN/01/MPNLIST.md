@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: L03OO > 3 mm Orange LED
+# MPN Summary For: L3O > 3 mm Orange LED
 
 ## MPNs
   
