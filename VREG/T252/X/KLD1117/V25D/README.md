@@ -26,7 +26,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|[Regulator_Linear : LD1117S25TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223||
 ||||
 
 ## Distributor Searches

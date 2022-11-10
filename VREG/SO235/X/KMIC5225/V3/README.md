@@ -27,8 +27,8 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|[Package_TO_SOT_SMD : SOT-23-5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|[Package_TO_SOT_SMD : SOT-23-5_HandSoldering](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/SOT-23-5_HandSoldering/)|
+||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5||
+||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering||
 ||||
 
 ## Symbols
@@ -36,7 +36,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.0YM5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/)|[Regulator_Linear : MIC5205-3.0YM5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.0YM5||
 ||||
 
 ## Distributor Searches

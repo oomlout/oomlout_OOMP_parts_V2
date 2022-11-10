@@ -2,7 +2,68 @@
     "code": [],
     "collection": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C86781",
+            "LINK": "https://www.lcsc.com/product-detail/C8678101.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C86781"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C35879",
+            "LINK": "https://www.lcsc.com/product-detail/C3587901.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C35879"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C347229",
+            "LINK": "https://www.lcsc.com/product-detail/C34722901.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C347229"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C115288",
+            "LINK": "https://www.lcsc.com/product-detail/C11528801.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C115288"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C474404",
+            "LINK": "https://www.lcsc.com/product-detail/C47440401.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C474404"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C71121",
+            "LINK": "https://www.lcsc.com/product-detail/C7112101.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C71121"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
@@ -36,6 +97,9 @@
         "V33D"
     ],
     "oompInstances": [],
+    "oompNote": [
+        "LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py"
+    ],
     "oompParts": [],
     "oompSize": [
         "SO223"

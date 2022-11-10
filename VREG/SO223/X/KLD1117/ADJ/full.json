@@ -1,4 +1,16 @@
 {
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C283466",
+            "LINK": "https://www.lcsc.com/product-detail/C28346601.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-ADJ",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C283466"
+        }
+    ],
     "hexID": [
         "VR1117223AJ"
     ],
@@ -24,6 +36,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/ADJ/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/ADJ/detailsFootprintsOomp.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/ADJ/basic.json"
         ],
@@ -48,6 +63,9 @@
     ],
     "oompIndex": [
         "ADJ"
+    ],
+    "oompNote": [
+        "LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py"
     ],
     "oompSize": [
         "SO223"

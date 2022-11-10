@@ -26,9 +26,10 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[Device : R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[Device : R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/R/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[SYMBOL-kicad-kicad-symbols-Device-R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|[Device : R](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/R/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
+|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
+|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
+|![]()|SYMBOL-kicad-kicad-symbols-Device-R||
 ||||
 
 ## Distributor Searches
@@ -60,5 +61,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|RESE-W04-X-O22X-01|
 |Hex ID (short code)|hexID|RW04-O22X|
 |name|name|1/4 Watt 2.2 Ohm Resistor|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R, SYMBOL-kicad-kicad-symbols-Device-R|
 ||||

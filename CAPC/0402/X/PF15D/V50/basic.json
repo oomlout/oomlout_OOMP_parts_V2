@@ -218,6 +218,12 @@
     "footprintEagleDetails": [],
     "footprintKicad": [
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder",
+        "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric",
         "FOOTPRINT-kicad-kicad-footprints-Capacitor_SMD-C_0402_1005Metric_Pad0.74x0.62mm_HandSolder"
     ],
     "footprintKicadDetails": [],
@@ -714,6 +720,7 @@
             "PROJECT": "PROJ-SPAR-0705-STAN-01"
         }
     ],
+    "oompNote": [],
     "oompParts": [],
     "oompSize": [
         "0402"
@@ -733,6 +740,9 @@
     "symbolEagle": [],
     "symbolEagleDetails": [],
     "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-C",
+        "SYMBOL-kicad-kicad-symbols-Device-C",
+        "SYMBOL-kicad-kicad-symbols-Device-C",
         "SYMBOL-kicad-kicad-symbols-Device-C"
     ],
     "symbolKicadDetails": []

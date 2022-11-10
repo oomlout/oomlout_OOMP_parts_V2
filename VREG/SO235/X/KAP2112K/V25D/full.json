@@ -1,4 +1,8 @@
 {
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5",
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering"
+    ],
     "hexID": [
         "VR211223525"
     ],
@@ -66,5 +70,8 @@
     ],
     "oompType": [
         "VREG"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP2112K-2.5"
     ]
 }

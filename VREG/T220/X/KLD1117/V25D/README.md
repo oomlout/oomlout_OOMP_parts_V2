@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/)|[Package_TO_SOT_THT : TO-220-3_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_THT/TO-220-3_Vertical/)|
+||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical||
 ||||
 
 ## Symbols
@@ -35,7 +35,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|[Regulator_Linear : LD1117S25TR_SOT223](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/LD1117S25TR_SOT223/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S25TR_SOT223||
 ||||
 
 ## Distributor Searches

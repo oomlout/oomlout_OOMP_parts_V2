@@ -26,12 +26,14 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[Connector : Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[Connector_Generic : Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[Connector : Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[Connector_Generic : Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|[Connector : Conn_01x02_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x02_Male/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|[Connector_Generic : Conn_01x02](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x02/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02||
 ||||
 
 ## Distributor Searches
@@ -63,5 +65,5 @@ Number of MPNs: 0
 |Full OOMP ID|oompID|HEAD-I01-X-PI02-SM|
 |Hex ID (short code)|hexID|H02S|
 |name|name|2.54 mm 2 Pin Header (SMD)|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x02_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x02|
 ||||

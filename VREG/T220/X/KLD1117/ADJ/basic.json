@@ -7,7 +7,9 @@
     "eagleSchem": [],
     "footprintEagle": [],
     "footprintEagleDetails": [],
-    "footprintKicad": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -34,6 +36,9 @@
         "ADJ"
     ],
     "oompInstances": [],
+    "oompNote": [
+        "LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py"
+    ],
     "oompParts": [],
     "oompSize": [
         "T220"

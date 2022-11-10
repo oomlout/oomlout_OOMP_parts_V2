@@ -28,7 +28,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical/)|[FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x05_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical/)|[TerminalBlock_4Ucon : TerminalBlock_4Ucon_1x05_P3.50mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/TerminalBlock_4Ucon/TerminalBlock_4Ucon_1x05_P3.50mm_Vertical/)|
+||FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x05_P3.50mm_Vertical||
 ||||
 
 ## Symbols
@@ -36,9 +36,10 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|[Connector : Screw_Terminal_01x05](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|[Connector : Screw_Terminal_01x05](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|[SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|[Connector : Screw_Terminal_01x05](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Screw_Terminal_01x05/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05||
 ||||
 
 ## OOMP Instances
@@ -81,6 +82,6 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|T35L5|
 |name|name|3.5 mm 5 Pin Blue Screw Terminal|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-TerminalBlock_4Ucon-TerminalBlock_4Ucon_1x05_P3.50mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05, SYMBOL-kicad-kicad-symbols-Connector-Screw_Terminal_01x05|
 |OOMP Instances|oompInstances|<table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-0801-STAN-01</td><td> ID</td></tr><tr><td> J3</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1438-STAN-01</td><td> ID</td></tr><tr><td> J1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-1438-STAN-01</td><td> ID</td></tr><tr><td> J2</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2348-STAN-01</td><td> ID</td></tr><tr><td> J1</td></tr></table></td><td> <table><tr><td>PROJECT</td></tr><tr><td> PROJ-ADAF-2348-STAN-01</td><td> ID</td></tr><tr><td> J3</td></tr></table>|
 ||||

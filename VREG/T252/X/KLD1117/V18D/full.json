@@ -24,6 +24,9 @@
         "details": [
             "oomlout_OOMP_parts_V2/VREG/T252/X/KLD1117/V18D/details.py"
         ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/VREG/T252/X/KLD1117/V18D/detailsFootprintsOomp.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/VREG/T252/X/KLD1117/V18D/basic.json"
         ],
@@ -48,6 +51,9 @@
     ],
     "oompIndex": [
         "V18D"
+    ],
+    "oompNote": [
+        "LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py"
     ],
     "oompSize": [
         "T252"

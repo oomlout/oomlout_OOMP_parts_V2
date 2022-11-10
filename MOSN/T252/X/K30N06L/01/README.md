@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2/)|[FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2/)|[Package_TO_SOT_SMD : TO-252-2](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Package_TO_SOT_SMD/TO-252-2/)|
+||FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-2||
 ||||
 
 ## Symbols
@@ -35,7 +35,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Device/Q_NMOS_GDS/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NMOS_GDS/)|[SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NMOS_GDS/)|[Device : Q_NMOS_GDS](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Device/Q_NMOS_GDS/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS||
 ||||
 
 ## Distributor Searches

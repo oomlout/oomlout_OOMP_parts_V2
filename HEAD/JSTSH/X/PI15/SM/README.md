@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/)|[FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/)|[Connector_JST : JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/FOOTPRINT/kicad/kicad-footprints/Connector_JST/JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical/)|
+||FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical||
 ||||
 
 ## Symbols
@@ -35,12 +35,14 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[Connector : Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|[Connector_Generic : Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[Connector : Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|[Connector_Generic : Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|[Connector : Conn_01x15_Male](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector/Conn_01x15_Male/)|
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|[SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|[Connector_Generic : Conn_01x15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Connector_Generic/Conn_01x15/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male||
+|![]()|SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15||
 ||||
 
 ## Distributor Searches
@@ -76,5 +78,5 @@ Number of MPNs: 2
 |name|name|JST SH (1 mm) 15 Pin Header (SMD)|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM15B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM15B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI15-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI15-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-BM15B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> BM15B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI15-SM</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI15-SM</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_BM15B-SRSS-TB_1x15-1MP_P1.00mm_Vertical|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15, SYMBOL-kicad-kicad-symbols-Connector-Conn_01x15_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x15|
 ||||

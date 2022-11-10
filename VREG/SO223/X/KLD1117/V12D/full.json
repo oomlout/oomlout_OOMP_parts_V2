@@ -1,4 +1,36 @@
 {
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C155612",
+            "LINK": "https://www.lcsc.com/product-detail/C15561201.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V12D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C155612"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C347225",
+            "LINK": "https://www.lcsc.com/product-detail/C34722501.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V12D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C347225"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C75486",
+            "LINK": "https://www.lcsc.com/product-detail/C7548601.html",
+            "MPN": "",
+            "OOMPID": "VREG-SO223-X-KLD1117-V12D",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C75486"
+        }
+    ],
     "hexID": [
         "VR111722312"
     ],
@@ -60,6 +92,9 @@
     ],
     "oompIndex": [
         "V12D"
+    ],
+    "oompNote": [
+        "LCSC Part number set in VREG/SO223/X/KLD1117/V33D/details2.py"
     ],
     "oompSize": [
         "SO223"
