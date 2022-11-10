@@ -1,4 +1,3 @@
 def load(newPart,it):
-    it['MOSN-T252-X-K4184-01']['footprintEagle'] = []
-    it['MOSN-T252-X-K4184-01']['footprintKicad'] = []
-    it['MOSN-T252-X-K4184-01']['symbolKicad'] = []
+    it['MOSN-T252-X-K4184-01']['footprintKicad'] = ['FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-TO-252-3_TabPin2']
+    it['MOSN-T252-X-K4184-01']['symbolKicad'] = ['SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS']
