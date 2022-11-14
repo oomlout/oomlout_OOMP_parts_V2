@@ -18,7 +18,7 @@ def load(newPart,it):
     newPart['oompID'].append(oompID)
 
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15')
-    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S33TR_SOT223')
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S50TR_SOT223')
     newPart['oplPartNumber'].append({'code': 'C-JLCC', 'name': 'JLC Parts Library', 'partID': 'C6187', 'partName': '68dB@(120Hz) 1A 1.3V@(1A) Fixed 5V~5V Positive 1 15V SOT-223  Linear Voltage Regulators (LDO) ROHS'})
     newPart['distributorPartNumber'].append({'code': 'C-LCSC', 'name': 'LCSC', 'partID': 'C6187'})
     newPart['manufacturerPartNumber'].append({'code': 'C-XXXX', 'name': 'Advanced Monolithic Systems', 'partID': 'AMS1117-5.0', 'partName': 'AMS1117-5.0'})

@@ -3,11 +3,11 @@
 
 def load(newPart,it):
     oType = "SENS"
-    oSize = "LG14"
+    oSize = "LG163030S"
     oColor = "X"
-    oDesc = "K345"
+    oDesc = "KL3GD20"
     oIndex = "01"
-    hexID = "SEN345"
+    hexID = "MN2524184A"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -17,8 +17,8 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
-    newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y')
-    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343')
+    newPart['matchSpecial'].append([['L3GD20H_LGA16L'], 'SENS-LG163030S-X-KL3GD20-01'])
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20')
 
 
     ######  Common

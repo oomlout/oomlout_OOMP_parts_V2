@@ -2,12 +2,12 @@
 ######  Auto translated oomp file
 
 def load(newPart,it):
-    oType = "DIOD"
-    oSize = "S323"
+    oType = "SENS"
+    oSize = "LG143050"
     oColor = "X"
-    oDesc = "K4184"
+    oDesc = "K345"
     oIndex = "01"
-    hexID = "D34148"
+    hexID = "SEN345"
 
     newPart['oompType'].append(oType)
     newPart['oompSize'].append(oSize)
@@ -17,6 +17,8 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y')
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343')
 
 
     ######  Common
