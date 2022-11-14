@@ -3,6 +3,18 @@
         {
             "DISTRCODE": "C-LCSC",
             "DISTRIBUTOR": "LCSC",
+            "DPN": "C6186",
+            "LINK": "https://www.lcsc.com/product-detail/C6186.html",
+            "MPN": "MPN-C-ADVANC-AMS1117-3.3",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [
+                "STOCK:100K"
+            ],
+            "dpnKey": "DPN-C-LCSC-C6186"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
             "DPN": "C86781",
             "LINK": "https://www.lcsc.com/product-detail/C8678101.html",
             "MPN": "",
@@ -65,7 +77,35 @@
         "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2"
     ],
     "hexID": [
-        "VR111722333"
+        "VREGSO223-KLD111733D"
+    ],
+    "manufacturerPartNumber": [
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ADVANC",
+            "MANUFACTURER": "Advanced Monolithic Systems",
+            "MPN": "AMS1117-3.3",
+            "MPNKEY": "MPN-C-ADVANC-AMS1117-3.3",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "OOMPIDPARTIAL": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-ADVANC",
+            "MANUFACTURER": "Advanced Monolithic Systems",
+            "MPN": "AMS1117-3.3",
+            "MPNKEY": "MPN-C-ADVANC-AMS1117-3.3",
+            "OOMPID": "VREG-SO223-X-KLD1117-V33D",
+            "OOMPIDPARTIAL": "VREG-SO223-X-KLD1117-V33D",
+            "TAGS": [
+                "STOCK:100K"
+            ]
+        }
     ],
     "name": [
         "SMD (SOT-223) LD1117 Voltage Regulator 3.3v"
@@ -101,6 +141,9 @@
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/detailsInstancesOomp.py"
         ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/detailsPartNumbers.py"
+        ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V33D/basic.json"
         ],
@@ -126,14 +169,19 @@
     "oompIndex": [
         "V33D"
     ],
-    "oompNote": [
-        "LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py"
-    ],
     "oompSize": [
         "SO223"
     ],
     "oompType": [
         "VREG"
+    ],
+    "oplPartNumber": [
+        {
+            "code": "C-JLCC",
+            "name": "JLC Parts Library",
+            "partID": "C6186",
+            "partName": "72dB@(120Hz) 1A 1.3V@(800mA) Fixed 3.3V~3.3V Positive 1 SOT-223  Linear Voltage Regulators (LDO) ROHS"
+        }
     ],
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15",

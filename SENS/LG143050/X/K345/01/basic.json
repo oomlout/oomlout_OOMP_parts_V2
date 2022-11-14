@@ -19,9 +19,16 @@
     "kicadBoard": [],
     "kicadSchem": [],
     "manufacturerPartNumber": [],
-    "matchSpecial": [],
+    "matchSpecial": [
+        [
+            [
+                "ADXL343"
+            ],
+            "SENS-LG143050-X-K345-01"
+        ]
+    ],
     "name": [
-        "14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor"
+        "14 Pin SMD (3 x 5 mm LGA) Digital Accelerometer (ADXL345) Sensor"
     ],
     "oompColor": [
         "X"
@@ -30,37 +37,16 @@
         "K345"
     ],
     "oompID": [
-        "SENS-LG14-X-K345-01"
+        "SENS-LG143050-X-K345-01"
     ],
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-ADAF-1231-STAN-0A"
-        },
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-SPAR-10121-STAN-01"
-        },
-        {
-            "ID": "U2",
-            "PROJECT": "PROJ-SPAR-10252-STAN-01"
-        },
-        {
-            "ID": "U2",
-            "PROJECT": "PROJ-SPAR-9814-STAN-01"
-        },
-        {
-            "ID": "U2",
-            "PROJECT": "PROJ-SPAR-9836-STAN-01"
-        }
-    ],
+    "oompInstances": [],
     "oompNote": [],
     "oompParts": [],
     "oompSize": [
-        "LG14"
+        "LG143050"
     ],
     "oompType": [
         "SENS"

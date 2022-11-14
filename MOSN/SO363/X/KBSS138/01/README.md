@@ -8,6 +8,7 @@ Contents
 * [MNKBS13823 > SMD (SOT-363) BSS138 N-Ch. MOSFET](#mnkbs13823--smd-sot-363-bss138-n-ch-mosfet)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,8 +32,13 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
-NO IMAGES  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO363/X/KBSS138/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO363/X/KBSS138/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

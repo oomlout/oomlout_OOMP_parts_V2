@@ -1,0 +1,61 @@
+{
+    "hexID": [
+        "L3535-RGBK2812"
+    ],
+    "name": [
+        "SMD (3535) Smart Controller (WS2812B) RGB LED"
+    ],
+    "oompColor": [
+        "RGB"
+    ],
+    "oompDesc": [
+        "K2812"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/basic.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/README.md"
+        ]
+    },
+    "oompID": [
+        "LEDS-3535-RGB-K2812-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "3535"
+    ],
+    "oompType": [
+        "LEDS"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ]
+}

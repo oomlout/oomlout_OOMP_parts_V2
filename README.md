@@ -32,6 +32,7 @@ Contents
 	* [LEDS>0805  (LED>SMD (0805))](#leds0805--ledsmd-0805)
 	* [LEDS>1206  (LED>SMD (1206))](#leds1206--ledsmd-1206)
 	* [LEDS>3535  (LED>SMD (3535))](#leds3535--ledsmd-3535)
+	* [LEDS>5050  (LED>SMD (5050))](#leds5050--ledsmd-5050)
 	* [LEDS>03  (LED>3 mm)](#leds03--led3-mm)
 	* [LEDS>05  (LED>5 mm)](#leds05--led5-mm)
 	* [LEDS>10  (LED>10 mm)](#leds10--led10-mm)
@@ -305,6 +306,12 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/3535/RGB/K2812/01/image_140.jpg)<br>LEDS-3535-RGB-K2812-01<br>SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/3535/RGB/K2812/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
+## LEDS>5050  (LED>SMD (5050))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/5050/RGB/K102/01/image_140.jpg)<br>LEDS-5050-RGB-K102-01<br>SMD (5050) Smart Controller (APA102) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/5050/RGB/K102/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
 ## LEDS>03  (LED>3 mm)
   
 
@@ -533,7 +540,7 @@ Contents
 ## SENS>LG163030S  (Sensor>16 Pin SMD (3x3 mm LGA (Unusual Pins)))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG163030S/X/KL3GD20/01/image_140.jpg)<br>SENS-LG163030S-X-KL3GD20-01<br>16 Pin SMD (3x3 mm LGA (Unusual Pins)) Sensor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG163030S/X/KL3GD20/01/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG163030S/X/KL3GD20/01/image_140.jpg)<br>SENS-LG163030S-X-KL3GD20-01<br>16 Pin SMD (3x3 mm LGA (Unusual Pins)) L3GD20 3-Axis Gyroscope Sensor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG163030S/X/KL3GD20/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## TERS>35D  (Screw Terminal>3.5 mm)

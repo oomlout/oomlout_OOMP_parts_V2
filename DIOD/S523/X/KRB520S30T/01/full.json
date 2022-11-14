@@ -1,0 +1,72 @@
+{
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Diode_SMD-D_SOD-523"
+    ],
+    "hexID": [
+        "D34148"
+    ],
+    "matchSpecial": [
+        [
+            [
+                "RB520S30T1G"
+            ],
+            "DIOD-S523-X-KRB520S30T-01"
+        ]
+    ],
+    "name": [
+        "SMD (SOD-523) RB520S30T1G Diode"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KRB520S30T"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/basic.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/DIOD/S523/X/KRB520S30T/01/README.md"
+        ]
+    },
+    "oompID": [
+        "DIOD-S523-X-KRB520S30T-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "S523"
+    ],
+    "oompType": [
+        "DIOD"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-D"
+    ]
+}

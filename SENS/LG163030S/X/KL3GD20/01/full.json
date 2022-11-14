@@ -1,0 +1,69 @@
+{
+    "hexID": [
+        "MN2524184A"
+    ],
+    "matchSpecial": [
+        [
+            [
+                "L3GD20H_LGA16L"
+            ],
+            "SENS-LG163030S-X-KL3GD20-01"
+        ]
+    ],
+    "name": [
+        "16 Pin SMD (3x3 mm LGA (Unusual Pins)) L3GD20 3-Axis Gyroscope Sensor"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KL3GD20"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/basic.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/README.md"
+        ]
+    },
+    "oompID": [
+        "SENS-LG163030S-X-KL3GD20-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "LG163030S"
+    ],
+    "oompType": [
+        "SENS"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20"
+    ]
+}

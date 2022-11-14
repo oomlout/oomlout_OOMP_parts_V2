@@ -6,7 +6,7 @@ def load(newPart,it):
     newPart = it[oompID]
     
     ###### QWIIC Connector
-    newPart['matchSpecial'].append([["JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","STEMMA_I2C","QWIIC","I2C_STANDARDJS-1MM"],"HEAD-JSTSH-X-PI04-RS"]) ###### might also be set elsewhere
+    newPart['matchSpecial'].append([["JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal","STEMMA_I2C","QWIIC","I2C_STANDARDJS-1MM","JST04_1MM_RA"],"HEAD-JSTSH-X-PI04-RS"]) ###### might also be set elsewhere
     #newPart['footprintKicad'].append('') ###### might also be set elsewhere
     #newPart['symbolKicad'].append('')
 

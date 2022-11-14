@@ -5,8 +5,16 @@
     "hexID": [
         "SEN345"
     ],
+    "matchSpecial": [
+        [
+            [
+                "ADXL343"
+            ],
+            "SENS-LG143050-X-K345-01"
+        ]
+    ],
     "name": [
-        "14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor"
+        "14 Pin SMD (3 x 5 mm LGA) Digital Accelerometer (ADXL345) Sensor"
     ],
     "oompColor": [
         "X"
@@ -16,87 +24,62 @@
     ],
     "oompFiles": {
         "": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/"
         ],
         "BASE": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.csv"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/details.csv"
         ],
         "EDA": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01//labelInventory.pdf"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01//labelInventory.pdf"
         ],
         "IMAGE": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/qrCode.png"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/qrCode.png"
         ],
         "csv": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.csv"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/details.csv"
         ],
         "details": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/details.py"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/details.py"
         ],
         "detailsFootprintsOomp": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/detailsFootprintsOomp.py"
-        ],
-        "detailsInstancesOomp": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/detailsInstancesOomp.py"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/detailsFootprintsOomp.py"
         ],
         "image": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image.jpg"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/image.jpg"
         ],
         "imageBottom": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_BOTTOM.jpg"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/image_BOTTOM.jpg"
         ],
         "imageRe": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/image_RE.jpg"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/image_RE.jpg"
         ],
         "jsonBasic": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/basic.json"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/basic.json"
         ],
         "jsonFull": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/full.json"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/full.json"
         ],
         "labelInventory": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01//labelInventory.pdf"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01//labelInventory.pdf"
         ],
         "mpnList": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/MPNLIST.md"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/MPNLIST.md"
         ],
         "qrCode": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/qrCode.png"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/qrCode.png"
         ],
         "readme": [
-            "oomlout_OOMP_parts_V2/SENS/LG14/X/K345/01/README.md"
+            "oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/README.md"
         ]
     },
     "oompID": [
-        "SENS-LG14-X-K345-01"
+        "SENS-LG143050-X-K345-01"
     ],
     "oompIndex": [
         "01"
     ],
-    "oompInstances": [
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-ADAF-1231-STAN-0A"
-        },
-        {
-            "ID": "U1",
-            "PROJECT": "PROJ-SPAR-10121-STAN-01"
-        },
-        {
-            "ID": "U2",
-            "PROJECT": "PROJ-SPAR-10252-STAN-01"
-        },
-        {
-            "ID": "U2",
-            "PROJECT": "PROJ-SPAR-9814-STAN-01"
-        },
-        {
-            "ID": "U2",
-            "PROJECT": "PROJ-SPAR-9836-STAN-01"
-        }
-    ],
     "oompSize": [
-        "LG14"
+        "LG143050"
     ],
     "oompType": [
         "SENS"

@@ -73,6 +73,7 @@ Number of MPNs: 0
 |name|name|14 Pin SMD (3 x 5 mm LGA) Digital Accelerometer (ADXL345) Sensor|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343|
+|Match Special|matchSpecial|[['ADXL343'], 'SENS-LG143050-X-K345-01']|
 ||||
 
 

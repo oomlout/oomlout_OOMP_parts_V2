@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -49,8 +50,13 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
-NO IMAGES  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S523/X/KRB520S30T/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S523/X/KRB520S30T/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

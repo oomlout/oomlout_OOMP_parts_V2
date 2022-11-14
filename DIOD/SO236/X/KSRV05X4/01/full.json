@@ -1,0 +1,73 @@
+{
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-6",
+        "FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-6_Handsoldering"
+    ],
+    "hexID": [
+        "D34148"
+    ],
+    "matchSpecial": [
+        [
+            [
+                "SRV05-4"
+            ],
+            "DIOD-SO236-X-KSRV05X4-01"
+        ]
+    ],
+    "name": [
+        "SMD (SOT-23-6) SRV05-4 TVS Array Diode"
+    ],
+    "oompColor": [
+        "X"
+    ],
+    "oompDesc": [
+        "KSRV05X4"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/basic.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/README.md"
+        ]
+    },
+    "oompID": [
+        "DIOD-SO236-X-KSRV05X4-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "SO236"
+    ],
+    "oompType": [
+        "DIOD"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-D"
+    ]
+}
