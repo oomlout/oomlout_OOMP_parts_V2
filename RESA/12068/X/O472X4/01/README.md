@@ -8,6 +8,7 @@ Contents
 * [RA12472 > SMD (1206-8) 4.7k Ohm (x4) Resistor Array](#ra12472--smd-1206-8-47k-ohm-x4-resistor-array)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -31,6 +32,8 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESA/12068/X/O472X4/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESA/12068/X/O472X4/01/image.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESA/12068/X/O472X4/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESA/12068/X/O472X4/01/qrCode.png)|||

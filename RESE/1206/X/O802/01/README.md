@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 478<br>Below is a subset included because: STOCK:10K <br>Full li
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-06K6801FT||[(AV) ](https://www.avnet.com/shop/us/search/RS-06K6801FT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-06K6801FT)[(LCSC) ](https://www.lcsc.com/search?q=RS-06K6801FT)[(FA) ](https://uk.farnell.com/search?st=RS-06K6801FT)[(MO) ](https://www.mouser.com/c/?q=RS-06K6801FT)|
 |BOURNS<br>CR1206-FX-1782ELF||[(AV) ](https://www.avnet.com/shop/us/search/CR1206-FX-1782ELF)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR1206-FX-1782ELF)[(LCSC) ](https://www.lcsc.com/search?q=CR1206-FX-1782ELF)[(FA) ](https://uk.farnell.com/search?st=CR1206-FX-1782ELF)[(MO) ](https://www.mouser.com/c/?q=CR1206-FX-1782ELF)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O802/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O802/01/qrCode.png)||||

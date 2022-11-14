@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -70,6 +71,8 @@ Number of MPNs: 188<br>Below is a subset included because: STOCK:10K <br>Full li
 |PANASONIC<br>ERJ2RKF7681X||[(AV) ](https://www.avnet.com/shop/us/search/ERJ2RKF7681X)[(DK) ](https://www.digikey.co.uk/products/en?keywords=ERJ2RKF7681X)[(LCSC) ](https://www.lcsc.com/search?q=ERJ2RKF7681X)[(FA) ](https://uk.farnell.com/search?st=ERJ2RKF7681X)[(MO) ](https://www.mouser.com/c/?q=ERJ2RKF7681X)|
 |YAGEO<br>RT0402BRD077K68L||[(AV) ](https://www.avnet.com/shop/us/search/RT0402BRD077K68L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RT0402BRD077K68L)[(LCSC) ](https://www.lcsc.com/search?q=RT0402BRD077K68L)[(FA) ](https://uk.farnell.com/search?st=RT0402BRD077K68L)[(MO) ](https://www.mouser.com/c/?q=RT0402BRD077K68L)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O683/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O683/01/qrCode.png)||||

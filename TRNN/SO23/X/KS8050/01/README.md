@@ -8,6 +8,7 @@ Contents
 * [TRNN-SO23-KS8050 > SMD (SOT-23) S8050 NPN Transistor](#trnn-so23-ks8050--smd-sot-23-s8050-npn-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -33,6 +34,8 @@ Number of MPNs: 2
 |Jiangsu Changjing Electronics Technology Co., Ltd.<br>S8050 J3Y||[(AV) ](https://www.avnet.com/shop/us/search/S8050 J3Y)[(DK) ](https://www.digikey.co.uk/products/en?keywords=S8050 J3Y)[(LCSC) ](https://www.lcsc.com/search?q=S8050 J3Y)[(FA) ](https://uk.farnell.com/search?st=S8050 J3Y)[(MO) ](https://www.mouser.com/c/?q=S8050 J3Y)|
 |Jiangsu Changjing Electronics Technology Co., Ltd.<br>S8050 J3Y||[(AV) ](https://www.avnet.com/shop/us/search/S8050 J3Y)[(DK) ](https://www.digikey.co.uk/products/en?keywords=S8050 J3Y)[(LCSC) ](https://www.lcsc.com/search?q=S8050 J3Y)[(FA) ](https://uk.farnell.com/search?st=S8050 J3Y)[(MO) ](https://www.mouser.com/c/?q=S8050 J3Y)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KS8050/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KS8050/01/qrCode.png)||||

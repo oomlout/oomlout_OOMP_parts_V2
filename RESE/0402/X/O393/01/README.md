@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -64,6 +65,8 @@ Number of MPNs: 112<br>Below is a subset included because: STOCK:10K <br>Full li
 |Resistor.Today<br>AECR0402F39K0K9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0402F39K0K9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0402F39K0K9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0402F39K0K9)[(FA) ](https://uk.farnell.com/search?st=AECR0402F39K0K9)[(MO) ](https://www.mouser.com/c/?q=AECR0402F39K0K9)|
 |PANASONIC<br>ERA2AEB393X||[(AV) ](https://www.avnet.com/shop/us/search/ERA2AEB393X)[(DK) ](https://www.digikey.co.uk/products/en?keywords=ERA2AEB393X)[(LCSC) ](https://www.lcsc.com/search?q=ERA2AEB393X)[(FA) ](https://uk.farnell.com/search?st=ERA2AEB393X)[(MO) ](https://www.mouser.com/c/?q=ERA2AEB393X)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O393/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O393/01/qrCode.png)||||

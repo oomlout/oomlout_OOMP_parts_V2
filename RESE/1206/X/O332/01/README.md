@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -60,6 +61,8 @@ Number of MPNs: 144<br>Below is a subset included because: STOCK:10K <br>Full li
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-06K332JT||[(AV) ](https://www.avnet.com/shop/us/search/RS-06K332JT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-06K332JT)[(LCSC) ](https://www.lcsc.com/search?q=RS-06K332JT)[(FA) ](https://uk.farnell.com/search?st=RS-06K332JT)[(MO) ](https://www.mouser.com/c/?q=RS-06K332JT)|
 |Resistor.Today<br>AECR1206F3K30K9||[(AV) ](https://www.avnet.com/shop/us/search/AECR1206F3K30K9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR1206F3K30K9)[(LCSC) ](https://www.lcsc.com/search?q=AECR1206F3K30K9)[(FA) ](https://uk.farnell.com/search?st=AECR1206F3K30K9)[(MO) ](https://www.mouser.com/c/?q=AECR1206F3K30K9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O332/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O332/01/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -56,6 +57,8 @@ Number of MPNs: 202<br>Below is a subset included because: STOCK:10K <br>Full li
 |BOURNS<br>CR1206-FW-1504ELF||[(AV) ](https://www.avnet.com/shop/us/search/CR1206-FW-1504ELF)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR1206-FW-1504ELF)[(LCSC) ](https://www.lcsc.com/search?q=CR1206-FW-1504ELF)[(FA) ](https://uk.farnell.com/search?st=CR1206-FW-1504ELF)[(MO) ](https://www.mouser.com/c/?q=CR1206-FW-1504ELF)|
 |YAGEO<br>AC1206FR-071M5L||[(AV) ](https://www.avnet.com/shop/us/search/AC1206FR-071M5L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AC1206FR-071M5L)[(LCSC) ](https://www.lcsc.com/search?q=AC1206FR-071M5L)[(FA) ](https://uk.farnell.com/search?st=AC1206FR-071M5L)[(MO) ](https://www.mouser.com/c/?q=AC1206FR-071M5L)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O505/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O505/01/qrCode.png)||||

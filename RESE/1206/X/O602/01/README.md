@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -58,6 +59,8 @@ Number of MPNs: 516<br>Below is a subset included because: STOCK:10K <br>Full li
 |BOURNS<br>CR1206-FX-3162ELF||[(AV) ](https://www.avnet.com/shop/us/search/CR1206-FX-3162ELF)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR1206-FX-3162ELF)[(LCSC) ](https://www.lcsc.com/search?q=CR1206-FX-3162ELF)[(FA) ](https://uk.farnell.com/search?st=CR1206-FX-3162ELF)[(MO) ](https://www.mouser.com/c/?q=CR1206-FX-3162ELF)|
 |FOJAN<br>FRC1206F5601TS||[(AV) ](https://www.avnet.com/shop/us/search/FRC1206F5601TS)[(DK) ](https://www.digikey.co.uk/products/en?keywords=FRC1206F5601TS)[(LCSC) ](https://www.lcsc.com/search?q=FRC1206F5601TS)[(FA) ](https://uk.farnell.com/search?st=FRC1206F5601TS)[(MO) ](https://www.mouser.com/c/?q=FRC1206F5601TS)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O602/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O602/01/qrCode.png)||||

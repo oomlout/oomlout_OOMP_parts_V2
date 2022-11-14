@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 72<br>Below is a subset included because: STOCK:10K <br>Full lis
 |FOJAN<br>FRC1206J274 TS||[(AV) ](https://www.avnet.com/shop/us/search/FRC1206J274 TS)[(DK) ](https://www.digikey.co.uk/products/en?keywords=FRC1206J274 TS)[(LCSC) ](https://www.lcsc.com/search?q=FRC1206J274 TS)[(FA) ](https://uk.farnell.com/search?st=FRC1206J274 TS)[(MO) ](https://www.mouser.com/c/?q=FRC1206J274 TS)|
 |FOJAN<br>FRC1206J274 TS||[(AV) ](https://www.avnet.com/shop/us/search/FRC1206J274 TS)[(DK) ](https://www.digikey.co.uk/products/en?keywords=FRC1206J274 TS)[(LCSC) ](https://www.lcsc.com/search?q=FRC1206J274 TS)[(FA) ](https://uk.farnell.com/search?st=FRC1206J274 TS)[(MO) ](https://www.mouser.com/c/?q=FRC1206J274 TS)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O274/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O274/01/qrCode.png)||||

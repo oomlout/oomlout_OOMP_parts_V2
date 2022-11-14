@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -60,6 +61,8 @@ Number of MPNs: 194<br>Below is a subset included because: STOCK:100K <br>Full l
 |Murata Electronics<br>GRM1555C1H470JA01D||[(AV) ](https://www.avnet.com/shop/us/search/GRM1555C1H470JA01D)[(DK) ](https://www.digikey.co.uk/products/en?keywords=GRM1555C1H470JA01D)[(LCSC) ](https://www.lcsc.com/search?q=GRM1555C1H470JA01D)[(FA) ](https://uk.farnell.com/search?st=GRM1555C1H470JA01D)[(MO) ](https://www.mouser.com/c/?q=GRM1555C1H470JA01D)|
 |YAGEO<br>CC0402JRNPO9BN270||[(AV) ](https://www.avnet.com/shop/us/search/CC0402JRNPO9BN270)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CC0402JRNPO9BN270)[(LCSC) ](https://www.lcsc.com/search?q=CC0402JRNPO9BN270)[(FA) ](https://uk.farnell.com/search?st=CC0402JRNPO9BN270)[(MO) ](https://www.mouser.com/c/?q=CC0402JRNPO9BN270)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF7/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF7/V50/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -61,6 +62,8 @@ Number of MPNs: 162<br>Below is a subset included because: STOCK:10K <br>Full li
 |YAGEO<br>CC0805KRX7R9BB152||[(AV) ](https://www.avnet.com/shop/us/search/CC0805KRX7R9BB152)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CC0805KRX7R9BB152)[(LCSC) ](https://www.lcsc.com/search?q=CC0805KRX7R9BB152)[(FA) ](https://uk.farnell.com/search?st=CC0805KRX7R9BB152)[(MO) ](https://www.mouser.com/c/?q=CC0805KRX7R9BB152)|
 |CCTC<br>TCC0805X7R152K500DT||[(AV) ](https://www.avnet.com/shop/us/search/TCC0805X7R152K500DT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=TCC0805X7R152K500DT)[(LCSC) ](https://www.lcsc.com/search?q=TCC0805X7R152K500DT)[(FA) ](https://uk.farnell.com/search?st=TCC0805X7R152K500DT)[(MO) ](https://www.mouser.com/c/?q=TCC0805X7R152K500DT)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/NF5/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF5/V50/qrCode.png)||||

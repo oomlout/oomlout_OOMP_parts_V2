@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -59,6 +60,8 @@ Number of MPNs: 32<br>Below is a subset included because: STOCK:100K <br>Full li
 |Samsung Electro-Mechanics<br>CL21A476MQYNNNE||[(AV) ](https://www.avnet.com/shop/us/search/CL21A476MQYNNNE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL21A476MQYNNNE)[(LCSC) ](https://www.lcsc.com/search?q=CL21A476MQYNNNE)[(FA) ](https://uk.farnell.com/search?st=CL21A476MQYNNNE)[(MO) ](https://www.mouser.com/c/?q=CL21A476MQYNNNE)|
 |Taiyo Yuden<br>JMK212BBJ476MG-T||[(AV) ](https://www.avnet.com/shop/us/search/JMK212BBJ476MG-T)[(DK) ](https://www.digikey.co.uk/products/en?keywords=JMK212BBJ476MG-T)[(LCSC) ](https://www.lcsc.com/search?q=JMK212BBJ476MG-T)[(FA) ](https://uk.farnell.com/search?st=JMK212BBJ476MG-T)[(MO) ](https://www.mouser.com/c/?q=JMK212BBJ476MG-T)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF7/V63D/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF7/V63D/qrCode.png)||||

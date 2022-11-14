@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -62,6 +63,8 @@ Number of MPNs: 210<br>Below is a subset included because: STOCK:10K <br>Full li
 |YAGEO<br>RC0402FR-074K3L||[(AV) ](https://www.avnet.com/shop/us/search/RC0402FR-074K3L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RC0402FR-074K3L)[(LCSC) ](https://www.lcsc.com/search?q=RC0402FR-074K3L)[(FA) ](https://uk.farnell.com/search?st=RC0402FR-074K3L)[(MO) ](https://www.mouser.com/c/?q=RC0402FR-074K3L)|
 |Ever Ohms Tech<br>CR0402F24K3Q10Z||[(AV) ](https://www.avnet.com/shop/us/search/CR0402F24K3Q10Z)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR0402F24K3Q10Z)[(LCSC) ](https://www.lcsc.com/search?q=CR0402F24K3Q10Z)[(FA) ](https://uk.farnell.com/search?st=CR0402F24K3Q10Z)[(MO) ](https://www.mouser.com/c/?q=CR0402F24K3Q10Z)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O432/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O432/01/qrCode.png)||||

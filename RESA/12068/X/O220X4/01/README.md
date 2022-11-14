@@ -8,6 +8,7 @@ Contents
 * [RA12220 > SMD (1206-8) 220 Ohm (x4) Resistor Array](#ra12220--smd-1206-8-220-ohm-x4-resistor-array)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESA/12068/X/O220X4/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESA/12068/X/O220X4/01/qrCode.png)||||

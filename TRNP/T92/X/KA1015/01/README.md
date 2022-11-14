@@ -8,6 +8,7 @@ Contents
 * [TRNPT92-KA1015 > TO-92 A1015 PNP Transistor](#trnpt92-ka1015--to-92-a1015-pnp-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/KA1015/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/KA1015/01/qrCode.png)||||

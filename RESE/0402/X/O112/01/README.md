@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -70,6 +71,8 @@ Number of MPNs: 164<br>Below is a subset included because: STOCK:10K <br>Full li
 |PANASONIC<br>ERJ2RKF1101X||[(AV) ](https://www.avnet.com/shop/us/search/ERJ2RKF1101X)[(DK) ](https://www.digikey.co.uk/products/en?keywords=ERJ2RKF1101X)[(LCSC) ](https://www.lcsc.com/search?q=ERJ2RKF1101X)[(FA) ](https://uk.farnell.com/search?st=ERJ2RKF1101X)[(MO) ](https://www.mouser.com/c/?q=ERJ2RKF1101X)|
 |Resistor.Today<br>PTFR0402B1K10P9||[(AV) ](https://www.avnet.com/shop/us/search/PTFR0402B1K10P9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=PTFR0402B1K10P9)[(LCSC) ](https://www.lcsc.com/search?q=PTFR0402B1K10P9)[(FA) ](https://uk.farnell.com/search?st=PTFR0402B1K10P9)[(MO) ](https://www.mouser.com/c/?q=PTFR0402B1K10P9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O112/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O112/01/qrCode.png)||||

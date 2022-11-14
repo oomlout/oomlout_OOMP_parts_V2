@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -67,6 +68,8 @@ Number of MPNs: 386<br>Below is a subset included because: STOCK:10K <br>Full li
 |FH (Guangdong Fenghua Advanced Tech)<br>0805CGR75C500NT||[(AV) ](https://www.avnet.com/shop/us/search/0805CGR75C500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0805CGR75C500NT)[(LCSC) ](https://www.lcsc.com/search?q=0805CGR75C500NT)[(FA) ](https://uk.farnell.com/search?st=0805CGR75C500NT)[(MO) ](https://www.mouser.com/c/?q=0805CGR75C500NT)|
 |PSA(Prosperity Dielectrics)<br>FN21N150J500PAG||[(AV) ](https://www.avnet.com/shop/us/search/FN21N150J500PAG)[(DK) ](https://www.digikey.co.uk/products/en?keywords=FN21N150J500PAG)[(LCSC) ](https://www.lcsc.com/search?q=FN21N150J500PAG)[(FA) ](https://uk.farnell.com/search?st=FN21N150J500PAG)[(MO) ](https://www.mouser.com/c/?q=FN21N150J500PAG)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/PF5/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/PF5/V50/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 164<br>Below is a subset included because: STOCK:100K <br>Full l
 |FH (Guangdong Fenghua Advanced Tech)<br>0603B681K500NT||[(AV) ](https://www.avnet.com/shop/us/search/0603B681K500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603B681K500NT)[(LCSC) ](https://www.lcsc.com/search?q=0603B681K500NT)[(FA) ](https://uk.farnell.com/search?st=0603B681K500NT)[(MO) ](https://www.mouser.com/c/?q=0603B681K500NT)|
 |FH (Guangdong Fenghua Advanced Tech)<br>0603B681K500NT||[(AV) ](https://www.avnet.com/shop/us/search/0603B681K500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603B681K500NT)[(LCSC) ](https://www.lcsc.com/search?q=0603B681K500NT)[(FA) ](https://uk.farnell.com/search?st=0603B681K500NT)[(MO) ](https://www.mouser.com/c/?q=0603B681K500NT)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/PF80/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/PF80/V50/qrCode.png)||||

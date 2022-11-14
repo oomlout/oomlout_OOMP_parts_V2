@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -59,6 +60,8 @@ Number of MPNs: 250<br>Below is a subset included because: STOCK:10K <br>Full li
 |YAGEO<br>RC0805FR-0791KL||[(AV) ](https://www.avnet.com/shop/us/search/RC0805FR-0791KL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RC0805FR-0791KL)[(LCSC) ](https://www.lcsc.com/search?q=RC0805FR-0791KL)[(FA) ](https://uk.farnell.com/search?st=RC0805FR-0791KL)[(MO) ](https://www.mouser.com/c/?q=RC0805FR-0791KL)|
 |Resistor.Today<br>AECR0805F91K0K9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0805F91K0K9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0805F91K0K9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0805F91K0K9)[(FA) ](https://uk.farnell.com/search?st=AECR0805F91K0K9)[(MO) ](https://www.mouser.com/c/?q=AECR0805F91K0K9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O913/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O913/01/qrCode.png)||||

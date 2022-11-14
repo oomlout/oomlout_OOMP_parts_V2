@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 222<br>Below is a subset included because: STOCK:1000K <br>Full 
 |UNI-ROYAL(Uniroyal Elec)<br>0603WAF5101T5E||[(AV) ](https://www.avnet.com/shop/us/search/0603WAF5101T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603WAF5101T5E)[(LCSC) ](https://www.lcsc.com/search?q=0603WAF5101T5E)[(FA) ](https://uk.farnell.com/search?st=0603WAF5101T5E)[(MO) ](https://www.mouser.com/c/?q=0603WAF5101T5E)|
 |UNI-ROYAL(Uniroyal Elec)<br>0603WAF5101T5E||[(AV) ](https://www.avnet.com/shop/us/search/0603WAF5101T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603WAF5101T5E)[(LCSC) ](https://www.lcsc.com/search?q=0603WAF5101T5E)[(FA) ](https://uk.farnell.com/search?st=0603WAF5101T5E)[(MO) ](https://www.mouser.com/c/?q=0603WAF5101T5E)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O512/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O512/01/qrCode.png)||||

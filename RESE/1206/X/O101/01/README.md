@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -56,6 +57,8 @@ Number of MPNs: 224<br>Below is a subset included because: STOCK:100K <br>Full l
 |LIZ Elec<br>CR1206J40101G||[(AV) ](https://www.avnet.com/shop/us/search/CR1206J40101G)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR1206J40101G)[(LCSC) ](https://www.lcsc.com/search?q=CR1206J40101G)[(FA) ](https://uk.farnell.com/search?st=CR1206J40101G)[(MO) ](https://www.mouser.com/c/?q=CR1206J40101G)|
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-06K101JT||[(AV) ](https://www.avnet.com/shop/us/search/RS-06K101JT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-06K101JT)[(LCSC) ](https://www.lcsc.com/search?q=RS-06K101JT)[(FA) ](https://uk.farnell.com/search?st=RS-06K101JT)[(MO) ](https://www.mouser.com/c/?q=RS-06K101JT)|
 ||||
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O101/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O101/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O101/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O101/01/image_BOTTOM.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O101/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O101/01/qrCode.png)||

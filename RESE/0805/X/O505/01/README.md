@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -57,6 +58,8 @@ Number of MPNs: 238<br>Below is a subset included because: STOCK:100K <br>Full l
 |YAGEO<br>RC0805JR-071M5L||[(AV) ](https://www.avnet.com/shop/us/search/RC0805JR-071M5L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RC0805JR-071M5L)[(LCSC) ](https://www.lcsc.com/search?q=RC0805JR-071M5L)[(FA) ](https://uk.farnell.com/search?st=RC0805JR-071M5L)[(MO) ](https://www.mouser.com/c/?q=RC0805JR-071M5L)|
 |YAGEO<br>RC0805JR-071M5L||[(AV) ](https://www.avnet.com/shop/us/search/RC0805JR-071M5L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RC0805JR-071M5L)[(LCSC) ](https://www.lcsc.com/search?q=RC0805JR-071M5L)[(FA) ](https://uk.farnell.com/search?st=RC0805JR-071M5L)[(MO) ](https://www.mouser.com/c/?q=RC0805JR-071M5L)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O505/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O505/01/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 2
 |Japan Solderless Terminals<br>B1B-XH-AM||[(AV) ](https://www.avnet.com/shop/us/search/B1B-XH-AM)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B1B-XH-AM)[(LCSC) ](https://www.lcsc.com/search?q=B1B-XH-AM)[(FA) ](https://uk.farnell.com/search?st=B1B-XH-AM)[(MO) ](https://www.mouser.com/c/?q=B1B-XH-AM)|
 |Japan Solderless Terminals<br>B1B-XH-AM||[(AV) ](https://www.avnet.com/shop/us/search/B1B-XH-AM)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B1B-XH-AM)[(LCSC) ](https://www.lcsc.com/search?q=B1B-XH-AM)[(FA) ](https://uk.farnell.com/search?st=B1B-XH-AM)[(MO) ](https://www.mouser.com/c/?q=B1B-XH-AM)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTXH/X/PI01/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTXH/X/PI01/01/qrCode.png)||||

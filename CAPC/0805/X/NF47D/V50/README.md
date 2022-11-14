@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -59,6 +60,8 @@ Number of MPNs: 116<br>Below is a subset included because: STOCK:100K <br>Full l
 |FH (Guangdong Fenghua Advanced Tech)<br>0805B472K500NT||[(AV) ](https://www.avnet.com/shop/us/search/0805B472K500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0805B472K500NT)[(LCSC) ](https://www.lcsc.com/search?q=0805B472K500NT)[(FA) ](https://uk.farnell.com/search?st=0805B472K500NT)[(MO) ](https://www.mouser.com/c/?q=0805B472K500NT)|
 |Walsin Tech Corp<br>0805B472K500CT||[(AV) ](https://www.avnet.com/shop/us/search/0805B472K500CT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0805B472K500CT)[(LCSC) ](https://www.lcsc.com/search?q=0805B472K500CT)[(FA) ](https://uk.farnell.com/search?st=0805B472K500CT)[(MO) ](https://www.mouser.com/c/?q=0805B472K500CT)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/NF47D/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/NF47D/V50/qrCode.png)||||

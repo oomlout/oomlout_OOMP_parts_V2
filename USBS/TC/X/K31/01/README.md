@@ -8,6 +8,7 @@ Contents
 * [USCK31 > Type C TYPE-C-31-M-12 USB Socket](#usck31--type-c-type-c-31-m-12-usb-socket)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 1
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/USBS/TC/X/K31/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/USBS/TC/X/K31/01/qrCode.png)||||

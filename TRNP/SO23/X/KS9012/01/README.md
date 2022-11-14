@@ -8,6 +8,7 @@ Contents
 * [TRNPSO23-KS9012 > SMD (SOT-23) S9012 PNP Transistor](#trnpso23-ks9012--smd-sot-23-s9012-pnp-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -33,6 +34,8 @@ Number of MPNs: 2
 |Jiangsu Changjing Electronics Technology Co., Ltd.<br>S9012 2T1||[(AV) ](https://www.avnet.com/shop/us/search/S9012 2T1)[(DK) ](https://www.digikey.co.uk/products/en?keywords=S9012 2T1)[(LCSC) ](https://www.lcsc.com/search?q=S9012 2T1)[(FA) ](https://uk.farnell.com/search?st=S9012 2T1)[(MO) ](https://www.mouser.com/c/?q=S9012 2T1)|
 |Jiangsu Changjing Electronics Technology Co., Ltd.<br>S9012 2T1||[(AV) ](https://www.avnet.com/shop/us/search/S9012 2T1)[(DK) ](https://www.digikey.co.uk/products/en?keywords=S9012 2T1)[(LCSC) ](https://www.lcsc.com/search?q=S9012 2T1)[(FA) ](https://uk.farnell.com/search?st=S9012 2T1)[(MO) ](https://www.mouser.com/c/?q=S9012 2T1)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KS9012/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KS9012/01/qrCode.png)||||

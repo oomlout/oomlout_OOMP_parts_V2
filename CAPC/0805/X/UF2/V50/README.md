@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -61,6 +62,8 @@ Number of MPNs: 46<br>Below is a subset included because: STOCK:100K <br>Full li
 |Samsung Electro-Mechanics<br>CL21A225KBQNNNE||[(AV) ](https://www.avnet.com/shop/us/search/CL21A225KBQNNNE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL21A225KBQNNNE)[(LCSC) ](https://www.lcsc.com/search?q=CL21A225KBQNNNE)[(FA) ](https://uk.farnell.com/search?st=CL21A225KBQNNNE)[(MO) ](https://www.mouser.com/c/?q=CL21A225KBQNNNE)|
 |Samwha Capacitor<br>CS2012X5R225K500NRE||[(AV) ](https://www.avnet.com/shop/us/search/CS2012X5R225K500NRE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CS2012X5R225K500NRE)[(LCSC) ](https://www.lcsc.com/search?q=CS2012X5R225K500NRE)[(FA) ](https://uk.farnell.com/search?st=CS2012X5R225K500NRE)[(MO) ](https://www.mouser.com/c/?q=CS2012X5R225K500NRE)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF2/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF2/V50/qrCode.png)||||

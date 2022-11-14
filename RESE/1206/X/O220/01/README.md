@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 158<br>Below is a subset included because: STOCK:100K <br>Full l
 |UNI-ROYAL(Uniroyal Elec)<br>1206W4F220JT5E||[(AV) ](https://www.avnet.com/shop/us/search/1206W4F220JT5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=1206W4F220JT5E)[(LCSC) ](https://www.lcsc.com/search?q=1206W4F220JT5E)[(FA) ](https://uk.farnell.com/search?st=1206W4F220JT5E)[(MO) ](https://www.mouser.com/c/?q=1206W4F220JT5E)|
 |LIZ Elec<br>CR1206J40220G||[(AV) ](https://www.avnet.com/shop/us/search/CR1206J40220G)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR1206J40220G)[(LCSC) ](https://www.lcsc.com/search?q=CR1206J40220G)[(FA) ](https://uk.farnell.com/search?st=CR1206J40220G)[(MO) ](https://www.mouser.com/c/?q=CR1206J40220G)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O220/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O220/01/qrCode.png)||||

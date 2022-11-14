@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -61,6 +62,8 @@ Number of MPNs: 158<br>Below is a subset included because: STOCK:100K <br>Full l
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-05K471JT||[(AV) ](https://www.avnet.com/shop/us/search/RS-05K471JT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-05K471JT)[(LCSC) ](https://www.lcsc.com/search?q=RS-05K471JT)[(FA) ](https://uk.farnell.com/search?st=RS-05K471JT)[(MO) ](https://www.mouser.com/c/?q=RS-05K471JT)|
 |YAGEO<br>AC0805JR-07470RL||[(AV) ](https://www.avnet.com/shop/us/search/AC0805JR-07470RL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AC0805JR-07470RL)[(LCSC) ](https://www.lcsc.com/search?q=AC0805JR-07470RL)[(FA) ](https://uk.farnell.com/search?st=AC0805JR-07470RL)[(MO) ](https://www.mouser.com/c/?q=AC0805JR-07470RL)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O471/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O471/01/qrCode.png)||||

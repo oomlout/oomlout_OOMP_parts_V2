@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -56,6 +57,8 @@ Number of MPNs: 82<br>Below is a subset included because: STOCK:10K <br>Full lis
 |UNI-ROYAL(Uniroyal Elec)<br>0402WGF2703TCE||[(AV) ](https://www.avnet.com/shop/us/search/0402WGF2703TCE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402WGF2703TCE)[(LCSC) ](https://www.lcsc.com/search?q=0402WGF2703TCE)[(FA) ](https://uk.farnell.com/search?st=0402WGF2703TCE)[(MO) ](https://www.mouser.com/c/?q=0402WGF2703TCE)|
 |Walsin Tech Corp<br>WR04X274JTL||[(AV) ](https://www.avnet.com/shop/us/search/WR04X274JTL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=WR04X274JTL)[(LCSC) ](https://www.lcsc.com/search?q=WR04X274JTL)[(FA) ](https://uk.farnell.com/search?st=WR04X274JTL)[(MO) ](https://www.mouser.com/c/?q=WR04X274JTL)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O274/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O274/01/qrCode.png)||||

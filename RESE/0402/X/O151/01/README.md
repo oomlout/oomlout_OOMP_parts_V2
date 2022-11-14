@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 136<br>Below is a subset included because: STOCK:100K <br>Full l
 |UNI-ROYAL(Uniroyal Elec)<br>0402WGF1500TCE||[(AV) ](https://www.avnet.com/shop/us/search/0402WGF1500TCE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402WGF1500TCE)[(LCSC) ](https://www.lcsc.com/search?q=0402WGF1500TCE)[(FA) ](https://uk.farnell.com/search?st=0402WGF1500TCE)[(MO) ](https://www.mouser.com/c/?q=0402WGF1500TCE)|
 |Resistor.Today<br>AECR0402F150RK9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0402F150RK9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0402F150RK9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0402F150RK9)[(FA) ](https://uk.farnell.com/search?st=AECR0402F150RK9)[(MO) ](https://www.mouser.com/c/?q=AECR0402F150RK9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O151/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O151/01/qrCode.png)||||

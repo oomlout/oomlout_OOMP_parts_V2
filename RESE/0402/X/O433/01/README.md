@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -64,6 +65,8 @@ Number of MPNs: 246<br>Below is a subset included because: STOCK:10K <br>Full li
 |Resistor.Today<br>AECR0402F43K0K9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0402F43K0K9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0402F43K0K9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0402F43K0K9)[(FA) ](https://uk.farnell.com/search?st=AECR0402F43K0K9)[(MO) ](https://www.mouser.com/c/?q=AECR0402F43K0K9)|
 |Ever Ohms Tech<br>CR0402F43K0Q10Z||[(AV) ](https://www.avnet.com/shop/us/search/CR0402F43K0Q10Z)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR0402F43K0Q10Z)[(LCSC) ](https://www.lcsc.com/search?q=CR0402F43K0Q10Z)[(FA) ](https://uk.farnell.com/search?st=CR0402F43K0Q10Z)[(MO) ](https://www.mouser.com/c/?q=CR0402F43K0Q10Z)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O433/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O433/01/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 2
 |Japan Solderless Terminals<br>B20B-XH-A||[(AV) ](https://www.avnet.com/shop/us/search/B20B-XH-A)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B20B-XH-A)[(LCSC) ](https://www.lcsc.com/search?q=B20B-XH-A)[(FA) ](https://uk.farnell.com/search?st=B20B-XH-A)[(MO) ](https://www.mouser.com/c/?q=B20B-XH-A)|
 |Japan Solderless Terminals<br>B20B-XH-A||[(AV) ](https://www.avnet.com/shop/us/search/B20B-XH-A)[(DK) ](https://www.digikey.co.uk/products/en?keywords=B20B-XH-A)[(LCSC) ](https://www.lcsc.com/search?q=B20B-XH-A)[(FA) ](https://uk.farnell.com/search?st=B20B-XH-A)[(MO) ](https://www.mouser.com/c/?q=B20B-XH-A)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/HEAD/JSTXH/X/PI20/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/HEAD/JSTXH/X/PI20/01/qrCode.png)||||

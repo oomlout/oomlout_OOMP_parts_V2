@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -58,6 +59,8 @@ Number of MPNs: 64<br>Below is a subset included because: STOCK:100K <br>Full li
 |Taiyo Yuden<br>UMK316AB7475KL-T||[(AV) ](https://www.avnet.com/shop/us/search/UMK316AB7475KL-T)[(DK) ](https://www.digikey.co.uk/products/en?keywords=UMK316AB7475KL-T)[(LCSC) ](https://www.lcsc.com/search?q=UMK316AB7475KL-T)[(FA) ](https://uk.farnell.com/search?st=UMK316AB7475KL-T)[(MO) ](https://www.mouser.com/c/?q=UMK316AB7475KL-T)|
 |FH (Guangdong Fenghua Advanced Tech)<br>1206X475K500NT||[(AV) ](https://www.avnet.com/shop/us/search/1206X475K500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=1206X475K500NT)[(LCSC) ](https://www.lcsc.com/search?q=1206X475K500NT)[(FA) ](https://uk.farnell.com/search?st=1206X475K500NT)[(MO) ](https://www.mouser.com/c/?q=1206X475K500NT)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/1206/X/UF47D/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/1206/X/UF47D/V50/qrCode.png)||||

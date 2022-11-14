@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -59,6 +60,8 @@ Number of MPNs: 234<br>Below is a subset included because: STOCK:100K <br>Full l
 |UNI-ROYAL(Uniroyal Elec)<br>0805W8F3301T5E||[(AV) ](https://www.avnet.com/shop/us/search/0805W8F3301T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0805W8F3301T5E)[(LCSC) ](https://www.lcsc.com/search?q=0805W8F3301T5E)[(FA) ](https://uk.farnell.com/search?st=0805W8F3301T5E)[(MO) ](https://www.mouser.com/c/?q=0805W8F3301T5E)|
 |Viking Tech<br>CR-05FA7---3K3||[(AV) ](https://www.avnet.com/shop/us/search/CR-05FA7---3K3)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR-05FA7---3K3)[(LCSC) ](https://www.lcsc.com/search?q=CR-05FA7---3K3)[(FA) ](https://uk.farnell.com/search?st=CR-05FA7---3K3)[(MO) ](https://www.mouser.com/c/?q=CR-05FA7---3K3)|
 ||||
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O332/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O332/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O332/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O332/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O332/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O332/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O332/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O332/01/qrCode.png)|

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 188<br>Below is a subset included because: STOCK:100K <br>Full l
 |UNI-ROYAL(Uniroyal Elec)<br>0603WAF270JT5E||[(AV) ](https://www.avnet.com/shop/us/search/0603WAF270JT5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603WAF270JT5E)[(LCSC) ](https://www.lcsc.com/search?q=0603WAF270JT5E)[(FA) ](https://uk.farnell.com/search?st=0603WAF270JT5E)[(MO) ](https://www.mouser.com/c/?q=0603WAF270JT5E)|
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-03K1270FT||[(AV) ](https://www.avnet.com/shop/us/search/RS-03K1270FT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-03K1270FT)[(LCSC) ](https://www.lcsc.com/search?q=RS-03K1270FT)[(FA) ](https://uk.farnell.com/search?st=RS-03K1270FT)[(MO) ](https://www.mouser.com/c/?q=RS-03K1270FT)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O270/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O270/01/qrCode.png)||||

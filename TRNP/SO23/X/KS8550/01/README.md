@@ -8,6 +8,7 @@ Contents
 * [TRNPSO23-KS8550 > SMD (SOT-23) S8550 PNP Transistor](#trnpso23-ks8550--smd-sot-23-s8550-pnp-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 1
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/SO23/X/KS8550/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/SO23/X/KS8550/01/qrCode.png)||||

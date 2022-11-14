@@ -17,6 +17,7 @@ def load(newPart,it):
     oompID = oType + "-" + oSize + "-" + oColor + "-" + oDesc + "-" + oIndex 
     newPart['oompID'].append(oompID)
 
+    newPart['matchSpecial'].append([['ADXL343'], 'SENS-LG143050-X-K345-01'])
     newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_LGA-LGA-14_3x5mm_P0.8mm_LayoutBorder1x6y')
     newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343')
 

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 92<br>Below is a subset included because: STOCK:1000K <br>Full l
 |Samsung Electro-Mechanics<br>CL10A226MQ8NRNC||[(AV) ](https://www.avnet.com/shop/us/search/CL10A226MQ8NRNC)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL10A226MQ8NRNC)[(LCSC) ](https://www.lcsc.com/search?q=CL10A226MQ8NRNC)[(FA) ](https://uk.farnell.com/search?st=CL10A226MQ8NRNC)[(MO) ](https://www.mouser.com/c/?q=CL10A226MQ8NRNC)|
 |Samsung Electro-Mechanics<br>CL10A226MQ8NRNC||[(AV) ](https://www.avnet.com/shop/us/search/CL10A226MQ8NRNC)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL10A226MQ8NRNC)[(LCSC) ](https://www.lcsc.com/search?q=CL10A226MQ8NRNC)[(FA) ](https://uk.farnell.com/search?st=CL10A226MQ8NRNC)[(MO) ](https://www.mouser.com/c/?q=CL10A226MQ8NRNC)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/UF2/V63D/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/UF2/V63D/qrCode.png)||||

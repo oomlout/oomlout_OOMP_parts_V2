@@ -12,6 +12,8 @@ Contents
 	* [CAPC>1206  (Capacitor (Ceramic)>SMD (1206))](#capc1206--capacitor-ceramicsmd-1206)
 	* [DIOD>S123  (Diode>SMD (SOD-123))](#diods123--diodesmd-sod-123)
 	* [DIOD>S323  (Diode>SMD (SOD-323))](#diods323--diodesmd-sod-323)
+	* [DIOD>S523  (Diode>SMD (SOD-523))](#diods523--diodesmd-sod-523)
+	* [DIOD>SO236  (Diode>SMD (SOT-23-6))](#diodso236--diodesmd-sot-23-6)
 	* [HEAD>I01>01  (Header>2.54 mm>)](#headi0101--header254-mm)
 	* [HEAD>I01>RS  (Header>2.54 mm>Right Angle (SMD))](#headi01rs--header254-mmright-angle-smd)
 	* [HEAD>I01>SHRO  (Header>2.54 mm>Shrouded (IDC))](#headi01shro--header254-mmshrouded-idc)
@@ -29,10 +31,12 @@ Contents
 	* [LEDS>0603  (LED>SMD (0603))](#leds0603--ledsmd-0603)
 	* [LEDS>0805  (LED>SMD (0805))](#leds0805--ledsmd-0805)
 	* [LEDS>1206  (LED>SMD (1206))](#leds1206--ledsmd-1206)
+	* [LEDS>3535  (LED>SMD (3535))](#leds3535--ledsmd-3535)
 	* [LEDS>03  (LED>3 mm)](#leds03--led3-mm)
 	* [LEDS>05  (LED>5 mm)](#leds05--led5-mm)
 	* [LEDS>10  (LED>10 mm)](#leds10--led10-mm)
 	* [LEDS>XHP70  (LED>XHP 70)](#ledsxhp70--ledxhp-70)
+	* [MOSN>SO363  (N-Ch. MOSFET>SMD (SOT-363))](#mosnso363--n-ch-mosfetsmd-sot-363)
 	* [MOSN>SO23  (N-Ch. MOSFET>SMD (SOT-23))](#mosnso23--n-ch-mosfetsmd-sot-23)
 	* [MOSN>T220  (N-Ch. MOSFET>TO-220)](#mosnt220--n-ch-mosfetto-220)
 	* [MOSN>T252  (N-Ch. MOSFET>TO-252 (SMD))](#mosnt252--n-ch-mosfetto-252-smd)
@@ -45,7 +49,8 @@ Contents
 	* [RESE>0805  (Resistor>SMD (0805))](#rese0805--resistorsmd-0805)
 	* [RESE>1206  (Resistor>SMD (1206))](#rese1206--resistorsmd-1206)
 	* [RESE>W04  (Resistor>1/4 Watt)](#resew04--resistor14-watt)
-	* [SENS>LG14  (Sensor>14 Pin SMD (LGA))](#senslg14--sensor14-pin-smd-lga)
+	* [SENS>LG143050  (Sensor>14 Pin SMD (3 x 5 mm LGA))](#senslg143050--sensor14-pin-smd-3-x-5-mm-lga)
+	* [SENS>LG163030S  (Sensor>16 Pin SMD (3x3 mm LGA (Unusual Pins)))](#senslg163030s--sensor16-pin-smd-3x3-mm-lga-unusual-pins)
 	* [TERS>35D  (Screw Terminal>3.5 mm)](#ters35d--screw-terminal35-mm)
 	* [TRNN>SO23  (NPN Transistor>SMD (SOT-23))](#trnnso23--npn-transistorsmd-sot-23)
 	* [TRNN>T92  (NPN Transistor>TO-92)](#trnnt92--npn-transistorto-92)
@@ -119,7 +124,19 @@ Contents
 ## DIOD>S323  (Diode>SMD (SOD-323))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S323/X/K4184/01/image_140.jpg)<br>DIOD-S323-X-K4184-01<br>SMD (SOD-323) MNAOD4184A Diode](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S323/X/K4184/01/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S323/X/K4148/01/image_140.jpg)<br>DIOD-S323-X-K4148-01<br>SMD (SOD-323) 1N4148 Diode](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S323/X/K4148/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## DIOD>S523  (Diode>SMD (SOD-523))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/S523/X/KRB520S30T/01/image_140.jpg)<br>DIOD-S523-X-KRB520S30T-01<br>SMD (SOD-523) RB520S30T1G Diode](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/S523/X/KRB520S30T/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## DIOD>SO236  (Diode>SMD (SOT-23-6))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/DIOD/SO236/X/KSRV05X4/01/image_140.jpg)<br>DIOD-SO236-X-KSRV05X4-01<br>SMD (SOT-23-6) SRV05-4 TVS Array Diode](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/DIOD/SO236/X/KSRV05X4/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## HEAD>I01>01  (Header>2.54 mm>)
@@ -282,6 +299,12 @@ Contents
 | :---: | :---: | :---: | :---: | :---: |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/Y/STAN/01/image_140.jpg)<br>LEDS-1206-Y-STAN-01<br>SMD (1206) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/Y/STAN/01/)|||||
 
+## LEDS>3535  (LED>SMD (3535))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/3535/RGB/K2812/01/image_140.jpg)<br>LEDS-3535-RGB-K2812-01<br>SMD (3535) Smart Controller (WS2812B) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/3535/RGB/K2812/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
 ## LEDS>03  (LED>3 mm)
   
 
@@ -309,10 +332,16 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/XHP70/W/CREE/01/image_140.jpg)<br>LEDS-XHP70-W-CREE-01<br>XHP 70 Cree White LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/XHP70/W/CREE/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
+## MOSN>SO363  (N-Ch. MOSFET>SMD (SOT-363))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO363/X/KBSS138/01/image_140.jpg)<br>MOSN-SO363-X-KBSS138-01<br>SMD (SOT-363) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO363/X/KBSS138/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
 ## MOSN>SO23  (N-Ch. MOSFET>SMD (SOT-23))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/K2N7002/01/image_140.jpg)<br>MOSN-SO23-X-K2N7002-01<br>SMD (SOT-23) 2N7002 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/K2N7002/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/KAO3400A/01/image_140.jpg)<br>MOSN-SO23-X-KAO3400A-01<br>SMD (SOT-23) AO3400A N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/KAO3400A/01/)||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/K2N7002/01/image_140.jpg)<br>MOSN-SO23-X-K2N7002-01<br>SMD (SOT-23) 2N7002 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/K2N7002/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/KAO3400A/01/image_140.jpg)<br>MOSN-SO23-X-KAO3400A-01<br>SMD (SOT-23) AO3400A N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/KAO3400A/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/SO23/X/KBSS138/01/image_140.jpg)<br>MOSN-SO23-X-KBSS138-01<br>SMD (SOT-23) BSS138 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/SO23/X/KBSS138/01/)|||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## MOSN>T220  (N-Ch. MOSFET>TO-220)
@@ -495,10 +524,16 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/W04/X/O823/01/image_140.jpg)<br>RESE-W04-X-O823-01<br>1/4 Watt 82k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/W04/X/O823/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/W04/X/O902/01/image_140.jpg)<br>RESE-W04-X-O902-01<br>1/4 Watt 9k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/W04/X/O902/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/W04/X/O912/01/image_140.jpg)<br>RESE-W04-X-O912-01<br>1/4 Watt 9.1k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/W04/X/O912/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/W04/X/O913/01/image_140.jpg)<br>RESE-W04-X-O913-01<br>1/4 Watt 91k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/W04/X/O913/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/W04/X/O993/01/image_140.jpg)<br>RESE-W04-X-O993-01<br>1/4 Watt 99k Ohm Resistor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/W04/X/O993/01/)|
 ||||||
 
-## SENS>LG14  (Sensor>14 Pin SMD (LGA))
+## SENS>LG143050  (Sensor>14 Pin SMD (3 x 5 mm LGA))
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG14/X/K345/01/image_140.jpg)<br>SENS-LG14-X-K345-01<br>14 Pin SMD (LGA) Digital Accelerometer (ADXL345) Sensor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG14/X/K345/01/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG143050/X/K345/01/image_140.jpg)<br>SENS-LG143050-X-K345-01<br>14 Pin SMD (3 x 5 mm LGA) Digital Accelerometer (ADXL345) Sensor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG143050/X/K345/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## SENS>LG163030S  (Sensor>16 Pin SMD (3x3 mm LGA (Unusual Pins)))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/SENS/LG163030S/X/KL3GD20/01/image_140.jpg)<br>SENS-LG163030S-X-KL3GD20-01<br>16 Pin SMD (3x3 mm LGA (Unusual Pins)) Sensor](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/SENS/LG163030S/X/KL3GD20/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## TERS>35D  (Screw Terminal>3.5 mm)

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 138<br>Below is a subset included because: STOCK:10K <br>Full li
 |BOURNS<br>CR1206-FX-1101ELF||[(AV) ](https://www.avnet.com/shop/us/search/CR1206-FX-1101ELF)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR1206-FX-1101ELF)[(LCSC) ](https://www.lcsc.com/search?q=CR1206-FX-1101ELF)[(FA) ](https://uk.farnell.com/search?st=CR1206-FX-1101ELF)[(MO) ](https://www.mouser.com/c/?q=CR1206-FX-1101ELF)|
 |Resistor.Today<br>AECR1206F1K10K9||[(AV) ](https://www.avnet.com/shop/us/search/AECR1206F1K10K9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR1206F1K10K9)[(LCSC) ](https://www.lcsc.com/search?q=AECR1206F1K10K9)[(FA) ](https://uk.farnell.com/search?st=AECR1206F1K10K9)[(MO) ](https://www.mouser.com/c/?q=AECR1206F1K10K9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/1206/X/O112/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/1206/X/O112/01/qrCode.png)||||

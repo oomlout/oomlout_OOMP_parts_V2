@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -56,6 +57,8 @@ Number of MPNs: 302<br>Below is a subset included because: STOCK:100K <br>Full l
 |UNI-ROYAL(Uniroyal Elec)<br>0603WAF2004T5E||[(AV) ](https://www.avnet.com/shop/us/search/0603WAF2004T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603WAF2004T5E)[(LCSC) ](https://www.lcsc.com/search?q=0603WAF2004T5E)[(FA) ](https://uk.farnell.com/search?st=0603WAF2004T5E)[(MO) ](https://www.mouser.com/c/?q=0603WAF2004T5E)|
 |Viking Tech<br>CR-03JA7----2M||[(AV) ](https://www.avnet.com/shop/us/search/CR-03JA7----2M)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR-03JA7----2M)[(LCSC) ](https://www.lcsc.com/search?q=CR-03JA7----2M)[(FA) ](https://uk.farnell.com/search?st=CR-03JA7----2M)[(MO) ](https://www.mouser.com/c/?q=CR-03JA7----2M)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O205/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O205/01/qrCode.png)||||

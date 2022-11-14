@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -58,6 +59,8 @@ Number of MPNs: 124<br>Below is a subset included because: STOCK:10K <br>Full li
 |HKR(Hong Kong Resistors)<br>RCT03270KJLF||[(AV) ](https://www.avnet.com/shop/us/search/RCT03270KJLF)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RCT03270KJLF)[(LCSC) ](https://www.lcsc.com/search?q=RCT03270KJLF)[(FA) ](https://uk.farnell.com/search?st=RCT03270KJLF)[(MO) ](https://www.mouser.com/c/?q=RCT03270KJLF)|
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-03K2703FT||[(AV) ](https://www.avnet.com/shop/us/search/RS-03K2703FT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-03K2703FT)[(LCSC) ](https://www.lcsc.com/search?q=RS-03K2703FT)[(FA) ](https://uk.farnell.com/search?st=RS-03K2703FT)[(MO) ](https://www.mouser.com/c/?q=RS-03K2703FT)|
 ||||
+
+## Images
   
 
 |imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O274/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O274/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O274/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O274/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O274/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O274/01/qrCode.png)||

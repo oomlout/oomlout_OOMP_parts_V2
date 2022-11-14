@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -63,6 +64,8 @@ Number of MPNs: 8
 |Murata Electronics<br>GRM21BR61H106ME43L||[(AV) ](https://www.avnet.com/shop/us/search/GRM21BR61H106ME43L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=GRM21BR61H106ME43L)[(LCSC) ](https://www.lcsc.com/search?q=GRM21BR61H106ME43L)[(FA) ](https://uk.farnell.com/search?st=GRM21BR61H106ME43L)[(MO) ](https://www.mouser.com/c/?q=GRM21BR61H106ME43L)|
 |Samsung Electro-Mechanics<br>CL21A106KBYQNNE||[(AV) ](https://www.avnet.com/shop/us/search/CL21A106KBYQNNE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL21A106KBYQNNE)[(LCSC) ](https://www.lcsc.com/search?q=CL21A106KBYQNNE)[(FA) ](https://uk.farnell.com/search?st=CL21A106KBYQNNE)[(MO) ](https://www.mouser.com/c/?q=CL21A106KBYQNNE)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0805/X/UF10/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0805/X/UF10/V50/qrCode.png)||||

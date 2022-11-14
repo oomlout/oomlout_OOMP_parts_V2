@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -74,6 +75,8 @@ Number of MPNs: 196<br>Below is a subset included because: STOCK:10K <br>Full li
 |PANASONIC<br>ERJ2RKF1802X||[(AV) ](https://www.avnet.com/shop/us/search/ERJ2RKF1802X)[(DK) ](https://www.digikey.co.uk/products/en?keywords=ERJ2RKF1802X)[(LCSC) ](https://www.lcsc.com/search?q=ERJ2RKF1802X)[(FA) ](https://uk.farnell.com/search?st=ERJ2RKF1802X)[(MO) ](https://www.mouser.com/c/?q=ERJ2RKF1802X)|
 |TA-I Tech<br>RM04FTN1802||[(AV) ](https://www.avnet.com/shop/us/search/RM04FTN1802)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RM04FTN1802)[(LCSC) ](https://www.lcsc.com/search?q=RM04FTN1802)[(FA) ](https://uk.farnell.com/search?st=RM04FTN1802)[(MO) ](https://www.mouser.com/c/?q=RM04FTN1802)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O183/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O183/01/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -64,6 +65,8 @@ Number of MPNs: 162<br>Below is a subset included because: STOCK:10K <br>Full li
 |Walsin Tech Corp<br>WR04X363JTL||[(AV) ](https://www.avnet.com/shop/us/search/WR04X363JTL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=WR04X363JTL)[(LCSC) ](https://www.lcsc.com/search?q=WR04X363JTL)[(FA) ](https://uk.farnell.com/search?st=WR04X363JTL)[(MO) ](https://www.mouser.com/c/?q=WR04X363JTL)|
 |Ever Ohms Tech<br>CR0402F36K0Q10Z||[(AV) ](https://www.avnet.com/shop/us/search/CR0402F36K0Q10Z)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR0402F36K0Q10Z)[(LCSC) ](https://www.lcsc.com/search?q=CR0402F36K0Q10Z)[(FA) ](https://uk.farnell.com/search?st=CR0402F36K0Q10Z)[(MO) ](https://www.mouser.com/c/?q=CR0402F36K0Q10Z)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O363/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O363/01/qrCode.png)||||

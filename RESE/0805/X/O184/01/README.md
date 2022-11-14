@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -59,6 +60,8 @@ Number of MPNs: 118<br>Below is a subset included because: STOCK:10K <br>Full li
 |UNI-ROYAL(Uniroyal Elec)<br>0805W8F1803T5E||[(AV) ](https://www.avnet.com/shop/us/search/0805W8F1803T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0805W8F1803T5E)[(LCSC) ](https://www.lcsc.com/search?q=0805W8F1803T5E)[(FA) ](https://uk.farnell.com/search?st=0805W8F1803T5E)[(MO) ](https://www.mouser.com/c/?q=0805W8F1803T5E)|
 |RALEC<br>RTT05184JTP||[(AV) ](https://www.avnet.com/shop/us/search/RTT05184JTP)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RTT05184JTP)[(LCSC) ](https://www.lcsc.com/search?q=RTT05184JTP)[(FA) ](https://uk.farnell.com/search?st=RTT05184JTP)[(MO) ](https://www.mouser.com/c/?q=RTT05184JTP)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O184/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O184/01/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -56,6 +57,8 @@ Number of MPNs: 24<br>Below is a subset included because: STOCK:100K <br>Full li
 |Murata Electronics<br>GRM188R61E106MA73D||[(AV) ](https://www.avnet.com/shop/us/search/GRM188R61E106MA73D)[(DK) ](https://www.digikey.co.uk/products/en?keywords=GRM188R61E106MA73D)[(LCSC) ](https://www.lcsc.com/search?q=GRM188R61E106MA73D)[(FA) ](https://uk.farnell.com/search?st=GRM188R61E106MA73D)[(MO) ](https://www.mouser.com/c/?q=GRM188R61E106MA73D)|
 |Murata Electronics<br>GRM188R61E106KA73D||[(AV) ](https://www.avnet.com/shop/us/search/GRM188R61E106KA73D)[(DK) ](https://www.digikey.co.uk/products/en?keywords=GRM188R61E106KA73D)[(LCSC) ](https://www.lcsc.com/search?q=GRM188R61E106KA73D)[(FA) ](https://uk.farnell.com/search?st=GRM188R61E106KA73D)[(MO) ](https://www.mouser.com/c/?q=GRM188R61E106KA73D)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/UF10/V25/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/UF10/V25/qrCode.png)||||

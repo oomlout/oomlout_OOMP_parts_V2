@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 138<br>Below is a subset included because: STOCK:100K <br>Full l
 |UNI-ROYAL(Uniroyal Elec)<br>0603WAF1200T5E||[(AV) ](https://www.avnet.com/shop/us/search/0603WAF1200T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0603WAF1200T5E)[(LCSC) ](https://www.lcsc.com/search?q=0603WAF1200T5E)[(FA) ](https://uk.farnell.com/search?st=0603WAF1200T5E)[(MO) ](https://www.mouser.com/c/?q=0603WAF1200T5E)|
 |YAGEO<br>RC0603FR-07120RL||[(AV) ](https://www.avnet.com/shop/us/search/RC0603FR-07120RL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RC0603FR-07120RL)[(LCSC) ](https://www.lcsc.com/search?q=RC0603FR-07120RL)[(FA) ](https://uk.farnell.com/search?st=RC0603FR-07120RL)[(MO) ](https://www.mouser.com/c/?q=RC0603FR-07120RL)|
 ||||
+
+## Images
   
 
 |imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O121/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O121/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O121/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O121/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O121/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O121/01/qrCode.png)||

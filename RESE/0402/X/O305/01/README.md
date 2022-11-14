@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -66,6 +67,8 @@ Number of MPNs: 158<br>Below is a subset included because: STOCK:10K <br>Full li
 |UNI-ROYAL(Uniroyal Elec)<br>0402WGF3305TCE||[(AV) ](https://www.avnet.com/shop/us/search/0402WGF3305TCE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402WGF3305TCE)[(LCSC) ](https://www.lcsc.com/search?q=0402WGF3305TCE)[(FA) ](https://uk.farnell.com/search?st=0402WGF3305TCE)[(MO) ](https://www.mouser.com/c/?q=0402WGF3305TCE)|
 |YAGEO<br>RC0402FR-073ML||[(AV) ](https://www.avnet.com/shop/us/search/RC0402FR-073ML)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RC0402FR-073ML)[(LCSC) ](https://www.lcsc.com/search?q=RC0402FR-073ML)[(FA) ](https://uk.farnell.com/search?st=RC0402FR-073ML)[(MO) ](https://www.mouser.com/c/?q=RC0402FR-073ML)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O305/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O305/01/qrCode.png)||||

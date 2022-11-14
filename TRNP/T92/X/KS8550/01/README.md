@@ -8,6 +8,7 @@ Contents
 * [TRNPT92-KS8550 > TO-92 S8550 PNP Transistor](#trnpt92-ks8550--to-92-s8550-pnp-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNP/T92/X/KS8550/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNP/T92/X/KS8550/01/qrCode.png)||||

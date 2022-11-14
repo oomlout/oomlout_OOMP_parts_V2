@@ -8,6 +8,7 @@ Contents
 * [RF182 > SMD (1812) 2 A Resetable Fuse 8v](#rf182--smd-1812-2-a-resetable-fuse-8v)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 0
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/REFU/1812/X/A2/V8/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/REFU/1812/X/A2/V8/qrCode.png)||||

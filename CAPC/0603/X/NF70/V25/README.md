@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -52,6 +53,8 @@ Number of MPNs: 56<br>Below is a subset included because: STOCK:100K <br>Full li
 |Samsung Electro-Mechanics<br>CL10B474KA8NNNC||[(AV) ](https://www.avnet.com/shop/us/search/CL10B474KA8NNNC)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL10B474KA8NNNC)[(LCSC) ](https://www.lcsc.com/search?q=CL10B474KA8NNNC)[(FA) ](https://uk.farnell.com/search?st=CL10B474KA8NNNC)[(MO) ](https://www.mouser.com/c/?q=CL10B474KA8NNNC)|
 |Samsung Electro-Mechanics<br>CL10B474KA8NNNC||[(AV) ](https://www.avnet.com/shop/us/search/CL10B474KA8NNNC)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL10B474KA8NNNC)[(LCSC) ](https://www.lcsc.com/search?q=CL10B474KA8NNNC)[(FA) ](https://uk.farnell.com/search?st=CL10B474KA8NNNC)[(MO) ](https://www.mouser.com/c/?q=CL10B474KA8NNNC)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0603/X/NF70/V25/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0603/X/NF70/V25/qrCode.png)||||

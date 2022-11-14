@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -58,6 +59,8 @@ Number of MPNs: 738<br>Below is a subset included because: STOCK:100K <br>Full l
 |Resistor.Today<br>AECR0603F2K40K9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0603F2K40K9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0603F2K40K9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0603F2K40K9)[(FA) ](https://uk.farnell.com/search?st=AECR0603F2K40K9)[(MO) ](https://www.mouser.com/c/?q=AECR0603F2K40K9)|
 |Viking Tech<br>CR-03JA7---2K4||[(AV) ](https://www.avnet.com/shop/us/search/CR-03JA7---2K4)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CR-03JA7---2K4)[(LCSC) ](https://www.lcsc.com/search?q=CR-03JA7---2K4)[(FA) ](https://uk.farnell.com/search?st=CR-03JA7---2K4)[(MO) ](https://www.mouser.com/c/?q=CR-03JA7---2K4)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O402/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O402/01/qrCode.png)||||

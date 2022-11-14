@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -68,6 +69,8 @@ Number of MPNs: 90<br>Below is a subset included because: STOCK:10K <br>Full lis
 |Resistor.Today<br>AECR0402F110KK9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0402F110KK9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0402F110KK9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0402F110KK9)[(FA) ](https://uk.farnell.com/search?st=AECR0402F110KK9)[(MO) ](https://www.mouser.com/c/?q=AECR0402F110KK9)|
 |Walsin Tech Corp<br>WR04X114JTL||[(AV) ](https://www.avnet.com/shop/us/search/WR04X114JTL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=WR04X114JTL)[(LCSC) ](https://www.lcsc.com/search?q=WR04X114JTL)[(FA) ](https://uk.farnell.com/search?st=WR04X114JTL)[(MO) ](https://www.mouser.com/c/?q=WR04X114JTL)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O114/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O114/01/qrCode.png)||||

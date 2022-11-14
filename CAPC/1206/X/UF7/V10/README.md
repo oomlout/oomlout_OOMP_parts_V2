@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -54,6 +55,8 @@ Number of MPNs: 28<br>Below is a subset included because: STOCK:100K <br>Full li
 |Murata Electronics<br>GRM31CR61A476ME15L||[(AV) ](https://www.avnet.com/shop/us/search/GRM31CR61A476ME15L)[(DK) ](https://www.digikey.co.uk/products/en?keywords=GRM31CR61A476ME15L)[(LCSC) ](https://www.lcsc.com/search?q=GRM31CR61A476ME15L)[(FA) ](https://uk.farnell.com/search?st=GRM31CR61A476ME15L)[(MO) ](https://www.mouser.com/c/?q=GRM31CR61A476ME15L)|
 |Samsung Electro-Mechanics<br>CL31A476MPHNNNE||[(AV) ](https://www.avnet.com/shop/us/search/CL31A476MPHNNNE)[(DK) ](https://www.digikey.co.uk/products/en?keywords=CL31A476MPHNNNE)[(LCSC) ](https://www.lcsc.com/search?q=CL31A476MPHNNNE)[(FA) ](https://uk.farnell.com/search?st=CL31A476MPHNNNE)[(MO) ](https://www.mouser.com/c/?q=CL31A476MPHNNNE)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/1206/X/UF7/V10/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/1206/X/UF7/V10/qrCode.png)||||

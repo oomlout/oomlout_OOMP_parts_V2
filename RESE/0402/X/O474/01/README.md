@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -56,6 +57,8 @@ Number of MPNs: 110<br>Below is a subset included because: STOCK:100K <br>Full l
 |YAGEO<br>AC0402JR-07470KL||[(AV) ](https://www.avnet.com/shop/us/search/AC0402JR-07470KL)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AC0402JR-07470KL)[(LCSC) ](https://www.lcsc.com/search?q=AC0402JR-07470KL)[(FA) ](https://uk.farnell.com/search?st=AC0402JR-07470KL)[(MO) ](https://www.mouser.com/c/?q=AC0402JR-07470KL)|
 |Resistor.Today<br>AECR0402F470KK9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0402F470KK9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0402F470KK9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0402F470KK9)[(FA) ](https://uk.farnell.com/search?st=AECR0402F470KK9)[(MO) ](https://www.mouser.com/c/?q=AECR0402F470KK9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0402/X/O474/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0402/X/O474/01/qrCode.png)||||

@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -59,6 +60,8 @@ Number of MPNs: 98<br>Below is a subset included because: STOCK:100K <br>Full li
 |UNI-ROYAL(Uniroyal Elec)<br>0805W8F5103T5E||[(AV) ](https://www.avnet.com/shop/us/search/0805W8F5103T5E)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0805W8F5103T5E)[(LCSC) ](https://www.lcsc.com/search?q=0805W8F5103T5E)[(FA) ](https://uk.farnell.com/search?st=0805W8F5103T5E)[(MO) ](https://www.mouser.com/c/?q=0805W8F5103T5E)|
 |Resistor.Today<br>AECR0805F510KK9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0805F510KK9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0805F510KK9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0805F510KK9)[(FA) ](https://uk.farnell.com/search?st=AECR0805F510KK9)[(MO) ](https://www.mouser.com/c/?q=AECR0805F510KK9)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O514/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O514/01/qrCode.png)||||

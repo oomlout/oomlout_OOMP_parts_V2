@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -52,6 +53,8 @@ Number of MPNs: 816<br>Below is a subset included because: STOCK:1000K <br>Full 
 |FH (Guangdong Fenghua Advanced Tech)<br>0402CG1R0C500NT||[(AV) ](https://www.avnet.com/shop/us/search/0402CG1R0C500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402CG1R0C500NT)[(LCSC) ](https://www.lcsc.com/search?q=0402CG1R0C500NT)[(FA) ](https://uk.farnell.com/search?st=0402CG1R0C500NT)[(MO) ](https://www.mouser.com/c/?q=0402CG1R0C500NT)|
 |FH (Guangdong Fenghua Advanced Tech)<br>0402CG1R0C500NT||[(AV) ](https://www.avnet.com/shop/us/search/0402CG1R0C500NT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402CG1R0C500NT)[(LCSC) ](https://www.lcsc.com/search?q=0402CG1R0C500NT)[(FA) ](https://uk.farnell.com/search?st=0402CG1R0C500NT)[(MO) ](https://www.mouser.com/c/?q=0402CG1R0C500NT)|
 ||||
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF1/V50/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF1/V50/image.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF1/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF1/V50/qrCode.png)|||

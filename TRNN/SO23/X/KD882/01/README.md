@@ -8,6 +8,7 @@ Contents
 * [TRNN-SO23-KD882 > SMD (SOT-23) D882 NPN Transistor](#trnn-so23-kd882--smd-sot-23-d882-npn-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -33,6 +34,8 @@ Number of MPNs: 2
 |Jiangsu Changjing Electronics Technology Co., Ltd.<br>C9634||[(AV) ](https://www.avnet.com/shop/us/search/C9634)[(DK) ](https://www.digikey.co.uk/products/en?keywords=C9634)[(LCSC) ](https://www.lcsc.com/search?q=C9634)[(FA) ](https://uk.farnell.com/search?st=C9634)[(MO) ](https://www.mouser.com/c/?q=C9634)|
 |Jiangsu Changjing Electronics Technology Co., Ltd.<br>C9634||[(AV) ](https://www.avnet.com/shop/us/search/C9634)[(DK) ](https://www.digikey.co.uk/products/en?keywords=C9634)[(LCSC) ](https://www.lcsc.com/search?q=C9634)[(FA) ](https://uk.farnell.com/search?st=C9634)[(MO) ](https://www.mouser.com/c/?q=C9634)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KD882/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KD882/01/qrCode.png)||||

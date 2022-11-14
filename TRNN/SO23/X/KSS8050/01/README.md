@@ -8,6 +8,7 @@ Contents
 * [TRNN-SO23-KSS8050 > SMD (SOT-23) SS8050 NPN Transistor](#trnn-so23-kss8050--smd-sot-23-ss8050-npn-transistor)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -31,6 +32,8 @@ Number of MPNs: 1
 |MPN|Direct Links|Search Links|
 | :--- | :--- | :--- |
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/TRNN/SO23/X/KSS8050/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/TRNN/SO23/X/KSS8050/01/qrCode.png)||||

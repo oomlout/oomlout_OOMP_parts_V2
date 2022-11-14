@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -60,6 +61,8 @@ Number of MPNs: 128<br>Below is a subset included because: STOCK:10K <br>Full li
 |Resistor.Today<br>HPCR0603F360RK9||[(AV) ](https://www.avnet.com/shop/us/search/HPCR0603F360RK9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=HPCR0603F360RK9)[(LCSC) ](https://www.lcsc.com/search?q=HPCR0603F360RK9)[(FA) ](https://uk.farnell.com/search?st=HPCR0603F360RK9)[(MO) ](https://www.mouser.com/c/?q=HPCR0603F360RK9)|
 |PANASONIC<br>ERJPA3J361V||[(AV) ](https://www.avnet.com/shop/us/search/ERJPA3J361V)[(DK) ](https://www.digikey.co.uk/products/en?keywords=ERJPA3J361V)[(LCSC) ](https://www.lcsc.com/search?q=ERJPA3J361V)[(FA) ](https://uk.farnell.com/search?st=ERJPA3J361V)[(MO) ](https://www.mouser.com/c/?q=ERJPA3J361V)|
 ||||
+
+## Images
   
 
 |imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O361/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O361/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O361/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O361/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0603/X/O361/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0603/X/O361/01/qrCode.png)||

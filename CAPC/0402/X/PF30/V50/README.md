@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -62,6 +63,8 @@ Number of MPNs: 142<br>Below is a subset included because: STOCK:10K <br>Full li
 |Walsin Tech Corp<br>0402B331M500CT||[(AV) ](https://www.avnet.com/shop/us/search/0402B331M500CT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402B331M500CT)[(LCSC) ](https://www.lcsc.com/search?q=0402B331M500CT)[(FA) ](https://uk.farnell.com/search?st=0402B331M500CT)[(MO) ](https://www.mouser.com/c/?q=0402B331M500CT)|
 |Walsin Tech Corp<br>0402B331K500CT||[(AV) ](https://www.avnet.com/shop/us/search/0402B331K500CT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=0402B331K500CT)[(LCSC) ](https://www.lcsc.com/search?q=0402B331K500CT)[(FA) ](https://uk.farnell.com/search?st=0402B331K500CT)[(MO) ](https://www.mouser.com/c/?q=0402B331K500CT)|
 ||||
+
+## Images
   
 
 |qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/CAPC/0402/X/PF30/V50/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/CAPC/0402/X/PF30/V50/qrCode.png)||||

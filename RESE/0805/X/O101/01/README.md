@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
+	* [Images](#images)
 	* [Tags](#tags)
   
 ![][im]
@@ -65,6 +66,8 @@ Number of MPNs: 320<br>Below is a subset included because: STOCK:100K <br>Full l
 |FH (Guangdong Fenghua Advanced Tech)<br>RS-05K101JT||[(AV) ](https://www.avnet.com/shop/us/search/RS-05K101JT)[(DK) ](https://www.digikey.co.uk/products/en?keywords=RS-05K101JT)[(LCSC) ](https://www.lcsc.com/search?q=RS-05K101JT)[(FA) ](https://uk.farnell.com/search?st=RS-05K101JT)[(MO) ](https://www.mouser.com/c/?q=RS-05K101JT)|
 |Resistor.Today<br>AECR0805F100RK9||[(AV) ](https://www.avnet.com/shop/us/search/AECR0805F100RK9)[(DK) ](https://www.digikey.co.uk/products/en?keywords=AECR0805F100RK9)[(LCSC) ](https://www.lcsc.com/search?q=AECR0805F100RK9)[(FA) ](https://uk.farnell.com/search?st=AECR0805F100RK9)[(MO) ](https://www.mouser.com/c/?q=AECR0805F100RK9)|
 ||||
+
+## Images
   
 
 |image<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O101/01/image_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O101/01/image.jpg)|imageBottom<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O101/01/image_BOTTOM_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O101/01/image_BOTTOM.jpg)|imageRe<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O101/01/image_RE_140.jpg)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O101/01/image_RE.jpg)|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/RESE/0805/X/O101/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/RESE/0805/X/O101/01/qrCode.png)|
