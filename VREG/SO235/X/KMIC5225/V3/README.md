@@ -37,6 +37,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/)|[Regulator_Linear : AP131-15](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/AP131-15/)|
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/)|[SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.0YM5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/)|[Regulator_Linear : MIC5205-3.0YM5](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Regulator_Linear/MIC5205-3.0YM5/)|
 ||||
 
@@ -72,5 +73,5 @@ Number of MPNs: 0
 |Hex ID (short code)|hexID|VR52252353|
 |name|name|SMD (SOT-23-5) MIC5225 Voltage Regulator 3v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5, FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23-5_HandSoldering|
-|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.0YM5|
+|Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP131-15, SYMBOL-kicad-kicad-symbols-Regulator_Linear-MIC5205-3.0YM5|
 ||||

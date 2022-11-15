@@ -31,6 +31,7 @@ Contents
 	* [LEDS>0603  (LED>SMD (0603))](#leds0603--ledsmd-0603)
 	* [LEDS>0805  (LED>SMD (0805))](#leds0805--ledsmd-0805)
 	* [LEDS>1206  (LED>SMD (1206))](#leds1206--ledsmd-1206)
+	* [LEDS>2020  (LED>SMD (2020))](#leds2020--ledsmd-2020)
 	* [LEDS>3535  (LED>SMD (3535))](#leds3535--ledsmd-3535)
 	* [LEDS>5050  (LED>SMD (5050))](#leds5050--ledsmd-5050)
 	* [LEDS>03  (LED>3 mm)](#leds03--led3-mm)
@@ -299,6 +300,12 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/G/STAN/01/image_140.jpg)<br>LEDS-1206-G-STAN-01<br>SMD (1206) Green LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/G/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/L/STAN/01/image_140.jpg)<br>LEDS-1206-L-STAN-01<br>SMD (1206) Blue LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/L/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/O/STAN/01/image_140.jpg)<br>LEDS-1206-O-STAN-01<br>SMD (1206) Orange LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/O/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/R/STAN/01/image_140.jpg)<br>LEDS-1206-R-STAN-01<br>SMD (1206) Red LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/R/STAN/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/W/STAN/01/image_140.jpg)<br>LEDS-1206-W-STAN-01<br>SMD (1206) White LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/W/STAN/01/)|
 | :---: | :---: | :---: | :---: | :---: |
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/1206/Y/STAN/01/image_140.jpg)<br>LEDS-1206-Y-STAN-01<br>SMD (1206) Yellow LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/1206/Y/STAN/01/)|||||
+
+## LEDS>2020  (LED>SMD (2020))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/LEDS/2020/RGB/K102/01/image_140.jpg)<br>LEDS-2020-RGB-K102-01<br>SMD (2020) Smart Controller (APA102) RGB LED](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/LEDS/2020/RGB/K102/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
 
 ## LEDS>3535  (LED>SMD (3535))
   

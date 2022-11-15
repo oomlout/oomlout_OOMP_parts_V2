@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [MN2524184A > SMD (SOT-23) BSS138 N-Ch. MOSFET](#mn2524184a--smd-sot-23-bss138-n-ch-mosfet)
+* [MNKBS13823 > SMD (SOT-23) BSS138 N-Ch. MOSFET](#mnkbs13823--smd-sot-23-bss138-n-ch-mosfet)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
-# MN2524184A > SMD (SOT-23) BSS138 N-Ch. MOSFET
+# MNKBS13823 > SMD (SOT-23) BSS138 N-Ch. MOSFET
 
 - ID: MOSN-SO23-X-KBSS138-01
-- Hex ID: MN2524184A
+- Hex ID: MNKBS13823
 - Name: SMD (SOT-23) BSS138 N-Ch. MOSFET
 - Description: SMD (SOT-23) BSS138 N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO23-X-KBSS138-01](http://oom.lt/MOSN-SO23-X-KBSS138-01)
-- Short Link: [http://oom.lt/MN2524184A](http://oom.lt/MN2524184A)
+- Short Link: [http://oom.lt/MNKBS13823](http://oom.lt/MNKBS13823)
 
 ## Distributor Searches
   
@@ -50,6 +50,6 @@ Number of MPNs: 0
 |OOMP Description|oompDesc|KBSS138|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MOSN-SO23-X-KBSS138-01|
-|Hex ID (short code)|hexID|MN2524184A|
+|Hex ID (short code)|hexID|MNKBS13823|
 |name|name|SMD (SOT-23) BSS138 N-Ch. MOSFET|
 ||||

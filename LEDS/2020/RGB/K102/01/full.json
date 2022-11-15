@@ -1,0 +1,64 @@
+{
+    "hexID": [
+        "L2020-RGBK102"
+    ],
+    "name": [
+        "SMD (2020) Smart Controller (APA102) RGB LED"
+    ],
+    "oompColor": [
+        "RGB"
+    ],
+    "oompDesc": [
+        "K102"
+    ],
+    "oompFiles": {
+        "": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/"
+        ],
+        "EDA": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01//labelInventory.pdf"
+        ],
+        "IMAGE": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/qrCode.png"
+        ],
+        "details": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/details.py"
+        ],
+        "detailsFootprintsOomp": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/detailsFootprintsOomp.py"
+        ],
+        "jsonBasic": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/basic.json"
+        ],
+        "jsonFull": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/full.json"
+        ],
+        "labelInventory": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01//labelInventory.pdf"
+        ],
+        "mpnList": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/MPNLIST.md"
+        ],
+        "qrCode": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/qrCode.png"
+        ],
+        "readme": [
+            "oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/README.md"
+        ]
+    },
+    "oompID": [
+        "LEDS-2020-RGB-K102-01"
+    ],
+    "oompIndex": [
+        "01"
+    ],
+    "oompSize": [
+        "2020"
+    ],
+    "oompType": [
+        "LEDS"
+    ],
+    "symbolKicad": [
+        "SYMBOL-kicad-kicad-symbols-Device-LED"
+    ]
+}

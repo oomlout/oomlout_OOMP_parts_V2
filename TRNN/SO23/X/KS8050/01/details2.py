@@ -6,8 +6,8 @@ def load(newPart,it):
     newPart = it[oompID]
     
     #newPart['matchSpecial'].append([["ADXL345"],"SENS-LG14-X-K345-01"]) ###### might also be set elsewhere
-    #newPart['footprintKicad'].append('') ###### might also be set elsewhere
-    #newPart['symbolKicad'].append('')
+    newPart['footprintKicad'].append('FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-23') ###### might also be set elsewhere
+    newPart['symbolKicad'].append('SYMBOL-kicad-kicad-symbols-Device-Q_NPN_BEC')
 
 
 
