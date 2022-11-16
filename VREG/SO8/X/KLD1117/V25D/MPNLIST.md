@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v
+# MPN Summary For: VR1117825D > SO-8 LD1117 Voltage Regulator 2.5 v
 
 ## MPNs
   

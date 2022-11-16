@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v](#vr1117812--so-8-ld1117-voltage-regulator-12-v)
+* [VR1117812D > SO-8 LD1117 Voltage Regulator 1.2 v](#vr1117812d--so-8-ld1117-voltage-regulator-12-v)
 	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v
+# VR1117812D > SO-8 LD1117 Voltage Regulator 1.2 v
 
 - ID: VREG-SO8-X-KLD1117-V12D
-- Hex ID: VR1117812
+- Hex ID: VR1117812D
 - Name: SO-8 LD1117 Voltage Regulator 1.2 v
 - Description: SO-8 LD1117 Voltage Regulator 1.2 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V12D](http://oom.lt/VREG-SO8-X-KLD1117-V12D)
-- Short Link: [http://oom.lt/VR1117812](http://oom.lt/VR1117812)
+- Short Link: [http://oom.lt/VR1117812D](http://oom.lt/VR1117812D)
 
 ## Footprints
   
@@ -60,7 +60,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V12D|
 |Full OOMP ID|oompID|VREG-SO8-X-KLD1117-V12D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR1117812|
+|Hex ID (short code)|hexID|VR1117812D|
 |name|name|SO-8 LD1117 Voltage Regulator 1.2 v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm|
 ||||

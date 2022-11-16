@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR111722033 > TO-220 LD1117 Voltage Regulator 3.3v](#vr111722033--to-220-ld1117-voltage-regulator-33v)
+* [VR111722033D > TO-220 LD1117 Voltage Regulator 3.3v](#vr111722033d--to-220-ld1117-voltage-regulator-33v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR111722033 > TO-220 LD1117 Voltage Regulator 3.3v
+# VR111722033D > TO-220 LD1117 Voltage Regulator 3.3v
 
 - ID: VREG-T220-X-KLD1117-V33D
-- Hex ID: VR111722033
+- Hex ID: VR111722033D
 - Name: TO-220 LD1117 Voltage Regulator 3.3v
 - Description: TO-220 LD1117 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V33D](http://oom.lt/VREG-T220-X-KLD1117-V33D)
-- Short Link: [http://oom.lt/VR111722033](http://oom.lt/VR111722033)
+- Short Link: [http://oom.lt/VR111722033D](http://oom.lt/VR111722033D)
 
 ## Footprints
   
@@ -70,7 +70,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V33D|
 |Full OOMP ID|oompID|VREG-T220-X-KLD1117-V33D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR111722033|
+|Hex ID (short code)|hexID|VR111722033D|
 |name|name|TO-220 LD1117 Voltage Regulator 3.3v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15, SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S33TR_SOT223|

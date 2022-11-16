@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR111722012 > TO-220 LD1117 Voltage Regulator 1.2 v](#vr111722012--to-220-ld1117-voltage-regulator-12-v)
+* [VR111722012D > TO-220 LD1117 Voltage Regulator 1.2 v](#vr111722012d--to-220-ld1117-voltage-regulator-12-v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR111722012 > TO-220 LD1117 Voltage Regulator 1.2 v
+# VR111722012D > TO-220 LD1117 Voltage Regulator 1.2 v
 
 - ID: VREG-T220-X-KLD1117-V12D
-- Hex ID: VR111722012
+- Hex ID: VR111722012D
 - Name: TO-220 LD1117 Voltage Regulator 1.2 v
 - Description: TO-220 LD1117 Voltage Regulator 1.2 v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V12D](http://oom.lt/VREG-T220-X-KLD1117-V12D)
-- Short Link: [http://oom.lt/VR111722012](http://oom.lt/VR111722012)
+- Short Link: [http://oom.lt/VR111722012D](http://oom.lt/VR111722012D)
 
 ## Footprints
   
@@ -70,7 +70,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V12D|
 |Full OOMP ID|oompID|VREG-T220-X-KLD1117-V12D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR111722012|
+|Hex ID (short code)|hexID|VR111722012D|
 |name|name|TO-220 LD1117 Voltage Regulator 1.2 v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15, SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S12TR_SOT223|

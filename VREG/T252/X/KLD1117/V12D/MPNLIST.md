@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR111725212 > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v
+# MPN Summary For: VR111725212D > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v
 
 ## MPNs
   

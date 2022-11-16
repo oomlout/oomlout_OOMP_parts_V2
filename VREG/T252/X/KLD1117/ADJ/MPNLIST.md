@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR1117252AJ > TO-252 (SMD) LD1117 Voltage Regulator
+# MPN Summary For: VR1117252ADJ > TO-252 (SMD) LD1117 Voltage Regulator
 
 ## MPNs
   

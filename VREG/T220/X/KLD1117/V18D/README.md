@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR111722018 > TO-220 LD1117 Voltage Regulator 1.8 v](#vr111722018--to-220-ld1117-voltage-regulator-18-v)
+* [VR111722018D > TO-220 LD1117 Voltage Regulator 1.8 v](#vr111722018d--to-220-ld1117-voltage-regulator-18-v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR111722018 > TO-220 LD1117 Voltage Regulator 1.8 v
+# VR111722018D > TO-220 LD1117 Voltage Regulator 1.8 v
 
 - ID: VREG-T220-X-KLD1117-V18D
-- Hex ID: VR111722018
+- Hex ID: VR111722018D
 - Name: TO-220 LD1117 Voltage Regulator 1.8 v
 - Description: TO-220 LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V18D](http://oom.lt/VREG-T220-X-KLD1117-V18D)
-- Short Link: [http://oom.lt/VR111722018](http://oom.lt/VR111722018)
+- Short Link: [http://oom.lt/VR111722018D](http://oom.lt/VR111722018D)
 
 ## Footprints
   
@@ -70,7 +70,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V18D|
 |Full OOMP ID|oompID|VREG-T220-X-KLD1117-V18D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR111722018|
+|Hex ID (short code)|hexID|VR111722018D|
 |name|name|TO-220 LD1117 Voltage Regulator 1.8 v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15, SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S18TR_SOT223|

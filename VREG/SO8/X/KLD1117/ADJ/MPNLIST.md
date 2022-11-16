@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR11178AJ > SO-8 LD1117 Voltage Regulator
+# MPN Summary For: VR11178ADJ > SO-8 LD1117 Voltage Regulator
 
 ## MPNs
   

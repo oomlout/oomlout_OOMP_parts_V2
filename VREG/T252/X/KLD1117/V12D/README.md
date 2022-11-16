@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR111725212 > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v](#vr111725212--to-252-smd-ld1117-voltage-regulator-12-v)
+* [VR111725212D > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v](#vr111725212d--to-252-smd-ld1117-voltage-regulator-12-v)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR111725212 > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v
+# VR111725212D > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v
 
 - ID: VREG-T252-X-KLD1117-V12D
-- Hex ID: VR111725212
+- Hex ID: VR111725212D
 - Name: TO-252 (SMD) LD1117 Voltage Regulator 1.2 v
 - Description: TO-252 (SMD) LD1117 Voltage Regulator 1.2 v
 - Long Link: [http://oom.lt/VREG-T252-X-KLD1117-V12D](http://oom.lt/VREG-T252-X-KLD1117-V12D)
-- Short Link: [http://oom.lt/VR111725212](http://oom.lt/VR111725212)
+- Short Link: [http://oom.lt/VR111725212D](http://oom.lt/VR111725212D)
 
 ## Symbols
   
@@ -61,7 +61,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V12D|
 |Full OOMP ID|oompID|VREG-T252-X-KLD1117-V12D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR111725212|
+|Hex ID (short code)|hexID|VR111725212D|
 |name|name|TO-252 (SMD) LD1117 Voltage Regulator 1.2 v|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Regulator_Linear-AP1117-15, SYMBOL-kicad-kicad-symbols-Regulator_Linear-LD1117S12TR_SOT223|
 ||||

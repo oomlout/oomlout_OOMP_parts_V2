@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v](#vr1117825--so-8-ld1117-voltage-regulator-25-v)
+* [VR1117825D > SO-8 LD1117 Voltage Regulator 2.5 v](#vr1117825d--so-8-ld1117-voltage-regulator-25-v)
 	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117825 > SO-8 LD1117 Voltage Regulator 2.5 v
+# VR1117825D > SO-8 LD1117 Voltage Regulator 2.5 v
 
 - ID: VREG-SO8-X-KLD1117-V25D
-- Hex ID: VR1117825
+- Hex ID: VR1117825D
 - Name: SO-8 LD1117 Voltage Regulator 2.5 v
 - Description: SO-8 LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V25D](http://oom.lt/VREG-SO8-X-KLD1117-V25D)
-- Short Link: [http://oom.lt/VR1117825](http://oom.lt/VR1117825)
+- Short Link: [http://oom.lt/VR1117825D](http://oom.lt/VR1117825D)
 
 ## Footprints
   
@@ -60,7 +60,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V25D|
 |Full OOMP ID|oompID|VREG-SO8-X-KLD1117-V25D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR1117825|
+|Hex ID (short code)|hexID|VR1117825D|
 |name|name|SO-8 LD1117 Voltage Regulator 2.5 v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm|
 ||||

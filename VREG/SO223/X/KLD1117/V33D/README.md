@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR1117VREG-223-X-KLD1117-V33DREG-SO223-X-KL1117-33 > SMD (SOT-223) LD1117 Voltage Regulator 3.3v](#vr1117vreg-223-x-kld1117-v33dreg-so223-x-kl1117-33--smd-sot-223-ld1117-voltage-regulator-33v)
+* [VR111722333D > SMD (SOT-223) LD1117 Voltage Regulator 3.3v](#vr111722333d--smd-sot-223-ld1117-voltage-regulator-33v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117VREG-223-X-KLD1117-V33DREG-SO223-X-KL1117-33 > SMD (SOT-223) LD1117 Voltage Regulator 3.3v
+# VR111722333D > SMD (SOT-223) LD1117 Voltage Regulator 3.3v
 
 - ID: VREG-SO223-X-KLD1117-V33D
-- Hex ID: VR1117VREG-223-X-KLD1117-V33DREG-SO223-X-KL1117-33
+- Hex ID: VR111722333D
 - Name: SMD (SOT-223) LD1117 Voltage Regulator 3.3v
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V33D](http://oom.lt/VREG-SO223-X-KLD1117-V33D)
-- Short Link: [http://oom.lt/VR1117VREG-223-X-KLD1117-V33DREG-SO223-X-KL1117-33](http://oom.lt/VR1117VREG-223-X-KLD1117-V33DREG-SO223-X-KL1117-33)
+- Short Link: [http://oom.lt/VR111722333D](http://oom.lt/VR111722333D)
 
 ## Footprints
   
@@ -71,7 +71,7 @@ Number of MPNs: 2
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V33D|
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-V33D|
-|Hex ID (short code)|hexID|VR1117VREG-223-X-KLD1117-V33DREG-SO223-X-KL1117-33|
+|Hex ID (short code)|hexID|VR111722333D|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 3.3v|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-ADVANC-AMS1117-3.3</td><td> MANUFACTURER</td></tr><tr><td> Advanced Monolithic Systems</td><td> MANUCODE</td></tr><tr><td> C-ADVANC</td><td> MPN</td></tr><tr><td> AMS1117-3.3</td><td> OOMPIDPARTIAL</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-ADVANC-AMS1117-3.3</td><td> MANUFACTURER</td></tr><tr><td> Advanced Monolithic Systems</td><td> MANUCODE</td></tr><tr><td> C-ADVANC</td><td> MPN</td></tr><tr><td> AMS1117-3.3</td><td> OOMPIDPARTIAL</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C6186</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C6186</td><td> MPN</td></tr><tr><td> MPN-C-ADVANC-AMS1117-3.3</td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C6186.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C86781</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C86781</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C8678101.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C35879</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C35879</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C3587901.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C347229</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C347229</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C34722901.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C115288</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C115288</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C11528801.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C474404</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C474404</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C47440401.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C71121</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C71121</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C7112101.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V33D</td></tr></table>|

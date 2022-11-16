@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR1117818 > SO-8 LD1117 Voltage Regulator 1.8 v](#vr1117818--so-8-ld1117-voltage-regulator-18-v)
+* [VR1117818D > SO-8 LD1117 Voltage Regulator 1.8 v](#vr1117818d--so-8-ld1117-voltage-regulator-18-v)
 	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117818 > SO-8 LD1117 Voltage Regulator 1.8 v
+# VR1117818D > SO-8 LD1117 Voltage Regulator 1.8 v
 
 - ID: VREG-SO8-X-KLD1117-V18D
-- Hex ID: VR1117818
+- Hex ID: VR1117818D
 - Name: SO-8 LD1117 Voltage Regulator 1.8 v
 - Description: SO-8 LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V18D](http://oom.lt/VREG-SO8-X-KLD1117-V18D)
-- Short Link: [http://oom.lt/VR1117818](http://oom.lt/VR1117818)
+- Short Link: [http://oom.lt/VR1117818D](http://oom.lt/VR1117818D)
 
 ## Footprints
   
@@ -60,7 +60,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V18D|
 |Full OOMP ID|oompID|VREG-SO8-X-KLD1117-V18D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR1117818|
+|Hex ID (short code)|hexID|VR1117818D|
 |name|name|SO-8 LD1117 Voltage Regulator 1.8 v|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_SO-SO-8_3.9x4.9mm_P1.27mm|
 ||||

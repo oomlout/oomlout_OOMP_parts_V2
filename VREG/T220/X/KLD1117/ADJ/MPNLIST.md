@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR1117220AJ > TO-220 LD1117 Voltage Regulator
+# MPN Summary For: VR1117220ADJ > TO-220 LD1117 Voltage Regulator
 
 ## MPNs
   

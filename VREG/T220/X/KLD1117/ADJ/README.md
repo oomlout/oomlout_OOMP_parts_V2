@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR1117220AJ > TO-220 LD1117 Voltage Regulator](#vr1117220aj--to-220-ld1117-voltage-regulator)
+* [VR1117220ADJ > TO-220 LD1117 Voltage Regulator](#vr1117220adj--to-220-ld1117-voltage-regulator)
 	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
@@ -13,14 +13,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117220AJ > TO-220 LD1117 Voltage Regulator
+# VR1117220ADJ > TO-220 LD1117 Voltage Regulator
 
 - ID: VREG-T220-X-KLD1117-ADJ
-- Hex ID: VR1117220AJ
+- Hex ID: VR1117220ADJ
 - Name: TO-220 LD1117 Voltage Regulator
 - Description: TO-220 LD1117 Voltage Regulator
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-ADJ](http://oom.lt/VREG-T220-X-KLD1117-ADJ)
-- Short Link: [http://oom.lt/VR1117220AJ](http://oom.lt/VR1117220AJ)
+- Short Link: [http://oom.lt/VR1117220ADJ](http://oom.lt/VR1117220ADJ)
 
 ## Footprints
   
@@ -60,7 +60,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|ADJ|
 |Full OOMP ID|oompID|VREG-T220-X-KLD1117-ADJ|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR1117220AJ|
+|Hex ID (short code)|hexID|VR1117220ADJ|
 |name|name|TO-220 LD1117 Voltage Regulator|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
 ||||

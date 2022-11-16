@@ -5,21 +5,21 @@
 Contents
 ========
 
-* [VR1117252AJ > TO-252 (SMD) LD1117 Voltage Regulator](#vr1117252aj--to-252-smd-ld1117-voltage-regulator)
+* [VR1117252ADJ > TO-252 (SMD) LD1117 Voltage Regulator](#vr1117252adj--to-252-smd-ld1117-voltage-regulator)
 	* [Distributor Searches](#distributor-searches)
 	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117252AJ > TO-252 (SMD) LD1117 Voltage Regulator
+# VR1117252ADJ > TO-252 (SMD) LD1117 Voltage Regulator
 
 - ID: VREG-T252-X-KLD1117-ADJ
-- Hex ID: VR1117252AJ
+- Hex ID: VR1117252ADJ
 - Name: TO-252 (SMD) LD1117 Voltage Regulator
 - Description: TO-252 (SMD) LD1117 Voltage Regulator
 - Long Link: [http://oom.lt/VREG-T252-X-KLD1117-ADJ](http://oom.lt/VREG-T252-X-KLD1117-ADJ)
-- Short Link: [http://oom.lt/VR1117252AJ](http://oom.lt/VR1117252AJ)
+- Short Link: [http://oom.lt/VR1117252ADJ](http://oom.lt/VR1117252ADJ)
 
 ## Distributor Searches
   
@@ -51,6 +51,6 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|ADJ|
 |Full OOMP ID|oompID|VREG-T252-X-KLD1117-ADJ|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR1117252AJ|
+|Hex ID (short code)|hexID|VR1117252ADJ|
 |name|name|TO-252 (SMD) LD1117 Voltage Regulator|
 ||||

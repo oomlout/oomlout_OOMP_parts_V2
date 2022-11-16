@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR1117812 > SO-8 LD1117 Voltage Regulator 1.2 v
+# MPN Summary For: VR1117812D > SO-8 LD1117 Voltage Regulator 1.2 v
 
 ## MPNs
   

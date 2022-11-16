@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR1117VREG-223-X-KLD1117-V5REG-SO223-X-KL1117-5 > SMD (SOT-223) LD1117 Voltage Regulator 5v](#vr1117vreg-223-x-kld1117-v5reg-so223-x-kl1117-5--smd-sot-223-ld1117-voltage-regulator-5v)
+* [VR11172235 > SMD (SOT-223) LD1117 Voltage Regulator 5v](#vr11172235--smd-sot-223-ld1117-voltage-regulator-5v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR1117VREG-223-X-KLD1117-V5REG-SO223-X-KL1117-5 > SMD (SOT-223) LD1117 Voltage Regulator 5v
+# VR11172235 > SMD (SOT-223) LD1117 Voltage Regulator 5v
 
 - ID: VREG-SO223-X-KLD1117-V5
-- Hex ID: VR1117VREG-223-X-KLD1117-V5REG-SO223-X-KL1117-5
+- Hex ID: VR11172235
 - Name: SMD (SOT-223) LD1117 Voltage Regulator 5v
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V5](http://oom.lt/VREG-SO223-X-KLD1117-V5)
-- Short Link: [http://oom.lt/VR1117VREG-223-X-KLD1117-V5REG-SO223-X-KL1117-5](http://oom.lt/VR1117VREG-223-X-KLD1117-V5REG-SO223-X-KL1117-5)
+- Short Link: [http://oom.lt/VR11172235](http://oom.lt/VR11172235)
 
 ## Footprints
   
@@ -71,7 +71,7 @@ Number of MPNs: 2
 |OOMP Description|oompDesc|KLD1117|
 |OOMP Index|oompIndex|V5|
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-V5|
-|Hex ID (short code)|hexID|VR1117VREG-223-X-KLD1117-V5REG-SO223-X-KL1117-5|
+|Hex ID (short code)|hexID|VR11172235|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 5v|
 |Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-ADVANC-AMS1117-5.0</td><td> MANUFACTURER</td></tr><tr><td> Advanced Monolithic Systems</td><td> MANUCODE</td></tr><tr><td> C-ADVANC</td><td> MPN</td></tr><tr><td> AMS1117-5.0</td><td> OOMPIDPARTIAL</td></tr><tr><td> VREG-SO223-X-KLD1117-V5</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V5</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-ADVANC-AMS1117-5.0</td><td> MANUFACTURER</td></tr><tr><td> Advanced Monolithic Systems</td><td> MANUCODE</td></tr><tr><td> C-ADVANC</td><td> MPN</td></tr><tr><td> AMS1117-5.0</td><td> OOMPIDPARTIAL</td></tr><tr><td> VREG-SO223-X-KLD1117-V5</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V5</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> STOCK</td></tr><tr><td>100K</td></tr></table>|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>'dpnKey'</td></tr><tr><td> 'DPN-C-LCSC-C6187'</td><td> 'DISTRIBUTOR'</td></tr><tr><td> 'LCSC'</td><td> 'DISTRCODE'</td></tr><tr><td> 'C-LCSC'</td><td> 'DPN'</td></tr><tr><td> 'C6187'</td><td> 'MPN'</td></tr><tr><td> 'MPN-C-ADVANC-AMS1117-5.0'</td><td> 'TAGS'</td></tr><tr><td> ['STOCK</td></tr><tr><td>100K']</td><td> 'LINK'</td></tr><tr><td> 'https</td></tr><tr><td>//www.lcsc.com/product-detail/C6187.html'</td><td> 'OOMPID'</td></tr><tr><td> 'VREG-SO223-X-KLD1117-V5'</td></tr></table>|

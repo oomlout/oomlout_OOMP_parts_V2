@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [VR111722318 > SMD (SOT-223) LD1117 Voltage Regulator 1.8 v](#vr111722318--smd-sot-223-ld1117-voltage-regulator-18-v)
+* [VR111722318D > SMD (SOT-223) LD1117 Voltage Regulator 1.8 v](#vr111722318d--smd-sot-223-ld1117-voltage-regulator-18-v)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -14,14 +14,14 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# VR111722318 > SMD (SOT-223) LD1117 Voltage Regulator 1.8 v
+# VR111722318D > SMD (SOT-223) LD1117 Voltage Regulator 1.8 v
 
 - ID: VREG-SO223-X-KLD1117-V18D
-- Hex ID: VR111722318
+- Hex ID: VR111722318D
 - Name: SMD (SOT-223) LD1117 Voltage Regulator 1.8 v
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V18D](http://oom.lt/VREG-SO223-X-KLD1117-V18D)
-- Short Link: [http://oom.lt/VR111722318](http://oom.lt/VR111722318)
+- Short Link: [http://oom.lt/VR111722318D](http://oom.lt/VR111722318D)
 
 ## Footprints
   
@@ -70,7 +70,7 @@ Number of MPNs: 0
 |OOMP Index|oompIndex|V18D|
 |Full OOMP ID|oompID|VREG-SO223-X-KLD1117-V18D|
 |OOMP Note|oompNote|LCSC Part number set in VREG/SO223/X/KLD1117/V5/details2.py|
-|Hex ID (short code)|hexID|VR111722318|
+|Hex ID (short code)|hexID|VR111722318D|
 |name|name|SMD (SOT-223) LD1117 Voltage Regulator 1.8 v|
 |Part Number (Distributor)|distributorPartNumber|<table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C80598</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C80598</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C8059801.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V18D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C672391</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C672391</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C67239101.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V18D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C347227</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C347227</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C34722701.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V18D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C474402</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C474402</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C47440201.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V18D</td></tr></table></td><td> <table><tr><td>dpnKey</td></tr><tr><td> DPN-C-LCSC-C71122</td><td> DISTRIBUTOR</td></tr><tr><td> LCSC</td><td> DISTRCODE</td></tr><tr><td> C-LCSC</td><td> DPN</td></tr><tr><td> C71122</td><td> MPN</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td><td> LINK</td></tr><tr><td> https</td></tr><tr><td>//www.lcsc.com/product-detail/C7112201.html</td><td> OOMPID</td></tr><tr><td> VREG-SO223-X-KLD1117-V18D</td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_SMD-SOT-223-3_TabPin2|

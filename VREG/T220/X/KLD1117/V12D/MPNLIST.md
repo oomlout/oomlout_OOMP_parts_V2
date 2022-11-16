@@ -2,7 +2,7 @@
 
 
 
-# MPN Summary For: VR111722012 > TO-220 LD1117 Voltage Regulator 1.2 v
+# MPN Summary For: VR111722012D > TO-220 LD1117 Voltage Regulator 1.2 v
 
 ## MPNs
   
