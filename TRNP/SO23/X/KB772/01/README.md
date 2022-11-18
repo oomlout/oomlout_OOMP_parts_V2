@@ -7,7 +7,7 @@ Contents
 
 * [TRNPSO23-KB772 > SMD (SOT-23) B772 PNP Transistor](#trnpso23-kb772--smd-sot-23-b772-pnp-transistor)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -25,13 +25,13 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+SOT-23+B772+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+SOT-23+B772+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+SOT-23+B772+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+SOT-23+B772+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+SOT-23+B772+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+SOT-23+B772+PNP+Transistor)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 1  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C24278.html)|[C24278](https://www.lcsc.com/product-detail/C24278.html)|
+|||
 
 ## Images
   

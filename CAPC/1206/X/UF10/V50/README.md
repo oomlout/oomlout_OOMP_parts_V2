@@ -9,6 +9,7 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
@@ -44,6 +45,38 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+1206+10+uF+Capacitor+Ceramic+50v)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+1206+10+uF+Capacitor+Ceramic+50v)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+1206+10+uF+Capacitor+Ceramic+50v)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+1206+10+uF+Capacitor+Ceramic+50v)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+1206+10+uF+Capacitor+Ceramic+50v)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+1206+10+uF+Capacitor+Ceramic+50v)&nbsp;&nbsp;&nbsp;
+## Distributor Part Numbers
+  
+
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C13585.html)|[C13585](https://www.lcsc.com/product-detail/C13585.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C77092.html)|[C77092](https://www.lcsc.com/product-detail/C77092.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C89632.html)|[C89632](https://www.lcsc.com/product-detail/C89632.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C89835.html)|[C89835](https://www.lcsc.com/product-detail/C89835.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C96600.html)|[C96600](https://www.lcsc.com/product-detail/C96600.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C97712.html)|[C97712](https://www.lcsc.com/product-detail/C97712.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C100122.html)|[C100122](https://www.lcsc.com/product-detail/C100122.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C105175.html)|[C105175](https://www.lcsc.com/product-detail/C105175.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C110256.html)|[C110256](https://www.lcsc.com/product-detail/C110256.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C113502.html)|[C113502](https://www.lcsc.com/product-detail/C113502.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C116702.html)|[C116702](https://www.lcsc.com/product-detail/C116702.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C170075.html)|[C170075](https://www.lcsc.com/product-detail/C170075.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C303950.html)|[C303950](https://www.lcsc.com/product-detail/C303950.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C329928.html)|[C329928](https://www.lcsc.com/product-detail/C329928.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C338079.html)|[C338079](https://www.lcsc.com/product-detail/C338079.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C363964.html)|[C363964](https://www.lcsc.com/product-detail/C363964.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C417124.html)|[C417124](https://www.lcsc.com/product-detail/C417124.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C466808.html)|[C466808](https://www.lcsc.com/product-detail/C466808.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C513774.html)|[C513774](https://www.lcsc.com/product-detail/C513774.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C521234.html)|[C521234](https://www.lcsc.com/product-detail/C521234.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C531431.html)|[C531431](https://www.lcsc.com/product-detail/C531431.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C694197.html)|[C694197](https://www.lcsc.com/product-detail/C694197.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C729470.html)|[C729470](https://www.lcsc.com/product-detail/C729470.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2167708.html)|[C2167708](https://www.lcsc.com/product-detail/C2167708.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2803389.html)|[C2803389](https://www.lcsc.com/product-detail/C2803389.html)|
+|||
+
 ## MPNs
   
 Number of MPNs: 50<br>Below is a subset included because: STOCK:1000K <br>Full list: [Full MPN List](MPNLIST.md)  

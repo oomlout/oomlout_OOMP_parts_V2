@@ -8,7 +8,6 @@ Contents
 * [MN2524184A > 16 Pin SMD (3x3 mm LGA (Unusual Pins)) L3GD20 3-Axis Gyroscope Sensor](#mn2524184a--16-pin-smd-3x3-mm-lga-unusual-pins-l3gd20-3-axis-gyroscope-sensor)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -34,14 +33,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111716+Pin+SMD+3x3+mm+LGA+Unusual+Pins+L3GD20+3-Axis+Gyroscope+Sensor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/16+Pin+SMD+3x3+mm+LGA+Unusual+Pins+L3GD20+3-Axis+Gyroscope+Sensor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=16+Pin+SMD+3x3+mm+LGA+Unusual+Pins+L3GD20+3-Axis+Gyroscope+Sensor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=16+Pin+SMD+3x3+mm+LGA+Unusual+Pins+L3GD20+3-Axis+Gyroscope+Sensor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=16+Pin+SMD+3x3+mm+LGA+Unusual+Pins+L3GD20+3-Axis+Gyroscope+Sensor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=16+Pin+SMD+3x3+mm+LGA+Unusual+Pins+L3GD20+3-Axis+Gyroscope+Sensor)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

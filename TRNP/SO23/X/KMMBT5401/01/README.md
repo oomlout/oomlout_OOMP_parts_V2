@@ -7,7 +7,7 @@ Contents
 
 * [TRNPSO23-KMMBT5401 > SMD (SOT-23) MMBT5401 PNP Transistor](#trnpso23-kmmbt5401--smd-sot-23-mmbt5401-pnp-transistor)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -25,13 +25,13 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+SOT-23+MMBT5401+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+SOT-23+MMBT5401+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+SOT-23+MMBT5401+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+SOT-23+MMBT5401+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+SOT-23+MMBT5401+PNP+Transistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+SOT-23+MMBT5401+PNP+Transistor)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 1  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C8326.html)|[C8326](https://www.lcsc.com/product-detail/C8326.html)|
+|||
 
 ## Images
   

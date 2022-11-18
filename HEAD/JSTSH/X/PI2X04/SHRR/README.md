@@ -8,7 +8,6 @@ Contents
 * [HSH2X04SHRR > JST SH (1 mm) 8 Pin (2x4) Header Shrouded (IDC) Right Angle](#hsh2x04shrr--jst-sh-1-mm-8-pin-2x4-header-shrouded-idc-right-angle)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -39,14 +38,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+SH+1+mm+8+Pin+2x4+Header+Shrouded+IDC+Right+Angle)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+SH+1+mm+8+Pin+2x4+Header+Shrouded+IDC+Right+Angle)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+SH+1+mm+8+Pin+2x4+Header+Shrouded+IDC+Right+Angle)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+SH+1+mm+8+Pin+2x4+Header+Shrouded+IDC+Right+Angle)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+SH+1+mm+8+Pin+2x4+Header+Shrouded+IDC+Right+Angle)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+SH+1+mm+8+Pin+2x4+Header+Shrouded+IDC+Right+Angle)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

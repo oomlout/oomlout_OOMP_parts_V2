@@ -7,6 +7,7 @@ Contents
 
 * [ICIC-SC18WK28301 > 18 Pin SMD (SOIC Wide 7.62 mm) ULN2803A Octal Transistor Array](#icic-sc18wk28301--18-pin-smd-soic-wide-762-mm-uln2803a-octal-transistor-array)
 	* [Distributor Searches](#distributor-searches)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
@@ -25,6 +26,14 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111718+Pin+SMD+SOIC+Wide+7.62+mm+ULN2803A+Octal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/18+Pin+SMD+SOIC+Wide+7.62+mm+ULN2803A+Octal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=18+Pin+SMD+SOIC+Wide+7.62+mm+ULN2803A+Octal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=18+Pin+SMD+SOIC+Wide+7.62+mm+ULN2803A+Octal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=18+Pin+SMD+SOIC+Wide+7.62+mm+ULN2803A+Octal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=18+Pin+SMD+SOIC+Wide+7.62+mm+ULN2803A+Octal+Transistor+Array)&nbsp;&nbsp;&nbsp;
+## Distributor Part Numbers
+  
+
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C9683.html)|[C9683](https://www.lcsc.com/product-detail/C9683.html)|
+|||
+
 ## MPNs
   
 Number of MPNs: 2  

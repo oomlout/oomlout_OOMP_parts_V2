@@ -7,7 +7,7 @@ Contents
 
 * [USCK31 > Type C TYPE-C-31-M-12 USB Socket](#usck31--type-c-type-c-31-m-12-usb-socket)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -25,13 +25,13 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117Type+C+TYPE-C-31-M-12+USB+Socket)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/Type+C+TYPE-C-31-M-12+USB+Socket)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=Type+C+TYPE-C-31-M-12+USB+Socket)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=Type+C+TYPE-C-31-M-12+USB+Socket)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=Type+C+TYPE-C-31-M-12+USB+Socket)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=Type+C+TYPE-C-31-M-12+USB+Socket)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 1  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|LCSC|C165948|
+|||
 
 ## Images
   

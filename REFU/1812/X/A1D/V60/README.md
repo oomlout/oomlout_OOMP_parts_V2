@@ -7,7 +7,6 @@ Contents
 
 * [RF181D > SMD (1812) 100 mA Resetable Fuse 60 v](#rf181d--smd-1812-100-ma-resetable-fuse-60-v)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -25,14 +24,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+1812+100+mA+Resetable+Fuse+60+v)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+1812+100+mA+Resetable+Fuse+60+v)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+1812+100+mA+Resetable+Fuse+60+v)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+1812+100+mA+Resetable+Fuse+60+v)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+1812+100+mA+Resetable+Fuse+60+v)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+1812+100+mA+Resetable+Fuse+60+v)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

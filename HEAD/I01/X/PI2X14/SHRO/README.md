@@ -8,7 +8,6 @@ Contents
 * [H2X14SH > 2.54 mm 28 Pin (2x14) Header Shrouded (IDC)](#h2x14sh--254-mm-28-pin-2x14-header-shrouded-idc)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -39,14 +38,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11172.54+mm+28+Pin+2x14+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/2.54+mm+28+Pin+2x14+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=2.54+mm+28+Pin+2x14+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=2.54+mm+28+Pin+2x14+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=2.54+mm+28+Pin+2x14+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=2.54+mm+28+Pin+2x14+Header+Shrouded+IDC)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

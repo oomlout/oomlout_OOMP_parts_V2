@@ -9,7 +9,7 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -44,13 +44,17 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+SOT-223+LD1117+Voltage+Regulator+1.8+v)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+SOT-223+LD1117+Voltage+Regulator+1.8+v)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+SOT-223+LD1117+Voltage+Regulator+1.8+v)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+SOT-223+LD1117+Voltage+Regulator+1.8+v)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+SOT-223+LD1117+Voltage+Regulator+1.8+v)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+SOT-223+LD1117+Voltage+Regulator+1.8+v)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 0  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C8059801.html)|[C80598](https://www.lcsc.com/product-detail/C8059801.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C67239101.html)|[C672391](https://www.lcsc.com/product-detail/C67239101.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C34722701.html)|[C347227](https://www.lcsc.com/product-detail/C34722701.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C47440201.html)|[C474402](https://www.lcsc.com/product-detail/C47440201.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C7112201.html)|[C71122](https://www.lcsc.com/product-detail/C7112201.html)|
+|||
 
 ## Images
   

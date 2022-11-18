@@ -8,7 +8,6 @@ Contents
 * [HSH2X14RS > JST SH (1 mm) 28 Pin (2x14) Header Right Angle (SMD)](#hsh2x14rs--jst-sh-1-mm-28-pin-2x14-header-right-angle-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -39,14 +38,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+SH+1+mm+28+Pin+2x14+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+SH+1+mm+28+Pin+2x14+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+SH+1+mm+28+Pin+2x14+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+SH+1+mm+28+Pin+2x14+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+SH+1+mm+28+Pin+2x14+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+SH+1+mm+28+Pin+2x14+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

@@ -9,7 +9,6 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -43,14 +42,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11173.5+mm+9+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/3.5+mm+9+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=3.5+mm+9+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=3.5+mm+9+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=3.5+mm+9+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=3.5+mm+9+Pin+Blue+Screw+Terminal)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

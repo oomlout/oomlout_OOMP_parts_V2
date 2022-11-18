@@ -9,7 +9,7 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -44,13 +44,37 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+1206+2.2M+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+1206+2.2M+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+1206+2.2M+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+1206+2.2M+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+1206+2.2M+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+1206+2.2M+Ohm+Resistor)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 50  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C26121.html)|[C26121](https://www.lcsc.com/product-detail/C26121.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C104700.html)|[C104700](https://www.lcsc.com/product-detail/C104700.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C111535.html)|[C111535](https://www.lcsc.com/product-detail/C111535.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C118031.html)|[C118031](https://www.lcsc.com/product-detail/C118031.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C137164.html)|[C137164](https://www.lcsc.com/product-detail/C137164.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C137329.html)|[C137329](https://www.lcsc.com/product-detail/C137329.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C171070.html)|[C171070](https://www.lcsc.com/product-detail/C171070.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C171156.html)|[C171156](https://www.lcsc.com/product-detail/C171156.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C229524.html)|[C229524](https://www.lcsc.com/product-detail/C229524.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C245512.html)|[C245512](https://www.lcsc.com/product-detail/C245512.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C269617.html)|[C269617](https://www.lcsc.com/product-detail/C269617.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C280043.html)|[C280043](https://www.lcsc.com/product-detail/C280043.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C294798.html)|[C294798](https://www.lcsc.com/product-detail/C294798.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C294799.html)|[C294799](https://www.lcsc.com/product-detail/C294799.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C303743.html)|[C303743](https://www.lcsc.com/product-detail/C303743.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C414796.html)|[C414796](https://www.lcsc.com/product-detail/C414796.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C830133.html)|[C830133](https://www.lcsc.com/product-detail/C830133.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C881239.html)|[C881239](https://www.lcsc.com/product-detail/C881239.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C966067.html)|[C966067](https://www.lcsc.com/product-detail/C966067.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2075747.html)|[C2075747](https://www.lcsc.com/product-detail/C2075747.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2077895.html)|[C2077895](https://www.lcsc.com/product-detail/C2077895.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2090939.html)|[C2090939](https://www.lcsc.com/product-detail/C2090939.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2091707.html)|[C2091707](https://www.lcsc.com/product-detail/C2091707.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2102943.html)|[C2102943](https://www.lcsc.com/product-detail/C2102943.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2109823.html)|[C2109823](https://www.lcsc.com/product-detail/C2109823.html)|
+|||
 
 ## Images
   

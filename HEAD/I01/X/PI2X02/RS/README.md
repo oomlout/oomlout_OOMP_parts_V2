@@ -8,7 +8,6 @@ Contents
 * [H2X2RS > 2.54 mm 4 Pin (2x2) Header Right Angle (SMD)](#h2x2rs--254-mm-4-pin-2x2-header-right-angle-smd)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -39,14 +38,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11172.54+mm+4+Pin+2x2+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/2.54+mm+4+Pin+2x2+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=2.54+mm+4+Pin+2x2+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=2.54+mm+4+Pin+2x2+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=2.54+mm+4+Pin+2x2+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=2.54+mm+4+Pin+2x2+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

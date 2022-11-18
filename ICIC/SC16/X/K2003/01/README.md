@@ -7,6 +7,7 @@ Contents
 
 * [ICIC-SC16-K20301 > 16 Pin SMD (SOIC) ULN2003A Heptal Transistor Array](#icic-sc16-k20301--16-pin-smd-soic-uln2003a-heptal-transistor-array)
 	* [Distributor Searches](#distributor-searches)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
@@ -25,6 +26,14 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=111716+Pin+SMD+SOIC+ULN2003A+Heptal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/16+Pin+SMD+SOIC+ULN2003A+Heptal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=16+Pin+SMD+SOIC+ULN2003A+Heptal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=16+Pin+SMD+SOIC+ULN2003A+Heptal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=16+Pin+SMD+SOIC+ULN2003A+Heptal+Transistor+Array)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=16+Pin+SMD+SOIC+ULN2003A+Heptal+Transistor+Array)&nbsp;&nbsp;&nbsp;
+## Distributor Part Numbers
+  
+
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C7512.html)|[C7512](https://www.lcsc.com/product-detail/C7512.html)|
+|||
+
 ## MPNs
   
 Number of MPNs: 2  

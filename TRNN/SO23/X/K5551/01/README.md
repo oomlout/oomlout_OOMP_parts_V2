@@ -7,7 +7,7 @@ Contents
 
 * [TRNN-SO23-K5551 > SMD (SOT-23) MMBT5551 NPN Transistor](#trnn-so23-k5551--smd-sot-23-mmbt5551-npn-transistor)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -25,13 +25,13 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+SOT-23+MMBT5551+NPN+Transistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+SOT-23+MMBT5551+NPN+Transistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+SOT-23+MMBT5551+NPN+Transistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+SOT-23+MMBT5551+NPN+Transistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+SOT-23+MMBT5551+NPN+Transistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+SOT-23+MMBT5551+NPN+Transistor)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 1  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C2145.html)|[C2145](https://www.lcsc.com/product-detail/C2145.html)|
+|||
 
 ## Images
   

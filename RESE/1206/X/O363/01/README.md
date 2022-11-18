@@ -9,7 +9,7 @@ Contents
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -44,13 +44,78 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+1206+36k+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+1206+36k+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+1206+36k+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+1206+36k+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+1206+36k+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+1206+36k+Ohm+Resistor)&nbsp;&nbsp;&nbsp;
-## MPNs
+## Distributor Part Numbers
   
-Number of MPNs: 132  
 
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C4489.html)|[C4489](https://www.lcsc.com/product-detail/C4489.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C18007.html)|[C18007](https://www.lcsc.com/product-detail/C18007.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C51550.html)|[C51550](https://www.lcsc.com/product-detail/C51550.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C102180.html)|[C102180](https://www.lcsc.com/product-detail/C102180.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C102340.html)|[C102340](https://www.lcsc.com/product-detail/C102340.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C104785.html)|[C104785](https://www.lcsc.com/product-detail/C104785.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C136884.html)|[C136884](https://www.lcsc.com/product-detail/C136884.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C137303.html)|[C137303](https://www.lcsc.com/product-detail/C137303.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C141710.html)|[C141710](https://www.lcsc.com/product-detail/C141710.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C159517.html)|[C159517](https://www.lcsc.com/product-detail/C159517.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C159519.html)|[C159519](https://www.lcsc.com/product-detail/C159519.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C171089.html)|[C171089](https://www.lcsc.com/product-detail/C171089.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C212519.html)|[C212519](https://www.lcsc.com/product-detail/C212519.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C229576.html)|[C229576](https://www.lcsc.com/product-detail/C229576.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C229695.html)|[C229695](https://www.lcsc.com/product-detail/C229695.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C229721.html)|[C229721](https://www.lcsc.com/product-detail/C229721.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C229934.html)|[C229934](https://www.lcsc.com/product-detail/C229934.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C245577.html)|[C245577](https://www.lcsc.com/product-detail/C245577.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C245638.html)|[C245638](https://www.lcsc.com/product-detail/C245638.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C247235.html)|[C247235](https://www.lcsc.com/product-detail/C247235.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C294783.html)|[C294783](https://www.lcsc.com/product-detail/C294783.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C310351.html)|[C310351](https://www.lcsc.com/product-detail/C310351.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C311952.html)|[C311952](https://www.lcsc.com/product-detail/C311952.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C323088.html)|[C323088](https://www.lcsc.com/product-detail/C323088.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C352088.html)|[C352088](https://www.lcsc.com/product-detail/C352088.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C368279.html)|[C368279](https://www.lcsc.com/product-detail/C368279.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C396200.html)|[C396200](https://www.lcsc.com/product-detail/C396200.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C414781.html)|[C414781](https://www.lcsc.com/product-detail/C414781.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C422512.html)|[C422512](https://www.lcsc.com/product-detail/C422512.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C429397.html)|[C429397](https://www.lcsc.com/product-detail/C429397.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C488871.html)|[C488871](https://www.lcsc.com/product-detail/C488871.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C488894.html)|[C488894](https://www.lcsc.com/product-detail/C488894.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C497628.html)|[C497628](https://www.lcsc.com/product-detail/C497628.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C880208.html)|[C880208](https://www.lcsc.com/product-detail/C880208.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1013388.html)|[C1013388](https://www.lcsc.com/product-detail/C1013388.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1013531.html)|[C1013531](https://www.lcsc.com/product-detail/C1013531.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1013733.html)|[C1013733](https://www.lcsc.com/product-detail/C1013733.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1713153.html)|[C1713153](https://www.lcsc.com/product-detail/C1713153.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1714128.html)|[C1714128](https://www.lcsc.com/product-detail/C1714128.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1715425.html)|[C1715425](https://www.lcsc.com/product-detail/C1715425.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1717327.html)|[C1717327](https://www.lcsc.com/product-detail/C1717327.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1718049.html)|[C1718049](https://www.lcsc.com/product-detail/C1718049.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1719984.html)|[C1719984](https://www.lcsc.com/product-detail/C1719984.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1721196.html)|[C1721196](https://www.lcsc.com/product-detail/C1721196.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1721447.html)|[C1721447](https://www.lcsc.com/product-detail/C1721447.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1721719.html)|[C1721719](https://www.lcsc.com/product-detail/C1721719.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1723197.html)|[C1723197](https://www.lcsc.com/product-detail/C1723197.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1724333.html)|[C1724333](https://www.lcsc.com/product-detail/C1724333.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1724722.html)|[C1724722](https://www.lcsc.com/product-detail/C1724722.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1726806.html)|[C1726806](https://www.lcsc.com/product-detail/C1726806.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C1728799.html)|[C1728799](https://www.lcsc.com/product-detail/C1728799.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2076202.html)|[C2076202](https://www.lcsc.com/product-detail/C2076202.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2080968.html)|[C2080968](https://www.lcsc.com/product-detail/C2080968.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2081173.html)|[C2081173](https://www.lcsc.com/product-detail/C2081173.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2086282.html)|[C2086282](https://www.lcsc.com/product-detail/C2086282.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2086312.html)|[C2086312](https://www.lcsc.com/product-detail/C2086312.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2086520.html)|[C2086520](https://www.lcsc.com/product-detail/C2086520.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2088861.html)|[C2088861](https://www.lcsc.com/product-detail/C2088861.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2094892.html)|[C2094892](https://www.lcsc.com/product-detail/C2094892.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2095281.html)|[C2095281](https://www.lcsc.com/product-detail/C2095281.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2104203.html)|[C2104203](https://www.lcsc.com/product-detail/C2104203.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2105521.html)|[C2105521](https://www.lcsc.com/product-detail/C2105521.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2107848.html)|[C2107848](https://www.lcsc.com/product-detail/C2107848.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2108843.html)|[C2108843](https://www.lcsc.com/product-detail/C2108843.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2111276.html)|[C2111276](https://www.lcsc.com/product-detail/C2111276.html)|
+|[LCSC](https://www.lcsc.com/product-detail/C2933685.html)|[C2933685](https://www.lcsc.com/product-detail/C2933685.html)|
+|||
 
 ## Images
   

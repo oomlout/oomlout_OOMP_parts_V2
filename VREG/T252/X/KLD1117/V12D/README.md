@@ -8,7 +8,6 @@ Contents
 * [VR111725212D > TO-252 (SMD) LD1117 Voltage Regulator 1.2 v](#vr111725212d--to-252-smd-ld1117-voltage-regulator-12-v)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
-	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -35,14 +34,6 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117TO-252+SMD+LD1117+Voltage+Regulator+1.2+v)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/TO-252+SMD+LD1117+Voltage+Regulator+1.2+v)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=TO-252+SMD+LD1117+Voltage+Regulator+1.2+v)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=TO-252+SMD+LD1117+Voltage+Regulator+1.2+v)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=TO-252+SMD+LD1117+Voltage+Regulator+1.2+v)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=TO-252+SMD+LD1117+Voltage+Regulator+1.2+v)&nbsp;&nbsp;&nbsp;
-## MPNs
-  
-Number of MPNs: 0  
-
-|MPN|Direct Links|Search Links|
-| :--- | :--- | :--- |
-||||
-
 ## Images
   
 

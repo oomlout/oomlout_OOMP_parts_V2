@@ -7,6 +7,7 @@ Contents
 
 * [MOSPSO23-KAO3401A > SMD (SOT-23) AO3401A P-Ch. MOSFET](#mospso23-kao3401a--smd-sot-23-ao3401a-p-ch-mosfet)
 	* [Distributor Searches](#distributor-searches)
+	* [Distributor Part Numbers](#distributor-part-numbers)
 	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
@@ -25,6 +26,14 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+SOT-23+AO3401A+P-Ch.+MOSFET)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+SOT-23+AO3401A+P-Ch.+MOSFET)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+SOT-23+AO3401A+P-Ch.+MOSFET)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+SOT-23+AO3401A+P-Ch.+MOSFET)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+SOT-23+AO3401A+P-Ch.+MOSFET)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+SOT-23+AO3401A+P-Ch.+MOSFET)&nbsp;&nbsp;&nbsp;
+## Distributor Part Numbers
+  
+
+|Distributor|DPN|
+| :--- | :--- |
+|[LCSC](https://www.lcsc.com/product-detail/C15127.html)|[C15127](https://www.lcsc.com/product-detail/C15127.html)|
+|||
+
 ## MPNs
   
 Number of MPNs: 2  
