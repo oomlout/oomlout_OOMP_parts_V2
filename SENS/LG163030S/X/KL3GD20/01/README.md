@@ -27,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|![]()|SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/)|[SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/)|[Sensor_Motion : L3GD20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/)|
 ||||
 
 ## Distributor Searches
