@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X09-SHRO
 - Hex ID: H2X9SH
 - Name: 2.54 mm 18 Pin (2x9) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X09/SHRO/
 - Description: 2.54 mm 18 Pin (2x9) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X09-SHRO](http://oom.lt/HEAD-I01-X-PI2X09-SHRO)
 - Short Link: [http://oom.lt/H2X9SH](http://oom.lt/H2X9SH)

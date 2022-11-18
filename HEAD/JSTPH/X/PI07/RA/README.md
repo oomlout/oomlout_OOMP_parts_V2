@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI07-RA
 - Hex ID: HPH07R
 - Name: JST PH (2 mm) 7 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI07/RA/
 - Description: JST PH (2 mm) 7 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI07-RA](http://oom.lt/HEAD-JSTPH-X-PI07-RA)
 - Short Link: [http://oom.lt/HPH07R](http://oom.lt/HPH07R)

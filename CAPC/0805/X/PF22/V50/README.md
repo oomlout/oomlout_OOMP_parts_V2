@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0805-X-PF22-V50
 - Hex ID: C8P22
 - Name: SMD (0805) 22 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/PF22/V50/
 - Description: SMD (0805) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-PF22-V50](http://oom.lt/CAPC-0805-X-PF22-V50)
 - Short Link: [http://oom.lt/C8P22](http://oom.lt/C8P22)

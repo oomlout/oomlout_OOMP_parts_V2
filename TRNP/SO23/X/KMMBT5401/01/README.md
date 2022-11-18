@@ -17,6 +17,7 @@ NO IMAGE
 - ID: TRNP-SO23-X-KMMBT5401-01
 - Hex ID: TRNPSO23-KMMBT5401
 - Name: SMD (SOT-23) MMBT5401 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/SO23/X/KMMBT5401/01/
 - Description: SMD (SOT-23) MMBT5401 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-KMMBT5401-01](http://oom.lt/TRNP-SO23-X-KMMBT5401-01)
 - Short Link: [http://oom.lt/TRNPSO23-KMMBT5401](http://oom.lt/TRNPSO23-KMMBT5401)

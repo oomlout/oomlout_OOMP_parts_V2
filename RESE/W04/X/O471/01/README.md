@@ -17,6 +17,7 @@ Contents
 - ID: RESE-W04-X-O471-01
 - Hex ID: RW04-O471
 - Name: 1/4 Watt 470 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O471/01/
 - Description: 1/4 Watt 470 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O471-01](http://oom.lt/RESE-W04-X-O471-01)
 - Short Link: [http://oom.lt/RW04-O471](http://oom.lt/RW04-O471)

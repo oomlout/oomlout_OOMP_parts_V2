@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI05-RS
 - Hex ID: H5RS
 - Name: 2.54 mm 5 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI05/RS/
 - Description: 2.54 mm 5 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI05-RS](http://oom.lt/HEAD-I01-X-PI05-RS)
 - Short Link: [http://oom.lt/H5RS](http://oom.lt/H5RS)

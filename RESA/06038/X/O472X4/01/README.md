@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESA-06038-X-O472X4-01
 - Hex ID: RA6472
 - Name: SMD (0603-8) 4.7k Ohm (x4) Resistor Array
+- Path: oomlout_OOMP_parts_V2/RESA/06038/X/O472X4/01/
 - Description: SMD (0603-8) 4.7k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-06038-X-O472X4-01](http://oom.lt/RESA-06038-X-O472X4-01)
 - Short Link: [http://oom.lt/RA6472](http://oom.lt/RA6472)

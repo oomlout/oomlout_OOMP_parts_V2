@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI13-SM
 - Hex ID: HPH13S
 - Name: JST PH (2 mm) 13 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI13/SM/
 - Description: JST PH (2 mm) 13 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI13-SM](http://oom.lt/HEAD-JSTPH-X-PI13-SM)
 - Short Link: [http://oom.lt/HPH13S](http://oom.lt/HPH13S)

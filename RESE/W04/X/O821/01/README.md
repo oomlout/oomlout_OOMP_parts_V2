@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESE-W04-X-O821-01
 - Hex ID: RW04-O821
 - Name: 1/4 Watt 820 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O821/01/
 - Description: 1/4 Watt 820 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O821-01](http://oom.lt/RESE-W04-X-O821-01)
 - Short Link: [http://oom.lt/RW04-O821](http://oom.lt/RW04-O821)

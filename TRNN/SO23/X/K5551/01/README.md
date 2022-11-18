@@ -17,6 +17,7 @@ NO IMAGE
 - ID: TRNN-SO23-X-K5551-01
 - Hex ID: TRNN-SO23-K5551
 - Name: SMD (SOT-23) MMBT5551 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/SO23/X/K5551/01/
 - Description: SMD (SOT-23) MMBT5551 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-K5551-01](http://oom.lt/TRNN-SO23-X-K5551-01)
 - Short Link: [http://oom.lt/TRNN-SO23-K5551](http://oom.lt/TRNN-SO23-K5551)

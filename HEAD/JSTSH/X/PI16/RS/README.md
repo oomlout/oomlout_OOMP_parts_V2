@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI16-RS
 - Hex ID: HSH16RS
 - Name: JST SH (1 mm) 16 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI16/RS/
 - Description: JST SH (1 mm) 16 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI16-RS](http://oom.lt/HEAD-JSTSH-X-PI16-RS)
 - Short Link: [http://oom.lt/HSH16RS](http://oom.lt/HSH16RS)

@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O204-01
 - Hex ID: R8O204
 - Name: SMD (0805) 200k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O204/01/
 - Description: SMD (0805) 200k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O204-01](http://oom.lt/RESE-0805-X-O204-01)
 - Short Link: [http://oom.lt/R8O204](http://oom.lt/R8O204)

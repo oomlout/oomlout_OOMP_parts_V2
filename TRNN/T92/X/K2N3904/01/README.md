@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNN-T92-X-K2N3904-01
 - Hex ID: TRNN-T92-K2N3904
 - Name: TO-92 2N3904 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/T92/X/K2N3904/01/
 - Description: TO-92 2N3904 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-K2N3904-01](http://oom.lt/TRNN-T92-X-K2N3904-01)
 - Short Link: [http://oom.lt/TRNN-T92-K2N3904](http://oom.lt/TRNN-T92-K2N3904)

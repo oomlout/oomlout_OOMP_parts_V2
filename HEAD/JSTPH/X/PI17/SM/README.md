@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI17-SM
 - Hex ID: HPH17S
 - Name: JST PH (2 mm) 17 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI17/SM/
 - Description: JST PH (2 mm) 17 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI17-SM](http://oom.lt/HEAD-JSTPH-X-PI17-SM)
 - Short Link: [http://oom.lt/HPH17S](http://oom.lt/HPH17S)

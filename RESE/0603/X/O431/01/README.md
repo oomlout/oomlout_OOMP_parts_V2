@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O431-01
 - Hex ID: R6O431
 - Name: SMD (0603) 430 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O431/01/
 - Description: SMD (0603) 430 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O431-01](http://oom.lt/RESE-0603-X-O431-01)
 - Short Link: [http://oom.lt/R6O431](http://oom.lt/R6O431)

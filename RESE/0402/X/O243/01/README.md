@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O243-01
 - Hex ID: R4O243
 - Name: SMD (0402) 24k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O243/01/
 - Description: SMD (0402) 24k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O243-01](http://oom.lt/RESE-0402-X-O243-01)
 - Short Link: [http://oom.lt/R4O243](http://oom.lt/R4O243)

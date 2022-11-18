@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESE-W04-X-O502-01
 - Hex ID: RW04-O502
 - Name: 1/4 Watt 5k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O502/01/
 - Description: 1/4 Watt 5k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O502-01](http://oom.lt/RESE-W04-X-O502-01)
 - Short Link: [http://oom.lt/RW04-O502](http://oom.lt/RW04-O502)

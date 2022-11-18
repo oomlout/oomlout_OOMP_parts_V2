@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI09-RA
 - Hex ID: HPH09R
 - Name: JST PH (2 mm) 9 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI09/RA/
 - Description: JST PH (2 mm) 9 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI09-RA](http://oom.lt/HEAD-JSTPH-X-PI09-RA)
 - Short Link: [http://oom.lt/HPH09R](http://oom.lt/HPH09R)

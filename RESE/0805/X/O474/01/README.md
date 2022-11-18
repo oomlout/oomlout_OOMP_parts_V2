@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O474-01
 - Hex ID: R8O474
 - Name: SMD (0805) 470k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O474/01/
 - Description: SMD (0805) 470k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O474-01](http://oom.lt/RESE-0805-X-O474-01)
 - Short Link: [http://oom.lt/R8O474](http://oom.lt/R8O474)

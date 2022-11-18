@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-0805-O-STAN-01
 - Hex ID: L8O
 - Name: SMD (0805) Orange LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0805/O/STAN/01/
 - Description: SMD (0805) Orange LED
 - Long Link: [http://oom.lt/LEDS-0805-O-STAN-01](http://oom.lt/LEDS-0805-O-STAN-01)
 - Short Link: [http://oom.lt/L8O](http://oom.lt/L8O)

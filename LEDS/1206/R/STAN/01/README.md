@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-1206-R-STAN-01
 - Hex ID: L12R
 - Name: SMD (1206) Red LED
+- Path: oomlout_OOMP_parts_V2/LEDS/1206/R/STAN/01/
 - Description: SMD (1206) Red LED
 - Long Link: [http://oom.lt/LEDS-1206-R-STAN-01](http://oom.lt/LEDS-1206-R-STAN-01)
 - Short Link: [http://oom.lt/L12R](http://oom.lt/L12R)
@@ -59,7 +60,7 @@ NO IMAGE
 |[PROJ-SPAR-13321-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13321/STAN/01/)|[Photon RedBoard](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13321/STAN/01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13321/STAN/01/)|
 |[PROJ-SPAR-13720-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13720/STAN/01/)|[MP3 Trigger](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13720/STAN/01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13720/STAN/01/)|
 |[PROJ-SPAR-13903-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13903/STAN/01/)|[LilyPad LED Rainbow](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13903/STAN/01/)|[LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13903/STAN/01/)|
-|[PROJ-SPAR-13975-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[https://github.com/sparkfunX/Safe Cracker](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|
+|[PROJ-SPAR-13975-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[Safe Cracker](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[LED3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|
 |[PROJ-SPAR-14346-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14346/STAN/01/)|[LilyPad ProtoSnap Plus](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14346/STAN/01/)|[D5, D6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14346/STAN/01/)|
 |[PROJ-SPAR-14890-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14890/STAN/01/)|[gator color](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14890/STAN/01/)|[D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14890/STAN/01/)|
 |[PROJ-SPAR-8780-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8780/STAN/01/)|[RS232 Shifter](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8780/STAN/01/)|[D4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/8780/STAN/01/)|

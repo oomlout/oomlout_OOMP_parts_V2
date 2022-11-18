@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O621-01
 - Hex ID: R4O621
 - Name: SMD (0402) 620 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O621/01/
 - Description: SMD (0402) 620 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O621-01](http://oom.lt/RESE-0402-X-O621-01)
 - Short Link: [http://oom.lt/R4O621](http://oom.lt/R4O621)

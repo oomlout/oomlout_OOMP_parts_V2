@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI07-RA
 - Hex ID: HSH07R
 - Name: JST SH (1 mm) 7 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI07/RA/
 - Description: JST SH (1 mm) 7 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI07-RA](http://oom.lt/HEAD-JSTSH-X-PI07-RA)
 - Short Link: [http://oom.lt/HSH07R](http://oom.lt/HSH07R)

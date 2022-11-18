@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X11-SM
 - Hex ID: HSH2X11S
 - Name: JST SH (1 mm) 22 Pin (2x11) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X11/SM/
 - Description: JST SH (1 mm) 22 Pin (2x11) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X11-SM](http://oom.lt/HEAD-JSTSH-X-PI2X11-SM)
 - Short Link: [http://oom.lt/HSH2X11S](http://oom.lt/HSH2X11S)

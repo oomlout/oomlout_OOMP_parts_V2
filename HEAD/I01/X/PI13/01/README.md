@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI13-01
 - Hex ID: H13
 - Name: 2.54 mm 13 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/01/
 - Description: 2.54 mm 13 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI13-01](http://oom.lt/HEAD-I01-X-PI13-01)
 - Short Link: [http://oom.lt/H13](http://oom.lt/H13)

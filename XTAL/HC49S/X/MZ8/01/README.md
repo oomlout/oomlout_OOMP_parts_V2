@@ -20,6 +20,7 @@ NO IMAGE
 - ID: XTAL-HC49S-X-MZ8-01
 - Hex ID: XTALHC49S-MZ8
 - Name: SMD (HC49) 8 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/HC49S/X/MZ8/01/
 - Description: SMD (HC49) 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-HC49S-X-MZ8-01](http://oom.lt/XTAL-HC49S-X-MZ8-01)
 - Short Link: [http://oom.lt/XTALHC49S-MZ8](http://oom.lt/XTALHC49S-MZ8)

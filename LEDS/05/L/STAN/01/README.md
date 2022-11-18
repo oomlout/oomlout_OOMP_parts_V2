@@ -18,6 +18,7 @@ Contents
 - ID: LEDS-05-L-STAN-01
 - Hex ID: L5L
 - Name: 5 mm Blue LED
+- Path: oomlout_OOMP_parts_V2/LEDS/05/L/STAN/01/
 - Description: 5 mm Blue LED
 - Long Link: [http://oom.lt/LEDS-05-L-STAN-01](http://oom.lt/LEDS-05-L-STAN-01)
 - Short Link: [http://oom.lt/L5L](http://oom.lt/L5L)

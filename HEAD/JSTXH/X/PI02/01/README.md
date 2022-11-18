@@ -20,6 +20,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI02-01
 - Hex ID: HXH02
 - Name: JST XH (2.5 mm) 2 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI02/01/
 - Description: JST XH (2.5 mm) 2 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI02-01](http://oom.lt/HEAD-JSTXH-X-PI02-01)
 - Short Link: [http://oom.lt/HXH02](http://oom.lt/HXH02)

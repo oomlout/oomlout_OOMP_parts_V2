@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI18-01
 - Hex ID: HXH18
 - Name: JST XH (2.5 mm) 18 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI18/01/
 - Description: JST XH (2.5 mm) 18 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI18-01](http://oom.lt/HEAD-JSTXH-X-PI18-01)
 - Short Link: [http://oom.lt/HXH18](http://oom.lt/HXH18)

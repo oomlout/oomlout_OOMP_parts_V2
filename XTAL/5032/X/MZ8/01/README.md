@@ -20,6 +20,7 @@ NO IMAGE
 - ID: XTAL-5032-X-MZ8-01
 - Hex ID: XTAL5032-MZ8
 - Name: SMD (5032) 8 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/5032/X/MZ8/01/
 - Description: SMD (5032) 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ8-01](http://oom.lt/XTAL-5032-X-MZ8-01)
 - Short Link: [http://oom.lt/XTAL5032-MZ8](http://oom.lt/XTAL5032-MZ8)

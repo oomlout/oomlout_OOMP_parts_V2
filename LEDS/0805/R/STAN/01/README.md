@@ -21,6 +21,7 @@ Contents
 - ID: LEDS-0805-R-STAN-01
 - Hex ID: L8R
 - Name: SMD (0805) Red LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0805/R/STAN/01/
 - Description: SMD (0805) Red LED
 - Long Link: [http://oom.lt/LEDS-0805-R-STAN-01](http://oom.lt/LEDS-0805-R-STAN-01)
 - Short Link: [http://oom.lt/L8R](http://oom.lt/L8R)

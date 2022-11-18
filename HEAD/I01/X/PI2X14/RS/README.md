@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X14-RS
 - Hex ID: H2X14RS
 - Name: 2.54 mm 28 Pin (2x14) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X14/RS/
 - Description: 2.54 mm 28 Pin (2x14) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X14-RS](http://oom.lt/HEAD-I01-X-PI2X14-RS)
 - Short Link: [http://oom.lt/H2X14RS](http://oom.lt/H2X14RS)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI02-SM
 - Hex ID: HPH02S
 - Name: JST PH (2 mm) 2 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI02/SM/
 - Description: JST PH (2 mm) 2 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI02-SM](http://oom.lt/HEAD-JSTPH-X-PI02-SM)
 - Short Link: [http://oom.lt/HPH02S](http://oom.lt/HPH02S)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI16-SM
 - Hex ID: HSH16
 - Name: JST SH (1 mm) 16 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI16/SM/
 - Description: JST SH (1 mm) 16 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI16-SM](http://oom.lt/HEAD-JSTSH-X-PI16-SM)
 - Short Link: [http://oom.lt/HSH16](http://oom.lt/HSH16)

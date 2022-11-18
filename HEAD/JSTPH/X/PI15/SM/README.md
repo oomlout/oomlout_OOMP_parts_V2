@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI15-SM
 - Hex ID: HPH15S
 - Name: JST PH (2 mm) 15 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI15/SM/
 - Description: JST PH (2 mm) 15 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI15-SM](http://oom.lt/HEAD-JSTPH-X-PI15-SM)
 - Short Link: [http://oom.lt/HPH15S](http://oom.lt/HPH15S)

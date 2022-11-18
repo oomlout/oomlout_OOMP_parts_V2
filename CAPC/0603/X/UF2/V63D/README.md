@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0603-X-UF2-V63D
 - Hex ID: C6U263D
 - Name: SMD (0603) 2 uF Capacitor (Ceramic) 6.3v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V63D/
 - Description: SMD (0603) 2 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF2-V63D](http://oom.lt/CAPC-0603-X-UF2-V63D)
 - Short Link: [http://oom.lt/C6U263D](http://oom.lt/C6U263D)

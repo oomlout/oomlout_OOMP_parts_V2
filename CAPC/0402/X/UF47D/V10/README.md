@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0402-X-UF47D-V10
 - Hex ID: C4U47D10
 - Name: SMD (0402) 4.7 uF Capacitor (Ceramic) 10v
+- Path: oomlout_OOMP_parts_V2/CAPC/0402/X/UF47D/V10/
 - Description: SMD (0402) 4.7 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF47D-V10](http://oom.lt/CAPC-0402-X-UF47D-V10)
 - Short Link: [http://oom.lt/C4U47D10](http://oom.lt/C4U47D10)

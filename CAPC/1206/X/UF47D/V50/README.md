@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-1206-X-UF47D-V50
 - Hex ID: C12U47D
 - Name: SMD (1206) 4.7 uF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/1206/X/UF47D/V50/
 - Description: SMD (1206) 4.7 uF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF47D-V50](http://oom.lt/CAPC-1206-X-UF47D-V50)
 - Short Link: [http://oom.lt/C12U47D](http://oom.lt/C12U47D)

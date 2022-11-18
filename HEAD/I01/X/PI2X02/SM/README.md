@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X02-SM
 - Hex ID: H2X2SM
 - Name: 2.54 mm 4 Pin (2x2) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X02/SM/
 - Description: 2.54 mm 4 Pin (2x2) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X02-SM](http://oom.lt/HEAD-I01-X-PI2X02-SM)
 - Short Link: [http://oom.lt/H2X2SM](http://oom.lt/H2X2SM)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: XTAL-5032-X-MZ25-01
 - Hex ID: XTAL5032-MZ25
 - Name: SMD (5032) 25 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/5032/X/MZ25/01/
 - Description: SMD (5032) 25 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ25-01](http://oom.lt/XTAL-5032-X-MZ25-01)
 - Short Link: [http://oom.lt/XTAL5032-MZ25](http://oom.lt/XTAL5032-MZ25)

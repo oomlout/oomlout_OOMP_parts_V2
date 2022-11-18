@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0402-X-O471-01
 - Hex ID: R4O471
 - Name: SMD (0402) 470 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O471/01/
 - Description: SMD (0402) 470 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O471-01](http://oom.lt/RESE-0402-X-O471-01)
 - Short Link: [http://oom.lt/R4O471](http://oom.lt/R4O471)

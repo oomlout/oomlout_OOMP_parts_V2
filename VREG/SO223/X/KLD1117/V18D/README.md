@@ -19,6 +19,7 @@ NO IMAGE
 - ID: VREG-SO223-X-KLD1117-V18D
 - Hex ID: VR111722318D
 - Name: SMD (SOT-223) LD1117 Voltage Regulator 1.8 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V18D/
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V18D](http://oom.lt/VREG-SO223-X-KLD1117-V18D)
 - Short Link: [http://oom.lt/VR111722318D](http://oom.lt/VR111722318D)

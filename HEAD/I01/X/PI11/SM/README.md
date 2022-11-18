@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI11-SM
 - Hex ID: H11S
 - Name: 2.54 mm 11 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI11/SM/
 - Description: 2.54 mm 11 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI11-SM](http://oom.lt/HEAD-I01-X-PI11-SM)
 - Short Link: [http://oom.lt/H11S](http://oom.lt/H11S)

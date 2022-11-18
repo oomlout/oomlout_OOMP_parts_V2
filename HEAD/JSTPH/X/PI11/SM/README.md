@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI11-SM
 - Hex ID: HPH11S
 - Name: JST PH (2 mm) 11 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/SM/
 - Description: JST PH (2 mm) 11 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI11-SM](http://oom.lt/HEAD-JSTPH-X-PI11-SM)
 - Short Link: [http://oom.lt/HPH11S](http://oom.lt/HPH11S)

@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O823-01
 - Hex ID: R4O823
 - Name: SMD (0402) 82k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O823/01/
 - Description: SMD (0402) 82k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O823-01](http://oom.lt/RESE-0402-X-O823-01)
 - Short Link: [http://oom.lt/R4O823](http://oom.lt/R4O823)

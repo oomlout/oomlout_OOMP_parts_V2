@@ -20,6 +20,7 @@ NO IMAGE
 - ID: XTAL-5032-X-MZ11-01
 - Hex ID: XTAL5032-MZ11
 - Name: SMD (5032) 11 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/5032/X/MZ11/01/
 - Description: SMD (5032) 11 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ11-01](http://oom.lt/XTAL-5032-X-MZ11-01)
 - Short Link: [http://oom.lt/XTAL5032-MZ11](http://oom.lt/XTAL5032-MZ11)

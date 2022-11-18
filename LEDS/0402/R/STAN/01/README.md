@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-0402-R-STAN-01
 - Hex ID: L4R
 - Name: SMD (0402) Red LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0402/R/STAN/01/
 - Description: SMD (0402) Red LED
 - Long Link: [http://oom.lt/LEDS-0402-R-STAN-01](http://oom.lt/LEDS-0402-R-STAN-01)
 - Short Link: [http://oom.lt/L4R](http://oom.lt/L4R)

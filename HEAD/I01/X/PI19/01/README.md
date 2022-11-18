@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI19-01
 - Hex ID: H19
 - Name: 2.54 mm 19 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI19/01/
 - Description: 2.54 mm 19 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI19-01](http://oom.lt/HEAD-I01-X-PI19-01)
 - Short Link: [http://oom.lt/H19](http://oom.lt/H19)

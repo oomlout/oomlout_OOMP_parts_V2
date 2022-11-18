@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI03-RA
 - Hex ID: HSH3RA
 - Name: JST SH (1 mm) 3 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI03/RA/
 - Description: JST SH (1 mm) 3 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI03-RA](http://oom.lt/HEAD-JSTSH-X-PI03-RA)
 - Short Link: [http://oom.lt/HSH3RA](http://oom.lt/HSH3RA)

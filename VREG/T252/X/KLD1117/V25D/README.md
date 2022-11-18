@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-T252-X-KLD1117-V25D
 - Hex ID: VR111725225D
 - Name: TO-252 (SMD) LD1117 Voltage Regulator 2.5 v
+- Path: oomlout_OOMP_parts_V2/VREG/T252/X/KLD1117/V25D/
 - Description: TO-252 (SMD) LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-T252-X-KLD1117-V25D](http://oom.lt/VREG-T252-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR111725225D](http://oom.lt/VR111725225D)

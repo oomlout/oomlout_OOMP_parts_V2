@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI15-RA
 - Hex ID: HPH15R
 - Name: JST PH (2 mm) 15 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI15/RA/
 - Description: JST PH (2 mm) 15 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI15-RA](http://oom.lt/HEAD-JSTPH-X-PI15-RA)
 - Short Link: [http://oom.lt/HPH15R](http://oom.lt/HPH15R)

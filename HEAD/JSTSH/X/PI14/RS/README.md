@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI14-RS
 - Hex ID: HSH14RS
 - Name: JST SH (1 mm) 14 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI14/RS/
 - Description: JST SH (1 mm) 14 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI14-RS](http://oom.lt/HEAD-JSTSH-X-PI14-RS)
 - Short Link: [http://oom.lt/HSH14RS](http://oom.lt/HSH14RS)

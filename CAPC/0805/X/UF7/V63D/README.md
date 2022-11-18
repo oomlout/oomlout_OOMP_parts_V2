@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0805-X-UF7-V63D
 - Hex ID: C8U763D
 - Name: SMD (0805) 7 uF Capacitor (Ceramic) 6.3v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/UF7/V63D/
 - Description: SMD (0805) 7 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF7-V63D](http://oom.lt/CAPC-0805-X-UF7-V63D)
 - Short Link: [http://oom.lt/C8U763D](http://oom.lt/C8U763D)

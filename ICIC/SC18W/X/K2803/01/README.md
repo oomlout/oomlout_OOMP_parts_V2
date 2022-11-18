@@ -18,6 +18,7 @@ NO IMAGE
 - ID: ICIC-SC18W-X-K2803-01
 - Hex ID: ICIC-SC18WK28301
 - Name: 18 Pin SMD (SOIC Wide 7.62 mm) ULN2803A Octal Transistor Array
+- Path: oomlout_OOMP_parts_V2/ICIC/SC18W/X/K2803/01/
 - Description: 18 Pin SMD (SOIC Wide 7.62 mm) ULN2803A Octal Transistor Array
 - Long Link: [http://oom.lt/ICIC-SC18W-X-K2803-01](http://oom.lt/ICIC-SC18W-X-K2803-01)
 - Short Link: [http://oom.lt/ICIC-SC18WK28301](http://oom.lt/ICIC-SC18WK28301)

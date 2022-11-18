@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI16-SM
 - Hex ID: HPH16S
 - Name: JST PH (2 mm) 16 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI16/SM/
 - Description: JST PH (2 mm) 16 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI16-SM](http://oom.lt/HEAD-JSTPH-X-PI16-SM)
 - Short Link: [http://oom.lt/HPH16S](http://oom.lt/HPH16S)

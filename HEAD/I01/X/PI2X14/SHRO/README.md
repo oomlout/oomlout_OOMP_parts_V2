@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X14-SHRO
 - Hex ID: H2X14SH
 - Name: 2.54 mm 28 Pin (2x14) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X14/SHRO/
 - Description: 2.54 mm 28 Pin (2x14) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X14-SHRO](http://oom.lt/HEAD-I01-X-PI2X14-SHRO)
 - Short Link: [http://oom.lt/H2X14SH](http://oom.lt/H2X14SH)

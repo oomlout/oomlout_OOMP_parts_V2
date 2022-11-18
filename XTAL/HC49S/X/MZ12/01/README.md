@@ -18,6 +18,7 @@ NO IMAGE
 - ID: XTAL-HC49S-X-MZ12-01
 - Hex ID: XTALHC49S-MZ12
 - Name: SMD (HC49) 12 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/HC49S/X/MZ12/01/
 - Description: SMD (HC49) 12 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-HC49S-X-MZ12-01](http://oom.lt/XTAL-HC49S-X-MZ12-01)
 - Short Link: [http://oom.lt/XTALHC49S-MZ12](http://oom.lt/XTALHC49S-MZ12)

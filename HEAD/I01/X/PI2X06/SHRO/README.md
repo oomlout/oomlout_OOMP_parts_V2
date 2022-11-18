@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X06-SHRO
 - Hex ID: H2X6SH
 - Name: 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X06/SHRO/
 - Description: 2.54 mm 12 Pin (2x6) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X06-SHRO](http://oom.lt/HEAD-I01-X-PI2X06-SHRO)
 - Short Link: [http://oom.lt/H2X6SH](http://oom.lt/H2X6SH)

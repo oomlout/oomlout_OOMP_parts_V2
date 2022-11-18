@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X20-SHRO
 - Hex ID: HSH2X20SHR
 - Name: JST SH (1 mm) 40 Pin (2x20) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X20/SHRO/
 - Description: JST SH (1 mm) 40 Pin (2x20) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X20-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X20-SHRO)
 - Short Link: [http://oom.lt/HSH2X20SHR](http://oom.lt/HSH2X20SHR)

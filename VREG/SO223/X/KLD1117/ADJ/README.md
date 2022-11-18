@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-SO223-X-KLD1117-ADJ
 - Hex ID: VR1117223ADJ
 - Name: SMD (SOT-223) LD1117 Voltage Regulator
+- Path: oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/ADJ/
 - Description: SMD (SOT-223) LD1117 Voltage Regulator
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-ADJ](http://oom.lt/VREG-SO223-X-KLD1117-ADJ)
 - Short Link: [http://oom.lt/VR1117223ADJ](http://oom.lt/VR1117223ADJ)

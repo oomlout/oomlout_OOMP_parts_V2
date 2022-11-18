@@ -17,6 +17,7 @@ NO IMAGE
 - ID: LEDS-5050-RGB-K102-01
 - Hex ID: L5050-RGBK102
 - Name: SMD (5050) Smart Controller (APA102) RGB LED
+- Path: oomlout_OOMP_parts_V2/LEDS/5050/RGB/K102/01/
 - Description: SMD (5050) Smart Controller (APA102) RGB LED
 - Long Link: [http://oom.lt/LEDS-5050-RGB-K102-01](http://oom.lt/LEDS-5050-RGB-K102-01)
 - Short Link: [http://oom.lt/L5050-RGBK102](http://oom.lt/L5050-RGBK102)

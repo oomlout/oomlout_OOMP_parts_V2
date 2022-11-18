@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X18-01
 - Hex ID: H2X18
 - Name: 2.54 mm 36 Pin (2x18) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/01/
 - Description: 2.54 mm 36 Pin (2x18) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X18-01](http://oom.lt/HEAD-I01-X-PI2X18-01)
 - Short Link: [http://oom.lt/H2X18](http://oom.lt/H2X18)

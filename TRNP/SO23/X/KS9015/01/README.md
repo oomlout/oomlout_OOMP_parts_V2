@@ -17,6 +17,7 @@ NO IMAGE
 - ID: TRNP-SO23-X-KS9015-01
 - Hex ID: TRNPSO23-KS9015
 - Name: SMD (SOT-23) S9015 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/SO23/X/KS9015/01/
 - Description: SMD (SOT-23) S9015 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-KS9015-01](http://oom.lt/TRNP-SO23-X-KS9015-01)
 - Short Link: [http://oom.lt/TRNPSO23-KS9015](http://oom.lt/TRNPSO23-KS9015)

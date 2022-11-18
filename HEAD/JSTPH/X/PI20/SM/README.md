@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI20-SM
 - Hex ID: HPH20S
 - Name: JST PH (2 mm) 20 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI20/SM/
 - Description: JST PH (2 mm) 20 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI20-SM](http://oom.lt/HEAD-JSTPH-X-PI20-SM)
 - Short Link: [http://oom.lt/HPH20S](http://oom.lt/HPH20S)

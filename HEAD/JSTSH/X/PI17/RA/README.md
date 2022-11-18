@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI17-RA
 - Hex ID: HSH17R
 - Name: JST SH (1 mm) 17 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI17/RA/
 - Description: JST SH (1 mm) 17 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI17-RA](http://oom.lt/HEAD-JSTSH-X-PI17-RA)
 - Short Link: [http://oom.lt/HSH17R](http://oom.lt/HSH17R)

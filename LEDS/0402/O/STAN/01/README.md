@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-0402-O-STAN-01
 - Hex ID: L4O
 - Name: SMD (0402) Orange LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0402/O/STAN/01/
 - Description: SMD (0402) Orange LED
 - Long Link: [http://oom.lt/LEDS-0402-O-STAN-01](http://oom.lt/LEDS-0402-O-STAN-01)
 - Short Link: [http://oom.lt/L4O](http://oom.lt/L4O)

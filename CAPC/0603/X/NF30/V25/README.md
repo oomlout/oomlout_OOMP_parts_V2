@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0603-X-NF30-V25
 - Hex ID: C6N30
 - Name: SMD (0603) 30 nF Capacitor (Ceramic) 25v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/NF30/V25/
 - Description: SMD (0603) 30 nF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF30-V25](http://oom.lt/CAPC-0603-X-NF30-V25)
 - Short Link: [http://oom.lt/C6N30](http://oom.lt/C6N30)

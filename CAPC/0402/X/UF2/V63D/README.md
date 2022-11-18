@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0402-X-UF2-V63D
 - Hex ID: C4U263D
 - Name: SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
+- Path: oomlout_OOMP_parts_V2/CAPC/0402/X/UF2/V63D/
 - Description: SMD (0402) 2 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-0402-X-UF2-V63D](http://oom.lt/CAPC-0402-X-UF2-V63D)
 - Short Link: [http://oom.lt/C4U263D](http://oom.lt/C4U263D)

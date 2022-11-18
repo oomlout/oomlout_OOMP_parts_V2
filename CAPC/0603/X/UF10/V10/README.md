@@ -20,6 +20,7 @@ Contents
 - ID: CAPC-0603-X-UF10-V10
 - Hex ID: C6U1010
 - Name: SMD (0603) 10 uF Capacitor (Ceramic) 10v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/UF10/V10/
 - Description: SMD (0603) 10 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF10-V10](http://oom.lt/CAPC-0603-X-UF10-V10)
 - Short Link: [http://oom.lt/C6U1010](http://oom.lt/C6U1010)

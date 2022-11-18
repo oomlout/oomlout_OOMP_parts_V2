@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X12-RS
 - Hex ID: H2X12RS
 - Name: 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X12/RS/
 - Description: 2.54 mm 24 Pin (2x12) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X12-RS](http://oom.lt/HEAD-I01-X-PI2X12-RS)
 - Short Link: [http://oom.lt/H2X12RS](http://oom.lt/H2X12RS)

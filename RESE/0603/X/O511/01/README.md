@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0603-X-O511-01
 - Hex ID: R6O511
 - Name: SMD (0603) 510 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O511/01/
 - Description: SMD (0603) 510 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O511-01](http://oom.lt/RESE-0603-X-O511-01)
 - Short Link: [http://oom.lt/R6O511](http://oom.lt/R6O511)

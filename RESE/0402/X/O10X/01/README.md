@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O10X-01
 - Hex ID: R4O10X
 - Name: SMD (0402) 1 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O10X/01/
 - Description: SMD (0402) 1 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O10X-01](http://oom.lt/RESE-0402-X-O10X-01)
 - Short Link: [http://oom.lt/R4O10X](http://oom.lt/R4O10X)

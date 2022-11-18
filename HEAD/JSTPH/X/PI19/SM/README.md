@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI19-SM
 - Hex ID: HPH19S
 - Name: JST PH (2 mm) 19 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI19/SM/
 - Description: JST PH (2 mm) 19 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI19-SM](http://oom.lt/HEAD-JSTPH-X-PI19-SM)
 - Short Link: [http://oom.lt/HPH19S](http://oom.lt/HPH19S)

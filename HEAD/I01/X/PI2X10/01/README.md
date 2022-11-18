@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X10-01
 - Hex ID: H2X10
 - Name: 2.54 mm 20 Pin (2x10) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X10/01/
 - Description: 2.54 mm 20 Pin (2x10) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X10-01](http://oom.lt/HEAD-I01-X-PI2X10-01)
 - Short Link: [http://oom.lt/H2X10](http://oom.lt/H2X10)

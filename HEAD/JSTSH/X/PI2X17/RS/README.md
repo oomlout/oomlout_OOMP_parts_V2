@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X17-RS
 - Hex ID: HSH2X17RS
 - Name: JST SH (1 mm) 34 Pin (2x17) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X17/RS/
 - Description: JST SH (1 mm) 34 Pin (2x17) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X17-RS](http://oom.lt/HEAD-JSTSH-X-PI2X17-RS)
 - Short Link: [http://oom.lt/HSH2X17RS](http://oom.lt/HSH2X17RS)

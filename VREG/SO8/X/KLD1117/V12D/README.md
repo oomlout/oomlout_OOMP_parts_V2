@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-SO8-X-KLD1117-V12D
 - Hex ID: VR1117812D
 - Name: SO-8 LD1117 Voltage Regulator 1.2 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO8/X/KLD1117/V12D/
 - Description: SO-8 LD1117 Voltage Regulator 1.2 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V12D](http://oom.lt/VREG-SO8-X-KLD1117-V12D)
 - Short Link: [http://oom.lt/VR1117812D](http://oom.lt/VR1117812D)

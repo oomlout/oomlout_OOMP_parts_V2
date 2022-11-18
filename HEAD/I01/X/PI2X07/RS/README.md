@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X07-RS
 - Hex ID: H2X7RS
 - Name: 2.54 mm 14 Pin (2x7) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X07/RS/
 - Description: 2.54 mm 14 Pin (2x7) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X07-RS](http://oom.lt/HEAD-I01-X-PI2X07-RS)
 - Short Link: [http://oom.lt/H2X7RS](http://oom.lt/H2X7RS)

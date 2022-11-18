@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI09-SM
 - Hex ID: HPH09S
 - Name: JST PH (2 mm) 9 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI09/SM/
 - Description: JST PH (2 mm) 9 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI09-SM](http://oom.lt/HEAD-JSTPH-X-PI09-SM)
 - Short Link: [http://oom.lt/HPH09S](http://oom.lt/HPH09S)

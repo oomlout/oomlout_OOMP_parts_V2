@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MCUU-DI14-84-ATTINY-01
 - Hex ID: MCAT84DI14
 - Name: 14 Pin DIP ATTiny 84 MCU
+- Path: oomlout_OOMP_parts_V2/MCUU/DI14/84/ATTINY/01/
 - Description: 14 Pin DIP ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-DI14-84-ATTINY-01](http://oom.lt/MCUU-DI14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84DI14](http://oom.lt/MCAT84DI14)

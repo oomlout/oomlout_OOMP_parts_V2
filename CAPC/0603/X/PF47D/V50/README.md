@@ -20,6 +20,7 @@ Contents
 - ID: CAPC-0603-X-PF47D-V50
 - Hex ID: C6P47D
 - Name: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/PF47D/V50/
 - Description: SMD (0603) 4.7 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF47D-V50](http://oom.lt/CAPC-0603-X-PF47D-V50)
 - Short Link: [http://oom.lt/C6P47D](http://oom.lt/C6P47D)

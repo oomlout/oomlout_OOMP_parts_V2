@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-T220-X-KLD1117-V25D
 - Hex ID: VR111722025D
 - Name: TO-220 LD1117 Voltage Regulator 2.5 v
+- Path: oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V25D/
 - Description: TO-220 LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V25D](http://oom.lt/VREG-T220-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR111722025D](http://oom.lt/VR111722025D)

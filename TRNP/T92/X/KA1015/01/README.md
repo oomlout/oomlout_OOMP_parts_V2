@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNP-T92-X-KA1015-01
 - Hex ID: TRNPT92-KA1015
 - Name: TO-92 A1015 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/T92/X/KA1015/01/
 - Description: TO-92 A1015 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KA1015-01](http://oom.lt/TRNP-T92-X-KA1015-01)
 - Short Link: [http://oom.lt/TRNPT92-KA1015](http://oom.lt/TRNPT92-KA1015)

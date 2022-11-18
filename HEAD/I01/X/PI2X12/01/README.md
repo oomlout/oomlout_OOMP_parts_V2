@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X12-01
 - Hex ID: H2X12
 - Name: 2.54 mm 24 Pin (2x12) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X12/01/
 - Description: 2.54 mm 24 Pin (2x12) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X12-01](http://oom.lt/HEAD-I01-X-PI2X12-01)
 - Short Link: [http://oom.lt/H2X12](http://oom.lt/H2X12)

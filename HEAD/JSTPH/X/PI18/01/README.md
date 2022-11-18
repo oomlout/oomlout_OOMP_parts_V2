@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI18-01
 - Hex ID: HPH18
 - Name: JST PH (2 mm) 18 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI18/01/
 - Description: JST PH (2 mm) 18 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI18-01](http://oom.lt/HEAD-JSTPH-X-PI18-01)
 - Short Link: [http://oom.lt/HPH18](http://oom.lt/HPH18)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X07-SM
 - Hex ID: HSH2X07S
 - Name: JST SH (1 mm) 14 Pin (2x7) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X07/SM/
 - Description: JST SH (1 mm) 14 Pin (2x7) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X07-SM](http://oom.lt/HEAD-JSTSH-X-PI2X07-SM)
 - Short Link: [http://oom.lt/HSH2X07S](http://oom.lt/HSH2X07S)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X05-SM
 - Hex ID: HSH2X5SM
 - Name: JST SH (1 mm) 10 Pin (2x5) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X05/SM/
 - Description: JST SH (1 mm) 10 Pin (2x5) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X05-SM](http://oom.lt/HEAD-JSTSH-X-PI2X05-SM)
 - Short Link: [http://oom.lt/HSH2X5SM](http://oom.lt/HSH2X5SM)

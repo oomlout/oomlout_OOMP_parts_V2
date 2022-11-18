@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0805-X-NF100-V50
 - Hex ID: C8N100
 - Name: SMD (0805) 100 nF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/NF100/V50/
 - Description: SMD (0805) 100 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-NF100-V50](http://oom.lt/CAPC-0805-X-NF100-V50)
 - Short Link: [http://oom.lt/C8N100](http://oom.lt/C8N100)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: ICIC-SC16-X-K2003-01
 - Hex ID: ICIC-SC16-K20301
 - Name: 16 Pin SMD (SOIC) ULN2003A Heptal Transistor Array
+- Path: oomlout_OOMP_parts_V2/ICIC/SC16/X/K2003/01/
 - Description: 16 Pin SMD (SOIC) ULN2003A Heptal Transistor Array
 - Long Link: [http://oom.lt/ICIC-SC16-X-K2003-01](http://oom.lt/ICIC-SC16-X-K2003-01)
 - Short Link: [http://oom.lt/ICIC-SC16-K20301](http://oom.lt/ICIC-SC16-K20301)

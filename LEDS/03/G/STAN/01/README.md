@@ -19,6 +19,7 @@ Contents
 - ID: LEDS-03-G-STAN-01
 - Hex ID: L3G
 - Name: 3 mm Green LED
+- Path: oomlout_OOMP_parts_V2/LEDS/03/G/STAN/01/
 - Description: 3 mm Green LED
 - Long Link: [http://oom.lt/LEDS-03-G-STAN-01](http://oom.lt/LEDS-03-G-STAN-01)
 - Short Link: [http://oom.lt/L3G](http://oom.lt/L3G)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X12-SHRO
 - Hex ID: H2X12SH
 - Name: 2.54 mm 24 Pin (2x12) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X12/SHRO/
 - Description: 2.54 mm 24 Pin (2x12) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X12-SHRO](http://oom.lt/HEAD-I01-X-PI2X12-SHRO)
 - Short Link: [http://oom.lt/H2X12SH](http://oom.lt/H2X12SH)

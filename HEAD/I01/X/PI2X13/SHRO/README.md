@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X13-SHRO
 - Hex ID: H2X13SH
 - Name: 2.54 mm 26 Pin (2x13) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X13/SHRO/
 - Description: 2.54 mm 26 Pin (2x13) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X13-SHRO](http://oom.lt/HEAD-I01-X-PI2X13-SHRO)
 - Short Link: [http://oom.lt/H2X13SH](http://oom.lt/H2X13SH)

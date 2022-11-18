@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI05-SM
 - Hex ID: H5SM
 - Name: 2.54 mm 5 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI05/SM/
 - Description: 2.54 mm 5 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI05-SM](http://oom.lt/HEAD-I01-X-PI05-SM)
 - Short Link: [http://oom.lt/H5SM](http://oom.lt/H5SM)

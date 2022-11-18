@@ -21,6 +21,7 @@ NO IMAGE
 - ID: LEDS-0603-G-STAN-01
 - Hex ID: L6G
 - Name: SMD (0603) Green LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0603/G/STAN/01/
 - Description: SMD (0603) Green LED
 - Long Link: [http://oom.lt/LEDS-0603-G-STAN-01](http://oom.lt/LEDS-0603-G-STAN-01)
 - Short Link: [http://oom.lt/L6G](http://oom.lt/L6G)
@@ -213,7 +214,7 @@ NO IMAGE
 |[PROJ-SPAR-14812-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14812/STAN/01/)|[RedBoard Turbo](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14812/STAN/01/)|[D5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14812/STAN/01/)|
 |[PROJ-SPAR-14916-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14916/STAN/01/)|[SAMD21 Pro RF](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14916/STAN/01/)|[D1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14916/STAN/01/)|
 |[PROJ-SPAR-15005-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15005/STAN/01/)|[Qwiic GPS RTK](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15005/STAN/01/)|[D3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15005/STAN/01/)|
-|[PROJ-SPAR-15031-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15031/STAN/01/)|[https://github.com/sparkfunX/ESP8266 WiFi IR Blaster](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15031/STAN/01/)|[D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15031/STAN/01/)|
+|[PROJ-SPAR-15031-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15031/STAN/01/)|[ESP8266 WiFi IR Blaster](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15031/STAN/01/)|[D2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15031/STAN/01/)|
 |[PROJ-SPAR-15050-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15050/STAN/01/)|[Qwiic Spectral Sensor AS7265x](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15050/STAN/01/)|[D3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15050/STAN/01/)|
 |[PROJ-SPAR-15096-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15096/STAN/01/)|[Serial Basic Breakout CH340C](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15096/STAN/01/)|[LED1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15096/STAN/01/)|
 |[PROJ-SPAR-15164-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15164/STAN/01/)|[Qwiic OpenLog](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15164/STAN/01/)|[D3](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15164/STAN/01/)|

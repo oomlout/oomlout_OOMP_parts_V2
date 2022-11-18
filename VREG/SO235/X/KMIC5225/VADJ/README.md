@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-SO235-X-KMIC5225-VADJ
 - Hex ID: VR5225235AJ
 - Name: SMD (SOT-23-5) MIC5225 Voltage Regulator Adjustable Voltage
+- Path: oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5225/VADJ/
 - Description: SMD (SOT-23-5) MIC5225 Voltage Regulator Adjustable Voltage
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5225-VADJ](http://oom.lt/VREG-SO235-X-KMIC5225-VADJ)
 - Short Link: [http://oom.lt/VR5225235AJ](http://oom.lt/VR5225235AJ)

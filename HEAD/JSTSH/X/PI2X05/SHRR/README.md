@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X05-SHRR
 - Hex ID: HSH2X5SHRR
 - Name: JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC) Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X05/SHRR/
 - Description: JST SH (1 mm) 10 Pin (2x5) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X05-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X05-SHRR)
 - Short Link: [http://oom.lt/HSH2X5SHRR](http://oom.lt/HSH2X5SHRR)

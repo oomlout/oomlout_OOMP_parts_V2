@@ -16,6 +16,7 @@ NO IMAGE
 - ID: REFU-1812-X-A26D-V8
 - Hex ID: RF1826D
 - Name: SMD (1812) 2.6 A Resetable Fuse 8v
+- Path: oomlout_OOMP_parts_V2/REFU/1812/X/A26D/V8/
 - Description: SMD (1812) 2.6 A Resetable Fuse 8v
 - Long Link: [http://oom.lt/REFU-1812-X-A26D-V8](http://oom.lt/REFU-1812-X-A26D-V8)
 - Short Link: [http://oom.lt/RF1826D](http://oom.lt/RF1826D)

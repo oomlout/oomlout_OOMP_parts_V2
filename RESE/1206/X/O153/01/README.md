@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O153-01
 - Hex ID: R12O153
 - Name: SMD (1206) 15k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O153/01/
 - Description: SMD (1206) 15k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O153-01](http://oom.lt/RESE-1206-X-O153-01)
 - Short Link: [http://oom.lt/R12O153](http://oom.lt/R12O153)

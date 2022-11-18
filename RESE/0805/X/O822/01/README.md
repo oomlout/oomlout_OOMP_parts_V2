@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0805-X-O822-01
 - Hex ID: R8O822
 - Name: SMD (0805) 8.2k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O822/01/
 - Description: SMD (0805) 8.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O822-01](http://oom.lt/RESE-0805-X-O822-01)
 - Short Link: [http://oom.lt/R8O822](http://oom.lt/R8O822)

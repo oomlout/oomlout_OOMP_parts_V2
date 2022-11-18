@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MCUU-QFN14-84-ATTINY-01
 - Hex ID: MCAT84QF14
 - Name: 14 Pin SMD (QFN) ATTiny 84 MCU
+- Path: oomlout_OOMP_parts_V2/MCUU/QFN14/84/ATTINY/01/
 - Description: 14 Pin SMD (QFN) ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-QFN14-84-ATTINY-01](http://oom.lt/MCUU-QFN14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84QF14](http://oom.lt/MCAT84QF14)

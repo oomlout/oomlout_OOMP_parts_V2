@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0805-X-PF30-V50
 - Hex ID: C8P30
 - Name: SMD (0805) 30 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/PF30/V50/
 - Description: SMD (0805) 30 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-PF30-V50](http://oom.lt/CAPC-0805-X-PF30-V50)
 - Short Link: [http://oom.lt/C8P30](http://oom.lt/C8P30)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MOSN-SO23-X-KAO3400A-01
 - Hex ID: MOSN-SO23-KAO3400A
 - Name: SMD (SOT-23) AO3400A N-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSN/SO23/X/KAO3400A/01/
 - Description: SMD (SOT-23) AO3400A N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO23-X-KAO3400A-01](http://oom.lt/MOSN-SO23-X-KAO3400A-01)
 - Short Link: [http://oom.lt/MOSN-SO23-KAO3400A](http://oom.lt/MOSN-SO23-KAO3400A)

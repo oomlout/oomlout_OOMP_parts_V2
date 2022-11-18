@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI06-RS
 - Hex ID: H06RS
 - Name: 2.54 mm 6 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI06/RS/
 - Description: 2.54 mm 6 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI06-RS](http://oom.lt/HEAD-I01-X-PI06-RS)
 - Short Link: [http://oom.lt/H06RS](http://oom.lt/H06RS)

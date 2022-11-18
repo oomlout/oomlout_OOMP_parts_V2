@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X11-01
 - Hex ID: H2X11
 - Name: 2.54 mm 22 Pin (2x11) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X11/01/
 - Description: 2.54 mm 22 Pin (2x11) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X11-01](http://oom.lt/HEAD-I01-X-PI2X11-01)
 - Short Link: [http://oom.lt/H2X11](http://oom.lt/H2X11)

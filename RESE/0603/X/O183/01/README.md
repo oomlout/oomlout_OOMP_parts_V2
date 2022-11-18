@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0603-X-O183-01
 - Hex ID: R6O183
 - Name: SMD (0603) 18k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O183/01/
 - Description: SMD (0603) 18k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O183-01](http://oom.lt/RESE-0603-X-O183-01)
 - Short Link: [http://oom.lt/R6O183](http://oom.lt/R6O183)

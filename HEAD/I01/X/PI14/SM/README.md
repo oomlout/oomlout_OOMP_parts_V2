@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI14-SM
 - Hex ID: H14S
 - Name: 2.54 mm 14 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI14/SM/
 - Description: 2.54 mm 14 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI14-SM](http://oom.lt/HEAD-I01-X-PI14-SM)
 - Short Link: [http://oom.lt/H14S](http://oom.lt/H14S)

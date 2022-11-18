@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X03-SHRO
 - Hex ID: H2X3SH
 - Name: 2.54 mm 6 Pin (2x3) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X03/SHRO/
 - Description: 2.54 mm 6 Pin (2x3) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-SHRO](http://oom.lt/HEAD-I01-X-PI2X03-SHRO)
 - Short Link: [http://oom.lt/H2X3SH](http://oom.lt/H2X3SH)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X15-SHRO
 - Hex ID: H2X15SH
 - Name: 2.54 mm 30 Pin (2x15) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X15/SHRO/
 - Description: 2.54 mm 30 Pin (2x15) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X15-SHRO](http://oom.lt/HEAD-I01-X-PI2X15-SHRO)
 - Short Link: [http://oom.lt/H2X15SH](http://oom.lt/H2X15SH)

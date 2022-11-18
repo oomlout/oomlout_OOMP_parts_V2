@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNN-T92-X-KBC337-01
 - Hex ID: TRNN-T92-KBC337
 - Name: TO-92 BC337 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/T92/X/KBC337/01/
 - Description: TO-92 BC337 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-KBC337-01](http://oom.lt/TRNN-T92-X-KBC337-01)
 - Short Link: [http://oom.lt/TRNN-T92-KBC337](http://oom.lt/TRNN-T92-KBC337)

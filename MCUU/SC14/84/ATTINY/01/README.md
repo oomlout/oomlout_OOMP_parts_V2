@@ -20,6 +20,7 @@ NO IMAGE
 - ID: MCUU-SC14-84-ATTINY-01
 - Hex ID: MCAT84SC14
 - Name: 14 Pin SMD (SOIC) ATTiny 84 MCU
+- Path: oomlout_OOMP_parts_V2/MCUU/SC14/84/ATTINY/01/
 - Description: 14 Pin SMD (SOIC) ATTiny 84 MCU
 - Long Link: [http://oom.lt/MCUU-SC14-84-ATTINY-01](http://oom.lt/MCUU-SC14-84-ATTINY-01)
 - Short Link: [http://oom.lt/MCAT84SC14](http://oom.lt/MCAT84SC14)
@@ -47,7 +48,7 @@ NO IMAGE
 | :--- | :--- | :--- |
 |[PROJ-SPAR-11801-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11801/STAN/01/)|[Tiny AVR Programmer](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11801/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/11801/STAN/01/)|
 |[PROJ-SPAR-13118-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13118/STAN/01/)|[Servo Trigger](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13118/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13118/STAN/01/)|
-|[PROJ-SPAR-15290-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|[https://github.com/sparkfunX/Qwiic Keypad](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|
+|[PROJ-SPAR-15290-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|[Qwiic Keypad](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|[U1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/15290/STAN/01/)|
 |[PROJ-SPAR-16653-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16653/STAN/01/)|[Top pHat](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16653/STAN/01/)|[U5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16653/STAN/01/)|
 |[PROJ-SPAR-16985-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|[MicroMod Input and Display Carrier](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|[U2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16985/STAN/01/)|
 ||||

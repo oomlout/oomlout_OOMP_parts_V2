@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI06-RA
 - Hex ID: HSH06R
 - Name: JST SH (1 mm) 6 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI06/RA/
 - Description: JST SH (1 mm) 6 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI06-RA](http://oom.lt/HEAD-JSTSH-X-PI06-RA)
 - Short Link: [http://oom.lt/HSH06R](http://oom.lt/HSH06R)

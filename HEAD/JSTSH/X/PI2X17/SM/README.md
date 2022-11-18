@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X17-SM
 - Hex ID: HSH2X17S
 - Name: JST SH (1 mm) 34 Pin (2x17) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X17/SM/
 - Description: JST SH (1 mm) 34 Pin (2x17) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X17-SM](http://oom.lt/HEAD-JSTSH-X-PI2X17-SM)
 - Short Link: [http://oom.lt/HSH2X17S](http://oom.lt/HSH2X17S)

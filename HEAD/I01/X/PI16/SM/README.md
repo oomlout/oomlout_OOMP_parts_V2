@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI16-SM
 - Hex ID: H16S
 - Name: 2.54 mm 16 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI16/SM/
 - Description: 2.54 mm 16 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI16-SM](http://oom.lt/HEAD-I01-X-PI16-SM)
 - Short Link: [http://oom.lt/H16S](http://oom.lt/H16S)

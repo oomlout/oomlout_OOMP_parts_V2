@@ -17,6 +17,7 @@ NO IMAGE
 - ID: TRNP-SO23-X-KS8550-01
 - Hex ID: TRNPSO23-KS8550
 - Name: SMD (SOT-23) S8550 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/SO23/X/KS8550/01/
 - Description: SMD (SOT-23) S8550 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-KS8550-01](http://oom.lt/TRNP-SO23-X-KS8550-01)
 - Short Link: [http://oom.lt/TRNPSO23-KS8550](http://oom.lt/TRNPSO23-KS8550)

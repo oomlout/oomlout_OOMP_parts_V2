@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X18-SHRR
 - Hex ID: HSH2X18SHRR
 - Name: JST SH (1 mm) 36 Pin (2x18) Header Shrouded (IDC) Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X18/SHRR/
 - Description: JST SH (1 mm) 36 Pin (2x18) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X18-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X18-SHRR)
 - Short Link: [http://oom.lt/HSH2X18SHRR](http://oom.lt/HSH2X18SHRR)

@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0603-X-PF22-V50
 - Hex ID: C6P22
 - Name: SMD (0603) 22 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/PF22/V50/
 - Description: SMD (0603) 22 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF22-V50](http://oom.lt/CAPC-0603-X-PF22-V50)
 - Short Link: [http://oom.lt/C6P22](http://oom.lt/C6P22)
@@ -76,7 +77,7 @@ Contents
 |[PROJ-SPAR-14478-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14478/STAN/01/)|[MaKeyMaKey](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14478/STAN/01/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14478/STAN/01/)|
 |[PROJ-SPAR-14531-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14531/STAN/01/)|[Pioneer IoT Kit Shield](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14531/STAN/01/)|[C7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14531/STAN/01/)|
 |[PROJ-SPAR-14554-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14554/STAN/01/)|[Papa Soundie Audio Player](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14554/STAN/01/)|[C1, C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14554/STAN/01/)|
-|[PROJ-SPAR-14686-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[https://github.com/sparkfunX/Qwiic IMU BNO080](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[C3, C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|
+|[PROJ-SPAR-14686-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[Qwiic IMU BNO080](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[C3, C5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|
 |[PROJ-SPAR-9825-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9825/STAN/01/)|[Pocket AVR Programmer](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9825/STAN/01/)|[C3, C4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/9825/STAN/01/)|
 ||||
 

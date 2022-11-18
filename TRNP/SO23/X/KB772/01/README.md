@@ -17,6 +17,7 @@ NO IMAGE
 - ID: TRNP-SO23-X-KB772-01
 - Hex ID: TRNPSO23-KB772
 - Name: SMD (SOT-23) B772 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/SO23/X/KB772/01/
 - Description: SMD (SOT-23) B772 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-SO23-X-KB772-01](http://oom.lt/TRNP-SO23-X-KB772-01)
 - Short Link: [http://oom.lt/TRNPSO23-KB772](http://oom.lt/TRNPSO23-KB772)

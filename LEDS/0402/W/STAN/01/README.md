@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-0402-W-STAN-01
 - Hex ID: L4W
 - Name: SMD (0402) White LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0402/W/STAN/01/
 - Description: SMD (0402) White LED
 - Long Link: [http://oom.lt/LEDS-0402-W-STAN-01](http://oom.lt/LEDS-0402-W-STAN-01)
 - Short Link: [http://oom.lt/L4W](http://oom.lt/L4W)

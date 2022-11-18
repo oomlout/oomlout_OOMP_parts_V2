@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI15-SM
 - Hex ID: HSH15
 - Name: JST SH (1 mm) 15 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI15/SM/
 - Description: JST SH (1 mm) 15 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI15-SM](http://oom.lt/HEAD-JSTSH-X-PI15-SM)
 - Short Link: [http://oom.lt/HSH15](http://oom.lt/HSH15)

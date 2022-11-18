@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI02-RS
 - Hex ID: H02RS
 - Name: 2.54 mm 2 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/RS/
 - Description: 2.54 mm 2 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI02-RS](http://oom.lt/HEAD-I01-X-PI02-RS)
 - Short Link: [http://oom.lt/H02RS](http://oom.lt/H02RS)

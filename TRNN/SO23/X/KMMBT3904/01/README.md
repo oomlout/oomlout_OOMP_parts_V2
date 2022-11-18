@@ -18,6 +18,7 @@ NO IMAGE
 - ID: TRNN-SO23-X-KMMBT3904-01
 - Hex ID: TRNN-SO23-KMMBT3904
 - Name: SMD (SOT-23) MMBT3904 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT3904/01/
 - Description: SMD (SOT-23) MMBT3904 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KMMBT3904-01](http://oom.lt/TRNN-SO23-X-KMMBT3904-01)
 - Short Link: [http://oom.lt/TRNN-SO23-KMMBT3904](http://oom.lt/TRNN-SO23-KMMBT3904)

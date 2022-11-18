@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI03-01
 - Hex ID: HPH301
 - Name: JST PH (2 mm) 3 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/01/
 - Description: JST PH (2 mm) 3 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI03-01](http://oom.lt/HEAD-JSTPH-X-PI03-01)
 - Short Link: [http://oom.lt/HPH301](http://oom.lt/HPH301)

@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0402-X-O332-01
 - Hex ID: R4O332
 - Name: SMD (0402) 3.3k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O332/01/
 - Description: SMD (0402) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O332-01](http://oom.lt/RESE-0402-X-O332-01)
 - Short Link: [http://oom.lt/R4O332](http://oom.lt/R4O332)

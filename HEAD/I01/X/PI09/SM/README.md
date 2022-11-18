@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI09-SM
 - Hex ID: H09S
 - Name: 2.54 mm 9 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI09/SM/
 - Description: 2.54 mm 9 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI09-SM](http://oom.lt/HEAD-I01-X-PI09-SM)
 - Short Link: [http://oom.lt/H09S](http://oom.lt/H09S)

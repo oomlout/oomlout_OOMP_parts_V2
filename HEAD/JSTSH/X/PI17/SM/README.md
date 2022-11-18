@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI17-SM
 - Hex ID: HSH17
 - Name: JST SH (1 mm) 17 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI17/SM/
 - Description: JST SH (1 mm) 17 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI17-SM](http://oom.lt/HEAD-JSTSH-X-PI17-SM)
 - Short Link: [http://oom.lt/HSH17](http://oom.lt/HSH17)

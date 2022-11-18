@@ -18,6 +18,7 @@ Contents
 - ID: HEAD-I01-X-PI18-01
 - Hex ID: H18
 - Name: 2.54 mm 18 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/01/
 - Description: 2.54 mm 18 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI18-01](http://oom.lt/HEAD-I01-X-PI18-01)
 - Short Link: [http://oom.lt/H18](http://oom.lt/H18)

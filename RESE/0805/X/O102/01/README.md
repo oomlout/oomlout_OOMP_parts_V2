@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0805-X-O102-01
 - Hex ID: R8O102
 - Name: SMD (0805) 1k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O102/01/
 - Description: SMD (0805) 1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O102-01](http://oom.lt/RESE-0805-X-O102-01)
 - Short Link: [http://oom.lt/R8O102](http://oom.lt/R8O102)

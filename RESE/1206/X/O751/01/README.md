@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O751-01
 - Hex ID: R12O751
 - Name: SMD (1206) 750 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O751/01/
 - Description: SMD (1206) 750 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O751-01](http://oom.lt/RESE-1206-X-O751-01)
 - Short Link: [http://oom.lt/R12O751](http://oom.lt/R12O751)

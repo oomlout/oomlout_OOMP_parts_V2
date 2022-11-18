@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-0805-L-STAN-01
 - Hex ID: L8L
 - Name: SMD (0805) Blue LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0805/L/STAN/01/
 - Description: SMD (0805) Blue LED
 - Long Link: [http://oom.lt/LEDS-0805-L-STAN-01](http://oom.lt/LEDS-0805-L-STAN-01)
 - Short Link: [http://oom.lt/L8L](http://oom.lt/L8L)

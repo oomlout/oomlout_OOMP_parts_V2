@@ -16,6 +16,7 @@ NO IMAGE
 - ID: MOSN-SO363-X-KBSS138-01
 - Hex ID: MNKBS13823
 - Name: SMD (SOT-363) BSS138 N-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSN/SO363/X/KBSS138/01/
 - Description: SMD (SOT-363) BSS138 N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO363-X-KBSS138-01](http://oom.lt/MOSN-SO363-X-KBSS138-01)
 - Short Link: [http://oom.lt/MNKBS13823](http://oom.lt/MNKBS13823)

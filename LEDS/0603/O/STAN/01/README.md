@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-0603-O-STAN-01
 - Hex ID: L6O
 - Name: SMD (0603) Orange LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0603/O/STAN/01/
 - Description: SMD (0603) Orange LED
 - Long Link: [http://oom.lt/LEDS-0603-O-STAN-01](http://oom.lt/LEDS-0603-O-STAN-01)
 - Short Link: [http://oom.lt/L6O](http://oom.lt/L6O)

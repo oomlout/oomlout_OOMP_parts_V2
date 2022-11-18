@@ -16,6 +16,7 @@ NO IMAGE
 - ID: RESA-12068-X-O220X4-01
 - Hex ID: RA12220
 - Name: SMD (1206-8) 220 Ohm (x4) Resistor Array
+- Path: oomlout_OOMP_parts_V2/RESA/12068/X/O220X4/01/
 - Description: SMD (1206-8) 220 Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-12068-X-O220X4-01](http://oom.lt/RESA-12068-X-O220X4-01)
 - Short Link: [http://oom.lt/RA12220](http://oom.lt/RA12220)

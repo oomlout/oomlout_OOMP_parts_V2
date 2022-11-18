@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI01-RS
 - Hex ID: HSHPRS
 - Name: JST SH (1 mm) 1 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI01/RS/
 - Description: JST SH (1 mm) 1 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI01-RS](http://oom.lt/HEAD-JSTSH-X-PI01-RS)
 - Short Link: [http://oom.lt/HSHPRS](http://oom.lt/HSHPRS)

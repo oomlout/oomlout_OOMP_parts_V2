@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI03-RS
 - Hex ID: H3RS
 - Name: 2.54 mm 3 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI03/RS/
 - Description: 2.54 mm 3 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI03-RS](http://oom.lt/HEAD-I01-X-PI03-RS)
 - Short Link: [http://oom.lt/H3RS](http://oom.lt/H3RS)

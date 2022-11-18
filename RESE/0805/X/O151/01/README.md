@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O151-01
 - Hex ID: R8O151
 - Name: SMD (0805) 150 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O151/01/
 - Description: SMD (0805) 150 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O151-01](http://oom.lt/RESE-0805-X-O151-01)
 - Short Link: [http://oom.lt/R8O151](http://oom.lt/R8O151)

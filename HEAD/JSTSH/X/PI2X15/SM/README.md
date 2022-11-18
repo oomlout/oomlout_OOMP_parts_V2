@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X15-SM
 - Hex ID: HSH2X15S
 - Name: JST SH (1 mm) 30 Pin (2x15) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X15/SM/
 - Description: JST SH (1 mm) 30 Pin (2x15) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X15-SM](http://oom.lt/HEAD-JSTSH-X-PI2X15-SM)
 - Short Link: [http://oom.lt/HSH2X15S](http://oom.lt/HSH2X15S)

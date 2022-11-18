@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X03-01
 - Hex ID: H2X301
 - Name: 2.54 mm 6 Pin (2x3) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X03/01/
 - Description: 2.54 mm 6 Pin (2x3) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X03-01](http://oom.lt/HEAD-I01-X-PI2X03-01)
 - Short Link: [http://oom.lt/H2X301](http://oom.lt/H2X301)

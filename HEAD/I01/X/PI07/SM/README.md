@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI07-SM
 - Hex ID: H07S
 - Name: 2.54 mm 7 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI07/SM/
 - Description: 2.54 mm 7 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI07-SM](http://oom.lt/HEAD-I01-X-PI07-SM)
 - Short Link: [http://oom.lt/H07S](http://oom.lt/H07S)

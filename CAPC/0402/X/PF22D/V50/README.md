@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0402-X-PF22D-V50
 - Hex ID: C4P22D
 - Name: SMD (0402) 2.2 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0402/X/PF22D/V50/
 - Description: SMD (0402) 2.2 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-PF22D-V50](http://oom.lt/CAPC-0402-X-PF22D-V50)
 - Short Link: [http://oom.lt/C4P22D](http://oom.lt/C4P22D)

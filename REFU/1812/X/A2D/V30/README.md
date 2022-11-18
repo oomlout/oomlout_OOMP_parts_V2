@@ -16,6 +16,7 @@ NO IMAGE
 - ID: REFU-1812-X-A2D-V30
 - Hex ID: RF182D
 - Name: SMD (1812) 200 mA Resetable Fuse 30 v
+- Path: oomlout_OOMP_parts_V2/REFU/1812/X/A2D/V30/
 - Description: SMD (1812) 200 mA Resetable Fuse 30 v
 - Long Link: [http://oom.lt/REFU-1812-X-A2D-V30](http://oom.lt/REFU-1812-X-A2D-V30)
 - Short Link: [http://oom.lt/RF182D](http://oom.lt/RF182D)

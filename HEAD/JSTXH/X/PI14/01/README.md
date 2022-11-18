@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI14-01
 - Hex ID: HXH14
 - Name: JST XH (2.5 mm) 14 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI14/01/
 - Description: JST XH (2.5 mm) 14 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI14-01](http://oom.lt/HEAD-JSTXH-X-PI14-01)
 - Short Link: [http://oom.lt/HXH14](http://oom.lt/HXH14)

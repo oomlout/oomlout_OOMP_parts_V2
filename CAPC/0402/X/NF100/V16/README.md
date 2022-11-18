@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0402-X-NF100-V16
 - Hex ID: C4N10016
 - Name: SMD (0402) 100 nF Capacitor (Ceramic) 16v
+- Path: oomlout_OOMP_parts_V2/CAPC/0402/X/NF100/V16/
 - Description: SMD (0402) 100 nF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF100-V16](http://oom.lt/CAPC-0402-X-NF100-V16)
 - Short Link: [http://oom.lt/C4N10016](http://oom.lt/C4N10016)
@@ -133,7 +134,7 @@ Contents
 |[PROJ-SPAR-16401-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/)|[MicroMod Artemis Processor](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/)|[C1, C18, C20, C21](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16401/STAN/01/)|
 |[PROJ-SPAR-16474-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16474/STAN/01/)|[SparkFun Photodetector Breakout MAX30101 Qwiic](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16474/STAN/01/)|[C1, C3, C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16474/STAN/01/)|
 |[PROJ-SPAR-16475-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|[SparkFun GPS Dead Reckoning PHat ZED F9R](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|[C4, C7, C8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16475/STAN/01/)|
-|[PROJ-SPAR-16566-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|[https://github.com/sparkfunX/Qwiic Quad Relay](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|[C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|
+|[PROJ-SPAR-16566-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|[Qwiic Quad Relay](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|[C2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16566/STAN/01/)|
 |[PROJ-SPAR-16781-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|[MicroMod ESP32 Processor](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|[C6, C17, C20, C21, C23, C25](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16781/STAN/01/)|
 |[PROJ-SPAR-16791-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16791/STAN/01/)|[MicroMod Processor Board SAMD51](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16791/STAN/01/)|[C3, C5, C6, C7, C9, C10](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16791/STAN/01/)|
 |[PROJ-SPAR-16832-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16832/STAN/01/)|[OpenLog Artemis](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16832/STAN/01/)|[C5, C31, C41, C42, C43, C46, C51, C52](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/16832/STAN/01/)|

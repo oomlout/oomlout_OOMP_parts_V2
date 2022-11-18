@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI15-SM
 - Hex ID: H15S
 - Name: 2.54 mm 15 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI15/SM/
 - Description: 2.54 mm 15 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI15-SM](http://oom.lt/HEAD-I01-X-PI15-SM)
 - Short Link: [http://oom.lt/H15S](http://oom.lt/H15S)

@@ -19,6 +19,7 @@ NO IMAGE
 - ID: CAPC-0805-X-PF12-V50
 - Hex ID: C8P12
 - Name: SMD (0805) 12 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/PF12/V50/
 - Description: SMD (0805) 12 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-PF12-V50](http://oom.lt/CAPC-0805-X-PF12-V50)
 - Short Link: [http://oom.lt/C8P12](http://oom.lt/C8P12)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X05-RS
 - Hex ID: HSH2X5RS
 - Name: JST SH (1 mm) 10 Pin (2x5) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X05/RS/
 - Description: JST SH (1 mm) 10 Pin (2x5) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X05-RS](http://oom.lt/HEAD-JSTSH-X-PI2X05-RS)
 - Short Link: [http://oom.lt/HSH2X5RS](http://oom.lt/HSH2X5RS)

@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-03-Y-STAN-01
 - Hex ID: L3Y
 - Name: 3 mm Yellow LED
+- Path: oomlout_OOMP_parts_V2/LEDS/03/Y/STAN/01/
 - Description: 3 mm Yellow LED
 - Long Link: [http://oom.lt/LEDS-03-Y-STAN-01](http://oom.lt/LEDS-03-Y-STAN-01)
 - Short Link: [http://oom.lt/L3Y](http://oom.lt/L3Y)

@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O4022-01
 - Hex ID: R4O4022
 - Name: SMD (0402) 40.2k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O4022/01/
 - Description: SMD (0402) 40.2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O4022-01](http://oom.lt/RESE-0402-X-O4022-01)
 - Short Link: [http://oom.lt/R4O4022](http://oom.lt/R4O4022)

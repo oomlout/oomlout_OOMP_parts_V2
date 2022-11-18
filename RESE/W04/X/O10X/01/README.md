@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESE-W04-X-O10X-01
 - Hex ID: RW04-O10X
 - Name: 1/4 Watt 1 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O10X/01/
 - Description: 1/4 Watt 1 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O10X-01](http://oom.lt/RESE-W04-X-O10X-01)
 - Short Link: [http://oom.lt/RW04-O10X](http://oom.lt/RW04-O10X)

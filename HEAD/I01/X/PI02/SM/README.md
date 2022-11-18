@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI02-SM
 - Hex ID: H02S
 - Name: 2.54 mm 2 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/SM/
 - Description: 2.54 mm 2 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI02-SM](http://oom.lt/HEAD-I01-X-PI02-SM)
 - Short Link: [http://oom.lt/H02S](http://oom.lt/H02S)

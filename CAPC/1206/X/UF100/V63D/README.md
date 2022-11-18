@@ -21,6 +21,7 @@ NO IMAGE
 - ID: CAPC-1206-X-UF100-V63D
 - Hex ID: C12U10063D
 - Name: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
+- Path: oomlout_OOMP_parts_V2/CAPC/1206/X/UF100/V63D/
 - Description: SMD (1206) 100 uF Capacitor (Ceramic) 6.3v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF100-V63D](http://oom.lt/CAPC-1206-X-UF100-V63D)
 - Short Link: [http://oom.lt/C12U10063D](http://oom.lt/C12U10063D)

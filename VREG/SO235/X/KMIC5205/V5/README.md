@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-SO235-X-KMIC5205-V5
 - Hex ID: VR52252355
 - Name: SMD (SOT-23-5) MIC5205 Voltage Regulator 5v
+- Path: oomlout_OOMP_parts_V2/VREG/SO235/X/KMIC5205/V5/
 - Description: SMD (SOT-23-5) MIC5205 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO235-X-KMIC5205-V5](http://oom.lt/VREG-SO235-X-KMIC5205-V5)
 - Short Link: [http://oom.lt/VR52252355](http://oom.lt/VR52252355)

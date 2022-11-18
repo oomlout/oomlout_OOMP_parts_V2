@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI15-01
 - Hex ID: HXH15
 - Name: JST XH (2.5 mm) 15 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI15/01/
 - Description: JST XH (2.5 mm) 15 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI15-01](http://oom.lt/HEAD-JSTXH-X-PI15-01)
 - Short Link: [http://oom.lt/HXH15](http://oom.lt/HXH15)

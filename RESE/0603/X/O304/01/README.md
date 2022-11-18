@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O304-01
 - Hex ID: R6O304
 - Name: SMD (0603) 300k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O304/01/
 - Description: SMD (0603) 300k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O304-01](http://oom.lt/RESE-0603-X-O304-01)
 - Short Link: [http://oom.lt/R6O304](http://oom.lt/R6O304)

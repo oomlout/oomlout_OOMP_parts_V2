@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI05-SM
 - Hex ID: HPH5SM
 - Name: JST PH (2 mm) 5 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI05/SM/
 - Description: JST PH (2 mm) 5 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI05-SM](http://oom.lt/HEAD-JSTPH-X-PI05-SM)
 - Short Link: [http://oom.lt/HPH5SM](http://oom.lt/HPH5SM)

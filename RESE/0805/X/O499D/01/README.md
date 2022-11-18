@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O499D-01
 - Hex ID: R8O499D
 - Name: SMD (0805) 49.9 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O499D/01/
 - Description: SMD (0805) 49.9 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O499D-01](http://oom.lt/RESE-0805-X-O499D-01)
 - Short Link: [http://oom.lt/R8O499D](http://oom.lt/R8O499D)

@@ -17,6 +17,7 @@ Contents
 - ID: RESE-W04-X-O681-01
 - Hex ID: RW04-O681
 - Name: 1/4 Watt 680 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O681/01/
 - Description: 1/4 Watt 680 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O681-01](http://oom.lt/RESE-W04-X-O681-01)
 - Short Link: [http://oom.lt/RW04-O681](http://oom.lt/RW04-O681)

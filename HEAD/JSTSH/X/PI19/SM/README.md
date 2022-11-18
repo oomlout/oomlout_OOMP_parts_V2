@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI19-SM
 - Hex ID: HSH19
 - Name: JST SH (1 mm) 19 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI19/SM/
 - Description: JST SH (1 mm) 19 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI19-SM](http://oom.lt/HEAD-JSTSH-X-PI19-SM)
 - Short Link: [http://oom.lt/HSH19](http://oom.lt/HSH19)

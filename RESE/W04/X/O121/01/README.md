@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESE-W04-X-O121-01
 - Hex ID: RW04-O121
 - Name: 1/4 Watt 120 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O121/01/
 - Description: 1/4 Watt 120 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O121-01](http://oom.lt/RESE-W04-X-O121-01)
 - Short Link: [http://oom.lt/RW04-O121](http://oom.lt/RW04-O121)

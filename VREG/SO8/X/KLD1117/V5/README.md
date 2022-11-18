@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-SO8-X-KLD1117-V5
 - Hex ID: VR111785
 - Name: SO-8 LD1117 Voltage Regulator 5v
+- Path: oomlout_OOMP_parts_V2/VREG/SO8/X/KLD1117/V5/
 - Description: SO-8 LD1117 Voltage Regulator 5v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V5](http://oom.lt/VREG-SO8-X-KLD1117-V5)
 - Short Link: [http://oom.lt/VR111785](http://oom.lt/VR111785)

@@ -19,6 +19,7 @@ NO IMAGE
 - ID: LEDS-1206-G-STAN-01
 - Hex ID: L12G
 - Name: SMD (1206) Green LED
+- Path: oomlout_OOMP_parts_V2/LEDS/1206/G/STAN/01/
 - Description: SMD (1206) Green LED
 - Long Link: [http://oom.lt/LEDS-1206-G-STAN-01](http://oom.lt/LEDS-1206-G-STAN-01)
 - Short Link: [http://oom.lt/L12G](http://oom.lt/L12G)
@@ -67,7 +68,7 @@ NO IMAGE
 |[PROJ-SPAR-13720-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13720/STAN/01/)|[MP3 Trigger](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13720/STAN/01/)|[LED2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13720/STAN/01/)|
 |[PROJ-SPAR-13903-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13903/STAN/01/)|[LilyPad LED Rainbow](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13903/STAN/01/)|[LED1, LED5, LED7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13903/STAN/01/)|
 |[PROJ-SPAR-13968-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13968/STAN/01/)|[OpenPIR](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13968/STAN/01/)|[D1](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13968/STAN/01/)|
-|[PROJ-SPAR-13975-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[https://github.com/sparkfunX/Safe Cracker](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[LED2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|
+|[PROJ-SPAR-13975-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[Safe Cracker](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|[LED2](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/13975/STAN/01/)|
 |[PROJ-SPAR-14010-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14010/STAN/01/)|[LilyPad LED 5pcs](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14010/STAN/01/)|[D1, D2, D3, D4, D5](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14010/STAN/01/)|
 |[PROJ-SPAR-14063-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14063/STAN/01/)|[LilyPad LilyMini ProtoSnap](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14063/STAN/01/)|[D3, D4, D5, D6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14063/STAN/01/)|
 |[PROJ-SPAR-14346-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14346/STAN/01/)|[LilyPad ProtoSnap Plus](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14346/STAN/01/)|[D2, D7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14346/STAN/01/)|

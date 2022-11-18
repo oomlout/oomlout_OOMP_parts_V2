@@ -19,6 +19,7 @@ NO IMAGE
 - ID: VREG-SO223-X-KLD1117-V25D
 - Hex ID: VR111722325D
 - Name: SMD (SOT-223) LD1117 Voltage Regulator 2.5 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO223/X/KLD1117/V25D/
 - Description: SMD (SOT-223) LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO223-X-KLD1117-V25D](http://oom.lt/VREG-SO223-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR111722325D](http://oom.lt/VR111722325D)

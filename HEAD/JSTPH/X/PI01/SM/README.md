@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI01-SM
 - Hex ID: HPHPSM
 - Name: JST PH (2 mm) 1 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/SM/
 - Description: JST PH (2 mm) 1 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI01-SM](http://oom.lt/HEAD-JSTPH-X-PI01-SM)
 - Short Link: [http://oom.lt/HPHPSM](http://oom.lt/HPHPSM)

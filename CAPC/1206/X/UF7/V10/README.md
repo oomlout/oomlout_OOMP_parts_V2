@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-1206-X-UF7-V10
 - Hex ID: C12U710
 - Name: SMD (1206) 7 uF Capacitor (Ceramic) 10v
+- Path: oomlout_OOMP_parts_V2/CAPC/1206/X/UF7/V10/
 - Description: SMD (1206) 7 uF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF7-V10](http://oom.lt/CAPC-1206-X-UF7-V10)
 - Short Link: [http://oom.lt/C12U710](http://oom.lt/C12U710)

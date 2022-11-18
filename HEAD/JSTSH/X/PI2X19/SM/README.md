@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X19-SM
 - Hex ID: HSH2X19S
 - Name: JST SH (1 mm) 38 Pin (2x19) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X19/SM/
 - Description: JST SH (1 mm) 38 Pin (2x19) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X19-SM](http://oom.lt/HEAD-JSTSH-X-PI2X19-SM)
 - Short Link: [http://oom.lt/HSH2X19S](http://oom.lt/HSH2X19S)

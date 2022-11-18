@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI18-SM
 - Hex ID: H18S
 - Name: 2.54 mm 18 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI18/SM/
 - Description: 2.54 mm 18 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI18-SM](http://oom.lt/HEAD-I01-X-PI18-SM)
 - Short Link: [http://oom.lt/H18S](http://oom.lt/H18S)

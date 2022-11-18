@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O274-01
 - Hex ID: R6O274
 - Name: SMD (0603) 270k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O274/01/
 - Description: SMD (0603) 270k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O274-01](http://oom.lt/RESE-0603-X-O274-01)
 - Short Link: [http://oom.lt/R6O274](http://oom.lt/R6O274)

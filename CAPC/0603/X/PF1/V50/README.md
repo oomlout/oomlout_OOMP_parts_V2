@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0603-X-PF1-V50
 - Hex ID: C6P1
 - Name: SMD (0603) 1 pF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/PF1/V50/
 - Description: SMD (0603) 1 pF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-PF1-V50](http://oom.lt/CAPC-0603-X-PF1-V50)
 - Short Link: [http://oom.lt/C6P1](http://oom.lt/C6P1)

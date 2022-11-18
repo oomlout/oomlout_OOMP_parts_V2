@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI20-RA
 - Hex ID: HSH20R
 - Name: JST SH (1 mm) 20 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI20/RA/
 - Description: JST SH (1 mm) 20 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI20-RA](http://oom.lt/HEAD-JSTSH-X-PI20-RA)
 - Short Link: [http://oom.lt/HSH20R](http://oom.lt/HSH20R)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X15-SM
 - Hex ID: H2X15SM
 - Name: 2.54 mm 30 Pin (2x15) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X15/SM/
 - Description: 2.54 mm 30 Pin (2x15) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X15-SM](http://oom.lt/HEAD-I01-X-PI2X15-SM)
 - Short Link: [http://oom.lt/H2X15SM](http://oom.lt/H2X15SM)

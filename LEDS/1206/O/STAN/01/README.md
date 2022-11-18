@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-1206-O-STAN-01
 - Hex ID: L12O
 - Name: SMD (1206) Orange LED
+- Path: oomlout_OOMP_parts_V2/LEDS/1206/O/STAN/01/
 - Description: SMD (1206) Orange LED
 - Long Link: [http://oom.lt/LEDS-1206-O-STAN-01](http://oom.lt/LEDS-1206-O-STAN-01)
 - Short Link: [http://oom.lt/L12O](http://oom.lt/L12O)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: LEDS-2020-RGB-K102-01
 - Hex ID: L2020-RGBK102
 - Name: SMD (2020) Smart Controller (APA102) RGB LED
+- Path: oomlout_OOMP_parts_V2/LEDS/2020/RGB/K102/01/
 - Description: SMD (2020) Smart Controller (APA102) RGB LED
 - Long Link: [http://oom.lt/LEDS-2020-RGB-K102-01](http://oom.lt/LEDS-2020-RGB-K102-01)
 - Short Link: [http://oom.lt/L2020-RGBK102](http://oom.lt/L2020-RGBK102)

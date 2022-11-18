@@ -17,6 +17,7 @@ NO IMAGE
 - ID: SENS-LG163030S-X-KL3GD20-01
 - Hex ID: MN2524184A
 - Name: 16 Pin SMD (3x3 mm LGA (Unusual Pins)) L3GD20 3-Axis Gyroscope Sensor
+- Path: oomlout_OOMP_parts_V2/SENS/LG163030S/X/KL3GD20/01/
 - Description: 16 Pin SMD (3x3 mm LGA (Unusual Pins)) L3GD20 3-Axis Gyroscope Sensor
 - Long Link: [http://oom.lt/SENS-LG163030S-X-KL3GD20-01](http://oom.lt/SENS-LG163030S-X-KL3GD20-01)
 - Short Link: [http://oom.lt/MN2524184A](http://oom.lt/MN2524184A)
@@ -26,7 +27,7 @@ NO IMAGE
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/)|[SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/)|[Sensor_Motion : L3GD20](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/L3GD20/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Sensor_Motion-L3GD20||
 ||||
 
 ## Distributor Searches

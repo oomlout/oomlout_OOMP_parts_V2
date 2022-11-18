@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0603-X-O100-01
 - Hex ID: R6O100
 - Name: SMD (0603) 10 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O100/01/
 - Description: SMD (0603) 10 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O100-01](http://oom.lt/RESE-0603-X-O100-01)
 - Short Link: [http://oom.lt/R6O100](http://oom.lt/R6O100)

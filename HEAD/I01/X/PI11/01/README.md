@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI11-01
 - Hex ID: H11
 - Name: 2.54 mm 11 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI11/01/
 - Description: 2.54 mm 11 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI11-01](http://oom.lt/HEAD-I01-X-PI11-01)
 - Short Link: [http://oom.lt/H11](http://oom.lt/H11)

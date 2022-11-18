@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-03-W-STAN-01
 - Hex ID: L3W
 - Name: 3 mm White LED
+- Path: oomlout_OOMP_parts_V2/LEDS/03/W/STAN/01/
 - Description: 3 mm White LED
 - Long Link: [http://oom.lt/LEDS-03-W-STAN-01](http://oom.lt/LEDS-03-W-STAN-01)
 - Short Link: [http://oom.lt/L3W](http://oom.lt/L3W)

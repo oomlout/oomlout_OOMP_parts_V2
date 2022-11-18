@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0603-X-UF2-V16
 - Hex ID: C6U216
 - Name: SMD (0603) 2 uF Capacitor (Ceramic) 16v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/UF2/V16/
 - Description: SMD (0603) 2 uF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF2-V16](http://oom.lt/CAPC-0603-X-UF2-V16)
 - Short Link: [http://oom.lt/C6U216](http://oom.lt/C6U216)

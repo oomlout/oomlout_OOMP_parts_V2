@@ -18,6 +18,7 @@ Contents
 - ID: LEDS-0402-L-STAN-01
 - Hex ID: L4L
 - Name: SMD (0402) Blue LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0402/L/STAN/01/
 - Description: SMD (0402) Blue LED
 - Long Link: [http://oom.lt/LEDS-0402-L-STAN-01](http://oom.lt/LEDS-0402-L-STAN-01)
 - Short Link: [http://oom.lt/L4L](http://oom.lt/L4L)

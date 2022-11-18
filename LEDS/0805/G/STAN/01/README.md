@@ -19,6 +19,7 @@ Contents
 - ID: LEDS-0805-G-STAN-01
 - Hex ID: L8G
 - Name: SMD (0805) Green LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0805/G/STAN/01/
 - Description: SMD (0805) Green LED
 - Long Link: [http://oom.lt/LEDS-0805-G-STAN-01](http://oom.lt/LEDS-0805-G-STAN-01)
 - Short Link: [http://oom.lt/L8G](http://oom.lt/L8G)

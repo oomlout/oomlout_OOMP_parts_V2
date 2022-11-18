@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI03-RA
 - Hex ID: HPH3RA
 - Name: JST PH (2 mm) 3 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI03/RA/
 - Description: JST PH (2 mm) 3 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI03-RA](http://oom.lt/HEAD-JSTPH-X-PI03-RA)
 - Short Link: [http://oom.lt/HPH3RA](http://oom.lt/HPH3RA)

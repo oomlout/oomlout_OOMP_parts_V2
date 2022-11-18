@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O431-01
 - Hex ID: R12O431
 - Name: SMD (1206) 430 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O431/01/
 - Description: SMD (1206) 430 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O431-01](http://oom.lt/RESE-1206-X-O431-01)
 - Short Link: [http://oom.lt/R12O431](http://oom.lt/R12O431)

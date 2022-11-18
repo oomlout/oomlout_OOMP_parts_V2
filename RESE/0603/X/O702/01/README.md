@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O702-01
 - Hex ID: R6O702
 - Name: SMD (0603) 7k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O702/01/
 - Description: SMD (0603) 7k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O702-01](http://oom.lt/RESE-0603-X-O702-01)
 - Short Link: [http://oom.lt/R6O702](http://oom.lt/R6O702)

@@ -19,6 +19,7 @@ Contents
 - ID: LEDS-0603-Y-STAN-01
 - Hex ID: L6Y
 - Name: SMD (0603) Yellow LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0603/Y/STAN/01/
 - Description: SMD (0603) Yellow LED
 - Long Link: [http://oom.lt/LEDS-0603-Y-STAN-01](http://oom.lt/LEDS-0603-Y-STAN-01)
 - Short Link: [http://oom.lt/L6Y](http://oom.lt/L6Y)

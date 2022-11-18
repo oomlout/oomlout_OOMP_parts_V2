@@ -17,6 +17,7 @@ Contents
 - ID: RESE-W04-X-O105-01
 - Hex ID: RW04-O1501
 - Name: 1/4 Watt 1M Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O105/01/
 - Description: 1/4 Watt 1M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O105-01](http://oom.lt/RESE-W04-X-O105-01)
 - Short Link: [http://oom.lt/RW04-O1501](http://oom.lt/RW04-O1501)

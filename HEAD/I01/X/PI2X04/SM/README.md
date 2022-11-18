@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X04-SM
 - Hex ID: H2X4SM
 - Name: 2.54 mm 8 Pin (2x4) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X04/SM/
 - Description: 2.54 mm 8 Pin (2x4) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X04-SM](http://oom.lt/HEAD-I01-X-PI2X04-SM)
 - Short Link: [http://oom.lt/H2X4SM](http://oom.lt/H2X4SM)

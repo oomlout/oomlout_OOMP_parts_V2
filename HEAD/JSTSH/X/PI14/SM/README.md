@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI14-SM
 - Hex ID: HSH14
 - Name: JST SH (1 mm) 14 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI14/SM/
 - Description: JST SH (1 mm) 14 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI14-SM](http://oom.lt/HEAD-JSTSH-X-PI14-SM)
 - Short Link: [http://oom.lt/HSH14](http://oom.lt/HSH14)

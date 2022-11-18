@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X17-RS
 - Hex ID: H2X17RS
 - Name: 2.54 mm 34 Pin (2x17) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X17/RS/
 - Description: 2.54 mm 34 Pin (2x17) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X17-RS](http://oom.lt/HEAD-I01-X-PI2X17-RS)
 - Short Link: [http://oom.lt/H2X17RS](http://oom.lt/H2X17RS)

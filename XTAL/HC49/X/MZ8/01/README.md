@@ -18,6 +18,7 @@ NO IMAGE
 - ID: XTAL-HC49-X-MZ8-01
 - Hex ID: XTALHC49-MZ8
 - Name: HC49 8 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/HC49/X/MZ8/01/
 - Description: HC49 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-HC49-X-MZ8-01](http://oom.lt/XTAL-HC49-X-MZ8-01)
 - Short Link: [http://oom.lt/XTALHC49-MZ8](http://oom.lt/XTALHC49-MZ8)

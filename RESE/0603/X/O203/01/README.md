@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0603-X-O203-01
 - Hex ID: R6O2301
 - Name: SMD (0603) 20k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O203/01/
 - Description: SMD (0603) 20k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O203-01](http://oom.lt/RESE-0603-X-O203-01)
 - Short Link: [http://oom.lt/R6O2301](http://oom.lt/R6O2301)

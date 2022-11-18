@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-03-L-STAN-01
 - Hex ID: L3L
 - Name: 3 mm Blue LED
+- Path: oomlout_OOMP_parts_V2/LEDS/03/L/STAN/01/
 - Description: 3 mm Blue LED
 - Long Link: [http://oom.lt/LEDS-03-L-STAN-01](http://oom.lt/LEDS-03-L-STAN-01)
 - Short Link: [http://oom.lt/L3L](http://oom.lt/L3L)

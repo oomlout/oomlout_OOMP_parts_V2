@@ -19,6 +19,7 @@ Contents
 - ID: LEDS-05-R-STAN-01
 - Hex ID: L5R
 - Name: 5 mm Red LED
+- Path: oomlout_OOMP_parts_V2/LEDS/05/R/STAN/01/
 - Description: 5 mm Red LED
 - Long Link: [http://oom.lt/LEDS-05-R-STAN-01](http://oom.lt/LEDS-05-R-STAN-01)
 - Short Link: [http://oom.lt/L5R](http://oom.lt/L5R)

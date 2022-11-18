@@ -20,6 +20,7 @@ NO IMAGE
 - ID: XTAL-3225P4-X-MZ25-01
 - Hex ID: XTAL3225P4-MZ25
 - Name: SMD (3225) (4 Pin) 25 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ25/01/
 - Description: SMD (3225) (4 Pin) 25 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-3225P4-X-MZ25-01](http://oom.lt/XTAL-3225P4-X-MZ25-01)
 - Short Link: [http://oom.lt/XTAL3225P4-MZ25](http://oom.lt/XTAL3225P4-MZ25)

@@ -18,6 +18,7 @@ Contents
 - ID: HEAD-I01-X-PI02-01
 - Hex ID: H02
 - Name: 2.54 mm 2 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI02/01/
 - Description: 2.54 mm 2 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI02-01](http://oom.lt/HEAD-I01-X-PI02-01)
 - Short Link: [http://oom.lt/H02](http://oom.lt/H02)
@@ -196,7 +197,7 @@ Contents
 |[PROJ-SPAR-14589-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14589/STAN/01/)|[SparkFun Differential I2C Breakout PCA9615 Qwiic](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14589/STAN/01/)|[J4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14589/STAN/01/)|
 |[PROJ-SPAR-14631-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14631/STAN/01/)|[LilyPad USB Plus Standalone](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14631/STAN/01/)|[J16](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14631/STAN/01/)|
 |[PROJ-SPAR-14666-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14666/STAN/01/)|[Qwiic Flex Glove Controller](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14666/STAN/01/)|[J3, J4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14666/STAN/01/)|
-|[PROJ-SPAR-14686-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[https://github.com/sparkfunX/Qwiic IMU BNO080](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[J7, J8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|
+|[PROJ-SPAR-14686-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[Qwiic IMU BNO080](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|[J7, J8](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14686/STAN/01/)|
 |[PROJ-SPAR-14713-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14713/STAN/01/)|[SAMD51 Thing Plus](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14713/STAN/01/)|[J4](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14713/STAN/01/)|
 |[PROJ-SPAR-14765-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14765/STAN/01/)|[Single Supply Logic Level Converter](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14765/STAN/01/)|[JP7](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14765/STAN/01/)|
 |[PROJ-SPAR-14779-STAN-01](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14779/STAN/01/)|[LumiDrive](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14779/STAN/01/)|[J1, J3, J4, J6](https://github.com/oomlout/oomlout_OOMP_projects_V2/tree/main/PROJ/SPAR/14779/STAN/01/)|

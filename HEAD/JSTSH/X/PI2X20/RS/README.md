@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X20-RS
 - Hex ID: HSH2X20RS
 - Name: JST SH (1 mm) 40 Pin (2x20) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X20/RS/
 - Description: JST SH (1 mm) 40 Pin (2x20) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X20-RS](http://oom.lt/HEAD-JSTSH-X-PI2X20-RS)
 - Short Link: [http://oom.lt/HSH2X20RS](http://oom.lt/HSH2X20RS)

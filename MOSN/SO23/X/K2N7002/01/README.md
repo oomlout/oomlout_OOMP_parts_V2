@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MOSN-SO23-X-K2N7002-01
 - Hex ID: MOSN-SO23-K2N7002
 - Name: SMD (SOT-23) 2N7002 N-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSN/SO23/X/K2N7002/01/
 - Description: SMD (SOT-23) 2N7002 N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-SO23-X-K2N7002-01](http://oom.lt/MOSN-SO23-X-K2N7002-01)
 - Short Link: [http://oom.lt/MOSN-SO23-K2N7002](http://oom.lt/MOSN-SO23-K2N7002)

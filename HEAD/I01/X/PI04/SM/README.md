@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI04-SM
 - Hex ID: H04S
 - Name: 2.54 mm 4 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI04/SM/
 - Description: 2.54 mm 4 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI04-SM](http://oom.lt/HEAD-I01-X-PI04-SM)
 - Short Link: [http://oom.lt/H04S](http://oom.lt/H04S)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-0402-G-STAN-01
 - Hex ID: L4G
 - Name: SMD (0402) Green LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0402/G/STAN/01/
 - Description: SMD (0402) Green LED
 - Long Link: [http://oom.lt/LEDS-0402-G-STAN-01](http://oom.lt/LEDS-0402-G-STAN-01)
 - Short Link: [http://oom.lt/L4G](http://oom.lt/L4G)

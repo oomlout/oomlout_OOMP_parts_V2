@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI08-SM
 - Hex ID: HPH08S
 - Name: JST PH (2 mm) 8 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI08/SM/
 - Description: JST PH (2 mm) 8 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI08-SM](http://oom.lt/HEAD-JSTPH-X-PI08-SM)
 - Short Link: [http://oom.lt/HPH08S](http://oom.lt/HPH08S)

@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0402-X-NF10-V50
 - Hex ID: C4N10
 - Name: SMD (0402) 10 nF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0402/X/NF10/V50/
 - Description: SMD (0402) 10 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF10-V50](http://oom.lt/CAPC-0402-X-NF10-V50)
 - Short Link: [http://oom.lt/C4N10](http://oom.lt/C4N10)

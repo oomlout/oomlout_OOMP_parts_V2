@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X06-SHRR
 - Hex ID: HSH2X06SHRR
 - Name: JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC) Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X06/SHRR/
 - Description: JST SH (1 mm) 12 Pin (2x6) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X06-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X06-SHRR)
 - Short Link: [http://oom.lt/HSH2X06SHRR](http://oom.lt/HSH2X06SHRR)

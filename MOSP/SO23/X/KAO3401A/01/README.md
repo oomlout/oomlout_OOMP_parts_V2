@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MOSP-SO23-X-KAO3401A-01
 - Hex ID: MOSPSO23-KAO3401A
 - Name: SMD (SOT-23) AO3401A P-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSP/SO23/X/KAO3401A/01/
 - Description: SMD (SOT-23) AO3401A P-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSP-SO23-X-KAO3401A-01](http://oom.lt/MOSP-SO23-X-KAO3401A-01)
 - Short Link: [http://oom.lt/MOSPSO23-KAO3401A](http://oom.lt/MOSPSO23-KAO3401A)

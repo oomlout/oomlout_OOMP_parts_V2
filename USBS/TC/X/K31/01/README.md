@@ -17,6 +17,7 @@ NO IMAGE
 - ID: USBS-TC-X-K31-01
 - Hex ID: USCK31
 - Name: Type C TYPE-C-31-M-12 USB Socket
+- Path: oomlout_OOMP_parts_V2/USBS/TC/X/K31/01/
 - Description: Type C TYPE-C-31-M-12 USB Socket
 - Long Link: [http://oom.lt/USBS-TC-X-K31-01](http://oom.lt/USBS-TC-X-K31-01)
 - Short Link: [http://oom.lt/USCK31](http://oom.lt/USCK31)

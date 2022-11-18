@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI13-RA
 - Hex ID: HPH13R
 - Name: JST PH (2 mm) 13 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI13/RA/
 - Description: JST PH (2 mm) 13 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI13-RA](http://oom.lt/HEAD-JSTPH-X-PI13-RA)
 - Short Link: [http://oom.lt/HPH13R](http://oom.lt/HPH13R)

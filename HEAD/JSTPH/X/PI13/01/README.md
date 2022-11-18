@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI13-01
 - Hex ID: HPH13
 - Name: JST PH (2 mm) 13 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI13/01/
 - Description: JST PH (2 mm) 13 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI13-01](http://oom.lt/HEAD-JSTPH-X-PI13-01)
 - Short Link: [http://oom.lt/HPH13](http://oom.lt/HPH13)

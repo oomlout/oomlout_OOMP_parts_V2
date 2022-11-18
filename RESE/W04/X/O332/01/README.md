@@ -17,6 +17,7 @@ Contents
 - ID: RESE-W04-X-O332-01
 - Hex ID: RW04-O332
 - Name: 1/4 Watt 3.3k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O332/01/
 - Description: 1/4 Watt 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O332-01](http://oom.lt/RESE-W04-X-O332-01)
 - Short Link: [http://oom.lt/RW04-O332](http://oom.lt/RW04-O332)

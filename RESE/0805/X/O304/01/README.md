@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O304-01
 - Hex ID: R8O304
 - Name: SMD (0805) 300k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O304/01/
 - Description: SMD (0805) 300k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O304-01](http://oom.lt/RESE-0805-X-O304-01)
 - Short Link: [http://oom.lt/R8O304](http://oom.lt/R8O304)

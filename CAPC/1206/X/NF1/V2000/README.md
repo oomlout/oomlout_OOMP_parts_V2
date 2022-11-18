@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-1206-X-NF1-V2000
 - Hex ID: C12N12000
 - Name: SMD (1206) 1 nF Capacitor (Ceramic) 2kV
+- Path: oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V2000/
 - Description: SMD (1206) 1 nF Capacitor (Ceramic) 2kV
 - Long Link: [http://oom.lt/CAPC-1206-X-NF1-V2000](http://oom.lt/CAPC-1206-X-NF1-V2000)
 - Short Link: [http://oom.lt/C12N12000](http://oom.lt/C12N12000)

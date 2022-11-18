@@ -19,6 +19,7 @@ Contents
 - ID: XTAL-3215-X-KZ327D-01
 - Hex ID: XTAL3215-KZ327D
 - Name: SMD (3215) 32.768 kHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/3215/X/KZ327D/01/
 - Description: SMD (3215) 32.768 kHz Crystal
 - Long Link: [http://oom.lt/XTAL-3215-X-KZ327D-01](http://oom.lt/XTAL-3215-X-KZ327D-01)
 - Short Link: [http://oom.lt/XTAL3215-KZ327D](http://oom.lt/XTAL3215-KZ327D)

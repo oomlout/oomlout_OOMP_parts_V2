@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X13-SM
 - Hex ID: H2X13SM
 - Name: 2.54 mm 26 Pin (2x13) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X13/SM/
 - Description: 2.54 mm 26 Pin (2x13) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X13-SM](http://oom.lt/HEAD-I01-X-PI2X13-SM)
 - Short Link: [http://oom.lt/H2X13SM](http://oom.lt/H2X13SM)

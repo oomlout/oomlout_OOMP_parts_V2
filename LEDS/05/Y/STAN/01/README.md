@@ -19,6 +19,7 @@ Contents
 - ID: LEDS-05-Y-STAN-01
 - Hex ID: L5Y
 - Name: 5 mm Yellow LED
+- Path: oomlout_OOMP_parts_V2/LEDS/05/Y/STAN/01/
 - Description: 5 mm Yellow LED
 - Long Link: [http://oom.lt/LEDS-05-Y-STAN-01](http://oom.lt/LEDS-05-Y-STAN-01)
 - Short Link: [http://oom.lt/L5Y](http://oom.lt/L5Y)

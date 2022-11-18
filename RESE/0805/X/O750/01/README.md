@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O750-01
 - Hex ID: R8O750
 - Name: SMD (0805) 75 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O750/01/
 - Description: SMD (0805) 75 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O750-01](http://oom.lt/RESE-0805-X-O750-01)
 - Short Link: [http://oom.lt/R8O750](http://oom.lt/R8O750)

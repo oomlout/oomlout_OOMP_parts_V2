@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNP-T92-X-K2N3906-01
 - Hex ID: TRNPT92-K2N3906
 - Name: TO-92 2N3906 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/T92/X/K2N3906/01/
 - Description: TO-92 2N3906 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-K2N3906-01](http://oom.lt/TRNP-T92-X-K2N3906-01)
 - Short Link: [http://oom.lt/TRNPT92-K2N3906](http://oom.lt/TRNPT92-K2N3906)

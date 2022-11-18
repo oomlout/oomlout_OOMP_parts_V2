@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X13-SM
 - Hex ID: HSH2X13S
 - Name: JST SH (1 mm) 26 Pin (2x13) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X13/SM/
 - Description: JST SH (1 mm) 26 Pin (2x13) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X13-SM](http://oom.lt/HEAD-JSTSH-X-PI2X13-SM)
 - Short Link: [http://oom.lt/HSH2X13S](http://oom.lt/HSH2X13S)

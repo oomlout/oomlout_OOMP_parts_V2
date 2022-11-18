@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0402-X-O512-01
 - Hex ID: R4O512
 - Name: SMD (0402) 5.1k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O512/01/
 - Description: SMD (0402) 5.1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O512-01](http://oom.lt/RESE-0402-X-O512-01)
 - Short Link: [http://oom.lt/R4O512](http://oom.lt/R4O512)

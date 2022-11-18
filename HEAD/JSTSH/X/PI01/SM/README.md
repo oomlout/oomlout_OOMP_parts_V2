@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI01-SM
 - Hex ID: HSH1
 - Name: JST SH (1 mm) 1 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI01/SM/
 - Description: JST SH (1 mm) 1 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI01-SM](http://oom.lt/HEAD-JSTSH-X-PI01-SM)
 - Short Link: [http://oom.lt/HSH1](http://oom.lt/HSH1)

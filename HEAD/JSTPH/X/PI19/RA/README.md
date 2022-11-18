@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI19-RA
 - Hex ID: HPH19R
 - Name: JST PH (2 mm) 19 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI19/RA/
 - Description: JST PH (2 mm) 19 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI19-RA](http://oom.lt/HEAD-JSTPH-X-PI19-RA)
 - Short Link: [http://oom.lt/HPH19R](http://oom.lt/HPH19R)

@@ -18,6 +18,7 @@ Contents
 - ID: XTAL-5032-X-MZ12-01
 - Hex ID: XTAL5032-MZ12
 - Name: SMD (5032) 12 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/5032/X/MZ12/01/
 - Description: SMD (5032) 12 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-5032-X-MZ12-01](http://oom.lt/XTAL-5032-X-MZ12-01)
 - Short Link: [http://oom.lt/XTAL5032-MZ12](http://oom.lt/XTAL5032-MZ12)

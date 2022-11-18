@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-SO8-X-KAP2112K-V26D
 - Hex ID: VR2112826
 - Name: SO-8 AP2112K Voltage Regulator 2.6 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO8/X/KAP2112K/V26D/
 - Description: SO-8 AP2112K Voltage Regulator 2.6 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V26D](http://oom.lt/VREG-SO8-X-KAP2112K-V26D)
 - Short Link: [http://oom.lt/VR2112826](http://oom.lt/VR2112826)

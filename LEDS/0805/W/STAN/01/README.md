@@ -20,6 +20,7 @@ NO IMAGE
 - ID: LEDS-0805-W-STAN-01
 - Hex ID: L8W
 - Name: SMD (0805) White LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0805/W/STAN/01/
 - Description: SMD (0805) White LED
 - Long Link: [http://oom.lt/LEDS-0805-W-STAN-01](http://oom.lt/LEDS-0805-W-STAN-01)
 - Short Link: [http://oom.lt/L8W](http://oom.lt/L8W)

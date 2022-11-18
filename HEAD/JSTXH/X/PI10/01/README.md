@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI10-01
 - Hex ID: HXH10
 - Name: JST XH (2.5 mm) 10 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI10/01/
 - Description: JST XH (2.5 mm) 10 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI10-01](http://oom.lt/HEAD-JSTXH-X-PI10-01)
 - Short Link: [http://oom.lt/HXH10](http://oom.lt/HXH10)

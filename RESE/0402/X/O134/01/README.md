@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0402-X-O134-01
 - Hex ID: R4O134
 - Name: SMD (0402) 130k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O134/01/
 - Description: SMD (0402) 130k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O134-01](http://oom.lt/RESE-0402-X-O134-01)
 - Short Link: [http://oom.lt/R4O134](http://oom.lt/R4O134)

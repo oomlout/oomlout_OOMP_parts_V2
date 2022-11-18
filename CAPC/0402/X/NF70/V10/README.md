@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0402-X-NF70-V10
 - Hex ID: C4N7010
 - Name: SMD (0402) 70 nF Capacitor (Ceramic) 10v
+- Path: oomlout_OOMP_parts_V2/CAPC/0402/X/NF70/V10/
 - Description: SMD (0402) 70 nF Capacitor (Ceramic) 10v
 - Long Link: [http://oom.lt/CAPC-0402-X-NF70-V10](http://oom.lt/CAPC-0402-X-NF70-V10)
 - Short Link: [http://oom.lt/C4N7010](http://oom.lt/C4N7010)

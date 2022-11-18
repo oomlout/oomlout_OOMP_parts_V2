@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-SO8-X-KAP2112K-V18D
 - Hex ID: VR2112818
 - Name: SO-8 AP2112K Voltage Regulator 1.8 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO8/X/KAP2112K/V18D/
 - Description: SO-8 AP2112K Voltage Regulator 1.8 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KAP2112K-V18D](http://oom.lt/VREG-SO8-X-KAP2112K-V18D)
 - Short Link: [http://oom.lt/VR2112818](http://oom.lt/VR2112818)

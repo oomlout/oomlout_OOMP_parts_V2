@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-SO8-X-KLD1117-V25D
 - Hex ID: VR1117825D
 - Name: SO-8 LD1117 Voltage Regulator 2.5 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO8/X/KLD1117/V25D/
 - Description: SO-8 LD1117 Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V25D](http://oom.lt/VREG-SO8-X-KLD1117-V25D)
 - Short Link: [http://oom.lt/VR1117825D](http://oom.lt/VR1117825D)

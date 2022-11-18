@@ -18,6 +18,7 @@ NO IMAGE
 - ID: LEDS-03-O-STAN-01
 - Hex ID: L3O
 - Name: 3 mm Orange LED
+- Path: oomlout_OOMP_parts_V2/LEDS/03/O/STAN/01/
 - Description: 3 mm Orange LED
 - Long Link: [http://oom.lt/LEDS-03-O-STAN-01](http://oom.lt/LEDS-03-O-STAN-01)
 - Short Link: [http://oom.lt/L3O](http://oom.lt/L3O)

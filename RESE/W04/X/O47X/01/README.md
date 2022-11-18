@@ -17,6 +17,7 @@ Contents
 - ID: RESE-W04-X-O47X-01
 - Hex ID: RW04-O47X
 - Name: 1/4 Watt 4.7 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O47X/01/
 - Description: 1/4 Watt 4.7 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O47X-01](http://oom.lt/RESE-W04-X-O47X-01)
 - Short Link: [http://oom.lt/RW04-O47X](http://oom.lt/RW04-O47X)

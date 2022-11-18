@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0805-X-O332-01
 - Hex ID: R8O332
 - Name: SMD (0805) 3.3k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O332/01/
 - Description: SMD (0805) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O332-01](http://oom.lt/RESE-0805-X-O332-01)
 - Short Link: [http://oom.lt/R8O332](http://oom.lt/R8O332)

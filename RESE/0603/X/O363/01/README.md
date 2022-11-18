@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O363-01
 - Hex ID: R6O363
 - Name: SMD (0603) 36k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O363/01/
 - Description: SMD (0603) 36k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O363-01](http://oom.lt/RESE-0603-X-O363-01)
 - Short Link: [http://oom.lt/R6O363](http://oom.lt/R6O363)

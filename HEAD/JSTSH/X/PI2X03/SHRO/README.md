@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X03-SHRO
 - Hex ID: HSH2X3SHRO
 - Name: JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X03/SHRO/
 - Description: JST SH (1 mm) 6 Pin (2x3) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X03-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X03-SHRO)
 - Short Link: [http://oom.lt/HSH2X3SHRO](http://oom.lt/HSH2X3SHRO)

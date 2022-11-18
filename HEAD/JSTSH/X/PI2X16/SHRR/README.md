@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X16-SHRR
 - Hex ID: HSH2X16SHRR
 - Name: JST SH (1 mm) 32 Pin (2x16) Header Shrouded (IDC) Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X16/SHRR/
 - Description: JST SH (1 mm) 32 Pin (2x16) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X16-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X16-SHRR)
 - Short Link: [http://oom.lt/HSH2X16SHRR](http://oom.lt/HSH2X16SHRR)

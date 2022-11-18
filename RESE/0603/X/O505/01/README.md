@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O505-01
 - Hex ID: R6O5501
 - Name: SMD (0603) 5M Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O505/01/
 - Description: SMD (0603) 5M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O505-01](http://oom.lt/RESE-0603-X-O505-01)
 - Short Link: [http://oom.lt/R6O5501](http://oom.lt/R6O5501)

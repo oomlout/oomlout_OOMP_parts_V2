@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O912-01
 - Hex ID: R4O912
 - Name: SMD (0402) 9.1k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O912/01/
 - Description: SMD (0402) 9.1k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O912-01](http://oom.lt/RESE-0402-X-O912-01)
 - Short Link: [http://oom.lt/R4O912](http://oom.lt/R4O912)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI09-RA
 - Hex ID: HSH09R
 - Name: JST SH (1 mm) 9 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI09/RA/
 - Description: JST SH (1 mm) 9 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI09-RA](http://oom.lt/HEAD-JSTSH-X-PI09-RA)
 - Short Link: [http://oom.lt/HSH09R](http://oom.lt/HSH09R)

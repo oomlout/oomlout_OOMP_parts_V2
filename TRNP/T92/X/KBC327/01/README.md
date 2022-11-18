@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNP-T92-X-KBC327-01
 - Hex ID: TRNPT92-KBC327
 - Name: TO-92 BC327 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/T92/X/KBC327/01/
 - Description: TO-92 BC327 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KBC327-01](http://oom.lt/TRNP-T92-X-KBC327-01)
 - Short Link: [http://oom.lt/TRNPT92-KBC327](http://oom.lt/TRNPT92-KBC327)

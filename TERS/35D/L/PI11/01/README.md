@@ -18,6 +18,7 @@ NO IMAGE
 - ID: TERS-35D-L-PI11-01
 - Hex ID: T35L11
 - Name: 3.5 mm 11 Pin Blue Screw Terminal
+- Path: oomlout_OOMP_parts_V2/TERS/35D/L/PI11/01/
 - Description: 3.5 mm 11 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI11-01](http://oom.lt/TERS-35D-L-PI11-01)
 - Short Link: [http://oom.lt/T35L11](http://oom.lt/T35L11)

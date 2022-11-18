@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI06-SM
 - Hex ID: HSH6
 - Name: JST SH (1 mm) 6 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI06/SM/
 - Description: JST SH (1 mm) 6 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI06-SM](http://oom.lt/HEAD-JSTSH-X-PI06-SM)
 - Short Link: [http://oom.lt/HSH6](http://oom.lt/HSH6)

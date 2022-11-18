@@ -18,6 +18,7 @@ NO IMAGE
 - ID: TRNN-SO23-X-KMMBT2222A-01
 - Hex ID: TRNN-SO23-KMMBT2222A
 - Name: SMD (SOT-23) MMBT2222A NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/SO23/X/KMMBT2222A/01/
 - Description: SMD (SOT-23) MMBT2222A NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KMMBT2222A-01](http://oom.lt/TRNN-SO23-X-KMMBT2222A-01)
 - Short Link: [http://oom.lt/TRNN-SO23-KMMBT2222A](http://oom.lt/TRNN-SO23-KMMBT2222A)

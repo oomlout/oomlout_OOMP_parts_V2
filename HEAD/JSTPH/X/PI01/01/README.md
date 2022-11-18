@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI01-01
 - Hex ID: HPHP01
 - Name: JST PH (2 mm) 1 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/01/
 - Description: JST PH (2 mm) 1 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI01-01](http://oom.lt/HEAD-JSTPH-X-PI01-01)
 - Short Link: [http://oom.lt/HPHP01](http://oom.lt/HPHP01)

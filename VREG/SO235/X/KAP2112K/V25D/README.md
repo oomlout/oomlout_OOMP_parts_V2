@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-SO235-X-KAP2112K-V25D
 - Hex ID: VR211223525
 - Name: SMD (SOT-23-5) AP2112K Voltage Regulator 2.5 v
+- Path: oomlout_OOMP_parts_V2/VREG/SO235/X/KAP2112K/V25D/
 - Description: SMD (SOT-23-5) AP2112K Voltage Regulator 2.5 v
 - Long Link: [http://oom.lt/VREG-SO235-X-KAP2112K-V25D](http://oom.lt/VREG-SO235-X-KAP2112K-V25D)
 - Short Link: [http://oom.lt/VR211223525](http://oom.lt/VR211223525)

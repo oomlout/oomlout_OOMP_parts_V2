@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-T220-X-KLD1117-V33D
 - Hex ID: VR111722033D
 - Name: TO-220 LD1117 Voltage Regulator 3.3v
+- Path: oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V33D/
 - Description: TO-220 LD1117 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V33D](http://oom.lt/VREG-T220-X-KLD1117-V33D)
 - Short Link: [http://oom.lt/VR111722033D](http://oom.lt/VR111722033D)

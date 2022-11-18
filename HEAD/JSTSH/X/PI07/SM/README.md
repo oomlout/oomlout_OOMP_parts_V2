@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI07-SM
 - Hex ID: HSH7
 - Name: JST SH (1 mm) 7 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI07/SM/
 - Description: JST SH (1 mm) 7 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI07-SM](http://oom.lt/HEAD-JSTSH-X-PI07-SM)
 - Short Link: [http://oom.lt/HSH7](http://oom.lt/HSH7)

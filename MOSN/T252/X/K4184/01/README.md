@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MOSN-T252-X-K4184-01
 - Hex ID: MN2524184A
 - Name: TO-252 (SMD) MNAOD4184A N-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSN/T252/X/K4184/01/
 - Description: TO-252 (SMD) MNAOD4184A N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-T252-X-K4184-01](http://oom.lt/MOSN-T252-X-K4184-01)
 - Short Link: [http://oom.lt/MN2524184A](http://oom.lt/MN2524184A)

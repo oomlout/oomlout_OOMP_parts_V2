@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X19-SHRR
 - Hex ID: HSH2X19SHRR
 - Name: JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC) Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X19/SHRR/
 - Description: JST SH (1 mm) 38 Pin (2x19) Header Shrouded (IDC) Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X19-SHRR](http://oom.lt/HEAD-JSTSH-X-PI2X19-SHRR)
 - Short Link: [http://oom.lt/HSH2X19SHRR](http://oom.lt/HSH2X19SHRR)

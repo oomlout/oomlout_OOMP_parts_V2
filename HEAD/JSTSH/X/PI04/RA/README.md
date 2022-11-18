@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI04-RA
 - Hex ID: HSH04R
 - Name: JST SH (1 mm) 4 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/RA/
 - Description: JST SH (1 mm) 4 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI04-RA](http://oom.lt/HEAD-JSTSH-X-PI04-RA)
 - Short Link: [http://oom.lt/HSH04R](http://oom.lt/HSH04R)

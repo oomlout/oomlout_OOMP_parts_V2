@@ -18,6 +18,7 @@ NO IMAGE
 - ID: TRNN-SO23-X-KD882-01
 - Hex ID: TRNN-SO23-KD882
 - Name: SMD (SOT-23) D882 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/SO23/X/KD882/01/
 - Description: SMD (SOT-23) D882 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KD882-01](http://oom.lt/TRNN-SO23-X-KD882-01)
 - Short Link: [http://oom.lt/TRNN-SO23-KD882](http://oom.lt/TRNN-SO23-KD882)

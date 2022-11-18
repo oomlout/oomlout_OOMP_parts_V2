@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI20-SM
 - Hex ID: HSH20
 - Name: JST SH (1 mm) 20 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI20/SM/
 - Description: JST SH (1 mm) 20 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI20-SM](http://oom.lt/HEAD-JSTSH-X-PI20-SM)
 - Short Link: [http://oom.lt/HSH20](http://oom.lt/HSH20)

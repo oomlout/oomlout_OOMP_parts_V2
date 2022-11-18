@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O820-01
 - Hex ID: R8O820
 - Name: SMD (0805) 82 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O820/01/
 - Description: SMD (0805) 82 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O820-01](http://oom.lt/RESE-0805-X-O820-01)
 - Short Link: [http://oom.lt/R8O820](http://oom.lt/R8O820)

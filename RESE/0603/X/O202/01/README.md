@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0603-X-O202-01
 - Hex ID: R6O202
 - Name: SMD (0603) 2k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O202/01/
 - Description: SMD (0603) 2k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O202-01](http://oom.lt/RESE-0603-X-O202-01)
 - Short Link: [http://oom.lt/R6O202](http://oom.lt/R6O202)

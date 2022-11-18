@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X15-01
 - Hex ID: H2X15
 - Name: 2.54 mm 30 Pin (2x15) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X15/01/
 - Description: 2.54 mm 30 Pin (2x15) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X15-01](http://oom.lt/HEAD-I01-X-PI2X15-01)
 - Short Link: [http://oom.lt/H2X15](http://oom.lt/H2X15)

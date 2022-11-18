@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O754-01
 - Hex ID: R6O754
 - Name: SMD (0603) 750k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O754/01/
 - Description: SMD (0603) 750k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O754-01](http://oom.lt/RESE-0603-X-O754-01)
 - Short Link: [http://oom.lt/R6O754](http://oom.lt/R6O754)

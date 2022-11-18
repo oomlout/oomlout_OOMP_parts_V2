@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNP-T92-X-KS8550-01
 - Hex ID: TRNPT92-KS8550
 - Name: TO-92 S8550 PNP Transistor
+- Path: oomlout_OOMP_parts_V2/TRNP/T92/X/KS8550/01/
 - Description: TO-92 S8550 PNP Transistor
 - Long Link: [http://oom.lt/TRNP-T92-X-KS8550-01](http://oom.lt/TRNP-T92-X-KS8550-01)
 - Short Link: [http://oom.lt/TRNPT92-KS8550](http://oom.lt/TRNPT92-KS8550)

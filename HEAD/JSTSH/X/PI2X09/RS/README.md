@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X09-RS
 - Hex ID: HSH2X09RS
 - Name: JST SH (1 mm) 18 Pin (2x9) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X09/RS/
 - Description: JST SH (1 mm) 18 Pin (2x9) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X09-RS](http://oom.lt/HEAD-JSTSH-X-PI2X09-RS)
 - Short Link: [http://oom.lt/HSH2X09RS](http://oom.lt/HSH2X09RS)

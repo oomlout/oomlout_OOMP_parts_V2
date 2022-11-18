@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI05-RA
 - Hex ID: HPH5RA
 - Name: JST PH (2 mm) 5 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI05/RA/
 - Description: JST PH (2 mm) 5 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI05-RA](http://oom.lt/HEAD-JSTPH-X-PI05-RA)
 - Short Link: [http://oom.lt/HPH5RA](http://oom.lt/HPH5RA)

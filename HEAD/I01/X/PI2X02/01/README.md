@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X02-01
 - Hex ID: H2X02
 - Name: 2.54 mm 4 Pin (2x2) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X02/01/
 - Description: 2.54 mm 4 Pin (2x2) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X02-01](http://oom.lt/HEAD-I01-X-PI2X02-01)
 - Short Link: [http://oom.lt/H2X02](http://oom.lt/H2X02)

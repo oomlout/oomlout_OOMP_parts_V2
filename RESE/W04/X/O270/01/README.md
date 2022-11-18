@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESE-W04-X-O270-01
 - Hex ID: RW04-O270
 - Name: 1/4 Watt 27 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O270/01/
 - Description: 1/4 Watt 27 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O270-01](http://oom.lt/RESE-W04-X-O270-01)
 - Short Link: [http://oom.lt/RW04-O270](http://oom.lt/RW04-O270)

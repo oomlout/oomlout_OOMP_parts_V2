@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI05-RA
 - Hex ID: HSH5RA
 - Name: JST SH (1 mm) 5 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI05/RA/
 - Description: JST SH (1 mm) 5 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI05-RA](http://oom.lt/HEAD-JSTSH-X-PI05-RA)
 - Short Link: [http://oom.lt/HSH5RA](http://oom.lt/HSH5RA)

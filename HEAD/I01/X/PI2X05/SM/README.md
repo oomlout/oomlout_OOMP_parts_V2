@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X05-SM
 - Hex ID: H2X5SM
 - Name: 2.54 mm 10 Pin (2x5) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X05/SM/
 - Description: 2.54 mm 10 Pin (2x5) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X05-SM](http://oom.lt/HEAD-I01-X-PI2X05-SM)
 - Short Link: [http://oom.lt/H2X5SM](http://oom.lt/H2X5SM)

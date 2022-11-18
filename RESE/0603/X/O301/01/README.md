@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O301-01
 - Hex ID: R6O301
 - Name: SMD (0603) 300 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O301/01/
 - Description: SMD (0603) 300 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O301-01](http://oom.lt/RESE-0603-X-O301-01)
 - Short Link: [http://oom.lt/R6O301](http://oom.lt/R6O301)

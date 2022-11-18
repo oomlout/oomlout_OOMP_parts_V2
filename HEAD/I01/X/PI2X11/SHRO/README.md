@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X11-SHRO
 - Hex ID: H2X11SH
 - Name: 2.54 mm 22 Pin (2x11) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X11/SHRO/
 - Description: 2.54 mm 22 Pin (2x11) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X11-SHRO](http://oom.lt/HEAD-I01-X-PI2X11-SHRO)
 - Short Link: [http://oom.lt/H2X11SH](http://oom.lt/H2X11SH)

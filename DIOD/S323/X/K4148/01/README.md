@@ -16,6 +16,7 @@ NO IMAGE
 - ID: DIOD-S323-X-K4148-01
 - Hex ID: D34148
 - Name: SMD (SOD-323) 1N4148 Diode
+- Path: oomlout_OOMP_parts_V2/DIOD/S323/X/K4148/01/
 - Description: SMD (SOD-323) 1N4148 Diode
 - Long Link: [http://oom.lt/DIOD-S323-X-K4148-01](http://oom.lt/DIOD-S323-X-K4148-01)
 - Short Link: [http://oom.lt/D34148](http://oom.lt/D34148)

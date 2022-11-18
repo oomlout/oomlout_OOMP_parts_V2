@@ -21,6 +21,7 @@ Contents
 - ID: LEDS-0603-W-STAN-01
 - Hex ID: L6W
 - Name: SMD (0603) White LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0603/W/STAN/01/
 - Description: SMD (0603) White LED
 - Long Link: [http://oom.lt/LEDS-0603-W-STAN-01](http://oom.lt/LEDS-0603-W-STAN-01)
 - Short Link: [http://oom.lt/L6W](http://oom.lt/L6W)

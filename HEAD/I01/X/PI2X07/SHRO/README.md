@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X07-SHRO
 - Hex ID: H2X7SH
 - Name: 2.54 mm 14 Pin (2x7) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X07/SHRO/
 - Description: 2.54 mm 14 Pin (2x7) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X07-SHRO](http://oom.lt/HEAD-I01-X-PI2X07-SHRO)
 - Short Link: [http://oom.lt/H2X7SH](http://oom.lt/H2X7SH)

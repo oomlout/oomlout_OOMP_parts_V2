@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MOSN-T220-X-K30N06L-01
 - Hex ID: MN8721
 - Name: TO-220 30N06L N-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSN/T220/X/K30N06L/01/
 - Description: TO-220 30N06L N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-T220-X-K30N06L-01](http://oom.lt/MOSN-T220-X-K30N06L-01)
 - Short Link: [http://oom.lt/MN8721](http://oom.lt/MN8721)

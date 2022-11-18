@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X06-RS
 - Hex ID: HSH2X06RS
 - Name: JST SH (1 mm) 12 Pin (2x6) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X06/RS/
 - Description: JST SH (1 mm) 12 Pin (2x6) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X06-RS](http://oom.lt/HEAD-JSTSH-X-PI2X06-RS)
 - Short Link: [http://oom.lt/HSH2X06RS](http://oom.lt/HSH2X06RS)

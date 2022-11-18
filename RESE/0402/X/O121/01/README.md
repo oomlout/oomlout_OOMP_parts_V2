@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0402-X-O121-01
 - Hex ID: R4O121
 - Name: SMD (0402) 120 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O121/01/
 - Description: SMD (0402) 120 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O121-01](http://oom.lt/RESE-0402-X-O121-01)
 - Short Link: [http://oom.lt/R4O121](http://oom.lt/R4O121)

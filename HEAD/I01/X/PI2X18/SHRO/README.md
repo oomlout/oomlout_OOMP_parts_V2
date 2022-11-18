@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X18-SHRO
 - Hex ID: H2X18SH
 - Name: 2.54 mm 36 Pin (2x18) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X18/SHRO/
 - Description: 2.54 mm 36 Pin (2x18) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X18-SHRO](http://oom.lt/HEAD-I01-X-PI2X18-SHRO)
 - Short Link: [http://oom.lt/H2X18SH](http://oom.lt/H2X18SH)

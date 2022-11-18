@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI16-RA
 - Hex ID: HPH16R
 - Name: JST PH (2 mm) 16 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI16/RA/
 - Description: JST PH (2 mm) 16 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI16-RA](http://oom.lt/HEAD-JSTPH-X-PI16-RA)
 - Short Link: [http://oom.lt/HPH16R](http://oom.lt/HPH16R)

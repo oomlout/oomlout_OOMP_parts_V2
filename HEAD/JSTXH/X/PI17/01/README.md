@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI17-01
 - Hex ID: HXH17
 - Name: JST XH (2.5 mm) 17 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI17/01/
 - Description: JST XH (2.5 mm) 17 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI17-01](http://oom.lt/HEAD-JSTXH-X-PI17-01)
 - Short Link: [http://oom.lt/HXH17](http://oom.lt/HXH17)

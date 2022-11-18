@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI08-RA
 - Hex ID: HSH08R
 - Name: JST SH (1 mm) 8 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI08/RA/
 - Description: JST SH (1 mm) 8 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI08-RA](http://oom.lt/HEAD-JSTSH-X-PI08-RA)
 - Short Link: [http://oom.lt/HSH08R](http://oom.lt/HSH08R)

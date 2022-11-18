@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0805-X-UF47D-V25
 - Hex ID: C8U47D
 - Name: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/UF47D/V25/
 - Description: SMD (0805) 4.7 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-0805-X-UF47D-V25](http://oom.lt/CAPC-0805-X-UF47D-V25)
 - Short Link: [http://oom.lt/C8U47D](http://oom.lt/C8U47D)

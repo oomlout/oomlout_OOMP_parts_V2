@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-1206-X-UF2-V25
 - Hex ID: C12U2
 - Name: SMD (1206) 2 uF Capacitor (Ceramic) 25v
+- Path: oomlout_OOMP_parts_V2/CAPC/1206/X/UF2/V25/
 - Description: SMD (1206) 2 uF Capacitor (Ceramic) 25v
 - Long Link: [http://oom.lt/CAPC-1206-X-UF2-V25](http://oom.lt/CAPC-1206-X-UF2-V25)
 - Short Link: [http://oom.lt/C12U2](http://oom.lt/C12U2)

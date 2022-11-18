@@ -17,6 +17,7 @@ NO IMAGE
 - ID: LEDS-XHP70-W-CREE-01
 - Hex ID: LXHP70
 - Name: XHP 70 Cree White LED
+- Path: oomlout_OOMP_parts_V2/LEDS/XHP70/W/CREE/01/
 - Description: XHP 70 Cree White LED
 - Long Link: [http://oom.lt/LEDS-XHP70-W-CREE-01](http://oom.lt/LEDS-XHP70-W-CREE-01)
 - Short Link: [http://oom.lt/LXHP70](http://oom.lt/LXHP70)

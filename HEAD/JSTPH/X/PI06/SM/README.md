@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI06-SM
 - Hex ID: HPH06S
 - Name: JST PH (2 mm) 6 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI06/SM/
 - Description: JST PH (2 mm) 6 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI06-SM](http://oom.lt/HEAD-JSTPH-X-PI06-SM)
 - Short Link: [http://oom.lt/HPH06S](http://oom.lt/HPH06S)

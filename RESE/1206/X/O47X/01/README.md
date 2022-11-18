@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O47X-01
 - Hex ID: R12O47X
 - Name: SMD (1206) 4.7 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O47X/01/
 - Description: SMD (1206) 4.7 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O47X-01](http://oom.lt/RESE-1206-X-O47X-01)
 - Short Link: [http://oom.lt/R12O47X](http://oom.lt/R12O47X)

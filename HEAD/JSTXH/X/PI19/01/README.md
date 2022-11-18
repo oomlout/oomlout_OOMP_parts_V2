@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI19-01
 - Hex ID: HXH19
 - Name: JST XH (2.5 mm) 19 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI19/01/
 - Description: JST XH (2.5 mm) 19 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI19-01](http://oom.lt/HEAD-JSTXH-X-PI19-01)
 - Short Link: [http://oom.lt/HXH19](http://oom.lt/HXH19)

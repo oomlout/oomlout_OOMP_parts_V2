@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O332-01
 - Hex ID: R12O332
 - Name: SMD (1206) 3.3k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O332/01/
 - Description: SMD (1206) 3.3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O332-01](http://oom.lt/RESE-1206-X-O332-01)
 - Short Link: [http://oom.lt/R12O332](http://oom.lt/R12O332)

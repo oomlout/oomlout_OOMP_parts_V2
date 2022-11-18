@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI02-RA
 - Hex ID: HPH02R
 - Name: JST PH (2 mm) 2 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI02/RA/
 - Description: JST PH (2 mm) 2 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI02-RA](http://oom.lt/HEAD-JSTPH-X-PI02-RA)
 - Short Link: [http://oom.lt/HPH02R](http://oom.lt/HPH02R)

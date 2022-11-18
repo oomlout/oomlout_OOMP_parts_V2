@@ -20,6 +20,7 @@ Contents
 - ID: RESE-0805-X-O680-01
 - Hex ID: R8O680
 - Name: SMD (0805) 68 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O680/01/
 - Description: SMD (0805) 68 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O680-01](http://oom.lt/RESE-0805-X-O680-01)
 - Short Link: [http://oom.lt/R8O680](http://oom.lt/R8O680)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI17-01
 - Hex ID: H17
 - Name: 2.54 mm 17 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI17/01/
 - Description: 2.54 mm 17 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI17-01](http://oom.lt/HEAD-I01-X-PI17-01)
 - Short Link: [http://oom.lt/H17](http://oom.lt/H17)

@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O225-01
 - Hex ID: R12O225
 - Name: SMD (1206) 2.2M Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O225/01/
 - Description: SMD (1206) 2.2M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O225-01](http://oom.lt/RESE-1206-X-O225-01)
 - Short Link: [http://oom.lt/R12O225](http://oom.lt/R12O225)

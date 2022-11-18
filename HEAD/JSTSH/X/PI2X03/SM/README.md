@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X03-SM
 - Hex ID: HSH2X3SM
 - Name: JST SH (1 mm) 6 Pin (2x3) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X03/SM/
 - Description: JST SH (1 mm) 6 Pin (2x3) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X03-SM](http://oom.lt/HEAD-JSTSH-X-PI2X03-SM)
 - Short Link: [http://oom.lt/HSH2X3SM](http://oom.lt/HSH2X3SM)

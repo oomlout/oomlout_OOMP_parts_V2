@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X12-SM
 - Hex ID: H2X12SM
 - Name: 2.54 mm 24 Pin (2x12) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X12/SM/
 - Description: 2.54 mm 24 Pin (2x12) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X12-SM](http://oom.lt/HEAD-I01-X-PI2X12-SM)
 - Short Link: [http://oom.lt/H2X12SM](http://oom.lt/H2X12SM)

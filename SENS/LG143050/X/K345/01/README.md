@@ -18,6 +18,7 @@ Contents
 - ID: SENS-LG143050-X-K345-01
 - Hex ID: SEN345
 - Name: 14 Pin SMD (3 x 5 mm LGA) Digital Accelerometer (ADXL345) Sensor
+- Path: oomlout_OOMP_parts_V2/SENS/LG143050/X/K345/01/
 - Description: 14 Pin SMD (3 x 5 mm LGA) Digital Accelerometer (ADXL345) Sensor
 - Long Link: [http://oom.lt/SENS-LG143050-X-K345-01](http://oom.lt/SENS-LG143050-X-K345-01)
 - Short Link: [http://oom.lt/SEN345](http://oom.lt/SEN345)
@@ -35,7 +36,7 @@ Contents
 
 |Image|ID|Name|
 | :--- | :--- | :--- |
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_eda_V2/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/image_140.png)](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/)|[SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/)|[Sensor_Motion : ADXL343](https://github.com/oomlout/oomlout_OOMP_eda_V2/tree/main/SYMBOL/kicad/kicad-symbols/Sensor_Motion/ADXL343/)|
+|![]()|SYMBOL-kicad-kicad-symbols-Sensor_Motion-ADXL343||
 ||||
 
 ## Distributor Searches

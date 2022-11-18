@@ -18,6 +18,7 @@ NO IMAGE
 - ID: DIOD-SO236-X-KSRV05X4-01
 - Hex ID: D34148
 - Name: SMD (SOT-23-6) SRV05-4 TVS Array Diode
+- Path: oomlout_OOMP_parts_V2/DIOD/SO236/X/KSRV05X4/01/
 - Description: SMD (SOT-23-6) SRV05-4 TVS Array Diode
 - Long Link: [http://oom.lt/DIOD-SO236-X-KSRV05X4-01](http://oom.lt/DIOD-SO236-X-KSRV05X4-01)
 - Short Link: [http://oom.lt/D34148](http://oom.lt/D34148)

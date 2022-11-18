@@ -18,6 +18,7 @@ NO IMAGE
 - ID: TERS-35D-L-PI10-01
 - Hex ID: T35L10
 - Name: 3.5 mm 10 Pin Blue Screw Terminal
+- Path: oomlout_OOMP_parts_V2/TERS/35D/L/PI10/01/
 - Description: 3.5 mm 10 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI10-01](http://oom.lt/TERS-35D-L-PI10-01)
 - Short Link: [http://oom.lt/T35L10](http://oom.lt/T35L10)

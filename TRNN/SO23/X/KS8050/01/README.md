@@ -20,6 +20,7 @@ NO IMAGE
 - ID: TRNN-SO23-X-KS8050-01
 - Hex ID: TRNN-SO23-KS8050
 - Name: SMD (SOT-23) S8050 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/SO23/X/KS8050/01/
 - Description: SMD (SOT-23) S8050 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-SO23-X-KS8050-01](http://oom.lt/TRNN-SO23-X-KS8050-01)
 - Short Link: [http://oom.lt/TRNN-SO23-KS8050](http://oom.lt/TRNN-SO23-KS8050)

@@ -18,6 +18,7 @@ NO IMAGE
 - ID: XTAL-HC49S-X-MZ25-01
 - Hex ID: XTALHC49S-MZ25
 - Name: SMD (HC49) 25 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/HC49S/X/MZ25/01/
 - Description: SMD (HC49) 25 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-HC49S-X-MZ25-01](http://oom.lt/XTAL-HC49S-X-MZ25-01)
 - Short Link: [http://oom.lt/XTALHC49S-MZ25](http://oom.lt/XTALHC49S-MZ25)

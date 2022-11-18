@@ -17,6 +17,7 @@ NO IMAGE
 - ID: LEDS-10-G-STAN-01
 - Hex ID: L10-G
 - Name: 10 mm Green LED
+- Path: oomlout_OOMP_parts_V2/LEDS/10/G/STAN/01/
 - Description: 10 mm Green LED
 - Long Link: [http://oom.lt/LEDS-10-G-STAN-01](http://oom.lt/LEDS-10-G-STAN-01)
 - Short Link: [http://oom.lt/L10-G](http://oom.lt/L10-G)

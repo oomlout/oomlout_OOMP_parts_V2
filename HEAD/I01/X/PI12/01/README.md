@@ -18,6 +18,7 @@ Contents
 - ID: HEAD-I01-X-PI12-01
 - Hex ID: H12
 - Name: 2.54 mm 12 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI12/01/
 - Description: 2.54 mm 12 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI12-01](http://oom.lt/HEAD-I01-X-PI12-01)
 - Short Link: [http://oom.lt/H12](http://oom.lt/H12)

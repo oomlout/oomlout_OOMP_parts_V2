@@ -17,6 +17,7 @@ NO IMAGE
 - ID: DIOD-S123-X-KMBR120-01
 - Hex ID: D34148
 - Name: SMD (SOD-123) MBR120 Diode
+- Path: oomlout_OOMP_parts_V2/DIOD/S123/X/KMBR120/01/
 - Description: SMD (SOD-123) MBR120 Diode
 - Long Link: [http://oom.lt/DIOD-S123-X-KMBR120-01](http://oom.lt/DIOD-S123-X-KMBR120-01)
 - Short Link: [http://oom.lt/D34148](http://oom.lt/D34148)

@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0402-X-O113-01
 - Hex ID: R4O113
 - Name: SMD (0402) 11k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0402/X/O113/01/
 - Description: SMD (0402) 11k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0402-X-O113-01](http://oom.lt/RESE-0402-X-O113-01)
 - Short Link: [http://oom.lt/R4O113](http://oom.lt/R4O113)

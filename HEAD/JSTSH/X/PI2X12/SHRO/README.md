@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X12-SHRO
 - Hex ID: HSH2X12SHR
 - Name: JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X12/SHRO/
 - Description: JST SH (1 mm) 24 Pin (2x12) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X12-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X12-SHRO)
 - Short Link: [http://oom.lt/HSH2X12SHR](http://oom.lt/HSH2X12SHR)

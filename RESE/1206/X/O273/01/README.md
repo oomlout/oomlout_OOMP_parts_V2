@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O273-01
 - Hex ID: R12O273
 - Name: SMD (1206) 27k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O273/01/
 - Description: SMD (1206) 27k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O273-01](http://oom.lt/RESE-1206-X-O273-01)
 - Short Link: [http://oom.lt/R12O273](http://oom.lt/R12O273)

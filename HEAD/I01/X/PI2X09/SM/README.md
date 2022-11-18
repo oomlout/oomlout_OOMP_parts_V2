@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X09-SM
 - Hex ID: H2X9SM
 - Name: 2.54 mm 18 Pin (2x9) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X09/SM/
 - Description: 2.54 mm 18 Pin (2x9) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X09-SM](http://oom.lt/HEAD-I01-X-PI2X09-SM)
 - Short Link: [http://oom.lt/H2X9SM](http://oom.lt/H2X9SM)

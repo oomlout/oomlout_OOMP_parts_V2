@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O433-01
 - Hex ID: R12O433
 - Name: SMD (1206) 43k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O433/01/
 - Description: SMD (1206) 43k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O433-01](http://oom.lt/RESE-1206-X-O433-01)
 - Short Link: [http://oom.lt/R12O433](http://oom.lt/R12O433)

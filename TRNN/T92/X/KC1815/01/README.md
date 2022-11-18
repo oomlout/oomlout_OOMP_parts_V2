@@ -16,6 +16,7 @@ NO IMAGE
 - ID: TRNN-T92-X-KC1815-01
 - Hex ID: TRNN-T92-KC1815
 - Name: TO-92 C1815 NPN Transistor
+- Path: oomlout_OOMP_parts_V2/TRNN/T92/X/KC1815/01/
 - Description: TO-92 C1815 NPN Transistor
 - Long Link: [http://oom.lt/TRNN-T92-X-KC1815-01](http://oom.lt/TRNN-T92-X-KC1815-01)
 - Short Link: [http://oom.lt/TRNN-T92-KC1815](http://oom.lt/TRNN-T92-KC1815)

@@ -19,6 +19,7 @@ NO IMAGE
 - ID: TERS-35D-L-PI08-01
 - Hex ID: T35L8
 - Name: 3.5 mm 8 Pin Blue Screw Terminal
+- Path: oomlout_OOMP_parts_V2/TERS/35D/L/PI08/01/
 - Description: 3.5 mm 8 Pin Blue Screw Terminal
 - Long Link: [http://oom.lt/TERS-35D-L-PI08-01](http://oom.lt/TERS-35D-L-PI08-01)
 - Short Link: [http://oom.lt/T35L8](http://oom.lt/T35L8)

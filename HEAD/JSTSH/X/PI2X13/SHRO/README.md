@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X13-SHRO
 - Hex ID: HSH2X13SHR
 - Name: JST SH (1 mm) 26 Pin (2x13) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X13/SHRO/
 - Description: JST SH (1 mm) 26 Pin (2x13) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X13-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X13-SHRO)
 - Short Link: [http://oom.lt/HSH2X13SHR](http://oom.lt/HSH2X13SHR)

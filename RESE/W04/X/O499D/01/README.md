@@ -17,6 +17,7 @@ NO IMAGE
 - ID: RESE-W04-X-O499D-01
 - Hex ID: RW04-O499D
 - Name: 1/4 Watt 49.9 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/W04/X/O499D/01/
 - Description: 1/4 Watt 49.9 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-W04-X-O499D-01](http://oom.lt/RESE-W04-X-O499D-01)
 - Short Link: [http://oom.lt/RW04-O499D](http://oom.lt/RW04-O499D)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI10-01
 - Hex ID: HPH10
 - Name: JST PH (2 mm) 10 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI10/01/
 - Description: JST PH (2 mm) 10 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI10-01](http://oom.lt/HEAD-JSTPH-X-PI10-01)
 - Short Link: [http://oom.lt/HPH10](http://oom.lt/HPH10)

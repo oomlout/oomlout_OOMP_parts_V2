@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI08-RA
 - Hex ID: HPH08R
 - Name: JST PH (2 mm) 8 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI08/RA/
 - Description: JST PH (2 mm) 8 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI08-RA](http://oom.lt/HEAD-JSTPH-X-PI08-RA)
 - Short Link: [http://oom.lt/HPH08R](http://oom.lt/HPH08R)

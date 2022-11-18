@@ -18,6 +18,7 @@ NO IMAGE
 - ID: XTAL-3225P4-X-MZ8-01
 - Hex ID: XTAL3225P4-MZ8
 - Name: SMD (3225) (4 Pin) 8 MHz Crystal
+- Path: oomlout_OOMP_parts_V2/XTAL/3225P4/X/MZ8/01/
 - Description: SMD (3225) (4 Pin) 8 MHz Crystal
 - Long Link: [http://oom.lt/XTAL-3225P4-X-MZ8-01](http://oom.lt/XTAL-3225P4-X-MZ8-01)
 - Short Link: [http://oom.lt/XTAL3225P4-MZ8](http://oom.lt/XTAL3225P4-MZ8)

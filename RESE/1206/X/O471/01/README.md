@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O471-01
 - Hex ID: R12O471
 - Name: SMD (1206) 470 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O471/01/
 - Description: SMD (1206) 470 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O471-01](http://oom.lt/RESE-1206-X-O471-01)
 - Short Link: [http://oom.lt/R12O471](http://oom.lt/R12O471)

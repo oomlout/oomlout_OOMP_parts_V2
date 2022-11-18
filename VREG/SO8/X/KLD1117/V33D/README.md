@@ -17,6 +17,7 @@ NO IMAGE
 - ID: VREG-SO8-X-KLD1117-V33D
 - Hex ID: VR1117833D
 - Name: SO-8 LD1117 Voltage Regulator 3.3v
+- Path: oomlout_OOMP_parts_V2/VREG/SO8/X/KLD1117/V33D/
 - Description: SO-8 LD1117 Voltage Regulator 3.3v
 - Long Link: [http://oom.lt/VREG-SO8-X-KLD1117-V33D](http://oom.lt/VREG-SO8-X-KLD1117-V33D)
 - Short Link: [http://oom.lt/VR1117833D](http://oom.lt/VR1117833D)

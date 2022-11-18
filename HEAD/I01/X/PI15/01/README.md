@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI15-01
 - Hex ID: H15
 - Name: 2.54 mm 15 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI15/01/
 - Description: 2.54 mm 15 Pin Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI15-01](http://oom.lt/HEAD-I01-X-PI15-01)
 - Short Link: [http://oom.lt/H15](http://oom.lt/H15)

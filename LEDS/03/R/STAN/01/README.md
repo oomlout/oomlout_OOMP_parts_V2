@@ -19,6 +19,7 @@ Contents
 - ID: LEDS-03-R-STAN-01
 - Hex ID: L3R
 - Name: 3 mm Red LED
+- Path: oomlout_OOMP_parts_V2/LEDS/03/R/STAN/01/
 - Description: 3 mm Red LED
 - Long Link: [http://oom.lt/LEDS-03-R-STAN-01](http://oom.lt/LEDS-03-R-STAN-01)
 - Short Link: [http://oom.lt/L3R](http://oom.lt/L3R)

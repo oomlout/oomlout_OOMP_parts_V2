@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI01-RA
 - Hex ID: HPHPRA
 - Name: JST PH (2 mm) 1 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI01/RA/
 - Description: JST PH (2 mm) 1 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI01-RA](http://oom.lt/HEAD-JSTPH-X-PI01-RA)
 - Short Link: [http://oom.lt/HPHPRA](http://oom.lt/HPHPRA)

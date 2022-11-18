@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-1206-X-NF1-V500
 - Hex ID: C12N10
 - Name: SMD (1206) 1 nF Capacitor (Ceramic)
+- Path: oomlout_OOMP_parts_V2/CAPC/1206/X/NF1/V500/
 - Description: SMD (1206) 1 nF Capacitor (Ceramic)
 - Long Link: [http://oom.lt/CAPC-1206-X-NF1-V500](http://oom.lt/CAPC-1206-X-NF1-V500)
 - Short Link: [http://oom.lt/C12N10](http://oom.lt/C12N10)

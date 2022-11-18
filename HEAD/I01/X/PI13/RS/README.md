@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI13-RS
 - Hex ID: H13RS
 - Name: 2.54 mm 13 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI13/RS/
 - Description: 2.54 mm 13 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI13-RS](http://oom.lt/HEAD-I01-X-PI13-RS)
 - Short Link: [http://oom.lt/H13RS](http://oom.lt/H13RS)

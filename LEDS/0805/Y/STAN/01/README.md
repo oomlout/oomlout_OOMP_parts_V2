@@ -21,6 +21,7 @@ Contents
 - ID: LEDS-0805-Y-STAN-01
 - Hex ID: L8Y
 - Name: SMD (0805) Yellow LED
+- Path: oomlout_OOMP_parts_V2/LEDS/0805/Y/STAN/01/
 - Description: SMD (0805) Yellow LED
 - Long Link: [http://oom.lt/LEDS-0805-Y-STAN-01](http://oom.lt/LEDS-0805-Y-STAN-01)
 - Short Link: [http://oom.lt/L8Y](http://oom.lt/L8Y)

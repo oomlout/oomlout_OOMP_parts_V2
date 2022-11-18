@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X17-SM
 - Hex ID: H2X17SM
 - Name: 2.54 mm 34 Pin (2x17) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X17/SM/
 - Description: 2.54 mm 34 Pin (2x17) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X17-SM](http://oom.lt/HEAD-I01-X-PI2X17-SM)
 - Short Link: [http://oom.lt/H2X17SM](http://oom.lt/H2X17SM)

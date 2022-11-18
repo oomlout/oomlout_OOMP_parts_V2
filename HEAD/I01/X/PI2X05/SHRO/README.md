@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X05-SHRO
 - Hex ID: H2X5SH
 - Name: 2.54 mm 10 Pin (2x5) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X05/SHRO/
 - Description: 2.54 mm 10 Pin (2x5) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X05-SHRO](http://oom.lt/HEAD-I01-X-PI2X05-SHRO)
 - Short Link: [http://oom.lt/H2X5SH](http://oom.lt/H2X5SH)

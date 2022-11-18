@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0603-X-UF47D-V16
 - Hex ID: C6U47D16
 - Name: SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/UF47D/V16/
 - Description: SMD (0603) 4.7 uF Capacitor (Ceramic) 16v
 - Long Link: [http://oom.lt/CAPC-0603-X-UF47D-V16](http://oom.lt/CAPC-0603-X-UF47D-V16)
 - Short Link: [http://oom.lt/C6U47D16](http://oom.lt/C6U47D16)

@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O302-01
 - Hex ID: R12O302
 - Name: SMD (1206) 3k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O302/01/
 - Description: SMD (1206) 3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O302-01](http://oom.lt/RESE-1206-X-O302-01)
 - Short Link: [http://oom.lt/R12O302](http://oom.lt/R12O302)

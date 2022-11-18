@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-0805-X-O134-01
 - Hex ID: R8O134
 - Name: SMD (0805) 130k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O134/01/
 - Description: SMD (0805) 130k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O134-01](http://oom.lt/RESE-0805-X-O134-01)
 - Short Link: [http://oom.lt/R8O134](http://oom.lt/R8O134)

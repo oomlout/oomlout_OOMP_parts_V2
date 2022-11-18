@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O499D-01
 - Hex ID: R12O499D
 - Name: SMD (1206) 49.9 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O499D/01/
 - Description: SMD (1206) 49.9 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O499D-01](http://oom.lt/RESE-1206-X-O499D-01)
 - Short Link: [http://oom.lt/R12O499D](http://oom.lt/R12O499D)

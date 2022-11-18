@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O823-01
 - Hex ID: R6O823
 - Name: SMD (0603) 82k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O823/01/
 - Description: SMD (0603) 82k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O823-01](http://oom.lt/RESE-0603-X-O823-01)
 - Short Link: [http://oom.lt/R6O823](http://oom.lt/R6O823)

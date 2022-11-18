@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O684-01
 - Hex ID: R8O684
 - Name: SMD (0805) 680k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O684/01/
 - Description: SMD (0805) 680k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O684-01](http://oom.lt/RESE-0805-X-O684-01)
 - Short Link: [http://oom.lt/R8O684](http://oom.lt/R8O684)

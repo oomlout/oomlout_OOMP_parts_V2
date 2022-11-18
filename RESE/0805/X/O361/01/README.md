@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0805-X-O361-01
 - Hex ID: R8O361
 - Name: SMD (0805) 360 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0805/X/O361/01/
 - Description: SMD (0805) 360 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0805-X-O361-01](http://oom.lt/RESE-0805-X-O361-01)
 - Short Link: [http://oom.lt/R8O361](http://oom.lt/R8O361)

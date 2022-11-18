@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X09-RS
 - Hex ID: H2X9RS
 - Name: 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X09/RS/
 - Description: 2.54 mm 18 Pin (2x9) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X09-RS](http://oom.lt/HEAD-I01-X-PI2X09-RS)
 - Short Link: [http://oom.lt/H2X9RS](http://oom.lt/H2X9RS)

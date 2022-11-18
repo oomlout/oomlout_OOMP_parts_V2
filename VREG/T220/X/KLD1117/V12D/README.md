@@ -18,6 +18,7 @@ NO IMAGE
 - ID: VREG-T220-X-KLD1117-V12D
 - Hex ID: VR111722012D
 - Name: TO-220 LD1117 Voltage Regulator 1.2 v
+- Path: oomlout_OOMP_parts_V2/VREG/T220/X/KLD1117/V12D/
 - Description: TO-220 LD1117 Voltage Regulator 1.2 v
 - Long Link: [http://oom.lt/VREG-T220-X-KLD1117-V12D](http://oom.lt/VREG-T220-X-KLD1117-V12D)
 - Short Link: [http://oom.lt/VR111722012D](http://oom.lt/VR111722012D)

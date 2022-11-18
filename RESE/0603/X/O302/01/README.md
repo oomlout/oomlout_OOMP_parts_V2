@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O302-01
 - Hex ID: R6O302
 - Name: SMD (0603) 3k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O302/01/
 - Description: SMD (0603) 3k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O302-01](http://oom.lt/RESE-0603-X-O302-01)
 - Short Link: [http://oom.lt/R6O302](http://oom.lt/R6O302)

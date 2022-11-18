@@ -21,6 +21,7 @@ Contents
 - ID: CAPC-0603-X-NF1-V50
 - Hex ID: C6N1
 - Name: SMD (0603) 1 nF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0603/X/NF1/V50/
 - Description: SMD (0603) 1 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0603-X-NF1-V50](http://oom.lt/CAPC-0603-X-NF1-V50)
 - Short Link: [http://oom.lt/C6N1](http://oom.lt/C6N1)

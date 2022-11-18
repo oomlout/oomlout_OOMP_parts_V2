@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O510-01
 - Hex ID: R12O510
 - Name: SMD (1206) 51 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O510/01/
 - Description: SMD (1206) 51 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O510-01](http://oom.lt/RESE-1206-X-O510-01)
 - Short Link: [http://oom.lt/R12O510](http://oom.lt/R12O510)

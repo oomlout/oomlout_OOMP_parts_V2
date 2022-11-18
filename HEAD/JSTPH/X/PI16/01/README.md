@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI16-01
 - Hex ID: HPH16
 - Name: JST PH (2 mm) 16 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI16/01/
 - Description: JST PH (2 mm) 16 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI16-01](http://oom.lt/HEAD-JSTPH-X-PI16-01)
 - Short Link: [http://oom.lt/HPH16](http://oom.lt/HPH16)

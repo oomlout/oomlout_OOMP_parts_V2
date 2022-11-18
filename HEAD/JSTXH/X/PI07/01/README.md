@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI07-01
 - Hex ID: HXH07
 - Name: JST XH (2.5 mm) 7 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI07/01/
 - Description: JST XH (2.5 mm) 7 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI07-01](http://oom.lt/HEAD-JSTXH-X-PI07-01)
 - Short Link: [http://oom.lt/HXH07](http://oom.lt/HXH07)

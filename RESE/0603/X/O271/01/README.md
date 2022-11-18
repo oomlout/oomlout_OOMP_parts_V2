@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O271-01
 - Hex ID: R6O271
 - Name: SMD (0603) 270 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O271/01/
 - Description: SMD (0603) 270 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O271-01](http://oom.lt/RESE-0603-X-O271-01)
 - Short Link: [http://oom.lt/R6O271](http://oom.lt/R6O271)

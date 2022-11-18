@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI18-SM
 - Hex ID: HSH18
 - Name: JST SH (1 mm) 18 Pin Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI18/SM/
 - Description: JST SH (1 mm) 18 Pin Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI18-SM](http://oom.lt/HEAD-JSTSH-X-PI18-SM)
 - Short Link: [http://oom.lt/HSH18](http://oom.lt/HSH18)

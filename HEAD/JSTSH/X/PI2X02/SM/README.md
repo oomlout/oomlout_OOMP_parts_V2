@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X02-SM
 - Hex ID: HSH2X02S
 - Name: JST SH (1 mm) 4 Pin (2x2) Header (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X02/SM/
 - Description: JST SH (1 mm) 4 Pin (2x2) Header (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X02-SM](http://oom.lt/HEAD-JSTSH-X-PI2X02-SM)
 - Short Link: [http://oom.lt/HSH2X02S](http://oom.lt/HSH2X02S)

@@ -19,6 +19,7 @@ NO IMAGE
 - ID: RESE-1206-X-O705-01
 - Hex ID: R12O7501
 - Name: SMD (1206) 7M Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O705/01/
 - Description: SMD (1206) 7M Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O705-01](http://oom.lt/RESE-1206-X-O705-01)
 - Short Link: [http://oom.lt/R12O7501](http://oom.lt/R12O7501)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI18-RA
 - Hex ID: HSH18R
 - Name: JST SH (1 mm) 18 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI18/RA/
 - Description: JST SH (1 mm) 18 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI18-RA](http://oom.lt/HEAD-JSTSH-X-PI18-RA)
 - Short Link: [http://oom.lt/HSH18R](http://oom.lt/HSH18R)

@@ -16,6 +16,7 @@ NO IMAGE
 - ID: RESA-12068-X-O222X4-01
 - Hex ID: RA12222
 - Name: SMD (1206-8) 2.2k Ohm (x4) Resistor Array
+- Path: oomlout_OOMP_parts_V2/RESA/12068/X/O222X4/01/
 - Description: SMD (1206-8) 2.2k Ohm (x4) Resistor Array
 - Long Link: [http://oom.lt/RESA-12068-X-O222X4-01](http://oom.lt/RESA-12068-X-O222X4-01)
 - Short Link: [http://oom.lt/RA12222](http://oom.lt/RA12222)

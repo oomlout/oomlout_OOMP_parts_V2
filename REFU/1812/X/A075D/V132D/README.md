@@ -16,6 +16,7 @@ NO IMAGE
 - ID: REFU-1812-X-A075D-V132D
 - Hex ID: RF18075D
 - Name: SMD (1812) 750 mA Resetable Fuse 13.2v
+- Path: oomlout_OOMP_parts_V2/REFU/1812/X/A075D/V132D/
 - Description: SMD (1812) 750 mA Resetable Fuse 13.2v
 - Long Link: [http://oom.lt/REFU-1812-X-A075D-V132D](http://oom.lt/REFU-1812-X-A075D-V132D)
 - Short Link: [http://oom.lt/RF18075D](http://oom.lt/RF18075D)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X14-SHRO
 - Hex ID: HSH2X14SHR
 - Name: JST SH (1 mm) 28 Pin (2x14) Header Shrouded (IDC)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X14/SHRO/
 - Description: JST SH (1 mm) 28 Pin (2x14) Header Shrouded (IDC)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X14-SHRO](http://oom.lt/HEAD-JSTSH-X-PI2X14-SHRO)
 - Short Link: [http://oom.lt/HSH2X14SHR](http://oom.lt/HSH2X14SHR)

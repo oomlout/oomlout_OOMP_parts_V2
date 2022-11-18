@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTPH-X-PI11-RA
 - Hex ID: HPH11R
 - Name: JST PH (2 mm) 11 Pin Header Right Angle
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTPH/X/PI11/RA/
 - Description: JST PH (2 mm) 11 Pin Header Right Angle
 - Long Link: [http://oom.lt/HEAD-JSTPH-X-PI11-RA](http://oom.lt/HEAD-JSTPH-X-PI11-RA)
 - Short Link: [http://oom.lt/HPH11R](http://oom.lt/HPH11R)

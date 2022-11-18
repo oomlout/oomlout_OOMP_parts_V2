@@ -18,6 +18,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X16-01
 - Hex ID: H2X16
 - Name: 2.54 mm 32 Pin (2x16) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X16/01/
 - Description: 2.54 mm 32 Pin (2x16) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X16-01](http://oom.lt/HEAD-I01-X-PI2X16-01)
 - Short Link: [http://oom.lt/H2X16](http://oom.lt/H2X16)

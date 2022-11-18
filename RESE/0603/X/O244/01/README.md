@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-0603-X-O244-01
 - Hex ID: R6O244
 - Name: SMD (0603) 240k Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/0603/X/O244/01/
 - Description: SMD (0603) 240k Ohm Resistor
 - Long Link: [http://oom.lt/RESE-0603-X-O244-01](http://oom.lt/RESE-0603-X-O244-01)
 - Short Link: [http://oom.lt/R6O244](http://oom.lt/R6O244)

@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI2X19-RS
 - Hex ID: HSH2X19RS
 - Name: JST SH (1 mm) 38 Pin (2x19) Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI2X19/RS/
 - Description: JST SH (1 mm) 38 Pin (2x19) Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI2X19-RS](http://oom.lt/HEAD-JSTSH-X-PI2X19-RS)
 - Short Link: [http://oom.lt/HSH2X19RS](http://oom.lt/HSH2X19RS)

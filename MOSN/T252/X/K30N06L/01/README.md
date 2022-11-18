@@ -18,6 +18,7 @@ NO IMAGE
 - ID: MOSN-T252-X-K30N06L-01
 - Hex ID: MN30N06D
 - Name: TO-252 (SMD) 30N06L N-Ch. MOSFET
+- Path: oomlout_OOMP_parts_V2/MOSN/T252/X/K30N06L/01/
 - Description: TO-252 (SMD) 30N06L N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-T252-X-K30N06L-01](http://oom.lt/MOSN-T252-X-K30N06L-01)
 - Short Link: [http://oom.lt/MN30N06D](http://oom.lt/MN30N06D)

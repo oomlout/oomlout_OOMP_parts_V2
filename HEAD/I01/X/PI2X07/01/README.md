@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-I01-X-PI2X07-01
 - Hex ID: H2X07
 - Name: 2.54 mm 14 Pin (2x7) Header
+- Path: oomlout_OOMP_parts_V2/HEAD/I01/X/PI2X07/01/
 - Description: 2.54 mm 14 Pin (2x7) Header
 - Long Link: [http://oom.lt/HEAD-I01-X-PI2X07-01](http://oom.lt/HEAD-I01-X-PI2X07-01)
 - Short Link: [http://oom.lt/H2X07](http://oom.lt/H2X07)

@@ -20,6 +20,7 @@ NO IMAGE
 - ID: RESE-1206-X-O000-01
 - Hex ID: R12O000
 - Name: SMD (1206) 0 Ohm Resistor
+- Path: oomlout_OOMP_parts_V2/RESE/1206/X/O000/01/
 - Description: SMD (1206) 0 Ohm Resistor
 - Long Link: [http://oom.lt/RESE-1206-X-O000-01](http://oom.lt/RESE-1206-X-O000-01)
 - Short Link: [http://oom.lt/R12O000](http://oom.lt/R12O000)

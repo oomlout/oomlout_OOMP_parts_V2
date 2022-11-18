@@ -17,6 +17,7 @@ NO IMAGE
 - ID: LEDS-3535-RGB-K2812-01
 - Hex ID: L3535-RGBK2812
 - Name: SMD (3535) Smart Controller (WS2812B) RGB LED
+- Path: oomlout_OOMP_parts_V2/LEDS/3535/RGB/K2812/01/
 - Description: SMD (3535) Smart Controller (WS2812B) RGB LED
 - Long Link: [http://oom.lt/LEDS-3535-RGB-K2812-01](http://oom.lt/LEDS-3535-RGB-K2812-01)
 - Short Link: [http://oom.lt/L3535-RGBK2812](http://oom.lt/L3535-RGBK2812)

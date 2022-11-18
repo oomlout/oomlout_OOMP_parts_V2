@@ -17,6 +17,7 @@ NO IMAGE
 - ID: HEAD-JSTSH-X-PI11-RS
 - Hex ID: HSH11RS
 - Name: JST SH (1 mm) 11 Pin Header Right Angle (SMD)
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI11/RS/
 - Description: JST SH (1 mm) 11 Pin Header Right Angle (SMD)
 - Long Link: [http://oom.lt/HEAD-JSTSH-X-PI11-RS](http://oom.lt/HEAD-JSTSH-X-PI11-RS)
 - Short Link: [http://oom.lt/HSH11RS](http://oom.lt/HSH11RS)

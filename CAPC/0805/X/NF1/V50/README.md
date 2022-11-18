@@ -20,6 +20,7 @@ NO IMAGE
 - ID: CAPC-0805-X-NF1-V50
 - Hex ID: C8N1
 - Name: SMD (0805) 1 nF Capacitor (Ceramic) 50v
+- Path: oomlout_OOMP_parts_V2/CAPC/0805/X/NF1/V50/
 - Description: SMD (0805) 1 nF Capacitor (Ceramic) 50v
 - Long Link: [http://oom.lt/CAPC-0805-X-NF1-V50](http://oom.lt/CAPC-0805-X-NF1-V50)
 - Short Link: [http://oom.lt/C8N1](http://oom.lt/C8N1)

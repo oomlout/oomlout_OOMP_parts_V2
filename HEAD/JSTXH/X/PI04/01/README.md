@@ -19,6 +19,7 @@ NO IMAGE
 - ID: HEAD-JSTXH-X-PI04-01
 - Hex ID: HXH04
 - Name: JST XH (2.5 mm) 4 Pin Header
+- Path: oomlout_OOMP_parts_V2/HEAD/JSTXH/X/PI04/01/
 - Description: JST XH (2.5 mm) 4 Pin Header
 - Long Link: [http://oom.lt/HEAD-JSTXH-X-PI04-01](http://oom.lt/HEAD-JSTXH-X-PI04-01)
 - Short Link: [http://oom.lt/HXH04](http://oom.lt/HXH04)
