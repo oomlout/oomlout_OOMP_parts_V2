@@ -49,6 +49,7 @@ def load(it):
     item["C-LCSC"] = "C1337153"
     item["C-FARN"] = "1972173"
     item["C-MOUS"] = "556-ATTINY84-20SSUR"    
+    item["TAGS"] = []
     ######ITEM END
     list.append(item)
     
@@ -64,7 +65,8 @@ def load(it):
                 {'dpnKey': 'DPN-' + d + '-' + pNum, 
                 'DISTRIBUTOR': distDict[d]["NAME"], 
                 'DISTRCODE': distDict[d]["CODE"], 
-                'DPN': pNum, 'MPN': '', 
-                'TAGS': [], 
+                'DPN': pNum, 'MPN': distDict[d]["CODE"], 
+                'MPNkey': distDict[d]["CODE"], 
+                'TAGS': distDict[d]["TAGS"], 
                 'LINK': link, 
                 'OOMPID': oompID})
