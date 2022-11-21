@@ -1,10 +1,32 @@
 {
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+    ],
     "hexID": [
         "HSH04RS"
     ],
     "manufacturerPartNumber": [
         {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JSTSAL",
+            "MANUFACTURER": "Japan Solderless Terminals",
+            "MPN": "SM04B-SRSS-TB",
+            "MPNKEY": "MPN-C-JSTSAL-SM04B-SRSS-TB",
+            "OOMPID": "HEAD-JSTSH-X-PI04-RS",
+            "OOMPIDPARTIAL": "HEAD-JSTSH-X-PI04-RS",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JSTSAL",
+            "MANUFACTURER": "Japan Solderless Terminals",
+            "MPN": "SM04B-SRSS-TB",
+            "MPNKEY": "MPN-C-JSTSAL-SM04B-SRSS-TB",
+            "OOMPID": "HEAD-JSTSH-X-PI04-RS",
+            "OOMPIDPARTIAL": "HEAD-JSTSH-X-PI04-RS",
+            "TAGS": []
         }
     ],
     "matchSpecial": [
@@ -54,6 +76,9 @@
         ],
         "detailsInstancesOomp": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/RS/detailsInstancesOomp.py"
+        ],
+        "detailspartNumbers": [
+            "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/RS/detailsPartNumbers.py"
         ],
         "jsonBasic": [
             "oomlout_OOMP_parts_V2/HEAD/JSTSH/X/PI04/RS/basic.json"

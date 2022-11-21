@@ -1,13 +1,16 @@
 {
     "code": [],
     "collection": [],
+    "componentModules": [],
     "description": [],
     "distributorPartNumber": [],
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
     "footprintEagleDetails": [],
-    "footprintKicad": [],
+    "footprintKicad": [
+        "FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+    ],
     "footprintKicadDetails": [],
     "gitName": [],
     "gitRepo": [],
@@ -18,7 +21,26 @@
     "kicadSchem": [],
     "manufacturerPartNumber": [
         {
-            "partLink": "https://www.jst.co.uk/productSeries.php?pid=93"
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JSTSAL",
+            "MANUFACTURER": "Japan Solderless Terminals",
+            "MPN": "SM04B-SRSS-TB",
+            "MPNKEY": "MPN-C-JSTSAL-SM04B-SRSS-TB",
+            "OOMPID": "HEAD-JSTSH-X-PI04-RS",
+            "OOMPIDPARTIAL": "HEAD-JSTSH-X-PI04-RS",
+            "TAGS": []
+        },
+        {
+            "DESCRIPTION": "",
+            "LINK": "",
+            "MANUCODE": "C-JSTSAL",
+            "MANUFACTURER": "Japan Solderless Terminals",
+            "MPN": "SM04B-SRSS-TB",
+            "MPNKEY": "MPN-C-JSTSAL-SM04B-SRSS-TB",
+            "OOMPID": "HEAD-JSTSH-X-PI04-RS",
+            "OOMPIDPARTIAL": "HEAD-JSTSH-X-PI04-RS",
+            "TAGS": []
         }
     ],
     "matchSpecial": [
@@ -35,6 +57,7 @@
             "HEAD-JSTSH-X-PI04-RS"
         ]
     ],
+    "matchingBlock": [],
     "name": [
         "JST SH (1 mm) 4 Pin Header Right Angle (SMD)"
     ],

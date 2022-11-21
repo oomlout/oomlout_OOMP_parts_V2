@@ -1,8 +1,50 @@
 {
     "code": [],
     "collection": [],
+    "componentModules": [],
     "description": [],
-    "distributorPartNumber": [],
+    "distributorPartNumber": [
+        {
+            "DISTRCODE": "C-DIGK",
+            "DISTRIBUTOR": "Digikey",
+            "DPN": "microchip-technology/ATTINY84A-SSU/3046522",
+            "LINK": "https://www.digikey.com/en/products/detail/microchip-technology/ATTINY84A-SSU/3046522",
+            "MPN": "",
+            "OOMPID": "MCUU-SC14-84-ATTINY-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-DIGK-microchip-technology/ATTINY84A-SSU/3046522"
+        },
+        {
+            "DISTRCODE": "C-LCSC",
+            "DISTRIBUTOR": "LCSC",
+            "DPN": "C1337153",
+            "LINK": "https://www.lcsc.com/product-detail/C1337153.html",
+            "MPN": "",
+            "OOMPID": "MCUU-SC14-84-ATTINY-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-LCSC-C1337153"
+        },
+        {
+            "DISTRCODE": "C-MOUS",
+            "DISTRIBUTOR": "Mouser",
+            "DPN": "556-ATTINY84-20SSUR",
+            "LINK": "https://www.mouser.co.uk/c/?q=556-ATTINY84-20SSUR",
+            "MPN": "",
+            "OOMPID": "MCUU-SC14-84-ATTINY-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-MOUS-556-ATTINY84-20SSUR"
+        },
+        {
+            "DISTRCODE": "C-FARN",
+            "DISTRIBUTOR": "Farnell",
+            "DPN": "1972173",
+            "LINK": "https://www.mouser.co.uk/c/?q=1972173",
+            "MPN": "",
+            "OOMPID": "MCUU-SC14-84-ATTINY-01",
+            "TAGS": [],
+            "dpnKey": "DPN-C-FARN-1972173"
+        }
+    ],
     "eagleBoard": [],
     "eagleSchem": [],
     "footprintEagle": [],
@@ -28,6 +70,7 @@
             "MCUU-SC14-84-ATTINY-01"
         ]
     ],
+    "matchingBlock": [],
     "name": [
         "14 Pin SMD (SOIC) ATTiny 84 MCU"
     ],

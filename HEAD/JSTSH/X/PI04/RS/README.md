@@ -10,6 +10,7 @@ Contents
 	* [Symbols](#symbols)
 	* [OOMP Instances](#oomp-instances)
 	* [Distributor Searches](#distributor-searches)
+	* [MPNs](#mpns)
 	* [Images](#images)
 	* [Tags](#tags)
   
@@ -299,6 +300,16 @@ NO IMAGE
   
 Links to search for this item (using OOMP name) at various distributors  
 [(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+SH+1+mm+4+Pin+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+SH+1+mm+4+Pin+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+SH+1+mm+4+Pin+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+SH+1+mm+4+Pin+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+SH+1+mm+4+Pin+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+SH+1+mm+4+Pin+Header+Right+Angle+SMD)&nbsp;&nbsp;&nbsp;
+## MPNs
+  
+Number of MPNs: 2  
+
+|MPN|Direct Links|Search Links|
+| :--- | :--- | :--- |
+|Japan Solderless Terminals<br>SM04B-SRSS-TB||[(AV) ](https://www.avnet.com/shop/us/search/SM04B-SRSS-TB)[(DK) ](https://www.digikey.co.uk/products/en?keywords=SM04B-SRSS-TB)[(LCSC) ](https://www.lcsc.com/search?q=SM04B-SRSS-TB)[(FA) ](https://uk.farnell.com/search?st=SM04B-SRSS-TB)[(MO) ](https://www.mouser.com/c/?q=SM04B-SRSS-TB)|
+|Japan Solderless Terminals<br>SM04B-SRSS-TB||[(AV) ](https://www.avnet.com/shop/us/search/SM04B-SRSS-TB)[(DK) ](https://www.digikey.co.uk/products/en?keywords=SM04B-SRSS-TB)[(LCSC) ](https://www.lcsc.com/search?q=SM04B-SRSS-TB)[(FA) ](https://uk.farnell.com/search?st=SM04B-SRSS-TB)[(MO) ](https://www.mouser.com/c/?q=SM04B-SRSS-TB)|
+||||
+
 ## Images
   
 
@@ -318,7 +329,7 @@ Links to search for this item (using OOMP name) at various distributors
 |Full OOMP ID|oompID|HEAD-JSTSH-X-PI04-RS|
 |Hex ID (short code)|hexID|HSH04RS|
 |name|name|JST SH (1 mm) 4 Pin Header Right Angle (SMD)|
-|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>'partLink'</td></tr><tr><td> 'https</td></tr><tr><td>//www.jst.co.uk/productSeries.php?pid=93'</td></tr></table>|
+|Part Number (Manufacturer)|manufacturerPartNumber|<table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-SM04B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> SM04B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI04-RS</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI04-RS</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table></td><td> <table><tr><td>MPNKEY</td></tr><tr><td> MPN-C-JSTSAL-SM04B-SRSS-TB</td><td> MANUFACTURER</td></tr><tr><td> Japan Solderless Terminals</td><td> MANUCODE</td></tr><tr><td> C-JSTSAL</td><td> MPN</td></tr><tr><td> SM04B-SRSS-TB</td><td> OOMPIDPARTIAL</td></tr><tr><td> HEAD-JSTSH-X-PI04-RS</td><td> OOMPID</td></tr><tr><td> HEAD-JSTSH-X-PI04-RS</td><td> LINK</td></tr><tr><td> </td><td> DESCRIPTION</td></tr><tr><td> </td><td> TAGS</td></tr><tr><td> </td></tr></table>|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Connector_JST-JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Connector-Conn_01x04_Male, SYMBOL-kicad-kicad-symbols-Connector_Generic-Conn_01x04|
 |Match Special|matchSpecial|[['JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal', 'STEMMA_I2C', 'QWIIC', 'I2C_STANDARDJS-1MM', 'JST04_1MM_RA', 'ST_SH4 SM04B-SRSS-TB', '1X04_1MM_RA'], 'HEAD-JSTSH-X-PI04-RS']|
