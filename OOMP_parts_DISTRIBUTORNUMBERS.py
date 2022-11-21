@@ -65,8 +65,8 @@ def load(it):
                 {'dpnKey': 'DPN-' + d + '-' + pNum, 
                 'DISTRIBUTOR': distDict[d]["NAME"], 
                 'DISTRCODE': distDict[d]["CODE"], 
-                'DPN': pNum, 'MPN': distDict[d]["CODE"], 
-                'MPNkey': distDict[d]["CODE"], 
-                'TAGS': distDict[d]["TAGS"], 
+                'DPN': pNum, 'MPN': l["MPN"], 
+                'MPNkey': l["MPN"], 
+                'TAGS': l["TAGS"], 
                 'LINK': link, 
                 'OOMPID': oompID})
