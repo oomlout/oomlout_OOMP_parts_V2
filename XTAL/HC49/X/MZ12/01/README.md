@@ -42,7 +42,7 @@ NO IMAGE
 ## Distributor Searches
   
 Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=HC49+12+MHz+Crystal)&nbsp;&nbsp;&nbsp;
 ## Images
   
 

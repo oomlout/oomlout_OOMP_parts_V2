@@ -8,6 +8,7 @@ Contents
 * [MCK323T20 > 8 Pin SMD (SOP) CH32V 003 MCU](#mck323t20--8-pin-smd-sop-ch32v-003-mcu)
 	* [Footprints](#footprints)
 	* [Distributor Searches](#distributor-searches)
+	* [Images](#images)
 	* [Tags](#tags)
   
 NO IMAGE  
@@ -32,8 +33,13 @@ NO IMAGE
 ## Distributor Searches
   
 Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=11178+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;  
-NO IMAGES  
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=8+Pin+SMD+SOP+CH32V+003+MCU)&nbsp;&nbsp;&nbsp;
+## Images
+  
+
+|qrCode<br>[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/SP08/003/KCH32V/01/qrCode_140.png)](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/SP08/003/KCH32V/01/qrCode.png)||||
+| :---: | :---: | :---: | :---: |
+
 ## Tags
   
 

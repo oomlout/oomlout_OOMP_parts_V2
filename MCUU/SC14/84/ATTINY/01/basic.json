@@ -9,7 +9,8 @@
             "DISTRIBUTOR": "Digikey",
             "DPN": "microchip-technology/ATTINY84A-SSU/3046522",
             "LINK": "https://www.digikey.com/en/products/detail/microchip-technology/ATTINY84A-SSU/3046522",
-            "MPN": "",
+            "MPN": "C-MICROC-ATtiny84-20SSU",
+            "MPNkey": "C-MICROC-ATtiny84-20SSU",
             "OOMPID": "MCUU-SC14-84-ATTINY-01",
             "TAGS": [],
             "dpnKey": "DPN-C-DIGK-microchip-technology/ATTINY84A-SSU/3046522"
@@ -19,7 +20,8 @@
             "DISTRIBUTOR": "LCSC",
             "DPN": "C1337153",
             "LINK": "https://www.lcsc.com/product-detail/C1337153.html",
-            "MPN": "",
+            "MPN": "C-MICROC-ATtiny84-20SSU",
+            "MPNkey": "C-MICROC-ATtiny84-20SSU",
             "OOMPID": "MCUU-SC14-84-ATTINY-01",
             "TAGS": [],
             "dpnKey": "DPN-C-LCSC-C1337153"
@@ -29,7 +31,8 @@
             "DISTRIBUTOR": "Mouser",
             "DPN": "556-ATTINY84-20SSUR",
             "LINK": "https://www.mouser.co.uk/c/?q=556-ATTINY84-20SSUR",
-            "MPN": "",
+            "MPN": "C-MICROC-ATtiny84-20SSU",
+            "MPNkey": "C-MICROC-ATtiny84-20SSU",
             "OOMPID": "MCUU-SC14-84-ATTINY-01",
             "TAGS": [],
             "dpnKey": "DPN-C-MOUS-556-ATTINY84-20SSUR"
@@ -39,7 +42,8 @@
             "DISTRIBUTOR": "Farnell",
             "DPN": "1972173",
             "LINK": "https://www.mouser.co.uk/c/?q=1972173",
-            "MPN": "",
+            "MPN": "C-MICROC-ATtiny84-20SSU",
+            "MPNkey": "C-MICROC-ATtiny84-20SSU",
             "OOMPID": "MCUU-SC14-84-ATTINY-01",
             "TAGS": [],
             "dpnKey": "DPN-C-FARN-1972173"
@@ -123,5 +127,6 @@
     "symbolKicad": [
         "SYMBOL-kicad-kicad-symbols-MCU_Microchip_ATtiny-ATtiny20-SS"
     ],
-    "symbolKicadDetails": []
+    "symbolKicadDetails": [],
+    "tags": []
 }

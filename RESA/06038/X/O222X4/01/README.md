@@ -24,7 +24,7 @@ NO IMAGE
 ## Distributor Searches
   
 Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+0603-8+2.2k+Ohm+x4+Resistor+Array)&nbsp;&nbsp;&nbsp;
 ## Images
   
 

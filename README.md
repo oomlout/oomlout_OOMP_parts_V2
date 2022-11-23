@@ -26,7 +26,11 @@ Contents
 	* [ICIC>SC18W  (>18 Pin SMD (SOIC Wide 7.62 mm))](#icicsc18w--18-pin-smd-soic-wide-762-mm)
 	* [MCUU>SC14  (MCU>14 Pin SMD (SOIC))](#mcuusc14--mcu14-pin-smd-soic)
 	* [MCUU>DI14  (MCU>14 Pin DIP)](#mcuudi14--mcu14-pin-dip)
+	* [MCUU>SP08  (MCU>8 Pin SMD (SOP))](#mcuusp08--mcu8-pin-smd-sop)
+	* [MCUU>SP16  (MCU>16 Pin SMD (SOP))](#mcuusp16--mcu16-pin-smd-sop)
 	* [MCUU>QFN14  (MCU>14 Pin SMD (QFN))](#mcuuqfn14--mcu14-pin-smd-qfn)
+	* [MCUU>QFN20  (MCU>20 Pin SMD (QFN))](#mcuuqfn20--mcu20-pin-smd-qfn)
+	* [MCUU>TS20  (MCU>20 Pin SMD (TSSOP))](#mcuuts20--mcu20-pin-smd-tssop)
 	* [LEDS>0402  (LED>SMD (0402))](#leds0402--ledsmd-0402)
 	* [LEDS>0603  (LED>SMD (0603))](#leds0603--ledsmd-0603)
 	* [LEDS>0805  (LED>SMD (0805))](#leds0805--ledsmd-0805)
@@ -267,10 +271,34 @@ Contents
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/DI14/84/ATTINY/01/image_140.jpg)<br>MCUU-DI14-84-ATTINY-01<br>14 Pin DIP ATTiny 84 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/DI14/84/ATTINY/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
+## MCUU>SP08  (MCU>8 Pin SMD (SOP))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/SP08/003/KCH32V/01/image_140.jpg)<br>MCUU-SP08-003-KCH32V-01<br>8 Pin SMD (SOP) CH32V 003 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/SP08/003/KCH32V/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## MCUU>SP16  (MCU>16 Pin SMD (SOP))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/SP16/003/KCH32V/01/image_140.jpg)<br>MCUU-SP16-003-KCH32V-01<br>16 Pin SMD (SOP) CH32V 003 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/SP16/003/KCH32V/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
 ## MCUU>QFN14  (MCU>14 Pin SMD (QFN))
   
 
 |[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/QFN14/84/ATTINY/01/image_140.jpg)<br>MCUU-QFN14-84-ATTINY-01<br>14 Pin SMD (QFN) ATTiny 84 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/QFN14/84/ATTINY/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## MCUU>QFN20  (MCU>20 Pin SMD (QFN))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/QFN20/003/KCH32V/01/image_140.jpg)<br>MCUU-QFN20-003-KCH32V-01<br>20 Pin SMD (QFN) CH32V 003 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/QFN20/003/KCH32V/01/)|||||
+| :---: | :---: | :---: | :---: | :---: |
+
+## MCUU>TS20  (MCU>20 Pin SMD (TSSOP))
+  
+
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MCUU/TS20/003/KCH32V/01/image_140.jpg)<br>MCUU-TS20-003-KCH32V-01<br>20 Pin SMD (TSSOP) CH32V 003 MCU](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MCUU/TS20/003/KCH32V/01/)|||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## LEDS>0402  (LED>SMD (0402))
@@ -361,7 +389,7 @@ Contents
 ## MOSN>T220  (N-Ch. MOSFET>TO-220)
   
 
-|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T220/X/K30N06L/01/image_140.jpg)<br>MOSN-T220-X-K30N06L-01<br>TO-220 30N06L N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T220/X/K30N06L/01/)|||||
+|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T220/X/K30N06L/01/image_140.jpg)<br>MOSN-T220-X-K30N06L-01<br>TO-220 30N06L N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T220/X/K30N06L/01/)|[![](https://raw.githubusercontent.com/oomlout/oomlout_OOMP_parts_V2/main/MOSN/T220/X/KIRLB8721/01/image_140.jpg)<br>MOSN-T220-X-KIRLB8721-01<br>TO-220 IRLB8721 N-Ch. MOSFET](https://github.com/oomlout/oomlout_OOMP_parts_V2/tree/main/MOSN/T220/X/KIRLB8721/01/)||||
 | :---: | :---: | :---: | :---: | :---: |
 
 ## MOSN>T252  (N-Ch. MOSFET>TO-252 (SMD))

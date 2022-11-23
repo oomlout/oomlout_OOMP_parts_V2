@@ -44,7 +44,7 @@ NO IMAGE
 ## Distributor Searches
   
 Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=JST+SH+1+mm+6+Pin+Header+SMD)&nbsp;&nbsp;&nbsp;
 ## MPNs
   
 Number of MPNs: 2  

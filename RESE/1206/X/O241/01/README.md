@@ -44,7 +44,7 @@ NO IMAGE
 ## Distributor Searches
   
 Links to search for this item (using OOMP name) at various distributors  
-[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=1117SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;
+[(Aliexpress) ](https://www.aliexpress.com/wholesale?SearchText=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Avnet) ](https://www.avnet.com/shop/us/search/SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Digikey) ](https://www.digikey.co.uk/en/products/result?s=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(LCSC) ](https://www.lcsc.com/search?q=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Farnell) ](https://uk.farnell.com/search?st=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;[(Mouser) ](https://www.mouser.com/c/?q=SMD+1206+240+Ohm+Resistor)&nbsp;&nbsp;&nbsp;
 ## Distributor Part Numbers
   
 
