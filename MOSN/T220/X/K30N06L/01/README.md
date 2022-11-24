@@ -5,7 +5,7 @@
 Contents
 ========
 
-* [MN8721 > TO-220 30N06L N-Ch. MOSFET](#mn8721--to-220-30n06l-n-ch-mosfet)
+* [MN30N06D > TO-220 30N06L N-Ch. MOSFET](#mn30n06d--to-220-30n06l-n-ch-mosfet)
 	* [Footprints](#footprints)
 	* [Symbols](#symbols)
 	* [Distributor Searches](#distributor-searches)
@@ -13,15 +13,15 @@ Contents
 	* [Tags](#tags)
   
 NO IMAGE  
-# MN8721 > TO-220 30N06L N-Ch. MOSFET
+# MN30N06D > TO-220 30N06L N-Ch. MOSFET
 
 - ID: MOSN-T220-X-K30N06L-01
-- Hex ID: MN8721
+- Hex ID: MN30N06D
 - Name: TO-220 30N06L N-Ch. MOSFET
 - Path: oomlout_OOMP_parts_V2/MOSN/T220/X/K30N06L/01/
 - Description: TO-220 30N06L N-Ch. MOSFET
 - Long Link: [http://oom.lt/MOSN-T220-X-K30N06L-01](http://oom.lt/MOSN-T220-X-K30N06L-01)
-- Short Link: [http://oom.lt/MN8721](http://oom.lt/MN8721)
+- Short Link: [http://oom.lt/MN30N06D](http://oom.lt/MN30N06D)
 
 ## Footprints
   
@@ -60,7 +60,7 @@ Links to search for this item (using OOMP name) at various distributors
 |OOMP Description|oompDesc|K30N06L|
 |OOMP Index|oompIndex|01|
 |Full OOMP ID|oompID|MOSN-T220-X-K30N06L-01|
-|Hex ID (short code)|hexID|MN8721|
+|Hex ID (short code)|hexID|MN30N06D|
 |name|name|TO-220 30N06L N-Ch. MOSFET|
 |Footprint Kicad|footprintKicad|FOOTPRINT-kicad-kicad-footprints-Package_TO_SOT_THT-TO-220-3_Vertical|
 |Symbol Kicad|symbolKicad|SYMBOL-kicad-kicad-symbols-Device-Q_NMOS_GDS|
